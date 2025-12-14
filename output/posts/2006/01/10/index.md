@@ -1,0 +1,12 @@
+---
+title: "10万パケット突破です"
+date: 2006-01-07
+categories: 
+  - "research"
+tags: 
+  - "つぶやき"
+---
+
+WX310Kのパケット数グラフですが、今月は正月休みのせいか少し増え気味のもよう。でも残り10万パケットをあと一週間では使い切れないだろうなぁ。
+
+[![WX310K](images/graph "WX310K")](http://graph.hatena.ne.jp/kanpapa/WX310K/?day=)

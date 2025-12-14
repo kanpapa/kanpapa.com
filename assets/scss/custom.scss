@@ -1,0 +1,20 @@
+/* Google Fonts (Noto Sans JP) の読み込み */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap');
+
+:root {
+    /* Hugo-Stack専用の変数名で上書き */
+    --base-font-family: 'Noto Sans JP', sans-serif;
+    --heading-font-family: 'Noto Sans JP', sans-serif;
+    
+    /* コードブロックのフォントも変えたい場合（お好みで） */
+    /* --code-font-family: 'Noto Sans JP', monospace; */
+}
+
+/* 強制的に適用させるための記述 */
+body {
+    font-family: 'Noto Sans JP', sans-serif !important;
+}
+
+.article-content {
+    font-family: 'Noto Sans JP', sans-serif;
+}

@@ -1,0 +1,12 @@
+# ビルド生成物（これらはGit管理しません）
+/public
+/resources/_gen
+/resources/images
+
+# OSのシステムファイル（Mac/Windowsのゴミファイル）
+.DS_Store
+Thumbs.db
+
+# エディタの一時ファイル（VSCodeなど）
+.vscode/
+*.swp
