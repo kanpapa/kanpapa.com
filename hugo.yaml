@@ -79,10 +79,10 @@ params:
 
     dateFormat:
         published: Jan 02, 2006
-        lastUpdated: Jan 02, 2006 15:04 MST
+        lastUpdated: Jan 02, 2006 15:04 JST
 
     sidebar:
-        emoji: 🍥
+    #    emoji: 🍥
         subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
         avatar:
             enabled: true
@@ -238,9 +238,16 @@ menu:
 
         - identifier: twitter
           name: X
-          url: https://x.com
+          url: https://x.com/kanpapa
           params:
               icon: brand-twitter
+
+    # 新しく footer メニューを追加
+    footer:
+        - identifier: privacy
+          name: プライバシーポリシー
+          url: /privacy-policy/
+          weight: 1
 
 related:
     includeNewer: true
