@@ -18,3 +18,17 @@ body {
 .article-content {
     font-family: 'Noto Sans JP', sans-serif;
 }
+
+/* PC画面（幅1024px以上）のときだけ2列にする設定 */
+@media (min-width: 1024px) {
+    .article-list {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr); /* 2列にする */
+        gap: 20px; /* カード間の隙間 */
+        
+        /* 記事カードの高さを揃える */
+        article {
+            height: 100%;
+        }
+    }
+}
