@@ -1,0 +1,55 @@
+name: Deploy Hugo site to GitHub Pages
+
+on:
+  push:
+    # mainブランチにプッシュされたときに実行
+    branches:
+      - main
+  workflow_dispatch:
+
+# 処理実行に必要な権限を設定 (PagesとIDトークン)
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# ジョブの定義
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # 1. リポジトリをチェックアウト
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          submodules: true  # テーマを使用している場合はサブモジュールも取得
+          fetch-depth: 0    # 履歴をすべて取得
+
+      # 2. Hugoのセットアップ
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: 'latest'
+          extended: true # SASS/SCSSを使う場合は必要
+
+      # 3. ビルド実行
+      - name: Build Site
+        run: hugo --minify
+
+      # 4. GitHub Pagesへのデプロイ
+      - name: Deploy to GitHub Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public # Hugoの出力先フォルダを指定
+
+  # デプロイジョブ (ビルド後にGitHub Pagesサービスを有効化)
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
