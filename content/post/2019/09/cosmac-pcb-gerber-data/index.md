@@ -1,13 +1,13 @@
 ---
-title: "専用プリント基板のガーバーデータをGitHubに掲載しました。"
+title: 専用プリント基板のガーバーデータをGitHubに掲載しました。
 date: 2019-09-29
-slug: "cosmac-pcb-gerber-data"
-categories: 
-  - "cosmac"
-  - "cosmac-toy"
-tags: 
-  - "cosmac-toy"
-image: "images/cosmac_cpu_rev1_4_gerber_viewer1.png"
+slug: cosmac-pcb-gerber-data
+categories:
+- cosmac
+- retrocomputing
+tags:
+- cosmac-toy
+image: images/cosmac_cpu_rev1_4_gerber_viewer1.png
 ---
 
 [COSMAC Toy Computer](https://github.com/kanpapa/cosmac_toy)のGitHubにガーバーデータを掲載しました。

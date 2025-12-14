@@ -1,12 +1,13 @@
 ---
-title: "SECCON 令和CTFのWrite-upをまとめました"
+title: SECCON 令和CTFのWrite-upをまとめました
 date: 2019-04-30
-slug: "seccon-reiwa-ctf"
-categories: 
-  - "security"
-tags: 
-  - "seccon"
-image: "images/reiwa_ctf_cat.jpg"
+slug: seccon-reiwa-ctf
+categories:
+- security
+tags:
+- seccon
+- security
+image: images/reiwa_ctf_cat.jpg
 ---
 
 [SECCON 令和CTF](http://score-reiwa.seccon.jp/ "SECCON 令和CTF")に参加しました。

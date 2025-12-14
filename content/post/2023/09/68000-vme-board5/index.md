@@ -1,14 +1,14 @@
 ---
-title: "68000 VMEボードで遊んでみました（5）プログラム実行編"
+title: 68000 VMEボードで遊んでみました（5）プログラム実行編
 date: 2023-09-01
-slug: "68000-vme-board5"
-categories: 
-  - "68000"
-  - "retrocomputing"
-tags: 
-  - "dvmecpu2"
-  - "vme"
-image: "images/vme-board5-logic_analyzer2.jpg"
+slug: 68000-vme-board5
+categories:
+- retrocomputing
+tags:
+- dvmecpu2
+- vme
+- '68000'
+image: images/vme-board5-logic_analyzer2.jpg
 ---
 
 前回の[メモリマップ調査編](https://kanpapa.com/2023/08/68000-vme-board4.html "68000 VMEボードで遊んでみました（4）メモリマップ調査編")で68000 CPU VMEボードのメモリマップを推測しました。もし、ROMが$000000にマッピングされているのであれば、$001000にあるROMのコードが実行され、RUN状態になると思われるのですが、実際はHALT状態になっています。この原因をさぐるために、ロジアナでCPUの信号を確認してみます。

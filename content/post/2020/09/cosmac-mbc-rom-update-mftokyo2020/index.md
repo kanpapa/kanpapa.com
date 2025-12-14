@@ -1,15 +1,15 @@
 ---
-title: "MFTokyo2020用にCOSMAC MBCのROMをチューニングしました"
+title: MFTokyo2020用にCOSMAC MBCのROMをチューニングしました
 date: 2020-09-20
-slug: "cosmac-mbc-rom-update-mftokyo2020"
-categories: 
-  - "cosmac"
-  - "cosmac-mbc"
-tags: 
-  - "cosmac-mbc"
-  - "maker-faire"
-  - "mft2020"
-image: "images/memory_map_for_mft2020.png"
+slug: cosmac-mbc-rom-update-mftokyo2020
+categories:
+- cosmac
+- retrocomputing
+tags:
+- cosmac-mbc
+- maker-faire
+- mft2020
+image: images/memory_map_for_mft2020.png
 ---
 
 Maker Faire Tokyo 2020用にCOSMAC MBCに載せているROMをチューニングしました。展示ではCOSMAC VIP OSとCHIP-8を使うことになるので、これらが短時間で使えるようにしました。

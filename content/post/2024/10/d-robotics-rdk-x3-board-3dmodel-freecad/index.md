@@ -1,15 +1,16 @@
 ---
-title: "D-Robotics RDK X3のFreeCAD用3Dモデルを作ってみました"
+title: D-Robotics RDK X3のFreeCAD用3Dモデルを作ってみました
 date: 2024-10-22
-slug: "d-robotics-rdk-x3-board-3dmodel-freecad"
-categories: 
-  - "rdk"
-  - "electronics"
-tags: 
-  - "freecad"
-  - "rdk-x3"
-  - "roomba"
-image: "images/rdk-x3-simple-roomba-frame1.png"
+slug: d-robotics-rdk-x3-board-3dmodel-freecad
+categories:
+- electronics
+- robot
+tags:
+- freecad
+- rdk-x3
+- roomba
+- rdk
+image: images/rdk-x3-simple-roomba-frame1.png
 ---
 
 [ルンバロボット](https://kanpapa.com/2024/09/rdk-x3-roomba-controlled-ros2.html)のフレームを新たに[RDK X3](https://www.switch-science.com/products/9836)用に作り直そうと思い[FreeCAD](https://www.freecad.org/)を使った再設計を始めました。RDK X3の搭載イメージを確認するために、公式サイトで公開されている[RDK X3のStepファイル](https://d-robotics.github.io/rdk_doc/en/Quick_start/download/)をFreeCADにインポートしようとしたのですがうまく読み込めません。試しに[Autodesk FUSION](https://www.autodesk.com/jp/products/fusion-360/)では開けました。どうやら複雑なSTEPデータのため、FreeCADにとってはデータ処理が重いようです。ここではそこまで複雑な形状は不要なので、大まかな構造がわかるデータを作成してみました。

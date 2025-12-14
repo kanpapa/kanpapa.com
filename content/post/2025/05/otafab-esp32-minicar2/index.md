@@ -1,16 +1,16 @@
 ---
-title: "ESP32でミニカーを作る #2 組み立て編（おおたfab 電子工作初心者勉強会）"
+title: 'ESP32でミニカーを作る #2 組み立て編（おおたfab 電子工作初心者勉強会）'
 date: 2025-05-31
-slug: "otafab-esp32-minicar2"
-categories: 
-  - "esp32"
-tags: 
-  - "arduino"
-  - "esp32"
-  - "otafab"
-  - "motor"
-  - "otafab-esp32"
-image: "images/esp32-minicar-proto3.jpg"
+slug: otafab-esp32-minicar2
+categories:
+- electronics
+tags:
+- arduino
+- esp32
+- otafab
+- motor
+- otafab-esp32
+image: images/esp32-minicar-proto3.jpg
 ---
 
 [おおたfab](https://ot-fb.com/event)さんでは電子工作初心者勉強会を定期的に開催しています。

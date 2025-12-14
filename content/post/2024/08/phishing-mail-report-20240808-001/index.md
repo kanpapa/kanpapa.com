@@ -1,12 +1,13 @@
 ---
-title: "久しぶりにフィッシングメールが来た"
+title: 久しぶりにフィッシングメールが来た
 date: 2024-08-09
-slug: "phishing-mail-report-20240808-001"
-categories: 
-  - "security"
-tags: 
-  - "phishing"
-image: "images/phishing-mail-report-20240808-001.png"
+slug: phishing-mail-report-20240808-001
+categories:
+- security
+tags:
+- phishing
+- security
+image: images/phishing-mail-report-20240808-001.png
 ---
 
 あまりフィッシングメールが届かないメールアドレスにフィッシングメールが久しぶりに来ました。

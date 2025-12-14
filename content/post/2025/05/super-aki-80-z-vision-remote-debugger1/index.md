@@ -1,13 +1,14 @@
 ---
-title: "Super AKI-80をZ-Visionリモートデバッカで使ってみました"
+title: Super AKI-80をZ-Visionリモートデバッカで使ってみました
 date: 2025-05-03
-slug: "super-aki-80-z-vision-remote-debugger1"
-categories: 
-  - "z80"
-tags: 
-  - "aki-80"
-  - "z-vision"
-image: "images/aki80-testing1.jpg"
+slug: super-aki-80-z-vision-remote-debugger1
+categories:
+- retrocomputing
+tags:
+- aki-80
+- z-vision
+- z80
+image: images/aki80-testing1.jpg
 ---
 
 秋月電子のSuper AKI-80が在庫処分ということで安価で販売されています。私も[Super AKI-80は持っている](https://kanpapa.com/2014/01/super-aki80-led-blink.html)のですが、なぜか２枚買ってしまいました。

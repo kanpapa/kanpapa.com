@@ -1,13 +1,13 @@
 ---
-title: "RCA CDP1802 COSMACを動かしてみた(2) 動作確認編"
+title: RCA CDP1802 COSMACを動かしてみた(2) 動作確認編
 date: 2018-11-23
-slug: "rca-cdp1802-cosmac2"
-categories: 
-  - "cosmac"
-  - "cosmac-toy"
-tags: 
-  - "cosmac-toy"
-image: "images/cosmac_osc1.jpg"
+slug: rca-cdp1802-cosmac2
+categories:
+- cosmac
+- retrocomputing
+tags:
+- cosmac-toy
+image: images/cosmac_osc1.jpg
 ---
 
 前回、[ブレッドボードに組み上げたCOSMACの回路](https://kanpapa.com/cosmac/blog/2018/11/rca-cdp1802-cosmac1.html "COSMAC(1)　組み立て編")を動かしてみます。

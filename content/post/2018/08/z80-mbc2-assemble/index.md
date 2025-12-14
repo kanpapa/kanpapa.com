@@ -1,12 +1,13 @@
 ---
-title: "Z80-MBC2を組み立ててみた"
+title: Z80-MBC2を組み立ててみた
 date: 2018-08-23
-slug: "z80-mbc2-assemble"
-categories: 
-  - "z80"
-tags: 
-  - "z80-mbc2"
-image: "images/z80mbc2_1.jpg"
+slug: z80-mbc2-assemble
+categories:
+- retrocomputing
+tags:
+- z80-mbc2
+- z80
+image: images/z80mbc2_1.jpg
 ---
 
 ### Z80-MBC2とは

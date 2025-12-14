@@ -1,14 +1,14 @@
 ---
-title: "COSMAC VIPのVRAMに自動キー入力で書き込んでみました"
+title: COSMAC VIPのVRAMに自動キー入力で書き込んでみました
 date: 2020-09-30
-slug: "cosmac-vip-autowrite2vram"
-categories: 
-  - "cosmac"
-  - "cosmac-mbc"
-tags: 
-  - "cosmac-mbc"
-  - "esp32"
-image: "images/cosmac_vip_auto_vram1.jpg"
+slug: cosmac-vip-autowrite2vram
+categories:
+- cosmac
+- retrocomputing
+tags:
+- cosmac-mbc
+- esp32
+image: images/cosmac_vip_auto_vram1.jpg
 ---
 
 [COSMAC VIPスマートフォン操作システム](https://kanpapa.com/cosmac/blog/2020/09/cosmac-vip-os-ESP32-remote-keypad-acrylic1.html "COSMAC VIPスマートフォン操作システムをアクリル板にまとめました")を製作しましたが、本来は人間がスマホ画面にタッチしてCOSMAC VIPのHEX Keypadを操作するのが目的です。でも使い方によってはあらかじめ用意したデータを読み込んで、そのままHEX Keypadに送ることもできるわけです。そこで、ESP32のプログラムを変更して自動キー入力ができるようにしてみました。

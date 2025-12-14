@@ -1,15 +1,14 @@
 ---
-title: "PDP-11をARTY FPGAボードで動かしてみた"
+title: PDP-11をARTY FPGAボードで動かしてみた
 date: 2016-06-05
-slug: "pdp-11-arty-fpga"
-categories: 
-  - "pdp-11"
-  - "retrocomputing"
-tags: 
-  - "arty"
-  - "fpga"
-  - "pdp-11"
-image: "images/arty_fpga_board.jpg"
+slug: pdp-11-arty-fpga
+categories:
+- retrocomputing
+tags:
+- arty
+- fpga
+- pdp-11
+image: images/arty_fpga_board.jpg
 ---
 
 OpenCoresというサイトに[FPGAでPDP-11を動かすプロジェクト](http://opencores.org/project,w11 "PDP-11/70 CPU core and SoC")があったので、Xilinx Artix-7が載ったDIGILENTの[ARTY](http://akizukidenshi.com/catalog/g/gM-10034/ "ARTY")というFPGA評価ボードでPDP-11を動かしてみました。

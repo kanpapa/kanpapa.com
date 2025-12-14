@@ -1,14 +1,14 @@
 ---
-title: "ESP32とGPSと5x7ドット8桁LEDで2023年の書き初めをしてみました"
+title: ESP32とGPSと5x7ドット8桁LEDで2023年の書き初めをしてみました
 date: 2023-01-01
-slug: "esp32-newyear2023"
-categories: 
-  - "esp32"
-tags: 
-  - "arduino"
-  - "esp32"
-  - "書き初め"
-image: "images/hdsp-2121-udc_rabbit_test.jpg"
+slug: esp32-newyear2023
+categories:
+- electronics
+tags:
+- arduino
+- esp32
+- 書き初め
+image: images/hdsp-2121-udc_rabbit_test.jpg
 ---
 
 あけましておめでとうございます。  

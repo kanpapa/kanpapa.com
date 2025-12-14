@@ -1,15 +1,15 @@
 ---
-title: "COSMAC研究会でMaker Faire Tokyo 2020に出展しました（前日編）"
+title: COSMAC研究会でMaker Faire Tokyo 2020に出展しました（前日編）
 date: 2020-10-06
-slug: "cosmac-maker-faire-tokyo-2020-day0"
-categories: 
-  - "cosmac"
-  - "cosmac-mbc"
-tags: 
-  - "cosmac-mbc"
-  - "maker-faire"
-  - "mft2020"
-image: "images/mft2020_1002_51.jpg"
+slug: cosmac-maker-faire-tokyo-2020-day0
+categories:
+- cosmac
+- retrocomputing
+tags:
+- cosmac-mbc
+- maker-faire
+- mft2020
+image: images/mft2020_1002_51.jpg
 ---
 
 今年も前日に搬入を行いました。宅急便での輸送も考えたのですが、やはり直前まで調整を行ったので今年も手持ちです。機材をなるべく小さめの段ボール箱にいれた上で、スーツケースに詰め込みます。振動が伝わっても大丈夫なもので、重めのものを入れました。

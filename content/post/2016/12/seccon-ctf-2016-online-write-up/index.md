@@ -1,12 +1,13 @@
 ---
-title: "SECCON 2016 Online CTFのWrite-upをまとめました"
+title: SECCON 2016 Online CTFのWrite-upをまとめました
 date: 2016-12-11
-slug: "seccon-ctf-2016-online-write-up"
-categories: 
-  - "security"
-tags: 
-  - "seccon"
-image: "images/ctf_voip.png"
+slug: seccon-ctf-2016-online-write-up
+categories:
+- security
+tags:
+- seccon
+- security
+image: images/ctf_voip.png
 ---
 
 SECCON 2016 オンラインCTFに参加しました。  

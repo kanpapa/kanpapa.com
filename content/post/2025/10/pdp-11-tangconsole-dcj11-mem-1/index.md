@@ -1,15 +1,15 @@
 ---
-title: "TangConsoleDCJ11MEMを組み立てました"
+title: TangConsoleDCJ11MEMを組み立てました
 date: 2025-10-26
-slug: "pdp-11-tangconsole-dcj11-mem-1"
-categories: 
-  - "pdp-11"
-tags: 
-  - "dcj11"
-  - "pdp-11"
-  - "tangconsole"
-  - "tangconsoledcj11mem"
-image: "images/tangconsoledcj11mem-power-on1.jpg"
+slug: pdp-11-tangconsole-dcj11-mem-1
+categories:
+- retrocomputing
+tags:
+- dcj11
+- pdp-11
+- tangconsole
+- tangconsoledcj11mem
+image: images/tangconsoledcj11mem-power-on1.jpg
 ---
 
 本記事はPDP-11の命令セットを持つ[DCJ11(Jaws)CPU](https://gunkies.org/wiki/J-11_chip_set)を動作させるためにRyo Mukaiさんが開発した[TangConsoleDCJ11MEM](https://github.com/ryomuk/TangConsoleDCJ11MEM)を使用しています。GitHubで公開されています。

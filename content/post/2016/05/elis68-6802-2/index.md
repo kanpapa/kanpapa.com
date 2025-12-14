@@ -1,13 +1,13 @@
 ---
-title: "6802ワンボードコンピュータELIS68を動かしてみた（２）部品収集編"
+title: 6802ワンボードコンピュータELIS68を動かしてみた（２）部品収集編
 date: 2016-05-01
-slug: "elis68-6802-2"
-categories: 
-  - "6802"
-  - "retrocomputing"
-tags: 
-  - "elis68"
-image: "images/elis68_all_ic.jpg"
+slug: elis68-6802-2
+categories:
+- retrocomputing
+tags:
+- elis68
+- '6802'
+image: images/elis68_all_ic.jpg
 ---
 
 [ELIS68の基板とマニュアルを入手](https://kanpapa.com/2016/05/elis68-6802-1.html "6802ワンボードコンピュータELIS68を動かしてみた（その１）")したところで必要なパーツを洗い出します。

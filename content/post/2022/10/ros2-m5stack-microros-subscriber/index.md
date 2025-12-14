@@ -1,14 +1,14 @@
 ---
-title: "ROS2とM5Stackをmicro-ROSで通信してみました (2) subscriber編"
+title: ROS2とM5Stackをmicro-ROSで通信してみました (2) subscriber編
 date: 2022-10-01
-slug: "ros2-m5stack-microros-subscriber"
-categories: 
-  - "m5stack"
-  - "robot"
-tags: 
-  - "m5stack"
-  - "ros2"
-image: "images/ros2-m5stack-microros_subscriber2.jpg"
+slug: ros2-m5stack-microros-subscriber
+categories:
+- electronics
+- robot
+tags:
+- m5stack
+- ros2
+image: images/ros2-m5stack-microros_subscriber2.jpg
 ---
 
 [前回は簡単なpublisher](https://kanpapa.com/2022/09/ros2-m5stack-microros.html "ROS2とM5Stackをmicro-ROSで通信してみました (1) publisher編")を試してみましたが、今回はsubscriberをM5Stackで動かしてみます。環境は前回構築したものを使います。

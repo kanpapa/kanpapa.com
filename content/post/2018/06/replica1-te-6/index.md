@@ -1,13 +1,13 @@
 ---
-title: "Apple1レプリカのreplica1 TEを組み立ててみる（６）"
+title: Apple1レプリカのreplica1 TEを組み立ててみる（６）
 date: 2018-06-17
-slug: "replica1-te-6"
-categories: 
-  - "6502"
-  - "retrocomputing"
-tags: 
-  - "apple1"
-image: "images/replica1_te_61.jpg"
+slug: replica1-te-6
+categories:
+- retrocomputing
+tags:
+- apple1
+- '6502'
+image: images/replica1_te_61.jpg
 ---
 
 [前回](https://kanpapa.com/2018/06/replica1-te-5.html "Apple1レプリカのreplica1 TEを組み立ててみる（５）")まででハードウェアとソフトウェアの動作確認ができました。

@@ -1,12 +1,13 @@
 ---
-title: "Super AKI-80でLチカをしてみました"
+title: Super AKI-80でLチカをしてみました
 date: 2014-01-13
-slug: "super-aki80-led-blink"
-categories: 
-  - "z80"
-tags: 
-  - "aki-80"
-image: "images/aki_80_eprom.jpg"
+slug: super-aki80-led-blink
+categories:
+- retrocomputing
+tags:
+- aki-80
+- z80
+image: images/aki_80_eprom.jpg
 ---
 
 突然ですが、Super AKI-80を使ってLチカをしてみました。  

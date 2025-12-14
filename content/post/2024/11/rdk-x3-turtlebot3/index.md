@@ -1,18 +1,18 @@
 ---
-title: "D-Robotics RDK X3 をTurtleBot3に搭載してみました"
+title: D-Robotics RDK X3 をTurtleBot3に搭載してみました
 date: 2024-11-22
-slug: "rdk-x3-turtlebot3"
-categories: 
-  - "rdk"
-  - "turtlebot3"
-tags: 
-  - "humble"
-  - "lidar"
-  - "rdk-x3"
-  - "ros2"
-  - "slam"
-  - "turtlebot3"
-image: "images/rdkx3-turtlebot-eyecache1.jpg"
+slug: rdk-x3-turtlebot3
+categories:
+- robot
+tags:
+- humble
+- lidar
+- rdk-x3
+- ros2
+- slam
+- turtlebot3
+- rdk
+image: images/rdkx3-turtlebot-eyecache1.jpg
 ---
 
 [D-Robotics RDK X3](https://developer.d-robotics.cc/rdkx3)を使っていろいろ試してみますが、机の上で走行できるコンパクトなロボット環境があると良いなということで、[TurtleBot3](https://www.turtlebot.com/turtlebot3/)にRDK X3を搭載してみました。TurtleBot3は標準ではRaspberry Pi 3または4を使用しているので、これをRDK X3に置き換えることで5 TOPSの性能にアップグレードできます。

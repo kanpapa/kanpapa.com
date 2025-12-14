@@ -1,14 +1,14 @@
 ---
-title: "TurtleBot2 kobukiがやってきた #3（ROS2動作確認編）"
+title: 'TurtleBot2 kobukiがやってきた #3（ROS2動作確認編）'
 date: 2024-04-26
-slug: "turtlebot2-kobuki-3-ros2"
-categories: 
-  - "turtlebot2"
-tags: 
-  - "kobuki"
-  - "ros2"
-  - "turtlebot2"
-image: "images/turtlebot2-kobuki-testing1.jpg"
+slug: turtlebot2-kobuki-3-ros2
+categories:
+- robot
+tags:
+- kobuki
+- ros2
+- turtlebot2
+image: images/turtlebot2-kobuki-testing1.jpg
 ---
 
 [kobukiの基本的な動作確認](https://kanpapa.com/2024/04/turtlebot2-kobuki-2.html)ができたので、いよいよPCに接続してROS2で制御できるようにしていきます。今回はUbuntu 22.04 LTSにROS2 Humbleをインストールしている環境で行いました。

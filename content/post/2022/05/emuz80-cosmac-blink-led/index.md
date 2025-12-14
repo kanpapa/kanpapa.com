@@ -1,14 +1,14 @@
 ---
-title: "EMUZ80でCOSMACを動かしてみました 1（Lチカ編）"
+title: EMUZ80でCOSMACを動かしてみました 1（Lチカ編）
 date: 2022-05-29
-slug: "emuz80-cosmac-blink-led"
-categories: 
-  - "cosmac"
-  - "emu1802"
-tags: 
-  - "emu1802"
-  - "emuz80"
-image: "images/emuz80_cosmac_blink1.jpg"
+slug: emuz80-cosmac-blink-led
+categories:
+- cosmac
+- retrocomputing
+tags:
+- emu1802
+- emuz80
+image: images/emuz80_cosmac_blink1.jpg
 ---
 
 最近話題のマイコンボードとして電脳伝説さんの[EMUZ80](https://vintagechips.wordpress.com/2022/03/05/emuz80_reference/ "EMUZ80が完成")が人気です。Z80CPUとPIC18F47Q43を組み合わせ最小限のパーツでZ80マイコンボードを作ろうという試みです。

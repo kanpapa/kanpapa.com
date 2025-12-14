@@ -1,13 +1,13 @@
 ---
-title: "COSMAC MBCでバス基板を使ってみました"
+title: COSMAC MBCでバス基板を使ってみました
 date: 2020-06-06
-slug: "cosmac-mbc-busboard"
-categories: 
-  - "cosmac"
-  - "cosmac-mbc"
-tags: 
-  - "cosmac-mbc"
-image: "images/tomi9s_mini_bus_board.jpg"
+slug: cosmac-mbc-busboard
+categories:
+- cosmac
+- retrocomputing
+tags:
+- cosmac-mbc
+image: images/tomi9s_mini_bus_board.jpg
 ---
 
 以前、tomi9さんから頂いた小さいバス基板をCOSMAC MBCで使ってみました。  

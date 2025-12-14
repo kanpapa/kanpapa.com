@@ -1,12 +1,12 @@
 ---
-title: "Mini pupper 2 object tracking"
+title: Mini pupper 2 object tracking
 date: 2025-02-03
-slug: "minipupper2-object-tracking"
-categories: 
-  - "mini-pupper-2"
-tags: 
-  - "mini-pupper-2"
-image: "images/minipupper2-object-tracking.png"
+slug: minipupper2-object-tracking
+categories:
+- robot
+tags:
+- mini-pupper-2
+image: images/minipupper2-object-tracking.png
 ---
 
 本記事は2023年11月に実験したときの記録です。

@@ -1,14 +1,14 @@
 ---
-title: "EMUZ80でCOSMACを動かしてみました 4（モニタ動作編）"
+title: EMUZ80でCOSMACを動かしてみました 4（モニタ動作編）
 date: 2022-06-04
-slug: "emuz80-cosmac-idiot-monitor"
-categories: 
-  - "cosmac"
-  - "emu1802"
-tags: 
-  - "emu1802"
-  - "emuz80"
-image: "images/emuz80_cosmac_serial_usb1.jpg"
+slug: emuz80-cosmac-idiot-monitor
+categories:
+- cosmac
+- retrocomputing
+tags:
+- emu1802
+- emuz80
+image: images/emuz80_cosmac_serial_usb1.jpg
 ---
 
 [前回までの実験](https://kanpapa.com/cosmac/blog/2022/06/emuz80-cosmac-high-address.html "EMUZ80でCOSMACを動かしてみました 3（アドレス拡張編）")でHIGHアドレスも使えるようになったので、EMUZ80のCOSMAC環境でモニタプログラムを動かしてみます。以降は紛らわしくならないようにEMU1802と呼ぶことにします。

@@ -1,19 +1,18 @@
 ---
-title: "PDP-11 DCJ11 CPUでMINI-UNIXを動かしてみました"
+title: PDP-11 DCJ11 CPUでMINI-UNIXを動かしてみました
 date: 2024-08-04
-slug: "tangnanodcj11mem-pdp-11-dcj11-cpu-mini-unix"
-categories: 
-  - "pdp-11"
-  - "retrocomputing"
-tags: 
-  - "dcj11"
-  - "fpga"
-  - "mini-unix"
-  - "pdp-11"
-  - "simh"
-  - "tang-nano"
-  - "tangnanodcj11mem"
-image: "images/tangnanodcj11mem-pdp-11-dcj11-cpu-mini-unix1.jpg"
+slug: tangnanodcj11mem-pdp-11-dcj11-cpu-mini-unix
+categories:
+- retrocomputing
+tags:
+- dcj11
+- fpga
+- mini-unix
+- pdp-11
+- simh
+- tang-nano
+- tangnanodcj11mem
+image: images/tangnanodcj11mem-pdp-11-dcj11-cpu-mini-unix1.jpg
 ---
 
 本記事はPDP-11の命令セットを持つ[DCJ11(Jaws)CPU](https://gunkies.org/wiki/J-11_chip_set)を動作させるためにRyo Mukaiさんが開発した[TangNanoDCJ11MEM](https://github.com/ryomuk/TangNanoDCJ11MEM)を使用しています。GitHubで公開されています。

@@ -1,13 +1,13 @@
 ---
-title: "Apple1レプリカのreplica1 TEを組み立ててみる（４）"
+title: Apple1レプリカのreplica1 TEを組み立ててみる（４）
 date: 2018-06-16
-slug: "replica1-te-4"
-categories: 
-  - "6502"
-  - "retrocomputing"
-tags: 
-  - "apple1"
-image: "images/replica1_te_44.jpg"
+slug: replica1-te-4
+categories:
+- retrocomputing
+tags:
+- apple1
+- '6502'
+image: images/replica1_te_44.jpg
 ---
 
 replica1 TEの入出力部は無事動作しましたので残りのICを取り付けます。

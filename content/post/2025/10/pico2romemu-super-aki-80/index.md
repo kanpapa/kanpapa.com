@@ -1,14 +1,16 @@
 ---
-title: "Pico2ROMEmuでSuper AKI-80を動かしてみました"
+title: Pico2ROMEmuでSuper AKI-80を動かしてみました
 date: 2025-10-07
-slug: "pico2romemu-super-aki-80"
-categories: 
-  - "pico2"
-  - "z80"
-tags: 
-  - "aki-80"
-  - "raspberry-pi-pico2"
-image: "images/pico2romemu-super-aki-80-eyecache1.jpg"
+slug: pico2romemu-super-aki-80
+categories:
+- electronics
+- retrocomputing
+tags:
+- aki-80
+- raspberry-pi-pico2
+- pico2
+- z80
+image: images/pico2romemu-super-aki-80-eyecache1.jpg
 ---
 
 @DragonBallEZさんから、Pico2ROMEmuの基板があるので使ってみませんかというお話がありました。Xで見かけていて興味がある内容だったので、さっそくお願いして動かしてみることにしました。

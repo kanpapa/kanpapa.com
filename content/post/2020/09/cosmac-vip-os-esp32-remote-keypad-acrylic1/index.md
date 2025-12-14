@@ -1,14 +1,14 @@
 ---
-title: "COSMAC VIPスマートフォン操作システムをアクリル板にまとめました"
+title: COSMAC VIPスマートフォン操作システムをアクリル板にまとめました
 date: 2020-09-27
-slug: "cosmac-vip-os-esp32-remote-keypad-acrylic1"
-categories: 
-  - "cosmac"
-  - "cosmac-mbc"
-tags: 
-  - "cosmac-mbc"
-  - "esp32"
-image: "images/esp32_remote_acrylic7.jpg"
+slug: cosmac-vip-os-esp32-remote-keypad-acrylic1
+categories:
+- cosmac
+- retrocomputing
+tags:
+- cosmac-mbc
+- esp32
+image: images/esp32_remote_acrylic7.jpg
 ---
 
 先日[COSMAC VIP OSをスマートフォンで操作](https://kanpapa.com/cosmac/blog/2020/09/cosmac-vip-os-ESP32-remote-keypad.html "     ホーム ブログ COSMAC VIP OSをスマートフォンで操作してみました   COSMAC VIP OSをスマートフォンで操作してみました")できるかを確認しましたが、リレーモジュールに接続するESP32の部分を基板にしてすっきりさせました。

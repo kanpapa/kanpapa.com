@@ -1,14 +1,14 @@
 ---
-title: "TurtleBot3がやってきた #1（パーツ確認編）"
+title: 'TurtleBot3がやってきた #1（パーツ確認編）'
 date: 2022-02-05
-slug: "turtlebot3-burger-assembly1"
-categories: 
-  - "turtlebot3"
-tags: 
-  - "melodic"
-  - "ros1"
-  - "turtlebot3"
-image: "images/turtlebot3_burger_box1.jpg"
+slug: turtlebot3-burger-assembly1
+categories:
+- robot
+tags:
+- melodic
+- ros1
+- turtlebot3
+image: images/turtlebot3_burger_box1.jpg
 ---
 
 運良くTurtleBot3 Burgerの未組立品が手に入りました。

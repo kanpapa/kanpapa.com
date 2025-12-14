@@ -1,14 +1,14 @@
 ---
-title: "Orangeputerを組み立てて日本語入力を試してみました"
+title: Orangeputerを組み立てて日本語入力を試してみました
 date: 2025-11-13
-slug: "orangeputer-kb-skk-japanese-editor"
-categories: 
-  - "esp32"
-tags: 
-  - "esp32"
-  - "orangeputer"
-  - "skk"
-image: "images/orangeputer-skk1.jpg"
+slug: orangeputer-kb-skk-japanese-editor
+categories:
+- electronics
+tags:
+- esp32
+- orangeputer
+- skk
+image: images/orangeputer-skk1.jpg
 ---
 
 ピコソフトさんからOrangeputerという開発中のESP32ベースの液晶付きマイコンボード＋I2Cフルキーボードのキットを試用させていただく機会をいただきましたので、早速組み立ててみました。

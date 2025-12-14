@@ -1,12 +1,12 @@
 ---
-title: "GPT service on Mini Pupper 2 (Japanese)"
+title: GPT service on Mini Pupper 2 (Japanese)
 date: 2025-02-03
-slug: "gpt-service-on-minipupper2-japanese"
-categories: 
-  - "mini-pupper-2"
-tags: 
-  - "mini-pupper-2"
-image: "images/GPT-service-on-MiniPupper2-Japanese.png"
+slug: gpt-service-on-minipupper2-japanese
+categories:
+- robot
+tags:
+- mini-pupper-2
+image: images/GPT-service-on-MiniPupper2-Japanese.png
 ---
 
 本記事は2023年11月に実験したときの記録です。

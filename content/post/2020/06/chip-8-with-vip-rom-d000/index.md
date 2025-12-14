@@ -1,13 +1,13 @@
 ---
-title: "リロケートしたVIP OS ROMでCHIP-8が動くようにしました"
+title: リロケートしたVIP OS ROMでCHIP-8が動くようにしました
 date: 2020-06-21
-slug: "chip-8-with-vip-rom-d000"
-categories: 
-  - "cosmac"
-  - "cosmac-mbc"
-tags: 
-  - "cosmac-mbc"
-image: "images/cosmac_cdp1802ace.jpg"
+slug: chip-8-with-vip-rom-d000
+categories:
+- cosmac
+- retrocomputing
+tags:
+- cosmac-mbc
+image: images/cosmac_cdp1802ace.jpg
 ---
 
 [VIP OSをROMの空きエリア$D000にリロケートし、VIP OSが動くところまで](https://kanpapa.com/cosmac/blog/2020/05/cosmac-vip-os-rom-reloc.html "       COSMAC VIP OSをROMの空きエリアに移動しました")は確認しました。次はこのリロケートしたVIP OSのROMで動くようにCHIP-8のパッチを作ります。

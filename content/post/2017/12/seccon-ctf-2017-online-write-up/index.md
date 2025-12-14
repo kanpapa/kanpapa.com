@@ -1,12 +1,13 @@
 ---
-title: "SECCON 2017 Online CTF のWrite-upをまとめました"
+title: SECCON 2017 Online CTF のWrite-upをまとめました
 date: 2017-12-10
-slug: "seccon-ctf-2017-online-write-up"
-categories: 
-  - "security"
-tags: 
-  - "seccon"
-image: "images/seccon-ctf-2017-1.png"
+slug: seccon-ctf-2017-online-write-up
+categories:
+- security
+tags:
+- seccon
+- security
+image: images/seccon-ctf-2017-1.png
 ---
 
 SECCON 2017 オンラインCTFに参加しました。

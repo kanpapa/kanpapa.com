@@ -1,14 +1,14 @@
 ---
-title: "TurtleBot2 kobukiがやってきた #2（動作確認編）"
+title: 'TurtleBot2 kobukiがやってきた #2（動作確認編）'
 date: 2024-04-25
-slug: "turtlebot2-kobuki-2"
-categories: 
-  - "turtlebot2"
-tags: 
-  - "kobuki"
-  - "ros2"
-  - "turtlebot2"
-image: "images/turtlebot2-kobuki-poweron1.jpg"
+slug: turtlebot2-kobuki-2
+categories:
+- robot
+tags:
+- kobuki
+- ros2
+- turtlebot2
+image: images/turtlebot2-kobuki-poweron1.jpg
 ---
 
 今回は[到着したkobuki](https://kanpapa.com/2024/04/turtlebot2-kobuki-1.html)に電源を投入して動作確認を行ってみます。残念ながらバッテリーは付属していませんでしたので、バッテリー端子に12Vの直流電源を接続することで電源を供給してみます。

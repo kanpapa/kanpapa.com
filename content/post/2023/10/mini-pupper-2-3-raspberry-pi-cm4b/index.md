@@ -1,12 +1,12 @@
 ---
-title: "Mini Pupper 2 を組み立ててみました (3) Raspberry Pi CM4をModel Bに交換"
+title: Mini Pupper 2 を組み立ててみました (3) Raspberry Pi CM4をModel Bに交換
 date: 2023-10-23
-slug: "mini-pupper-2-3-raspberry-pi-cm4b"
-categories: 
-  - "mini-pupper-2"
-tags: 
-  - "mini-pupper-2"
-image: "images/MP2_3_cm4_8.jpg"
+slug: mini-pupper-2-3-raspberry-pi-cm4b
+categories:
+- robot
+tags:
+- mini-pupper-2
+image: images/MP2_3_cm4_8.jpg
 ---
 
 Mini Pupper 2のカスタム基板にはRaspberry Pi CM4が取り付けられています。私もRaspberry Pi CM4を見るのは初めてですが、組み込みにはちょうど良い大きさです。ただ、このRaspberry Pi CM4は日本国内では入手困難であり、さらにCM4本体に技適マークが無く、技適に対応しているものという確証がありません。このためRaspberry Pi 4 Model Bに載せ替えてみました。

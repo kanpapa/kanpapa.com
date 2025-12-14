@@ -1,12 +1,12 @@
 ---
-title: "バランスカーを製作してみました"
+title: バランスカーを製作してみました
 date: 2020-02-09
-slug: "making-balance-car-1"
-categories: 
-  - "esp32"
-tags: 
-  - "esp32"
-image: "images/balance_car1.jpg"
+slug: making-balance-car-1
+categories:
+- electronics
+tags:
+- esp32
+image: images/balance_car1.jpg
 ---
 
 [おおたFab](https://ot-fb.com/ "おおたFab")さんでバランスカーの製作セミナーがありましたので参加してみました。

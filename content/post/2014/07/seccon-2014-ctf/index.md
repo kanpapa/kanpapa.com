@@ -1,12 +1,13 @@
 ---
-title: "SECCON 2014 CTFに初めて参加しました"
+title: SECCON 2014 CTFに初めて参加しました
 date: 2014-07-21
-slug: "seccon-2014-ctf"
-categories: 
-  - "security"
-tags: 
-  - "seccon"
-image: "images/WS000000.jpg"
+slug: seccon-2014-ctf
+categories:
+- security
+tags:
+- seccon
+- security
+image: images/WS000000.jpg
 ---
 
 先日、CTF for Beginnersに参加しましたので、初めてCTF予選にも参加してみました。

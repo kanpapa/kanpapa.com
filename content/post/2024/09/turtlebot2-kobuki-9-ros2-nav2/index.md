@@ -1,17 +1,17 @@
 ---
-title: "TurtleBot2 kobukiがやってきた #9（ROS2 NAV2編）"
+title: 'TurtleBot2 kobukiがやってきた #9（ROS2 NAV2編）'
 date: 2024-09-07
-slug: "turtlebot2-kobuki-9-ros2-nav2"
-categories: 
-  - "turtlebot2"
-tags: 
-  - "humble"
-  - "kobuki"
-  - "nav2"
-  - "ros2"
-  - "slam"
-  - "turtlebot2"
-image: "images/turtlebot2-kobuki-9-ros2-nav2-09051753.jpg"
+slug: turtlebot2-kobuki-9-ros2-nav2
+categories:
+- robot
+tags:
+- humble
+- kobuki
+- nav2
+- ros2
+- slam
+- turtlebot2
+image: images/turtlebot2-kobuki-9-ros2-nav2-09051753.jpg
 ---
 
 前々回に[机の上という狭い範囲でSLAM](https://kanpapa.com/2024/05/turtlebot2-kobuki-6-ros2-slam.html)を行ってみましたが、電源ケーブルも取り外して広々と動けるようになったので広い範囲でSLAMを行い、環境地図情報を作成したのちにNAV2で目的地までの自律走行を行ってみます。

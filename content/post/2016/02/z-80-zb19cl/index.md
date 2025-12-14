@@ -1,12 +1,13 @@
 ---
-title: "Z-80マイコンボード ZB19CでLチカをしてみた"
+title: Z-80マイコンボード ZB19CでLチカをしてみた
 date: 2016-02-14
-slug: "z-80-zb19cl"
-categories: 
-  - "z80"
-tags: 
-  - "zb19c"
-image: "images/ZB19C_board.jpg"
+slug: z-80-zb19cl
+categories:
+- retrocomputing
+tags:
+- zb19c
+- z80
+image: images/ZB19C_board.jpg
 ---
 
 中日電工さんのBASIC制御小型マイコンボードZB19Cを手にいれました。このボードは別製品のZB11で開発したプログラムを載せるためのボードのようです。

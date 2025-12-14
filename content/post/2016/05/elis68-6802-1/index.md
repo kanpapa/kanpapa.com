@@ -1,13 +1,13 @@
 ---
-title: "6802ワンボードコンピュータELIS68を動かしてみた（１）入手編"
+title: 6802ワンボードコンピュータELIS68を動かしてみた（１）入手編
 date: 2016-05-01
-slug: "elis68-6802-1"
-categories: 
-  - "6802"
-  - "retrocomputing"
-tags: 
-  - "elis68"
-image: "images/elis68_manual1.jpg"
+slug: elis68-6802-1
+categories:
+- retrocomputing
+tags:
+- elis68
+- '6802'
+image: images/elis68_manual1.jpg
 ---
 
 ELIS68というワンボードマイコンの基板がヤフオクにありました。このワンボードマイコンは聞きなれないものでしたが、手持ちのエンサイクロペディアアスキーVol.2を見たところ、6802CPUと周辺チップと2114RAMを使い、MIKBUG 2.0というモニタープログラムをシリアルコンソールで操作できるというものでした。今回ヤフオクで入手したのはこのキットで、ICが未実装の基板とマニュアル一式です。

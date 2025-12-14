@@ -1,14 +1,14 @@
 ---
-title: "Mini Pupper 2のROS2を再セットアップしました"
+title: Mini Pupper 2のROS2を再セットアップしました
 date: 2025-02-04
-slug: "minipupper2-ros2-setup1"
-categories: 
-  - "mini-pupper-2"
-tags: 
-  - "humble"
-  - "mini-pupper-2"
-  - "ros2"
-image: "images/minipupper2-ros2-setup1-eyecatch1.jpg"
+slug: minipupper2-ros2-setup1
+categories:
+- robot
+tags:
+- humble
+- mini-pupper-2
+- ros2
+image: images/minipupper2-ros2-setup1-eyecatch1.jpg
 ---
 
 [私のMini Pupper 2](https://kanpapa.com/2025/02/mini-pupper-2-makuake.html)のROS2 Humbleは2023年11月の状態のままでしたので、現在提供されている2024-06-18版のROS2 Humbleのイメージにアップデートしてみました。

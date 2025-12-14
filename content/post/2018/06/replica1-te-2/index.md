@@ -1,13 +1,13 @@
 ---
-title: "Apple1レプリカのreplica1 TEを組み立ててみる（２）"
+title: Apple1レプリカのreplica1 TEを組み立ててみる（２）
 date: 2018-06-16
-slug: "replica1-te-2"
-categories: 
-  - "6502"
-  - "retrocomputing"
-tags: 
-  - "apple1"
-image: "images/replica1_te_5.jpg"
+slug: replica1-te-2
+categories:
+- retrocomputing
+tags:
+- apple1
+- '6502'
+image: images/replica1_te_5.jpg
 ---
 
 まずはreplica1 TE kitのパーツが揃っているかの確認です。キットの場合はパーツが足りないこともよくあります。

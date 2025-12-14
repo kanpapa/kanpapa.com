@@ -1,14 +1,14 @@
 ---
-title: "TurtleBot3がやってきた #2（組み立て編）"
+title: 'TurtleBot3がやってきた #2（組み立て編）'
 date: 2022-02-05
-slug: "turtlebot3-burger-assembly2"
-categories: 
-  - "turtlebot3"
-tags: 
-  - "melodic"
-  - "ros1"
-  - "turtlebot3"
-image: "images/turtlebot3_burger_assembley_all_complete.jpg"
+slug: turtlebot3-burger-assembly2
+categories:
+- robot
+tags:
+- melodic
+- ros1
+- turtlebot3
+image: images/turtlebot3_burger_assembley_all_complete.jpg
 ---
 
 [TurtleBot3 Burgerのパーツ確認](https://kanpapa.com/2022/02/turtlebot3-burger-assembly1.html "TurtleBot3がやってきた（パーツ確認編）")が終わったところで組み立て開始です。マニュアルを外箱に載せて見ながら作業します。

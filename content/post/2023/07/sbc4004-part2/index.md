@@ -1,13 +1,13 @@
 ---
-title: "SBC4004を組み立ててみました（２）組み立て編"
+title: SBC4004を組み立ててみました（２）組み立て編
 date: 2023-07-15
-slug: "sbc4004-part2"
-categories: 
-  - "4004"
-  - "retrocomputing"
-tags: 
-  - "sbc4004"
-image: "images/sbc4004_fpga_board1.jpg"
+slug: sbc4004-part2
+categories:
+- retrocomputing
+tags:
+- sbc4004
+- '4004'
+image: images/sbc4004_fpga_board1.jpg
 ---
 
 前回は[SBC4004の製作に必要なパーツを揃えました](https://kanpapa.com/2023/07/sbc4004-part1.html "SBC4004を組み立ててみました（１）準備編")。今回はSBC4004の組み立てを進めます。

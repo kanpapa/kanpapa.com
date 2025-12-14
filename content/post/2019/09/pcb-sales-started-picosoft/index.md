@@ -1,13 +1,13 @@
 ---
-title: "オレンジピコショップさんでプリント基板の販売が開始されました"
+title: オレンジピコショップさんでプリント基板の販売が開始されました
 date: 2019-09-28
-slug: "pcb-sales-started-picosoft"
-categories: 
-  - "cosmac"
-  - "cosmac-toy"
-tags: 
-  - "cosmac-toy"
-image: "images/cosmac_pcb_cpu_pl_picosoft.jpg"
+slug: pcb-sales-started-picosoft
+categories:
+- cosmac
+- retrocomputing
+tags:
+- cosmac-toy
+image: images/cosmac_pcb_cpu_pl_picosoft.jpg
 ---
 
 オレンジピコショップさんで[COSMAC Toy Computer](https://github.com/kanpapa/cosmac_toy "COSMAC Toy Computer")専用プリント基板の販売が開始されました。初版の数は少ないのでお早めに。

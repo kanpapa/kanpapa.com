@@ -1,14 +1,14 @@
 ---
-title: "COSMAC VIP OSをスマートフォンで操作してみました"
+title: COSMAC VIP OSをスマートフォンで操作してみました
 date: 2020-09-06
-slug: "cosmac-vip-os-esp32-remote-keypad"
-categories: 
-  - "cosmac"
-  - "cosmac-mbc"
-tags: 
-  - "cosmac-mbc"
-  - "esp32"
-image: "images/esp32_relay_controller_3d.jpg"
+slug: cosmac-vip-os-esp32-remote-keypad
+categories:
+- cosmac
+- retrocomputing
+tags:
+- cosmac-mbc
+- esp32
+image: images/esp32_relay_controller_3d.jpg
 ---
 
 [Maker Faire Tokyo 2020](https://makezine.jp/event/makers-mft2020/m0029/ "Maker Faire Tokyo 2020 - COSMAC研究会")の出展に向けて、COVID-19対策を行わなければなりません。出展者マニュアルには感染防止対策として以下の項目があげられています。

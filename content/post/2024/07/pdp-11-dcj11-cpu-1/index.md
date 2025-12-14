@@ -1,17 +1,16 @@
 ---
-title: "TangNanoDCJ11MEMでPDP-11のCPUを動かしてみました 製作編"
+title: TangNanoDCJ11MEMでPDP-11のCPUを動かしてみました 製作編
 date: 2024-07-09
-slug: "pdp-11-dcj11-cpu-1"
-categories: 
-  - "pdp-11"
-  - "retrocomputing"
-tags: 
-  - "dcj11"
-  - "fpga"
-  - "pdp-11"
-  - "tang-nano"
-  - "tangnanodcj11mem"
-image: "images/pdp-11-dcj11-cpu-1-9-1.jpg"
+slug: pdp-11-dcj11-cpu-1
+categories:
+- retrocomputing
+tags:
+- dcj11
+- fpga
+- pdp-11
+- tang-nano
+- tangnanodcj11mem
+image: images/pdp-11-dcj11-cpu-1-9-1.jpg
 ---
 
 ## DCJ11 CPUとの出会い

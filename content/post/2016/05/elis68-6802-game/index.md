@@ -1,14 +1,14 @@
 ---
-title: "6802ワンボードコンピュータELIS68を動かしてみた（５）GAME動作編"
+title: 6802ワンボードコンピュータELIS68を動かしてみた（５）GAME動作編
 date: 2016-05-06
-slug: "elis68-6802-game"
-categories: 
-  - "6802"
-  - "retrocomputing"
-tags: 
-  - "elis68"
-  - "game"
-image: "images/elis68_game8_curve.jpg"
+slug: elis68-6802-game
+categories:
+- retrocomputing
+tags:
+- elis68
+- game
+- '6802'
+image: images/elis68_game8_curve.jpg
 ---
 
 [GAMEが動き始めたELIS68](https://kanpapa.com/2016/05/elis68-6802-4.html "6802ワンボードコンピュータELIS68を動かしてみた（４）GAME移植編")ですが、残念ながら手持ちのエンサクロペディア Volume2にはGAMEの全４回の連載のうち２回分しか掲載されておらず、続巻のエンサイクロペディア Volume3は持っていません。こういうときは国立国会図書館が頼りです。

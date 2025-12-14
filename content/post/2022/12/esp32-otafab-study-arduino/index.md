@@ -1,15 +1,15 @@
 ---
-title: "ESP32のArduino開発環境をつくりました（おおたfab 電子工作初心者勉強会）"
+title: ESP32のArduino開発環境をつくりました（おおたfab 電子工作初心者勉強会）
 date: 2022-12-10
-slug: "esp32-otafab-study-arduino"
-categories: 
-  - "esp32"
-tags: 
-  - "arduino"
-  - "esp32"
-  - "otafab"
-  - "otafab-esp32"
-image: "images/esp32_arduino1.png"
+slug: esp32-otafab-study-arduino
+categories:
+- electronics
+tags:
+- arduino
+- esp32
+- otafab
+- otafab-esp32
+image: images/esp32_arduino1.png
 ---
 
 [おおたfab](https://ot-fb.com/event "おおたfabのイベント案内")さんでは電子工作初心者勉強会を開催しています。以前から開催されていたものですが、今回から私も参加してみることにしました。

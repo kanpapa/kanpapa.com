@@ -1,18 +1,19 @@
 ---
-title: "D-Robotics RDK X3 で人についていくルンバを作ってみた"
+title: D-Robotics RDK X3 で人についていくルンバを作ってみた
 date: 2024-09-27
-slug: "rdk-x3-roomba-controlled-ros2"
-categories: 
-  - "rdk"
-  - "roomba"
-tags: 
-  - "d-robotics"
-  - "humble"
-  - "rdk-x3"
-  - "roomba"
-  - "ros2"
-  - "tros-b"
-image: "images/rdk-x3-roomba-camera-up1.jpg"
+slug: rdk-x3-roomba-controlled-ros2
+categories:
+- robot
+- roomba
+tags:
+- d-robotics
+- humble
+- rdk-x3
+- roomba
+- ros2
+- tros-b
+- rdk
+image: images/rdk-x3-roomba-camera-up1.jpg
 ---
 
 前回の記事では[D-Robotics RDK X3マイコンボードの概要](https://kanpapa.com/2024/09/rdk-x3-4g-board1.html)をまとめましたが、今回は実際にロボットアプリケーションを動かしてみます。

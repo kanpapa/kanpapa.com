@@ -1,14 +1,14 @@
 ---
-title: "40円RISC-Vマイコン(CH32V003)をArduino IDEでLチカをしてみました"
+title: 40円RISC-Vマイコン(CH32V003)をArduino IDEでLチカをしてみました
 date: 2023-06-24
-slug: "blink-risc-v-ch32v003-arduino"
-categories: 
-  - "risc-v"
-tags: 
-  - "arduino"
-  - "ch32v"
-  - "risc-v"
-image: "images/CH32V003J4M6_SOP8-DIP8.jpg"
+slug: blink-risc-v-ch32v003-arduino
+categories:
+- electronics
+tags:
+- arduino
+- ch32v
+- risc-v
+image: images/CH32V003J4M6_SOP8-DIP8.jpg
 ---
 
 [秋月電子](https://akizukidenshi.com/ "秋月電子通商")さんに新商品のマイコンが入荷したようです。1個40円の[32ビットRISC-Vマイコン CH32V003J4M6 \[販売コード:118062\]](https://akizukidenshi.com/catalog/g/g118062/)です。あまりの安さとSOP8の可愛さで気になってしまいます。開発環境は公式のものもあるのですが、[Arduino IDE](https://www.arduino.cc/en/software "Arduino IDE")もサポートしているようです。今回はお手軽なArduino IDEでセットアップをしてみます。

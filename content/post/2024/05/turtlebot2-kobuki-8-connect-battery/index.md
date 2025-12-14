@@ -1,14 +1,14 @@
 ---
-title: "TurtleBot2 kobukiがやってきた #8（バッテリー接続編）"
+title: 'TurtleBot2 kobukiがやってきた #8（バッテリー接続編）'
 date: 2024-05-12
-slug: "turtlebot2-kobuki-8-connect-battery"
-categories: 
-  - "turtlebot2"
-tags: 
-  - "kobuki"
-  - "ros2"
-  - "turtlebot2"
-image: "images/turtlebot2-kobuki-8-eyecatch.jpg"
+slug: turtlebot2-kobuki-8-connect-battery
+categories:
+- robot
+tags:
+- kobuki
+- ros2
+- turtlebot2
+image: images/turtlebot2-kobuki-8-eyecatch.jpg
 ---
 
 これまではkobukiのバッテリー端子から外部電源を供給して動作確認を行ってきました。以前オーダーしておいた互換バッテリーがようやく届きましたので、kobukiに接続してみます。

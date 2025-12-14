@@ -1,17 +1,16 @@
 ---
-title: "TangNanoDCJ11MEMとPDP11GUIでPDP-11 BASICを動かしてみました"
+title: TangNanoDCJ11MEMとPDP11GUIでPDP-11 BASICを動かしてみました
 date: 2024-08-02
-slug: "tangnanodcj11mem-pdp-11-cpu-3-pdp11basic"
-categories: 
-  - "pdp-11"
-  - "retrocomputing"
-tags: 
-  - "dcj11"
-  - "fpga"
-  - "pdp-11"
-  - "tang-nano"
-  - "tangnanodcj11mem"
-image: "images/tangnanodcj11mem-ptapebasic-running1.jpg"
+slug: tangnanodcj11mem-pdp-11-cpu-3-pdp11basic
+categories:
+- retrocomputing
+tags:
+- dcj11
+- fpga
+- pdp-11
+- tang-nano
+- tangnanodcj11mem
+image: images/tangnanodcj11mem-ptapebasic-running1.jpg
 ---
 
 [前回のbaremetal編](https://kanpapa.com/2024/07/tangnanodcj11mem-pdp-11-cpu-2-bare-metal.html)では[TangNanoDCJ11MEM](https://github.com/ryomuk/TangNanoDCJ11MEM/tree/main)に搭載したDCJ11 CPUがbare metal環境で動作することを確認しました。同時に[PDP11GUI](https://www.retrocmp.com/tools/pdp11gui)というツールでODTを活用できそうだということを紹介しました。今回はPDP11GUIを使ってPDP-11 BASICを動かしてみました。なお、TangNanoDCJ11MEMのapplicationでは[tapebasic](https://github.com/ryomuk/TangNanoDCJ11MEM/tree/main/applications/tapebasic)をSDカードからロードする方法が公開されています。

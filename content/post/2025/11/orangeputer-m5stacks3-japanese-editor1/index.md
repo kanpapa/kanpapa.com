@@ -1,14 +1,15 @@
 ---
-title: "M5Stack CoreS3とOrangeputer-KBで日本語入力を試してみました"
+title: M5Stack CoreS3とOrangeputer-KBで日本語入力を試してみました
 date: 2025-11-15
-slug: "orangeputer-m5stacks3-japanese-editor1"
-categories: 
-  - "m5stack"
-tags: 
-  - "esp32"
-  - "orangeputer"
-  - "skk"
-image: "images/orangeputer-m5stacks3-jpeditor1.jpg"
+slug: orangeputer-m5stacks3-japanese-editor1
+categories:
+- electronics
+tags:
+- esp32
+- orangeputer
+- skk
+- m5stack
+image: images/orangeputer-m5stacks3-jpeditor1.jpg
 ---
 
 [前回の記事](https://kanpapa.com/2025/11/orangeputer-kb-skk-japanese-editor.html)ではOrangeputerとOrangeputer-KBを使って日本語入力エディタを動かしてみました。今回は[M5Stack CoreS3](https://docs.m5stack.com/ja/core/CoreS3)とOrangeputer-KBによる日本語入力です。

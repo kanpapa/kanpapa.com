@@ -1,14 +1,14 @@
 ---
-title: "68000 VMEボードで遊んでみました（3）電源投入編"
+title: 68000 VMEボードで遊んでみました（3）電源投入編
 date: 2023-08-27
-slug: "68000-vme-board3"
-categories: 
-  - "68000"
-  - "retrocomputing"
-tags: 
-  - "dvmecpu2"
-  - "vme"
-image: "images/vme_board_3_power_on_led1.jpg"
+slug: 68000-vme-board3
+categories:
+- retrocomputing
+tags:
+- dvmecpu2
+- vme
+- '68000'
+image: images/vme_board_3_power_on_led1.jpg
 ---
 
 前回の[VMEバス基板設計編](https://kanpapa.com/2023/08/68000-vme-board2.html "68000 VMEボードで遊んでみました（２）VMEバス基板設計編")で設計したVMEバス電源供給基板を製作して、入手した68000 CPU VMEボードに電源を投入してみます。

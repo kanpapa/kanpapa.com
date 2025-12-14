@@ -1,14 +1,14 @@
 ---
-title: "6802ワンボードコンピュータELIS68を動かしてみた（４）GAME移植編"
+title: 6802ワンボードコンピュータELIS68を動かしてみた（４）GAME移植編
 date: 2016-05-01
-slug: "elis68-6802-4"
-categories: 
-  - "6802"
-  - "retrocomputing"
-tags: 
-  - "elis68"
-  - "game"
-image: "images/elis68_game0.jpg"
+slug: elis68-6802-4
+categories:
+- retrocomputing
+tags:
+- elis68
+- game
+- '6802'
+image: images/elis68_game0.jpg
 ---
 
 ELIS68は6800用のあらゆるソフトを走らせるために作られたスーパーマシンです。MIKBUG 2.0だけ動かして終了というわけではありません。ELIS68のマニュアルにはGAME（ここではGAMEIII）というインタプリター言語を動かすための手順が載っています。

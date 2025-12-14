@@ -1,15 +1,15 @@
 ---
-title: "ESP32でmicroSDカードを読み書きしてみました（おおたfab 電子工作初心者勉強会）"
+title: ESP32でmicroSDカードを読み書きしてみました（おおたfab 電子工作初心者勉強会）
 date: 2023-01-21
-slug: "esp32-otafab-study-microsd"
-categories: 
-  - "esp32"
-tags: 
-  - "arduino"
-  - "esp32"
-  - "otafab"
-  - "otafab-esp32"
-image: "images/esp32-otafab-study-microsd_sparkfun1.jpg"
+slug: esp32-otafab-study-microsd
+categories:
+- electronics
+tags:
+- arduino
+- esp32
+- otafab
+- otafab-esp32
+image: images/esp32-otafab-study-microsd_sparkfun1.jpg
 ---
 
 [おおたfab](https://ot-fb.com/event "おおたfab")さんでは電子工作初心者勉強会を定期的に開催しています。

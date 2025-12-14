@@ -1,17 +1,17 @@
 ---
-title: "ESP32でミニカーを作る #5 走行中に障害物を検知する（おおたfab 電子工作初心者勉強会）"
+title: 'ESP32でミニカーを作る #5 走行中に障害物を検知する（おおたfab 電子工作初心者勉強会）'
 date: 2025-08-02
-slug: "otafab-esp32-minicar5"
-categories: 
-  - "esp32"
-tags: 
-  - "arduino"
-  - "esp32"
-  - "xiao"
-  - "otafab"
-  - "電子工作"
-  - "otafab-esp32"
-image: "images/otafab-esp32-minicar5-cars.jpg"
+slug: otafab-esp32-minicar5
+categories:
+- electronics
+tags:
+- arduino
+- esp32
+- xiao
+- otafab
+- 電子工作
+- otafab-esp32
+image: images/otafab-esp32-minicar5-cars.jpg
 ---
 
 [おおたfab](https://ot-fb.com/event)さんでは電子工作初心者勉強会を定期的に開催しています。

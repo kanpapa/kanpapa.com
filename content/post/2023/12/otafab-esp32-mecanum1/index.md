@@ -1,16 +1,16 @@
 ---
-title: "ESP32でメカナムホイールを動かしてみました #1（おおたfab 電子工作初心者勉強会）"
+title: 'ESP32でメカナムホイールを動かしてみました #1（おおたfab 電子工作初心者勉強会）'
 date: 2023-12-21
-slug: "otafab-esp32-mecanum1"
-categories: 
-  - "esp32"
-tags: 
-  - "arduino"
-  - "esp32"
-  - "otafab"
-  - "メカナムホイール"
-  - "otafab-esp32"
-image: "images/otafab-esp32-mecanum1-car1-1.jpg"
+slug: otafab-esp32-mecanum1
+categories:
+- electronics
+tags:
+- arduino
+- esp32
+- otafab
+- メカナムホイール
+- otafab-esp32
+image: images/otafab-esp32-mecanum1-car1-1.jpg
 ---
 
 [おおたfab](https://ot-fb.com/event/)さんでは電子工作初心者勉強会を定期的に開催しています。

@@ -1,13 +1,13 @@
 ---
-title: "Teensy Pixie Video/HEX Keyboard/Soundボード Rev. 0.1を発注しました"
+title: Teensy Pixie Video/HEX Keyboard/Soundボード Rev. 0.1を発注しました
 date: 2020-08-04
-slug: "teensy-pixie-hexkey-sound-board01"
-categories: 
-  - "cosmac"
-  - "cosmac-mbc"
-tags: 
-  - "cosmac-mbc"
-image: "images/teensy32_pixie_hexkey_sound_pcb1.jpg"
+slug: teensy-pixie-hexkey-sound-board01
+categories:
+- cosmac
+- retrocomputing
+tags:
+- cosmac-mbc
+image: images/teensy32_pixie_hexkey_sound_pcb1.jpg
 ---
 
 前回[ブレッドボードで動作確認したTeensy 3.2 Pixie Simulator](https://kanpapa.com/cosmac/blog/2020/08/teensy32-cdp1861-pixie-simulator.html "Teensy 3.2でのCDP1861 Pixie Simulatorを試してみました")をCOSMAC MBC用に基板化してみました。これまで使用していたSTG1861と置き換える形の設計とし、HEX Keyboardはそのままで、空きエリアにCOSMAC VIPのSound回路を追加しました。

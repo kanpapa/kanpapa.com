@@ -1,13 +1,14 @@
 ---
-title: "D-Robotics RDK X5のAI機能を試してみた"
+title: D-Robotics RDK X5のAI機能を試してみた
 date: 2025-07-22
-slug: "d-robotics-rdk-x5-ai-samples"
-categories: 
-  - "rdk"
-tags: 
-  - "d-robotics"
-  - "rdk-x5"
-image: "images/hobot_dnn-hands-point1.jpg"
+slug: d-robotics-rdk-x5-ai-samples
+categories:
+- robot
+tags:
+- d-robotics
+- rdk-x5
+- rdk
+image: images/hobot_dnn-hands-point1.jpg
 ---
 
 前回は[すでに用意されているロボット用のアプリケーションを使用してルンバを動かしてみました](https://kanpapa.com/2025/07/rdk-x5-8g-board1.html)。他にもロボットで使えそうなサンプルアプリケーションが用意されています。ここではロボットの目や声や思考を実現できそうなものを試してみます。

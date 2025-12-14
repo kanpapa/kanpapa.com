@@ -1,12 +1,13 @@
 ---
-title: "SECCON 2014 online CTF 予選のWrite-upをまとめました"
+title: SECCON 2014 online CTF 予選のWrite-upをまとめました
 date: 2014-12-07
-slug: "seccon-ctf-2014-online-writeup"
-categories: 
-  - "security"
-tags: 
-  - "seccon"
-image: "images/ucom82_manual.jpg"
+slug: seccon-ctf-2014-online-writeup
+categories:
+- security
+tags:
+- seccon
+- security
+image: images/ucom82_manual.jpg
 ---
 
 前回CTF予選に初参加しましたが、面白かったので今回のCTF予選にも参加してみました。

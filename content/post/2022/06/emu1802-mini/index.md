@@ -1,13 +1,13 @@
 ---
-title: "EMU1802-mini の回路を修正しました"
+title: EMU1802-mini の回路を修正しました
 date: 2022-06-23
-slug: "emu1802-mini"
-categories: 
-  - "cosmac"
-  - "emu1802"
-tags: 
-  - "emu1802"
-image: "images/emu1802-mini-added-diode_pcb_back.jpg"
+slug: emu1802-mini
+categories:
+- cosmac
+- retrocomputing
+tags:
+- emu1802
+image: images/emu1802-mini-added-diode_pcb_back.jpg
 ---
 
 EMU1802-miniで実験していると、USBシリアルをつないだだけでPOWER LEDが点灯してしまいます。このため逆流防止のためダイオード 1N4148を追加しました。

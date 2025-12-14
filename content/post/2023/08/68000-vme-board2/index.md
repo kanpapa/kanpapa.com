@@ -1,14 +1,14 @@
 ---
-title: "68000 VMEボードで遊んでみました（２）VMEバス基板設計編"
+title: 68000 VMEボードで遊んでみました（２）VMEバス基板設計編
 date: 2023-08-06
-slug: "68000-vme-board2"
-categories: 
-  - "68000"
-  - "retrocomputing"
-tags: 
-  - "dvmecpu2"
-  - "vme"
-image: "images/vme_board_power_pcb_jlcpcb1.jpg"
+slug: 68000-vme-board2
+categories:
+- retrocomputing
+tags:
+- dvmecpu2
+- vme
+- '68000'
+image: images/vme_board_power_pcb_jlcpcb1.jpg
 ---
 
 前回の[VMEボード入手編](https://kanpapa.com/2023/08/68000-vme-board1.html "68000 VMEボードで遊んでみました（１）入手編")の記事でも書いたようにVMEバスを使うのは今回が初めてです。まずはVMEバスについて調べてみました。

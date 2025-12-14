@@ -1,13 +1,13 @@
 ---
-title: "COSMAC MicroBoard Computerの技術資料や成果物をGitHub.comに移行しました"
+title: COSMAC MicroBoard Computerの技術資料や成果物をGitHub.comに移行しました
 date: 2022-08-23
-slug: "cosmac-microboard-computergithubcom"
-categories: 
-  - "cosmac"
-  - "cosmac-mbc"
-tags: 
-  - "cosmac-mbc"
-image: "images/VIP_Space_-Intercept.jpg"
+slug: cosmac-microboard-computergithubcom
+categories:
+- cosmac
+- retrocomputing
+tags:
+- cosmac-mbc
+image: images/VIP_Space_-Intercept.jpg
 ---
 
 COSMAC MicroBoard Computerの技術資料や成果物をGitHub.comで管理するようにしました。

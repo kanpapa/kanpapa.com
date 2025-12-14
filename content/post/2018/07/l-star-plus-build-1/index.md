@@ -1,14 +1,14 @@
 ---
-title: "L-STAR PLUS（Apple1レプリカ）を動かしてみた（１）"
+title: L-STAR PLUS（Apple1レプリカ）を動かしてみた（１）
 date: 2018-07-01
-slug: "l-star-plus-build-1"
-categories: 
-  - "6502"
-  - "retrocomputing"
-tags: 
-  - "apple1"
-  - "l-star"
-image: "images/l_star_plus_finish.jpg"
+slug: l-star-plus-build-1
+categories:
+- retrocomputing
+tags:
+- apple1
+- l-star
+- '6502'
+image: images/l_star_plus_finish.jpg
 ---
 
 [Replica 1](https://kanpapa.com/2018/06/replica1-te-1.html "Apple1レプリカのreplica1 TEを組み立ててみる（１）")の製作が落ち着いたところで、このようなツイートを見かけました。

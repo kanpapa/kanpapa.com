@@ -1,13 +1,13 @@
 ---
-title: "COSMAC Toy Computerの技術資料や成果物をGitHub.comに移行しました"
+title: COSMAC Toy Computerの技術資料や成果物をGitHub.comに移行しました
 date: 2022-08-23
-slug: "cosmac-toy-computergithubcom"
-categories: 
-  - "cosmac"
-  - "cosmac-toy"
-tags: 
-  - "cosmac-toy"
-image: "images/cosmac_lab_slide1.jpg"
+slug: cosmac-toy-computergithubcom
+categories:
+- cosmac
+- retrocomputing
+tags:
+- cosmac-toy
+image: images/cosmac_lab_slide1.jpg
 ---
 
 COSMAC Toy Computerの技術資料や成果物をGitHub.comで管理するようにしました。

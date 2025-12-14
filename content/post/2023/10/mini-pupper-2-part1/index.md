@@ -1,12 +1,12 @@
 ---
-title: "Mini Pupper 2 を組み立ててみました (1) 組み立て準備編"
+title: Mini Pupper 2 を組み立ててみました (1) 組み立て準備編
 date: 2023-10-09
-slug: "mini-pupper-2-part1"
-categories: 
-  - "mini-pupper-2"
-tags: 
-  - "mini-pupper-2"
-image: "images/MP2_1_package.jpg"
+slug: mini-pupper-2-part1
+categories:
+- robot
+tags:
+- mini-pupper-2
+image: images/MP2_1_package.jpg
 ---
 
 クラウドファンディングで申し込んでおいた [Mini Pupper 2](https://www.kickstarter.com/projects/336477435/mini-pupper-2-open-source-ros2-robot-kit-for-dreamers?lang=ja "Mini Pupper 2: Open-Source, ROS2 Robot Kit for Dreamers")が到着しました。以前から[Mini Pupper](https://www.makuake.com/project/mini_pupper "初心者もプロも楽しめる！自作できるロボット犬『Mini Pupperミニぷぱ』")には興味があったのですが、ROS2対応版のMini Pupper 2を待っていたところです。

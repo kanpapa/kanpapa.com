@@ -1,13 +1,13 @@
 ---
-title: "RCA CDP1802 COSMACを動かしてみた(10) シールド基板を作ってみた"
+title: RCA CDP1802 COSMACを動かしてみた(10) シールド基板を作ってみた
 date: 2019-05-31
-slug: "rca-cdp1802-cosmac10"
-categories: 
-  - "cosmac"
-  - "cosmac-toy"
-tags: 
-  - "cosmac-toy"
-image: "images/cosmac_shield_organ_lcd.jpg"
+slug: rca-cdp1802-cosmac10
+categories:
+- cosmac
+- retrocomputing
+tags:
+- cosmac-toy
+image: images/cosmac_shield_organ_lcd.jpg
 ---
 
 これまで製作してきた実験回路をコンパクトなシールド基板にしてみました。ArduinoのようにCPU基板に重ねる形です。プログラムローダー基板も同様に重ねる形にしました。こうすることでより操作しやすくなりますし、カッコいいです。

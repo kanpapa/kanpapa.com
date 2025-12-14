@@ -1,13 +1,13 @@
 ---
-title: "RCA CDP1802 COSMACを動かしてみた(5) 基板発注編"
+title: RCA CDP1802 COSMACを動かしてみた(5) 基板発注編
 date: 2018-12-15
-slug: "rca-cdp1802-cosmac5"
-categories: 
-  - "cosmac"
-  - "cosmac-toy"
-tags: 
-  - "cosmac-toy"
-image: "images/cosmac_cpu_board_3dview.png"
+slug: rca-cdp1802-cosmac5
+categories:
+- cosmac
+- retrocomputing
+tags:
+- cosmac-toy
+image: images/cosmac_cpu_board_3dview.png
 ---
 
 今回[ブレッドボードで作成した回路](https://kanpapa.com/cosmac/blog/2018/12/rca-cdp1802-cosmac4.html "RCA CDP1802 COSMACを動かしてみた(4) プログラミング編")をユニバーサル基板に移してもよいのですが、何枚か作ってみたいのでプリント基板を作ってみます。

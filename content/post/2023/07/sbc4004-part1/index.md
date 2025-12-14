@@ -1,13 +1,13 @@
 ---
-title: "SBC4004を組み立ててみました（１）準備編"
+title: SBC4004を組み立ててみました（１）準備編
 date: 2023-07-13
-slug: "sbc4004-part1"
-categories: 
-  - "4004"
-  - "retrocomputing"
-tags: 
-  - "sbc4004"
-image: "images/sbc4004_pcb1.jpg"
+slug: sbc4004-part1
+categories:
+- retrocomputing
+tags:
+- sbc4004
+- '4004'
+image: images/sbc4004_pcb1.jpg
 ---
 
 いつもお世話になっている[オレンジピコショップ](https://store.shopping.yahoo.co.jp/orangepicoshop/ "オレンジピコショップ")さんのサイトで気になるものを見つけてしまいました。

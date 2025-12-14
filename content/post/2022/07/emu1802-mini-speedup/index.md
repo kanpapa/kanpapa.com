@@ -1,13 +1,13 @@
 ---
-title: "EMU1802-miniが新ファームウェアで大幅に高速化されました"
+title: EMU1802-miniが新ファームウェアで大幅に高速化されました
 date: 2022-07-30
-slug: "emu1802-mini-speedup"
-categories: 
-  - "cosmac"
-  - "emu1802"
-tags: 
-  - "emu1802"
-image: "images/emu1802-mini-v21g_programming.jpg"
+slug: emu1802-mini-speedup
+categories:
+- cosmac
+- retrocomputing
+tags:
+- emu1802
+image: images/emu1802-mini-v21g_programming.jpg
 ---
 
 ### 200KHzだったシステムクロックが1.79MHzに！

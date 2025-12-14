@@ -1,13 +1,13 @@
 ---
-title: "RCA CDP1802 COSMACを動かしてみた(9) LCDに文字を表示してみる"
+title: RCA CDP1802 COSMACを動かしてみた(9) LCDに文字を表示してみる
 date: 2019-05-31
-slug: "rca-cdp1802-cosmac9-lcd"
-categories: 
-  - "cosmac"
-  - "cosmac-toy"
-tags: 
-  - "cosmac-toy"
-image: "images/cosmac_lcd_proto.jpg"
+slug: rca-cdp1802-cosmac9-lcd
+categories:
+- cosmac
+- retrocomputing
+tags:
+- cosmac-toy
+image: images/cosmac_lcd_proto.jpg
 ---
 
 [前回の記事](https://kanpapa.com/cosmac/blog/2019/02/rca-cdp1802-cosmac8.html "RCA CDP1802 COSMACを動かしてみた(8) 電子オルガンを作ってみる")ではCOSMACで音をだしてみましたが、次はCOSMACで文字を表示してみます。

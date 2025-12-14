@@ -1,13 +1,13 @@
 ---
-title: "COSMAC TOY V2を開発中です"
+title: COSMAC TOY V2を開発中です
 date: 2024-12-12
-slug: "cosmac-toy-v2-rev02-dev1"
-categories: 
-  - "cosmac"
-  - "cosmac-toy-v2"
-tags: 
-  - "cosmac-toy-v2"
-image: "images/cosmac-toy-v2-rev02-dev1-photo1.jpg"
+slug: cosmac-toy-v2-rev02-dev1
+categories:
+- cosmac
+- retrocomputing
+tags:
+- cosmac-toy-v2
+image: images/cosmac-toy-v2-rev02-dev1-photo1.jpg
 ---
 
 部屋の整理をしていたら[COSMAC TOY](https://github.com/kanpapa/cosmac_toy)の実機が何個かでてきました。いずれも[Maker Faire出展](https://kanpapa.com/cosmac/blog/2019/07/cosmac-maker-faire-tokyo-2019-1.html)向けに製作したものです。このまま寝かせておくよりは[COSMAC](https://kanpapa.com/cosmac/cosmac-cpu)を体験したいかたにお譲りするのが良いかなとXで聞いてみたところ、何名かご希望をいただきましたのでBOOTHにて頒布したところすべて引き取り先がきまりました。ありがとうございました。

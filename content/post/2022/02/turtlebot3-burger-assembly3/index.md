@@ -1,14 +1,14 @@
 ---
-title: "TurtleBot3がやってきた #3（ROS1セットアップ編）"
+title: 'TurtleBot3がやってきた #3（ROS1セットアップ編）'
 date: 2022-02-05
-slug: "turtlebot3-burger-assembly3"
-categories: 
-  - "turtlebot3"
-tags: 
-  - "melodic"
-  - "ros1"
-  - "turtlebot3"
-image: "images/turtlebot3_burger_battery_charge1.jpg"
+slug: turtlebot3-burger-assembly3
+categories:
+- robot
+tags:
+- melodic
+- ros1
+- turtlebot3
+image: images/turtlebot3_burger_battery_charge1.jpg
 ---
 
 [TurtleBot3のハードウェアが完成](https://kanpapa.com/2022/02/turtlebot3-burger-assembly2.html "TurtleBot3がやってきた（組み立て編）")したところで、Quick Start Guideに従ってROSセットアップを行います。

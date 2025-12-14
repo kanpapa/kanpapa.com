@@ -1,14 +1,14 @@
 ---
-title: "68000 VMEボードで遊んでみました（8）拡張ボード入手編"
+title: 68000 VMEボードで遊んでみました（8）拡張ボード入手編
 date: 2023-10-08
-slug: "68000-vme-board8"
-categories: 
-  - "68000"
-  - "retrocomputing"
-tags: 
-  - "dvmecpu2"
-  - "vme"
-image: "images/vme-board8_dvme_series1.jpg"
+slug: 68000-vme-board8
+categories:
+- retrocomputing
+tags:
+- dvmecpu2
+- vme
+- '68000'
+image: images/vme-board8_dvme_series1.jpg
 ---
 
 68000 CPU VMEボード単体での動作は確認できましたが、CPUだけでは少し物足りないと思っていたところで、拡張VMEボードがオークションに出品されていました。前回同様に格安の価格で落札することができました。

@@ -1,16 +1,17 @@
 ---
-title: "D-Robotics RDK X5のAIでルンバを動かしてみた"
+title: D-Robotics RDK X5のAIでルンバを動かしてみた
 date: 2025-07-15
-slug: "rdk-x5-8g-board1"
-categories: 
-  - "rdk"
-  - "roomba"
-tags: 
-  - "ai"
-  - "d-robotics"
-  - "rdk-x5"
-  - "roomba"
-image: "images/rdk-x5-roomba-1.jpg"
+slug: rdk-x5-8g-board1
+categories:
+- robot
+- roomba
+tags:
+- ai
+- d-robotics
+- rdk-x5
+- roomba
+- rdk
+image: images/rdk-x5-roomba-1.jpg
 ---
 
 スイッチサイエンスさんのサイトを何気なく見ていたところ、[RDK X5](https://www.switch-science.com/products/10500)と[OriginBot Pro JP](https://www.switch-science.com/products/10505)が発売開始になったことを知りました。以前、Maker Faireで見かけた[D-Robotics社のRDK X3というマイコンボードを衝動買い](https://kanpapa.com/2024/09/rdk-x3-4g-board1.html)してしまったので、今回のRDK X5も結局オーダーしてしまいました。

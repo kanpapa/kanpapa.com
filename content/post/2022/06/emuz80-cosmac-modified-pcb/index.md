@@ -1,14 +1,14 @@
 ---
-title: "EMUZ80でCOSMACを動かしてみました 2（基板改造編）"
+title: EMUZ80でCOSMACを動かしてみました 2（基板改造編）
 date: 2022-06-03
-slug: "emuz80-cosmac-modified-pcb"
-categories: 
-  - "cosmac"
-  - "emu1802"
-tags: 
-  - "emu1802"
-  - "emuz80"
-image: "images/emuz80_cosmac_modpcb7.jpg"
+slug: emuz80-cosmac-modified-pcb
+categories:
+- cosmac
+- retrocomputing
+tags:
+- emu1802
+- emuz80
+image: images/emuz80_cosmac_modpcb7.jpg
 ---
 
 [前回の実験でLチカ](https://kanpapa.com/cosmac/blog/2022/05/emuz80-cosmac-blink-led.html "EMUZ80でCOSMACを動かしてみました（Lチカ編）")まで動かすことができたので、今後の実験を行いやすくするためにEMUZ80の基板を[COSMAC CDP1802 CPU](https://kanpapa.com/cosmac/cosmac-cpu.html "COSMAC CPUとは")を実装できるように改造してみます。もちろんZ80もEMUZ80で動かしたいので、COSMAC専用に追加で基板を注文しました。

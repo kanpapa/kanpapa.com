@@ -1,13 +1,13 @@
 ---
-title: "COSMAC STG1861 DISPLAY/HEX KEYBOARD Rev. 0.2の基板を製作しました"
+title: COSMAC STG1861 DISPLAY/HEX KEYBOARD Rev. 0.2の基板を製作しました
 date: 2020-05-16
-slug: "cosmac-stg1861-hexkey-rev02-final"
-categories: 
-  - "cosmac"
-  - "cosmac-mbc"
-tags: 
-  - "cosmac-mbc"
-image: "images/coamac_stg1861_rev02_pcb3.jpg"
+slug: cosmac-stg1861-hexkey-rev02-final
+categories:
+- cosmac
+- retrocomputing
+tags:
+- cosmac-mbc
+image: images/coamac_stg1861_rev02_pcb3.jpg
 ---
 
 先日発注した[COSMAC STG1861 DISPLAY/HEX KEYBOARD Rev. 0.2](https://kanpapa.com/cosmac/blog/2020/05/cosmac-mbc-stg1861-keyboard-rev02.html "COSMAC STG1861 DISPLAY/HEX KEYBOARD Rev. 0.2の基板を発注しました")の基板が到着しました。

@@ -1,15 +1,15 @@
 ---
-title: "TurtleBot2 kobukiがやってきた #6（ROS2 SLAM編）"
+title: 'TurtleBot2 kobukiがやってきた #6（ROS2 SLAM編）'
 date: 2024-05-01
-slug: "turtlebot2-kobuki-6-ros2-slam"
-categories: 
-  - "turtlebot2"
-tags: 
-  - "kobuki"
-  - "ros2"
-  - "slam"
-  - "turtlebot2"
-image: "images/turtlebot2-kobuki-slam-rviz-eyecatch1.png"
+slug: turtlebot2-kobuki-6-ros2-slam
+categories:
+- robot
+tags:
+- kobuki
+- ros2
+- slam
+- turtlebot2
+image: images/turtlebot2-kobuki-slam-rviz-eyecatch1.png
 ---
 
 前回はkobukiの状態をRviz2で可視化しましたが、LiDARを接続してSLAMを行ってみます。これにより自己位置推定と環境地図の作成ができ、自動運転に必要な情報を生成することができます。

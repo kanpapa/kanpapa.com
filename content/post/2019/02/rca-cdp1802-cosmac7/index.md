@@ -1,13 +1,13 @@
 ---
-title: "RCA CDP1802 COSMACを動かしてみた(7) 音を出してみる編"
+title: RCA CDP1802 COSMACを動かしてみた(7) 音を出してみる編
 date: 2019-02-10
-slug: "rca-cdp1802-cosmac7"
-categories: 
-  - "cosmac"
-  - "cosmac-toy"
-tags: 
-  - "cosmac-toy"
-image: "images/cosmac_speaker1.jpg"
+slug: rca-cdp1802-cosmac7
+categories:
+- cosmac
+- retrocomputing
+tags:
+- cosmac-toy
+image: images/cosmac_speaker1.jpg
 ---
 
 [前回の記事](https://kanpapa.com/cosmac/blog/2019/01/rca-cdp1802-cosmac6.html "RCA CDP1802 COSMACを動かしてみた(6) 基板動作編")でCPUボードが完成してプログラムローダーから入力したプログラムを実行できるところまで確認しました。

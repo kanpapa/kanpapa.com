@@ -1,14 +1,13 @@
 ---
-title: "M5Paperで2020年から2021年への年越しをしてみました"
+title: M5Paperで2020年から2021年への年越しをしてみました
 date: 2021-01-01
-slug: "m5paper-newyear2021"
-categories: 
-  - "electronics"
-  - "m5stack"
-tags: 
-  - "m5stack"
-  - "書き初め"
-image: "images/m5paper_newyear2021.jpeg"
+slug: m5paper-newyear2021
+categories:
+- electronics
+tags:
+- m5stack
+- 書き初め
+image: images/m5paper_newyear2021.jpeg
 ---
 
 あけましておめでとうございます。  

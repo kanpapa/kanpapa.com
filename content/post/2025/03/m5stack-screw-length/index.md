@@ -1,13 +1,12 @@
 ---
-title: "M5Stackのネジの長さの求め方"
+title: M5Stackのネジの長さの求め方
 date: 2025-03-22
-slug: "m5stack-screw-length"
-categories: 
-  - "electronics"
-  - "m5stack"
-tags: 
-  - "m5stack"
-image: "images/m5stack_screwkit1.jpg"
+slug: m5stack-screw-length
+categories:
+- electronics
+tags:
+- m5stack
+image: images/m5stack_screwkit1.jpg
 ---
 
 M5CoreS3にLLMモジュールを取り付けるためにはM5CoreS3とDIN BASEを固定しているネジを外す必要があります。LLMモジュールを追加するとネジの長さが当然足りなくなり固定できません。特にネジで固定しなくても問題はないのですが、少し浮いてしまうのが気になるのと、何かのはずみで外れないか心配なので別途購入した[Screw Kit](https://docs.m5stack.com/ja/accessory/screw)のネジで固定してみました。

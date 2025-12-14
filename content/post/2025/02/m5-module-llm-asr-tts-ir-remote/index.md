@@ -1,16 +1,15 @@
 ---
-title: "M5 Module LLMで音声制御リモコンを作ってみました"
+title: M5 Module LLMで音声制御リモコンを作ってみました
 date: 2025-02-02
-slug: "m5-module-llm-asr-tts-ir-remote"
-categories: 
-  - "electronics"
-  - "m5stack"
-tags: 
-  - "arduino"
-  - "ir"
-  - "llm"
-  - "m5stack"
-image: "images/m5-llm-ir-remote1.jpg"
+slug: m5-module-llm-asr-tts-ir-remote
+categories:
+- electronics
+tags:
+- arduino
+- ir
+- llm
+- m5stack
+image: images/m5-llm-ir-remote1.jpg
 ---
 
 [M5Stack Module LLM](https://www.switch-science.com/products/10034)の簡単なアプリケーションとして音声制御赤外線リモコンを作ってみました。私が使っている[M5CoreS3 IoT開発キット](https://docs.m5stack.com/en/core/CoreS3)ではPORT.A/B/Cが装備されていて、各種[Groveモジュール](https://wiki.seeedstudio.com/Grove_System/)が接続できます。このPORTを使わない手はありません。今回はM5GOに付属していた[IRユニット(U002)](https://docs.m5stack.com/en/unit/ir)を活用してみます。

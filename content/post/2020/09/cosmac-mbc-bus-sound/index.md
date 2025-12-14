@@ -1,13 +1,13 @@
 ---
-title: "COSMAC MBC BUSボードにサウンド回路を実装しました"
+title: COSMAC MBC BUSボードにサウンド回路を実装しました
 date: 2020-09-14
-slug: "cosmac-mbc-bus-sound"
-categories: 
-  - "cosmac"
-  - "cosmac-mbc"
-tags: 
-  - "cosmac-mbc"
-image: "images/cosmac_sound_bus3.jpg"
+slug: cosmac-mbc-bus-sound
+categories:
+- cosmac
+- retrocomputing
+tags:
+- cosmac-mbc
+image: images/cosmac_sound_bus3.jpg
 ---
 
 先日製作した[Teensy Pixie Video/HEX Keyboard/Soundボード Rev. 0.1](https://kanpapa.com/cosmac/blog/2020/08/teensy-pixie-hexkey-sound-rev01-assembly.html.html "Teensy Pixie Video/HEX Keyboard/Soundボード Rev. 0.1")にはサウンド回路を組み込みましたが、[STG1861 DISPLAY/HEX KEYBOARD Rev. 0.2](https://kanpapa.com/cosmac/blog/2020/05/cosmac-stg1861-hexkey-rev02-final.html "STG1861 DISPLAY/HEX KEYBOARD Rev. 0.2")にはサウンド回路が組み込まれていません。基板を再設計すれば組み込むことはできると思いますが、もっと簡単に実装できないかと [COSMAC MBC BUS基板](https://kanpapa.com/cosmac/blog/2020/07/cosmac-mbc-bus-rev-02-assembly.html "COSMAC MBC BUSボード Rev. 0.2を製作しました")のユニバーサルエリアに組み込んでみることにしました。電源も取れますし、サウンドのON/OFFを行うQ出力にもバスから接続できます。

@@ -1,13 +1,13 @@
 ---
-title: "6802ワンボードコンピュータELIS68を動かしてみた（３）動作確認編"
+title: 6802ワンボードコンピュータELIS68を動かしてみた（３）動作確認編
 date: 2016-05-01
-slug: "elis68-6802-3"
-categories: 
-  - "6802"
-  - "retrocomputing"
-tags: 
-  - "elis68"
-image: "images/elis68_cpuboard1.jpg"
+slug: elis68-6802-3
+categories:
+- retrocomputing
+tags:
+- elis68
+- '6802'
+image: images/elis68_cpuboard1.jpg
 ---
 
 [ELIS68の部品がすべて揃った](https://kanpapa.com/2016/05/elis68-6802-2.html "6802ワンボードコンピュータELIS68を動かしてみた（２）部品収集編")ところでICソケットに実装していきます。

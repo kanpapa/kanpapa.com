@@ -1,14 +1,15 @@
 ---
-title: "M5Stack用日本語入力キーボードに専用フレームを取り付けてみました"
+title: M5Stack用日本語入力キーボードに専用フレームを取り付けてみました
 date: 2025-11-24
-slug: "orangeputer-kb-m5stack-frame"
-categories: 
-  - "m5stack"
-tags: 
-  - "esp32"
-  - "orangeputer"
-  - "skk"
-image: "images/orangeputer-kb-m5stack-frame2.jpg"
+slug: orangeputer-kb-m5stack-frame
+categories:
+- electronics
+tags:
+- esp32
+- orangeputer
+- skk
+- m5stack
+image: images/orangeputer-kb-m5stack-frame2.jpg
 ---
 
 [前回の記事](https://kanpapa.com/2025/11/orangeputer-m5stacks3-japanese-editor1.html)ではM5Stack CoreS3にOrangeputer-KBを接続し、日本語入力ができることを確認しました。その後、M5Stack用日本語入力キーボード組立てキット用フレーム (Orangeputer-KB + M5StackS3 をハンディコンソール的な感じにするフレーム)が[@n602\_NA](https://x.com/n602_NA)さんから公開されましたので早速3Dプリンタで出力してみました。

@@ -1,14 +1,14 @@
 ---
-title: "TurtleBot2 kobukiがやってきた #5（ROS2リモート制御編）"
+title: 'TurtleBot2 kobukiがやってきた #5（ROS2リモート制御編）'
 date: 2024-04-30
-slug: "turtlebot2-kobuki-5-ros2-remote-pc"
-categories: 
-  - "turtlebot2"
-tags: 
-  - "kobuki"
-  - "ros2"
-  - "turtlebot2"
-image: "images/turtlebot2-kobuki-5-ros2-remote-pc-eyecatch1.jpg"
+slug: turtlebot2-kobuki-5-ros2-remote-pc
+categories:
+- robot
+tags:
+- kobuki
+- ros2
+- turtlebot2
+image: images/turtlebot2-kobuki-5-ros2-remote-pc-eyecatch1.jpg
 ---
 
 kobukiを自由に走行させるためにはkobuki本体に小型のPCを搭載して、その上でROS2が動作する必要があります。今回はこのPCの環境整備を行いkobukiに載せてリモートで制御できるようにします。

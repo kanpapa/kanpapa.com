@@ -1,15 +1,15 @@
 ---
-title: "RISC-Vマイコン CH32X035G8U6 ブレークアウトモジュールとArduino IDEでLチカをしてみました"
+title: RISC-Vマイコン CH32X035G8U6 ブレークアウトモジュールとArduino IDEでLチカをしてみました
 date: 2025-07-03
-slug: "blink-risc-v-ch32x035-arduino"
-categories: 
-  - "risc-v"
-tags: 
-  - "arduino"
-  - "ch32x035"
-  - "risc-v"
-  - "akiduki-denshi"
-image: "images/ch32x035g8u6-breakout-blinking.jpg"
+slug: blink-risc-v-ch32x035-arduino
+categories:
+- electronics
+tags:
+- arduino
+- ch32x035
+- risc-v
+- akiduki-denshi
+image: images/ch32x035g8u6-breakout-blinking.jpg
 ---
 
 [秋月電子](https://akizukidenshi.com/)さんに気になる新商品がありました。 [32ビットRISC-Vマイコン CH32X035G8U6 ブレークアウトモジュールキット](https://akizukidenshi.com/catalog/g/g131018/) です。これはRISC-Vマイコン CH32X035G8U6をDIP変換基板に載せて扱いやすくしたものです。価格も290円でお手頃です。以前に[40円RISC-Vマイコン(CH32V003)をArduino IDEでLチカをしてみました](https://kanpapa.com/2023/06/blink-risc-v-ch32v003-arduino.html)の記事を書きましたが、これと同様にArduino IDEでお手軽に使えるのか試してみました。

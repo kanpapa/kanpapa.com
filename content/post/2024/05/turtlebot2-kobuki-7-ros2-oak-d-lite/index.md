@@ -1,15 +1,15 @@
 ---
-title: "TurtleBot2 kobukiがやってきた #7（ROS2 物体追尾編）"
+title: 'TurtleBot2 kobukiがやってきた #7（ROS2 物体追尾編）'
 date: 2024-05-05
-slug: "turtlebot2-kobuki-7-ros2-oak-d-lite"
-categories: 
-  - "turtlebot2"
-tags: 
-  - "kobuki"
-  - "oak-d-lite"
-  - "ros2"
-  - "turtlebot2"
-image: "images/turtlebot2-kobuki-oak-d-lite-eyecatch.jpg"
+slug: turtlebot2-kobuki-7-ros2-oak-d-lite
+categories:
+- robot
+tags:
+- kobuki
+- oak-d-lite
+- ros2
+- turtlebot2
+image: images/turtlebot2-kobuki-oak-d-lite-eyecatch.jpg
 ---
 
 [前回](https://kanpapa.com/2024/05/turtlebot2-kobuki-6-ros2-slam.html)はLiDARを使用してSLAMを行いましたが、今回は手持ちの[OAK-D-LITE](https://docs.luxonis.com/projects/hardware/en/latest/pages/DM9095/)というAIカメラを使ってkobukiに目の機能を搭載してみます。以前にMini Pupper2の製作で物体を追尾する動作を行いましたのでそれを流用してkobukiでも同じような動きをさせてみます。

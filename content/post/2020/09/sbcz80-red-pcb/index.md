@@ -1,12 +1,13 @@
 ---
-title: "SBCZ80を動かしてみました"
+title: SBCZ80を動かしてみました
 date: 2020-09-06
-slug: "sbcz80-red-pcb"
-categories: 
-  - "z80"
-tags: 
-  - "sbcz80"
-image: "images/SBCZ80_red1.jpg"
+slug: sbcz80-red-pcb
+categories:
+- retrocomputing
+tags:
+- sbcz80
+- z80
+image: images/SBCZ80_red1.jpg
 ---
 
 いつ出るのかと以前から話題になっていたZ80本「[ザイログZ80伝説](https://www.rutles.net/products/detail.php?product_id=858 "ザイログZ80伝説")」がついに発売になりました。

@@ -1,12 +1,12 @@
 ---
-title: "Mini Pupper 2 を組み立ててみました (2) 表示パネルとフレーム1"
+title: Mini Pupper 2 を組み立ててみました (2) 表示パネルとフレーム1
 date: 2023-10-23
-slug: "mini-pupper-2-part2"
-categories: 
-  - "mini-pupper-2"
-tags: 
-  - "mini-pupper-2"
-image: "images/MP2_2_servo3.jpg"
+slug: mini-pupper-2-part2
+categories:
+- robot
+tags:
+- mini-pupper-2
+image: images/MP2_2_servo3.jpg
 ---
 
 [Mini Pupper 2の組み立て準備](https://kanpapa.com/2023/10/mini-pupper-2-part1.html "Mini Pupper 2 を組み立ててみました (1) 組み立て準備編")ができましたので、実際に組み立ててみます。

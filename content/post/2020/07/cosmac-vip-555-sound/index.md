@@ -1,13 +1,13 @@
 ---
-title: "COSMAC VIPのサウンド回路を実装しました"
+title: COSMAC VIPのサウンド回路を実装しました
 date: 2020-07-19
-slug: "cosmac-vip-555-sound"
-categories: 
-  - "cosmac"
-  - "cosmac-mbc"
-tags: 
-  - "cosmac-mbc"
-image: "images/cosmac_vip_sound1.jpg"
+slug: cosmac-vip-555-sound
+categories:
+- cosmac
+- retrocomputing
+tags:
+- cosmac-mbc
+image: images/cosmac_vip_sound1.jpg
 ---
 
 COSMAC VIPにはタイマーIC555を使用したサウンド回路が搭載されています。555といえば一度は触ったことがあるのではないかと思います。

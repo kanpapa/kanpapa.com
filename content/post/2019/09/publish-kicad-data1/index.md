@@ -1,12 +1,12 @@
 ---
-title: "KiCadデータを掲載しました。"
+title: KiCadデータを掲載しました。
 date: 2019-09-10
-slug: "publish-kicad-data1"
-categories: 
-  - "cosmac"
-  - "cosmac-toy"
-tags: 
-  - "cosmac-toy"
+slug: publish-kicad-data1
+categories:
+- cosmac
+- retrocomputing
+tags:
+- cosmac-toy
 ---
 
 [COSMAC Toy Computer (GitHub.com)](https://github.com/kanpapa/cosmac_toy)のページにKiCadデータを掲載しました。

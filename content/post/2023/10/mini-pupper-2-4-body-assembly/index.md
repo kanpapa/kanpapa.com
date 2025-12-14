@@ -1,12 +1,12 @@
 ---
-title: "Mini Pupper 2 を組み立ててみました (4) ボディの組み立て"
+title: Mini Pupper 2 を組み立ててみました (4) ボディの組み立て
 date: 2023-10-24
-slug: "mini-pupper-2-4-body-assembly"
-categories: 
-  - "mini-pupper-2"
-tags: 
-  - "mini-pupper-2"
-image: "images/MP2_4_body_fin2.jpg"
+slug: mini-pupper-2-4-body-assembly
+categories:
+- robot
+tags:
+- mini-pupper-2
+image: images/MP2_4_body_fin2.jpg
 ---
 
 [前回の記事](https://kanpapa.com/2023/10/mini-pupper-2-3-raspberry-pi-cm4b.html "Mini Pupper 2 を組み立ててみました (3) Raspberry Pi CM4をModel Bに交換")では技適がらみであえてRaspberry Pi 4を使った環境構築や動作確認を行いました。そうこうしているうちに開発元から送っていただいた不足分のパーツが到着しました。ついでにCM4の外箱も送っていただきました。

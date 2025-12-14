@@ -1,13 +1,13 @@
 ---
-title: "MIC68Kワンボードコンピュータで遊んでみた（１）調査編"
+title: MIC68Kワンボードコンピュータで遊んでみた（１）調査編
 date: 2017-10-22
-slug: "mic68k-investigation"
-categories: 
-  - "68000"
-  - "retrocomputing"
-tags: 
-  - "mic68k"
-image: "images/mic68k_board1.jpg"
+slug: mic68k-investigation
+categories:
+- retrocomputing
+tags:
+- mic68k
+- '68000'
+image: images/mic68k_board1.jpg
 ---
 
 ヤフオクで68000CPUが搭載されたレガシーなワンボードコンピュータが出品されていたので落札しました。出品情報によると「MIC68K」という名称のようです。まずはどんなワンボードコンピュータなのか基板を観察してみます。

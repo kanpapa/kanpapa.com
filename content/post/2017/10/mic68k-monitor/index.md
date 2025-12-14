@@ -1,13 +1,13 @@
 ---
-title: "MIC68Kワンボードコンピュータで遊んでみた（４）モニタ実装編"
+title: MIC68Kワンボードコンピュータで遊んでみた（４）モニタ実装編
 date: 2017-10-27
-slug: "mic68k-monitor"
-categories: 
-  - "68000"
-  - "retrocomputing"
-tags: 
-  - "mic68k"
-image: "images/mic68k_complete.jpg"
+slug: mic68k-monitor
+categories:
+- retrocomputing
+tags:
+- mic68k
+- '68000'
+image: images/mic68k_complete.jpg
 ---
 
 前回の[Hello World編](https://kanpapa.com/2017/10/mic68k-helloworld.html "MIC68KHelloWorld編")では、MIC68KでEPROMに焼いたプログラムを動かして、シリアルポートからHello Worldの文字列を出力させました。今回はこのシリアルポートをコンソールにしてモニタプログラムを実装しますが、ゼロから実装するのは大変なので、他のシステムで使われたモニタプログラムを移植することにしました。Web検索をしてみると次のような手頃なシステムがありました。

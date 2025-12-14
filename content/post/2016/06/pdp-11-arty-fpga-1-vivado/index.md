@@ -1,15 +1,14 @@
 ---
-title: "PDP-11をARTY FPGAボードで動かしてみた(1) Vivado開発環境の準備"
+title: PDP-11をARTY FPGAボードで動かしてみた(1) Vivado開発環境の準備
 date: 2016-06-05
-slug: "pdp-11-arty-fpga-1-vivado"
-categories: 
-  - "pdp-11"
-  - "retrocomputing"
-tags: 
-  - "arty"
-  - "fpga"
-  - "pdp-11"
-image: "images/vivado_linux1.jpg"
+slug: pdp-11-arty-fpga-1-vivado
+categories:
+- retrocomputing
+tags:
+- arty
+- fpga
+- pdp-11
+image: images/vivado_linux1.jpg
 ---
 
 ## はじめに

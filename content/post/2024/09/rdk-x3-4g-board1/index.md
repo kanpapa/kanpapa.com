@@ -1,14 +1,15 @@
 ---
-title: "D-Robotics RDK X3 マイコンボードを試してみた"
+title: D-Robotics RDK X3 マイコンボードを試してみた
 date: 2024-09-26
-slug: "rdk-x3-4g-board1"
-categories: 
-  - "rdk"
-  - "electronics"
-tags: 
-  - "ai"
-  - "rdk-x3"
-image: "images/rdk-x3-4g-startup1.jpg"
+slug: rdk-x3-4g-board1
+categories:
+- electronics
+- robot
+tags:
+- ai
+- rdk-x3
+- rdk
+image: images/rdk-x3-4g-startup1.jpg
 ---
 
 [Maker Faire Tokyo 2024](https://makezine.jp/event/mft2024/)のスイッチサイエンスさんのブースで[D-Robotics社のRDK X3](https://www.switch-science.com/blogs/magazine/d-robotics-rdk-x3)というマイコンボードが先行販売されていました。Raspberry Piぐらいのサイズですが、画像認識のデモが行われていて複数のオブジェクトが高速に認識できているように見えました。これはAIロボットに使えるかもと思わず買ってしまったので、第一印象をまとめてみました。

@@ -1,13 +1,13 @@
 ---
-title: "EMU1802-mini でPICのUARTを使用してみました"
+title: EMU1802-mini でPICのUARTを使用してみました
 date: 2022-07-09
-slug: "emu1802-mini-uart"
-categories: 
-  - "cosmac"
-  - "emu1802"
-tags: 
-  - "emu1802"
-image: "images/emu1802-mini-uart-test0703.jpg"
+slug: emu1802-mini-uart
+categories:
+- cosmac
+- retrocomputing
+tags:
+- emu1802
+image: images/emu1802-mini-uart-test0703.jpg
 ---
 
 原型となった[EMUZ80](https://vintagechips.wordpress.com/2022/03/05/emuz80_reference/ "EMUZ80が完成")では、PIC18F47Q43でROM, RAM, UARTをエミュレーションしています。EMU1802-miniではPICのUARTの機能は使わずCOSMAC CPUのQ出力とEF3入力を利用したソフトウェアシリアルを使っていました。これは既存のCOSMACのソフトウェアではソフトウェアシリアルが利用されていてハードウェアの互換性があるからです。

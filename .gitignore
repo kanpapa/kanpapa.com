@@ -1,11 +1,28 @@
 # ビルド生成物（これらはGit管理しません）
-/public
 /resources/_gen
 /resources/images
+
+# Hugo generated output
+public/
+output/
 
 # OSのシステムファイル（Mac/Windowsのゴミファイル）
 .DS_Store
 Thumbs.db
+
+# Pythonスクリプトと一時ファイル（必要なければ）
+1_analyze_categories.py
+2_apply_categories.py
+generate_categories.py
+category_plan.yaml
+add_slug.py
+run.log
+
+# 不要データ
+unused_images/
+
+# ログとテスト結果
+*.log
 
 # エディタの一時ファイル（VSCodeなど）
 .vscode/

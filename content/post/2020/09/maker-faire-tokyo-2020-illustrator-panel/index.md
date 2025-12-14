@@ -1,15 +1,15 @@
 ---
-title: "Maker Faire Tokyo 2020の出展にむけて説明資料を準備中です"
+title: Maker Faire Tokyo 2020の出展にむけて説明資料を準備中です
 date: 2020-09-22
-slug: "maker-faire-tokyo-2020-illustrator-panel"
-categories: 
-  - "cosmac"
-  - "cosmac-mbc"
-tags: 
-  - "cosmac-mbc"
-  - "maker-faire"
-  - "mft2020"
-image: "images/illustrator_panel1.jpg"
+slug: maker-faire-tokyo-2020-illustrator-panel
+categories:
+- cosmac
+- retrocomputing
+tags:
+- cosmac-mbc
+- maker-faire
+- mft2020
+image: images/illustrator_panel1.jpg
 ---
 
 [Maker Faire Tokyo 2020](https://makezine.jp/event/mft2020/ "Maker Faire Tokyo 2020")まであと２週間を切りました。[COSMAC研究会](https://makezine.jp/event/makers-mft2020/m0029/ "COSMAC研究会")ではハードウェアやソフトウェアの準備は落ち着いたので、フライヤーやパネルといった説明資料を準備中です。

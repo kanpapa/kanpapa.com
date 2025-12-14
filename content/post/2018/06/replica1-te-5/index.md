@@ -1,13 +1,13 @@
 ---
-title: "Apple1レプリカのreplica1 TEを組み立ててみる（５）"
+title: Apple1レプリカのreplica1 TEを組み立ててみる（５）
 date: 2018-06-16
-slug: "replica1-te-5"
-categories: 
-  - "6502"
-  - "retrocomputing"
-tags: 
-  - "apple1"
-image: "images/replica1_te_53.jpg"
+slug: replica1-te-5
+categories:
+- retrocomputing
+tags:
+- apple1
+- '6502'
+image: images/replica1_te_53.jpg
 ---
 
 このreplica1 TEのメモリマップは以下のようになっています。

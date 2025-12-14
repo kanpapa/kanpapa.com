@@ -1,14 +1,14 @@
 ---
-title: "68000 VMEボードで遊んでみました（6）アドレスデコーダ解析編"
+title: 68000 VMEボードで遊んでみました（6）アドレスデコーダ解析編
 date: 2023-09-04
-slug: "68000-vme-board6"
-categories: 
-  - "68000"
-  - "retrocomputing"
-tags: 
-  - "dvmecpu2"
-  - "vme"
-image: "images/vme-board5-cpusocket-mbed68k1.jpg"
+slug: 68000-vme-board6
+categories:
+- retrocomputing
+tags:
+- dvmecpu2
+- vme
+- '68000'
+image: images/vme-board5-cpusocket-mbed68k1.jpg
 ---
 
 [前回までの調査でROMのプログラムを動かす](https://kanpapa.com/2023/09/68000-vme-board5.html "68000 VMEボードで遊んでみました（5）プログラム実行編")ことができましたが、RAMがまだ使えない状態です。今回はRAMの実アドレスを調べていきます。

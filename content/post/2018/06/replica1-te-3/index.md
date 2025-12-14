@@ -1,13 +1,13 @@
 ---
-title: "Apple1レプリカのreplica1 TEを組み立ててみる（３）"
+title: Apple1レプリカのreplica1 TEを組み立ててみる（３）
 date: 2018-06-16
-slug: "replica1-te-3"
-categories: 
-  - "6502"
-  - "retrocomputing"
-tags: 
-  - "apple1"
-image: "images/replica1_te_36.jpg"
+slug: replica1-te-3
+categories:
+- retrocomputing
+tags:
+- apple1
+- '6502'
+image: images/replica1_te_36.jpg
 ---
 
 replica1 TE kitのパーツの確認も終わったので、まずは背の低いパーツである抵抗からはんだ付けしていきます。

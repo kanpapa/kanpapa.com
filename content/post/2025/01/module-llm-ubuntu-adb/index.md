@@ -1,17 +1,16 @@
 ---
-title: "ubuntuのadbでModule LLMに接続してみました"
+title: ubuntuのadbでModule LLMに接続してみました
 date: 2025-01-30
-slug: "module-llm-ubuntu-adb"
-categories: 
-  - "electronics"
-  - "m5stack"
-tags: 
-  - "ax620"
-  - "llm"
-  - "m5stack"
-  - "ubuntu"
-  - "udev"
-image: "images/m5stack-module-llm1.jpg"
+slug: module-llm-ubuntu-adb
+categories:
+- electronics
+tags:
+- ax620
+- llm
+- m5stack
+- ubuntu
+- udev
+image: images/m5stack-module-llm1.jpg
 ---
 
 [M5Stack Module LLM](https://docs.m5stack.com/ja/module/Module-LLM)にWiFiドングルを接続するために、ubuntuの[Android Debug Bridge（adb）](https://developer.android.com/tools/adb?hl=ja)で接続しようとしたところ、少し設定が必要でしたのでまとめました。

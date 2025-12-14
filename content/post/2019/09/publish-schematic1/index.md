@@ -1,13 +1,13 @@
 ---
-title: "COSMAC TOYの回路図を掲載しました。"
+title: COSMAC TOYの回路図を掲載しました。
 date: 2019-09-09
-slug: "publish-schematic1"
-categories: 
-  - "cosmac"
-  - "cosmac-toy"
-tags: 
-  - "cosmac-toy"
-image: "images/cosmac_cpu_schematics_cpuboard1.png"
+slug: publish-schematic1
+categories:
+- cosmac
+- retrocomputing
+tags:
+- cosmac-toy
+image: images/cosmac_cpu_schematics_cpuboard1.png
 ---
 
 [COSMAC Toy Computer (GitHub.com)](https://github.com/kanpapa/cosmac_toy)のページに回路図を掲載しました。

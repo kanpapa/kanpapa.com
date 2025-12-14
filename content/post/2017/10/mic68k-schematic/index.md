@@ -1,13 +1,13 @@
 ---
-title: "MIC68Kワンボードコンピュータで遊んでみた（２）解析編"
+title: MIC68Kワンボードコンピュータで遊んでみた（２）解析編
 date: 2017-10-23
-slug: "mic68k-schematic"
-categories: 
-  - "68000"
-  - "retrocomputing"
-tags: 
-  - "mic68k"
-image: "images/mic68k_schematic2.jpg"
+slug: mic68k-schematic
+categories:
+- retrocomputing
+tags:
+- mic68k
+- '68000'
+image: images/mic68k_schematic2.jpg
 ---
 
 前回の[調査編](https://kanpapa.com/2017/10/mic68k-Investigation.html "MIC68K調査編")である程度の構造は把握できましたが、MIC68Kを実際に動かすためには、ROM/RAM/周辺デバイスがどのアドレスに配置されるのかを調べなければなりません。よく基板上にアドレスが書かれていることがありますが、この基板にはそのような情報はありませんでした。それを知るためにはプリント基板の配線を追って回路図を起こすことになります。ただし、すべてを回路図に起こすのは時間がかかりますので、知りたいところを優先して解析します。

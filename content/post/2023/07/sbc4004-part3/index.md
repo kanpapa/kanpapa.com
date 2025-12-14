@@ -1,13 +1,13 @@
 ---
-title: "SBC4004を組み立ててみました（３）動作確認編"
+title: SBC4004を組み立ててみました（３）動作確認編
 date: 2023-07-15
-slug: "sbc4004-part3"
-categories: 
-  - "4004"
-  - "retrocomputing"
-tags: 
-  - "sbc4004"
-image: "images/sbc4004_startup1.jpg"
+slug: sbc4004-part3
+categories:
+- retrocomputing
+tags:
+- sbc4004
+- '4004'
+image: images/sbc4004_startup1.jpg
 ---
 
 前回は[SBC4004を組み立てました](https://kanpapa.com/2023/07/sbc4004-part2.html "SBC4004を組み立ててみました（２）組み立て編")。今回はSBC4004の動作確認を進めます。

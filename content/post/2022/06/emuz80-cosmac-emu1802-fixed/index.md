@@ -1,14 +1,14 @@
 ---
-title: "EMUZ80でCOSMACを動かしてみました 5（仕上げ編）"
+title: EMUZ80でCOSMACを動かしてみました 5（仕上げ編）
 date: 2022-06-05
-slug: "emuz80-cosmac-emu1802-fixed"
-categories: 
-  - "cosmac"
-  - "emu1802"
-tags: 
-  - "emu1802"
-  - "emuz80"
-image: "images/emu1802-fixed5.jpg"
+slug: emuz80-cosmac-emu1802-fixed
+categories:
+- cosmac
+- retrocomputing
+tags:
+- emu1802
+- emuz80
+image: images/emu1802-fixed5.jpg
 ---
 
 [EMU1802でIDIOTモニタまで動作](https://kanpapa.com/cosmac/blog/2022/06/emuz80-cosmac-idiot-monitor.html "EMUZ80でCOSMACを動かしてみました 4（モニタ動作編）")するようになりましたので、ハードウェアはこれでFIXとし、ジャンパー線をはずして基板上で配線することにします。今日は[おおたfab](https://ot-fb.com/ "おおたfab")さんで作業しました。

@@ -1,16 +1,16 @@
 ---
-title: "Maker Faire Tokyo 2020の出展にむけてCOVID-19対策準備中です。"
+title: Maker Faire Tokyo 2020の出展にむけてCOVID-19対策準備中です。
 date: 2020-08-17
-slug: "mftokyo2020-covid-19-cosmac-vip-keyboard"
-categories: 
-  - "cosmac"
-  - "cosmac-mbc"
-tags: 
-  - "cosmac-mbc"
-  - "esp32"
-  - "maker-faire"
-  - "mft2020"
-image: "images/cosmac_vip_web_keyboard1.png"
+slug: mftokyo2020-covid-19-cosmac-vip-keyboard
+categories:
+- cosmac
+- retrocomputing
+tags:
+- cosmac-mbc
+- esp32
+- maker-faire
+- mft2020
+image: images/cosmac_vip_web_keyboard1.png
 ---
 
 10月に行われる[Maker Faire Tokyo 2020の出展](https://kanpapa.com/cosmac/blog/2020/07/cosmac-lab-maker-faire-tokyo-2020.html "COSMAC研究会はMaker Faire Tokyo 2020へ出展いたします")に向けてCOVID-19の対策を考えています。来場者の皆様が作品を直接触らなくても試せるように今回の展示の中心となるCOSMAC MBC（COSMAC VIP相当）の16進キーボードをスマホで操作できるように試作中です。

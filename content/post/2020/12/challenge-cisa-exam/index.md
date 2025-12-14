@@ -1,12 +1,13 @@
 ---
-title: "CISAにチャレンジしてみることにしました"
+title: CISAにチャレンジしてみることにしました
 date: 2020-12-28
-slug: "challenge-cisa-exam"
-categories: 
-  - "security"
-tags: 
-  - "cisa"
-image: "images/cisa_review_manual.jpeg"
+slug: challenge-cisa-exam
+categories:
+- security
+tags:
+- cisa
+- security
+image: images/cisa_review_manual.jpeg
 ---
 
 [CISSPに合格](https://kanpapa.com/2019/12/cissp-exam-pass.html "CISSPの試験に合格するまで")してからしばらく資格取得はお休みしていましたが、そろそろ次の資格にチャレンジしてみようと思います。次は[CISA (Certified Information Systems Auditor)](https://www.isaca.gr.jp/cisa/index.html "CISA (Certified Information Systems Auditor)")という資格で、情報システムの監査および、セキュリティ、コントロールに関する高度な知識、技能と経験を有するプロフェッショナルとして[ISACA](https://www.isaca.org "ISACA")が認定する国際資格で、日本語では「公認情報システム監査人」となるそうです。

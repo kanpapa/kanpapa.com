@@ -1,14 +1,13 @@
 ---
-title: "PDP-11をARTY FPGAボードで動かしてみた(2) OpenCores開発環境の準備"
+title: PDP-11をARTY FPGAボードで動かしてみた(2) OpenCores開発環境の準備
 date: 2016-06-05
-slug: "pdp-11-arty-fpga-2-opencores"
-categories: 
-  - "pdp-11"
-  - "retrocomputing"
-tags: 
-  - "arty"
-  - "fpga"
-  - "pdp-11"
+slug: pdp-11-arty-fpga-2-opencores
+categories:
+- retrocomputing
+tags:
+- arty
+- fpga
+- pdp-11
 ---
 
 [Vivadoの開発環境](https://kanpapa.com/2016/06/pdp-11-arty-fpga-1-vivado.html "Vivadoの開発環境整備")がインストールできたところで、次はOpenCoresの開発環境を準備します。

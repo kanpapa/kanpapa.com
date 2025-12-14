@@ -1,15 +1,15 @@
 ---
-title: "ESP32でサーボモーターを動かしました（おおたfab 電子工作初心者勉強会）"
+title: ESP32でサーボモーターを動かしました（おおたfab 電子工作初心者勉強会）
 date: 2022-12-10
-slug: "esp32-otafab-study-servo"
-categories: 
-  - "esp32"
-tags: 
-  - "arduino"
-  - "esp32"
-  - "otafab"
-  - "otafab-esp32"
-image: "images/esp32-servo2.jpg"
+slug: esp32-otafab-study-servo
+categories:
+- electronics
+tags:
+- arduino
+- esp32
+- otafab
+- otafab-esp32
+image: images/esp32-servo2.jpg
 ---
 
 [おおたfab](https://ot-fb.com/event "おおたfab")さんでは電子工作初心者勉強会を定期的に開催しています。

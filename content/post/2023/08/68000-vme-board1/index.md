@@ -1,14 +1,14 @@
 ---
-title: "68000 VMEボードで遊んでみました（１）入手編"
+title: 68000 VMEボードで遊んでみました（１）入手編
 date: 2023-08-02
-slug: "68000-vme-board1"
-categories: 
-  - "68000"
-  - "retrocomputing"
-tags: 
-  - "dvmecpu2"
-  - "vme"
-image: "images/DVME_CPU2_board1.jpg"
+slug: 68000-vme-board1
+categories:
+- retrocomputing
+tags:
+- dvmecpu2
+- vme
+- '68000'
+image: images/DVME_CPU2_board1.jpg
 ---
 
 オークションで気になる商品を見つけてしまいました。68000 CPUが搭載されたデジタル社のDVME-CPU2 VMEボードです。やや古いボードのためか他に入札もなく、安価で落札できました。これはやはり実際に動かしてみたいです。

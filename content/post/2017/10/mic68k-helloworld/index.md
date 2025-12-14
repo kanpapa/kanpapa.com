@@ -1,13 +1,13 @@
 ---
-title: "MIC68Kワンボードコンピュータで遊んでみた（３）Hello World編"
+title: MIC68Kワンボードコンピュータで遊んでみた（３）Hello World編
 date: 2017-10-24
-slug: "mic68k-helloworld"
-categories: 
-  - "68000"
-  - "retrocomputing"
-tags: 
-  - "mic68k"
-image: "images/mic68k_helloworld.jpg"
+slug: mic68k-helloworld
+categories:
+- retrocomputing
+tags:
+- mic68k
+- '68000'
+image: images/mic68k_helloworld.jpg
 ---
 
 前回の[解析編](https://kanpapa.com/2017/10/mic68k-schematic.html "MIC68k解析編")でこのMIC68Kのメモリマップがわかりましたので、実際にプログラムを動かしてみます。68000のアセンブラは[DragonBall-EZ(MC68EZ328)](https://kanpapa.com/2017/04/dragonball-ez-program1.html "MC68EZ328")で遊んだときに使った[EASy68K](http://www.easy68k.com/ "EASy68K")を使いました。

@@ -1,15 +1,15 @@
 ---
-title: "COSMAC TOY V2で2025年の書き初めをしてみました"
+title: COSMAC TOY V2で2025年の書き初めをしてみました
 date: 2025-01-01
-slug: "cosmac-toy-v2-pov-newyear2025"
-categories: 
-  - "cosmac"
-  - "cosmac-toy-v2"
-tags: 
-  - "cosmac-toy-v2"
-  - "pov"
-  - "書き初め"
-image: "images/cosmac-toy-v2-pov1.jpg"
+slug: cosmac-toy-v2-pov-newyear2025
+categories:
+- cosmac
+- retrocomputing
+tags:
+- cosmac-toy-v2
+- pov
+- 書き初め
+image: images/cosmac-toy-v2-pov1.jpg
 ---
 
 あけましておめでとうございます。  

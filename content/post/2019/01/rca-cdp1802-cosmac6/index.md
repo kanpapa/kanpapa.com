@@ -1,13 +1,13 @@
 ---
-title: "RCA CDP1802 COSMACを動かしてみた(6) 基板動作編"
+title: RCA CDP1802 COSMACを動かしてみた(6) 基板動作編
 date: 2019-01-17
-slug: "rca-cdp1802-cosmac6"
-categories: 
-  - "cosmac"
-  - "cosmac-toy"
-tags: 
-  - "cosmac-toy"
-image: "images/cosmac_system2.jpg"
+slug: rca-cdp1802-cosmac6
+categories:
+- cosmac
+- retrocomputing
+tags:
+- cosmac-toy
+image: images/cosmac_system2.jpg
 ---
 
 [前回の記事](https://kanpapa.com/cosmac/blog/2018/12/rca-cdp1802-cosmac5.html "RCA CDP1802 COSMACを動かしてみた(5) 基板発注編")で基板を発注してから３週間がたちました。まずはCPU基板が到着しました。

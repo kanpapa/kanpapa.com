@@ -1,11 +1,12 @@
 ---
-title: "作りながら学ぶMC68000本を購入しました"
+title: 作りながら学ぶMC68000本を購入しました
 date: 2013-11-26
-slug: "mc68000"
-categories: 
-  - "68000"
-  - "retrocomputing"
-image: "images/mc68k_book.jpg"
+slug: mc68000
+categories:
+- retrocomputing
+image: images/mc68k_book.jpg
+tags:
+- '68000'
 ---
 
 古本屋でこんな本を見つけたので思わず購入しました。

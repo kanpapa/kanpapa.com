@@ -1,13 +1,13 @@
 ---
-title: "Teensy 3.2でのCDP1861 Pixie Simulatorを試してみました"
+title: Teensy 3.2でのCDP1861 Pixie Simulatorを試してみました
 date: 2020-08-02
-slug: "teensy32-cdp1861-pixie-simulator"
-categories: 
-  - "cosmac"
-  - "cosmac-mbc"
-tags: 
-  - "cosmac-mbc"
-image: "images/teensy32_pixie_lcd1.jpg"
+slug: teensy32-cdp1861-pixie-simulator
+categories:
+- cosmac
+- retrocomputing
+tags:
+- cosmac-mbc
+image: images/teensy32_pixie_lcd1.jpg
 ---
 
 私は英語は苦手なのですがCOSMACコミュニティの情報を入手するために[COSMAC ELF Group](https://groups.io/g/cosmacelf "COSMAC ELF Group")のメールを購読しています。その中でも興味あるプロジェクトの投稿を見かけました。

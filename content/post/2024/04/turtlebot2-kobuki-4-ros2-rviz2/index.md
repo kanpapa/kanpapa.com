@@ -1,14 +1,14 @@
 ---
-title: "TurtleBot2 kobukiがやってきた #4（ROS2 Rviz2編）"
+title: 'TurtleBot2 kobukiがやってきた #4（ROS2 Rviz2編）'
 date: 2024-04-30
-slug: "turtlebot2-kobuki-4-ros2-rviz2"
-categories: 
-  - "turtlebot2"
-tags: 
-  - "kobuki"
-  - "ros2"
-  - "turtlebot2"
-image: "images/turtlebot2-kobuki-4-ros2-rviz2-eyecatch.png"
+slug: turtlebot2-kobuki-4-ros2-rviz2
+categories:
+- robot
+tags:
+- kobuki
+- ros2
+- turtlebot2
+image: images/turtlebot2-kobuki-4-ros2-rviz2-eyecatch.png
 ---
 
 [前回](https://kanpapa.com/2024/04/turtlebot2-kobuki-3-ros2.html)はkobukiのファームウェアをアップデートしたあとにROS2 Humble環境でkobukiをコントロールできることを確認できました。今回はROS2の可視化ツールであるRviz2でkobukiの情報を可視化してみます。

@@ -1,12 +1,12 @@
 ---
-title: "Mini Pupper 2 を組み立ててみました (5) 脚の組み立て"
+title: Mini Pupper 2 を組み立ててみました (5) 脚の組み立て
 date: 2023-11-05
-slug: "mini-pupper-2-5-legs-assembly"
-categories: 
-  - "mini-pupper-2"
-tags: 
-  - "mini-pupper-2"
-image: "images/MP2_5_leg_parts13.jpg"
+slug: mini-pupper-2-5-legs-assembly
+categories:
+- robot
+tags:
+- mini-pupper-2
+image: images/MP2_5_leg_parts13.jpg
 ---
 
 [Mini Pupper 2の胴体ができました](https://kanpapa.com/2023/10/mini-pupper-2-4-body-assembly.html "Mini Pupper 2 を組み立ててみました (4) ボディの組み立て")ので、脚を組み立てて取り付けていきます。

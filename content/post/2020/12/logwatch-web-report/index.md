@@ -1,10 +1,12 @@
 ---
-title: "Logwatchの仕様変更からWebサーバへの攻撃増加を知る"
+title: Logwatchの仕様変更からWebサーバへの攻撃増加を知る
 date: 2020-12-19
-slug: "logwatch-web-report"
-categories: 
-  - "security"
-image: "images/logwatch_report.png"
+slug: logwatch-web-report
+categories:
+- security
+image: images/logwatch_report.png
+tags:
+- security
 ---
 
 現在このWebサーバをCentOS 8.1からUbuntu 20.04へ移行中です。

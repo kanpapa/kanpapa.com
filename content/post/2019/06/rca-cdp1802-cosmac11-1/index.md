@@ -1,13 +1,13 @@
 ---
-title: "RCA CDP1802 COSMACを動かしてみた(11) モーターを制御してみた"
+title: RCA CDP1802 COSMACを動かしてみた(11) モーターを制御してみた
 date: 2019-06-22
-slug: "rca-cdp1802-cosmac11-1"
-categories: 
-  - "cosmac"
-  - "cosmac-toy"
-tags: 
-  - "cosmac-toy"
-image: "images/cosmac_motor_bread.jpg"
+slug: rca-cdp1802-cosmac11-1
+categories:
+- cosmac
+- retrocomputing
+tags:
+- cosmac-toy
+image: images/cosmac_motor_bread.jpg
 ---
 
 COSMACでDCモーターを制御してみました。モータードライバは各社から出ていますが、ブレッドボードでも手軽に実験ができそうな秋月電子の[TB6612使用 Dual DCモータードライブキット\[AE-TB6612\]](http://akizukidenshi.com/catalog/g/gK-11219/ "TB6612使用 Dual DCモータードライブキット[AE-TB6612]")を使うことにしました。いつものようにブレッドボードで試作し、動作確認をしたところで基板化します。

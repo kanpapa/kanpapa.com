@@ -1,12 +1,12 @@
 ---
-title: "Mini Pupper 2 を組み立ててみました (6) 動作確認"
+title: Mini Pupper 2 を組み立ててみました (6) 動作確認
 date: 2024-02-11
-slug: "mini-pupper-2-6-final-assembly"
-categories: 
-  - "mini-pupper-2"
-tags: 
-  - "mini-pupper-2"
-image: "images/mini-pupper-2-6-final-assembly4.jpg"
+slug: mini-pupper-2-6-final-assembly
+categories:
+- robot
+tags:
+- mini-pupper-2
+image: images/mini-pupper-2-6-final-assembly4.jpg
 ---
 
 [Mini Pupper 2の脚の組み立て](https://kanpapa.com/2023/11/mini-pupper-2-5-legs-assembly.html)ができましたので、脚や腰を正しく動かすためにサーボモーターの調整を行います。

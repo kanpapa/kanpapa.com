@@ -1,13 +1,13 @@
 ---
-title: "EMU1802-mini専用基板の販売が開始されました"
+title: EMU1802-mini専用基板の販売が開始されました
 date: 2022-07-13
-slug: "emu1802-mini-pcb-rev10"
-categories: 
-  - "cosmac"
-  - "emu1802"
-tags: 
-  - "emu1802"
-image: "images/emu1802-mini-pcb_rev10.jpg"
+slug: emu1802-mini-pcb-rev10
+categories:
+- cosmac
+- retrocomputing
+tags:
+- emu1802
+image: images/emu1802-mini-pcb_rev10.jpg
 ---
 
 EMU1802-miniの回路図および基板のガーバーデータは[GitHub](https://github.com/kanpapa/emu1802 "emu1802")に無償で公開しておりますので誰でも製作できますが、このデータを使い、オレンジピコショップさんで[EMU1802-mini専用基板](https://store.shopping.yahoo.co.jp/orangepicoshop/pico-A-057.html "EMU1802-mini専用基板")の販売が開始されました。

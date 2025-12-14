@@ -1,13 +1,13 @@
 ---
-title: "Teensy Pixie Video/HEX Keyboard/Soundボード Rev. 0.1を製作しました"
+title: Teensy Pixie Video/HEX Keyboard/Soundボード Rev. 0.1を製作しました
 date: 2020-08-17
-slug: "teensy-pixie-hexkey-sound-rev01-assembly-html"
-categories: 
-  - "cosmac"
-  - "cosmac-mbc"
-tags: 
-  - "cosmac-mbc"
-image: "images/teensy_pixie_pcb01_3.jpg"
+slug: teensy-pixie-hexkey-sound-rev01-assembly-html
+categories:
+- cosmac
+- retrocomputing
+tags:
+- cosmac-mbc
+image: images/teensy_pixie_pcb01_3.jpg
 ---
 
 8月4日に発注した[Teensy Pixie Video/HEX Keyboard/Soundボード Rev. 0.1の基板](https://kanpapa.com/cosmac/blog/2020/08/teensy-pixie-hexkey-sound-board01.html "Teensy Pixie Video/HEX Keyboard/Soundボード Rev. 0.1を発注しました")が8月13日に到着しました。

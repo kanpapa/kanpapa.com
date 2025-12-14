@@ -1,14 +1,14 @@
 ---
-title: "68000 VMEボードで遊んでみました（7）モニタ・BASIC実装編"
+title: 68000 VMEボードで遊んでみました（7）モニタ・BASIC実装編
 date: 2023-09-09
-slug: "68000-vme-board7"
-categories: 
-  - "68000"
-  - "retrocomputing"
-tags: 
-  - "dvmecpu2"
-  - "vme"
-image: "images/vme-board7-serial-cable1.jpg"
+slug: 68000-vme-board7
+categories:
+- retrocomputing
+tags:
+- dvmecpu2
+- vme
+- '68000'
+image: images/vme-board7-serial-cable1.jpg
 ---
 
 [前回までの調査でアドレスデコーダーのPALでRAMのCS信号が生成されていることが確認できました。](https://kanpapa.com/2023/09/68000-vme-board6.html "68000 VMEボードで遊んでみました（6）アドレスデコーダ解析編")このCS信号がRAMまで到達していない原因を調べ、RAMを使えるようにします。

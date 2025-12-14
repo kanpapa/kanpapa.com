@@ -1,13 +1,12 @@
 ---
-title: "M5StackでModdableを試してみました"
+title: M5StackでModdableを試してみました
 date: 2023-04-23
-slug: "m5stack-moddable-step1"
-categories: 
-  - "electronics"
-  - "m5stack"
-tags: 
-  - "m5stack"
-image: "images/moddable_bongo_color_ng1.jpg"
+slug: m5stack-moddable-step1
+categories:
+- electronics
+tags:
+- m5stack
+image: images/moddable_bongo_color_ng1.jpg
 ---
 
 M5StackでModdable SDKを試してみましたので、ファースト・インプレッションを書いてみました。

@@ -1,14 +1,13 @@
 ---
-title: "スタックチャンを組み立てました"
+title: スタックチャンを組み立てました
 date: 2022-12-13
-slug: "stackchan-m5stack-assembly"
-categories: 
-  - "electronics"
-  - "m5stack"
-tags: 
-  - "m5stack"
-  - "stack-chan"
-image: "images/stackchan_complete.jpg"
+slug: stackchan-m5stack-assembly
+categories:
+- electronics
+tags:
+- m5stack
+- stack-chan
+image: images/stackchan_complete.jpg
 ---
 
 前々から気になっていた@meganetaaanさんの[スタックチャン](https://github.com/meganetaaan/stack-chan "スタックチャン")ですが、3Dプリンタも自宅に導入したので公開されているデータをもとに製作してみました。製作に必要なデータはGithubから入手しています。

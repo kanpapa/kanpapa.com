@@ -1,13 +1,13 @@
 ---
-title: "COSMAC MBC BUSボード Rev. 0.2を発注しました。"
+title: COSMAC MBC BUSボード Rev. 0.2を発注しました。
 date: 2020-06-21
-slug: "cosmac-mbc-bus-rev-02-order"
-categories: 
-  - "cosmac"
-  - "cosmac-mbc"
-tags: 
-  - "cosmac-mbc"
-image: "images/cosmac_mbc_bus_rev02_front.jpg"
+slug: cosmac-mbc-bus-rev-02-order
+categories:
+- cosmac
+- retrocomputing
+tags:
+- cosmac-mbc
+image: images/cosmac_mbc_bus_rev02_front.jpg
 ---
 
 BUSボードのRev.0.2を設計しました。せっかくなのでLEDの取り付けスペースやユニバーサルエリアも追加しています。

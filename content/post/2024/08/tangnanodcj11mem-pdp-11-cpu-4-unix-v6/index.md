@@ -1,17 +1,16 @@
 ---
-title: "PDP-11 DCJ11 CPUでUNIX v6を動かしてみました"
+title: PDP-11 DCJ11 CPUでUNIX v6を動かしてみました
 date: 2024-08-03
-slug: "tangnanodcj11mem-pdp-11-cpu-4-unix-v6"
-categories: 
-  - "pdp-11"
-  - "retrocomputing"
-tags: 
-  - "dcj11"
-  - "fpga"
-  - "pdp-11"
-  - "tang-nano"
-  - "tangnanodcj11mem"
-image: "images/pdp-11-unix-v6-eyecatch1.jpg"
+slug: tangnanodcj11mem-pdp-11-cpu-4-unix-v6
+categories:
+- retrocomputing
+tags:
+- dcj11
+- fpga
+- pdp-11
+- tang-nano
+- tangnanodcj11mem
+image: images/pdp-11-unix-v6-eyecatch1.jpg
 ---
 
 本記事はPDP-11の命令セットを持つ[DCJ11(Jaws)CPU](https://gunkies.org/wiki/J-11_chip_set)を動作させるためにRyo Mukaiさんが開発した[TangNanoDCJ11MEM](https://github.com/ryomuk/TangNanoDCJ11MEM)を使用しています。GitHubで公開されています。

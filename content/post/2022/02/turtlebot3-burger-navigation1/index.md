@@ -1,15 +1,15 @@
 ---
-title: "TurtleBot3がやってきた #5（Navigationで自律走行編）"
+title: 'TurtleBot3がやってきた #5（Navigationで自律走行編）'
 date: 2022-02-06
-slug: "turtlebot3-burger-navigation1"
-categories: 
-  - "turtlebot3"
-tags: 
-  - "melodic"
-  - "navigation"
-  - "ros1"
-  - "turtlebot3"
-image: "images/turtlebot3-burger-navigation-rviz3.png"
+slug: turtlebot3-burger-navigation1
+categories:
+- robot
+tags:
+- melodic
+- navigation
+- ros1
+- turtlebot3
+image: images/turtlebot3-burger-navigation-rviz3.png
 ---
 
 [SLAMで作成した地図データ](https://kanpapa.com/2022/02/turtlebot3-burger-slam1.html "TurtleBot3がやってきた（SLAMで地図を作る編）")を使って自律走行を行います。

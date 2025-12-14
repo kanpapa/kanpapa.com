@@ -1,16 +1,16 @@
 ---
-title: "Pico2ROMEmuをCOSMACに応用してみました"
+title: Pico2ROMEmuをCOSMACに応用してみました
 date: 2025-10-28
-slug: "pico2mememu-cosmac-01"
-categories: 
-  - "cosmac"
-  - "pico2mememu"
-tags: 
-  - "cosmac"
-  - "pico2mememu"
-  - "pico2romemu"
-  - "raspberry-pi-pico2"
-image: "images/Pico2MEMEmuCOSMAC_blink01.jpg"
+slug: pico2mememu-cosmac-01
+categories:
+- cosmac
+- electronics
+tags:
+- cosmac
+- pico2mememu
+- pico2romemu
+- raspberry-pi-pico2
+image: images/Pico2MEMEmuCOSMAC_blink01.jpg
 ---
 
 @DragonBallEZさんが開発された[Pico2ROMEmuを製作しSuper AKI-80に接続してROMエミュレーターとして使う](https://kanpapa.com/2025/10/pico2romemu-super-aki-80.html)ことができました。高速処理をどうやって行っているのだろうとソースを拝見したところ、RP2350マイコンのPIOという機能を使い、複数のステートマシンで超シンプルなプログラムを動かして、高速な処理はそれに任せているという仕組みだとわかりました。これは面白いということで頭に浮かんだのが[COSMAC CPU](https://kanpapa.github.io/cosmac-lab/about/cosmac-cpu/)に接続することです。早速ブレッドボードで実験回路を作成しました。

@@ -1,13 +1,13 @@
 ---
-title: "EMU1802-mini の高速化に挑戦しました"
+title: EMU1802-mini の高速化に挑戦しました
 date: 2022-07-06
-slug: "emu1802-mini-clockup"
-categories: 
-  - "cosmac"
-  - "emu1802"
-tags: 
-  - "emu1802"
-image: "images/emu1802_clockup_testing1.jpg"
+slug: emu1802-mini-clockup
+categories:
+- cosmac
+- retrocomputing
+tags:
+- emu1802
+image: images/emu1802_clockup_testing1.jpg
 ---
 
 EMU1802-miniはCOSMACのCPUクロックをファームウェアで自由に変更することができます。超低速にすれば単純なSEQ/REQの繰り返しでLチカを目で確認することもできます。

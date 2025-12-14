@@ -1,14 +1,14 @@
 ---
-title: "EMUZ80でCOSMACを動かしてみました 3（アドレス拡張編）"
+title: EMUZ80でCOSMACを動かしてみました 3（アドレス拡張編）
 date: 2022-06-04
-slug: "emuz80-cosmac-high-address"
-categories: 
-  - "cosmac"
-  - "emu1802"
-tags: 
-  - "emu1802"
-  - "emuz80"
-image: "images/emuz80_cosmac_prog4_out1.png"
+slug: emuz80-cosmac-high-address
+categories:
+- cosmac
+- retrocomputing
+tags:
+- emu1802
+- emuz80
+image: images/emuz80_cosmac_prog4_out1.png
 ---
 
 [これまでの実験](https://kanpapa.com/cosmac/blog/2022/06/emuz80-cosmac-modified-pcb.html "EMUZ80でCOSMACを動かしてみました（基板改造編）")ではTPB信号だけを使い、HIGHアドレスのラッチタイミングを示すTPA信号は使っていません。このためLOWアドレスしか使えずアドレス空間は$00-$FFの256byteだけでした。今回はTPA信号も使いアドレス空間を$0000-$FFFFに拡張します。

@@ -1,14 +1,14 @@
 ---
-title: "ROS2とM5Stackをmicro-ROSで通信してみました (1) publisher編"
+title: ROS2とM5Stackをmicro-ROSで通信してみました (1) publisher編
 date: 2022-09-29
-slug: "ros2-m5stack-microros"
-categories: 
-  - "m5stack"
-  - "robot"
-tags: 
-  - "m5stack"
-  - "ros2"
-image: "images/ros2-m5stack-microros_sample.jpg"
+slug: ros2-m5stack-microros
+categories:
+- electronics
+- robot
+tags:
+- m5stack
+- ros2
+image: images/ros2-m5stack-microros_sample.jpg
 ---
 
 ESP32をつかってmicro-ROS for ArduinoでROS2と通信できるという記事を見かけました。

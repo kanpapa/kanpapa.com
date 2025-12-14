@@ -1,13 +1,13 @@
 ---
-title: "COSMAC MBC BUSボード Rev. 0.1が届きましたが・・・"
+title: COSMAC MBC BUSボード Rev. 0.1が届きましたが・・・
 date: 2020-06-21
-slug: "cosmac-mbc-bus-rev-01-assembly"
-categories: 
-  - "cosmac"
-  - "cosmac-mbc"
-tags: 
-  - "cosmac-mbc"
-image: "images/cosmac_mbc_bus_rev01_2.jpg"
+slug: cosmac-mbc-bus-rev-01-assembly
+categories:
+- cosmac
+- retrocomputing
+tags:
+- cosmac-mbc
+image: images/cosmac_mbc_bus_rev01_2.jpg
 ---
 
 先日発注していた[COSMAC MBC BUSボード Rev. 0.1](https://kanpapa.com/cosmac/blog/2020/06/cosmac-mbc-busboard.html "COSMAC MBCでバス基板を使ってみました")が届きました。

@@ -1,13 +1,13 @@
 ---
-title: "RCA CDP1802 COSMACを動かしてみた(4) プログラミング編"
+title: RCA CDP1802 COSMACを動かしてみた(4) プログラミング編
 date: 2018-12-15
-slug: "rca-cdp1802-cosmac4"
-categories: 
-  - "cosmac"
-  - "cosmac-toy"
-tags: 
-  - "cosmac-toy"
-image: "images/cosmac_add2.jpg"
+slug: rca-cdp1802-cosmac4
+categories:
+- cosmac
+- retrocomputing
+tags:
+- cosmac-toy
+image: images/cosmac_add2.jpg
 ---
 
 [ひとつ前の記事](https://kanpapa.com/cosmac/blog/2018/11/rca-cdp1802-cosmac3.html "RCA CDP1802 COSMACを動かしてみた(3) アセンブラ編")でアセンブラ開発環境が整いましたので、引き続きサンプルプログラムを実行してみます。

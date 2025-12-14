@@ -1,13 +1,13 @@
 ---
-title: "COSMAC MBC BUSボード Rev. 0.2を製作しました"
+title: COSMAC MBC BUSボード Rev. 0.2を製作しました
 date: 2020-07-12
-slug: "cosmac-mbc-bus-rev-02-assembly"
-categories: 
-  - "cosmac"
-  - "cosmac-mbc"
-tags: 
-  - "cosmac-mbc"
-image: "images/cosmac_mbc_bus_rev02_pcb4.jpg"
+slug: cosmac-mbc-bus-rev-02-assembly
+categories:
+- cosmac
+- retrocomputing
+tags:
+- cosmac-mbc
+image: images/cosmac_mbc_bus_rev02_pcb4.jpg
 ---
 
 前回基板の厚さを考えないで発注して[失敗したCOSMAC MBC BUSボード](https://kanpapa.com/cosmac/blog/2020/06/cosmac-mbc-bus-rev-01-assembly.html "COSMAC MBC BUSボード Rev. 0.1が届きましたが・・・")ですが、[修正したRev.0.2](https://kanpapa.com/cosmac/blog/2020/06/cosmac-mbc-bus-rev-02-order.html "COSMAC MBC BUSボード Rev. 0.2を発注しました。")が到着しました。

@@ -1,13 +1,13 @@
 ---
-title: "RCA CDP1802 COSMACを動かしてみた(8) 電子オルガンを作ってみる"
+title: RCA CDP1802 COSMACを動かしてみた(8) 電子オルガンを作ってみる
 date: 2019-02-17
-slug: "rca-cdp1802-cosmac8"
-categories: 
-  - "cosmac"
-  - "cosmac-toy"
-tags: 
-  - "cosmac-toy"
-image: "images/cosmac_organ1.jpg"
+slug: rca-cdp1802-cosmac8
+categories:
+- cosmac
+- retrocomputing
+tags:
+- cosmac-toy
+image: images/cosmac_organ1.jpg
 ---
 
 [前回の記事](https://kanpapa.com/cosmac/blog/2019/02/rca-cdp1802-cosmac7.html "RCA CDP1802 COSMACを動かしてみた(7) 音を出してみる編")ではスピーカーから音を出すところまで行いました。これを応用して電子オルガンを作ってみます。書籍の記事ではプリント基板を製作してもう少し広い音域をカバーしているのですが、ここではブレッドボードを使用して製作するため、音域も回路も簡素化しています。

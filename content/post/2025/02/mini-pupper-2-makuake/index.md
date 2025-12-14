@@ -1,13 +1,13 @@
 ---
-title: "久しぶりのMini Pupper 2"
+title: 久しぶりのMini Pupper 2
 date: 2025-02-03
-slug: "mini-pupper-2-makuake"
-categories: 
-  - "mini-pupper-2"
-tags: 
-  - "mini-pupper-2"
-  - "ros2"
-image: "images/mini-pupper-2-box1.jpg"
+slug: mini-pupper-2-makuake
+categories:
+- robot
+tags:
+- mini-pupper-2
+- ros2
+image: images/mini-pupper-2-box1.jpg
 ---
 
 Makuakeでミニぷぱ2の申し込みが始まったようです。

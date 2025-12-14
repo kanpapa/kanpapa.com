@@ -1,13 +1,13 @@
 ---
-title: "専用プリント基板、オレンジピコショップから販売予定です。"
+title: 専用プリント基板、オレンジピコショップから販売予定です。
 date: 2019-09-12
-slug: "orangepicoshop-pcb"
-categories: 
-  - "cosmac"
-  - "cosmac-toy"
-tags: 
-  - "cosmac-toy"
-image: "images/cosmac_cpu_rev1_4_viewer.png"
+slug: orangepicoshop-pcb
+categories:
+- cosmac
+- retrocomputing
+tags:
+- cosmac-toy
+image: images/cosmac_cpu_rev1_4_viewer.png
 ---
 
 [オレンジピコショップ](https://store.shopping.yahoo.co.jp/orangepicoshop/ "オレンジピコショップ")様からお声がけをいただき、プリント基板を販売いただくことになりました。最終版のガーバーデータを作成中です。プリント基板があれば気軽に製作できると思いますので、お手持ちのCOSMACをぜひ動かしてみてください。

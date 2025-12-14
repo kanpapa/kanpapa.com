@@ -1,13 +1,13 @@
 ---
-title: "EMU1802 miniを作ってみました"
+title: EMU1802 miniを作ってみました
 date: 2022-06-19
-slug: "emu1802-mini-worked"
-categories: 
-  - "cosmac"
-  - "emu1802"
-tags: 
-  - "emu1802"
-image: "images/emu1802-mini_final.jpg"
+slug: emu1802-mini-worked
+categories:
+- cosmac
+- retrocomputing
+tags:
+- emu1802
+image: images/emu1802-mini_final.jpg
 ---
 
 [EMUZ80](https://vintagechips.wordpress.com/2022/03/05/emuz80_reference/ "EMUZ80が完成")のCPUを[COSMAC](https://kanpapa.com/cosmac/cosmac-cpu.html "COSMAC CPUとは")に置き換えた[EMU1802](https://kanpapa.com/cosmac/blog/2022/06/emuz80-cosmac-emu1802-fixed.html "EMUZ80でCOSMACを動かしてみました 5（仕上げ編）")を製作しましたが、心臓部である[PIC18F47Q43](https://akizukidenshi.com/catalog/g/gI-16591/ "PIC18F47Q43")が品薄となり入手が困難になってしまいました。我が家ではPIC18F47Q43は1個しかなく、EMUZ80の基板とEMU1802の基板をPICが行ったり来たりの状態です。

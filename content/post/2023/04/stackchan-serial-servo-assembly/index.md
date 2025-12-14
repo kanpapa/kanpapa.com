@@ -1,14 +1,13 @@
 ---
-title: "シリアルサーボ版スタックチャンを組み立てました"
+title: シリアルサーボ版スタックチャンを組み立てました
 date: 2023-04-16
-slug: "stackchan-serial-servo-assembly"
-categories: 
-  - "electronics"
-  - "m5stack"
-tags: 
-  - "m5stack"
-  - "stack-chan"
-image: "images/stackchan_scservo_case3.jpg"
+slug: stackchan-serial-servo-assembly
+categories:
+- electronics
+tags:
+- m5stack
+- stack-chan
+image: images/stackchan_scservo_case3.jpg
 ---
 
 以前、[PWMサーボをつかったスタックチャンを組み立てました](https://kanpapa.com/2022/12/stackchan-m5stack-assembly.html "スタックチャンを組み立てました")が、PWMモーターが動くと同時にM5Stackの電源が落ちることが多くなってしまいました。シリアルサーボを使うとそのようなことは起こらないようなので、シリアルサーボに変更してみました。

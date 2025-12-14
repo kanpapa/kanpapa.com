@@ -1,12 +1,13 @@
 ---
-title: "SECCON 2018 Online CTF のWrite-upをまとめました"
+title: SECCON 2018 Online CTF のWrite-upをまとめました
 date: 2018-10-28
-slug: "seccon-2018-online-ctf-write-up"
-categories: 
-  - "security"
-tags: 
-  - "seccon"
-image: "images/moxie_bz1.png"
+slug: seccon-2018-online-ctf-write-up
+categories:
+- security
+tags:
+- seccon
+- security
+image: images/moxie_bz1.png
 ---
 
 SECCON 2018 オンラインCTFに参加しました。

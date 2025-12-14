@@ -1,15 +1,15 @@
 ---
-title: "980円のHiFive1 Rev B をPlatformIOでLチカしてみた"
+title: 980円のHiFive1 Rev B をPlatformIOでLチカしてみた
 date: 2024-04-21
-slug: "hifive1-revb-platformio-blink"
-categories: 
-  - "risc-v"
-tags: 
-  - "hifive1-revb"
-  - "platformio"
-  - "risc-v"
-  - "sifive"
-image: "images/hifive1-revb-2.jpg"
+slug: hifive1-revb-platformio-blink
+categories:
+- electronics
+tags:
+- hifive1-revb
+- platformio
+- risc-v
+- sifive
+image: images/hifive1-revb-2.jpg
 ---
 
 秋月電子の2階に寄ったところ、気になるマイコンボードを見かけました。HiFive1という評価ボードです。

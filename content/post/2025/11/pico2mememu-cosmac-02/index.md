@@ -1,18 +1,18 @@
 ---
-title: "Pico2MEMEmuCosmacを基板化しました"
+title: Pico2MEMEmuCosmacを基板化しました
 date: 2025-11-02
-slug: "pico2mememu-cosmac-02"
-categories: 
-  - "cosmac"
-  - "pico2mememu"
-tags: 
-  - "cdp1802"
-  - "cosmac"
-  - "pico2mememu"
-  - "pico2romemu"
-  - "raspberry-pi-pico2"
-  - "sbc1802"
-image: "images/Pico2MEMEmuCosmac.jpg"
+slug: pico2mememu-cosmac-02
+categories:
+- cosmac
+- electronics
+tags:
+- cdp1802
+- cosmac
+- pico2mememu
+- pico2romemu
+- raspberry-pi-pico2
+- sbc1802
+image: images/Pico2MEMEmuCosmac.jpg
 ---
 
 Raspberry Pi Pico2がCOSMAC CPUのメモリとして動作する[Pico2MEMEmuCosmac](https://kanpapa.com/2025/10/pico2mememu-cosmac-01.html)をブレッドボードで製作しましたが、このままだと大量の配線で扱いにくいので専用基板を製作してみることにしました。

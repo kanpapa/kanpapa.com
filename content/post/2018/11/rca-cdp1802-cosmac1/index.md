@@ -1,13 +1,13 @@
 ---
-title: "RCA CDP1802 COSMACを動かしてみた(1) 組み立て編"
+title: RCA CDP1802 COSMACを動かしてみた(1) 組み立て編
 date: 2018-11-22
-slug: "rca-cdp1802-cosmac1"
-categories: 
-  - "cosmac"
-  - "cosmac-toy"
-tags: 
-  - "cosmac-toy"
-image: "images/cosmac_book1.jpg"
+slug: rca-cdp1802-cosmac1
+categories:
+- cosmac
+- retrocomputing
+tags:
+- cosmac-toy
+image: images/cosmac_book1.jpg
 ---
 
 2017年5月の連休に実家の書庫の本を整理したのですが、その時「トラ技別冊　つくるシリーズ７　手作りコンピュータ入門」という本を見つけました。

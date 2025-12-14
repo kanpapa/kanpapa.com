@@ -1,13 +1,13 @@
 ---
-title: "6502 KIM-1クローンのKIM Unoを製作してみました"
+title: 6502 KIM-1クローンのKIM Unoを製作してみました
 date: 2023-02-18
-slug: "kim-uno-ae-assembly"
-categories: 
-  - "6502"
-  - "retrocomputing"
-tags: 
-  - "kim-1"
-image: "images/kim_uno_kicad6_2.png"
+slug: kim-uno-ae-assembly
+categories:
+- retrocomputing
+tags:
+- kim-1
+- '6502'
+image: images/kim_uno_kicad6_2.png
 ---
 
 COSMACの記事を探していたところ、KIM UnoというKIM-1クローンを見つけました。

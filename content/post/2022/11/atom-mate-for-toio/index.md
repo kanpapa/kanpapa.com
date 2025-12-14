@@ -1,14 +1,14 @@
 ---
-title: "ATOM Mate for toioを試してみました"
+title: ATOM Mate for toioを試してみました
 date: 2022-11-19
-slug: "atom-mate-for-toio"
-categories: 
-  - "m5stack"
-  - "robot"
-tags: 
-  - "m5stack"
-  - "toio"
-image: "images/AtomMate_and_toio_20221119.jpg"
+slug: atom-mate-for-toio
+categories:
+- electronics
+- robot
+tags:
+- m5stack
+- toio
+image: images/AtomMate_and_toio_20221119.jpg
 ---
 
 [スイッチサイエンス](https://www.switch-science.com/ "スイッチサイエンス")さんからAtom Mate for toioの発売開始ということでメールが届きました。

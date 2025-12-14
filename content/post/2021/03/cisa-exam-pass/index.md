@@ -1,12 +1,13 @@
 ---
-title: "CISAの試験に合格しました"
+title: CISAの試験に合格しました
 date: 2021-03-27
-slug: "cisa-exam-pass"
-categories: 
-  - "security"
-tags: 
-  - "cisa"
-image: "images/cisa_exam_pass1.jpeg"
+slug: cisa-exam-pass
+categories:
+- security
+tags:
+- cisa
+- security
+image: images/cisa_exam_pass1.jpeg
 ---
 
 [これまで準備してきたCISA](https://kanpapa.com/2020/12/challenge-CISA-exam.html "CISAにチャレンジしてみることにしました")の試験を受けました。結果は合格だったようです。正式な合格通知も10日後にメールで届きました。

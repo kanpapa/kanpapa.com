@@ -1,14 +1,14 @@
 ---
-title: "L-STAR PLUS（Apple1レプリカ）を動かしてみた（２）"
+title: L-STAR PLUS（Apple1レプリカ）を動かしてみた（２）
 date: 2018-07-02
-slug: "l-star-plus-build-2"
-categories: 
-  - "6502"
-  - "retrocomputing"
-tags: 
-  - "apple1"
-  - "l-star"
-image: "images/l_star_plus_videokbd.jpg"
+slug: l-star-plus-build-2
+categories:
+- retrocomputing
+tags:
+- apple1
+- l-star
+- '6502'
+image: images/l_star_plus_videokbd.jpg
 ---
 
 [前回](https://kanpapa.com/2018/07/l-star-plus-build-1.html "L-STAR PLUS(Apple1レプリカ)を動かしてみた（１）")はL-STAR PLUSの基板のはんだ付けと電源ラインの確認まで行いました。続いて、向きを間違えないように注意しながらICソケットにICをとりつけます。

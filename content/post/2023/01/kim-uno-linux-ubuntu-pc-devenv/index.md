@@ -1,14 +1,14 @@
 ---
-title: "Ubuntuデスクトップの開発環境でKIM Unoを製作してみました"
+title: Ubuntuデスクトップの開発環境でKIM Unoを製作してみました
 date: 2023-01-31
-slug: "kim-uno-linux-ubuntu-pc-devenv"
-categories: 
-  - "6502"
-  - "retrocomputing"
-tags: 
-  - "kim-uno"
-  - "ubuntu"
-image: "images/kim_uno_prototype_1.jpg"
+slug: kim-uno-linux-ubuntu-pc-devenv
+categories:
+- retrocomputing
+tags:
+- kim-uno
+- ubuntu
+- '6502'
+image: images/kim_uno_prototype_1.jpg
 ---
 
 せっかく[組み立てたLinuxデスクトップPC](https://kanpapa.com/2023/01/linux-gpu-pc-assembled.html "久しぶりにLinux専用PCを組み立ててハマりました")ですので、これをメインPCとして使えないか試してみます。

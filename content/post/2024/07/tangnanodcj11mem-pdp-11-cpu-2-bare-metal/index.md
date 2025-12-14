@@ -1,17 +1,16 @@
 ---
-title: "TangNanoDCJ11MEMでPDP-11のCPUを動かしてみました bare metal編"
+title: TangNanoDCJ11MEMでPDP-11のCPUを動かしてみました bare metal編
 date: 2024-07-09
-slug: "tangnanodcj11mem-pdp-11-cpu-2-bare-metal"
-categories: 
-  - "pdp-11"
-  - "retrocomputing"
-tags: 
-  - "dcj11"
-  - "fpga"
-  - "pdp-11"
-  - "tang-nano"
-  - "tangnanodcj11mem"
-image: "images/pdp-11-dcj11-cpu-2-eyecatch.jpg"
+slug: tangnanodcj11mem-pdp-11-cpu-2-bare-metal
+categories:
+- retrocomputing
+tags:
+- dcj11
+- fpga
+- pdp-11
+- tang-nano
+- tangnanodcj11mem
+image: images/pdp-11-dcj11-cpu-2-eyecatch.jpg
 ---
 
 ## bare metalとは

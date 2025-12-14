@@ -1,16 +1,16 @@
 ---
-title: "TangConsoleDCJ11MEMにWS2812 LEDアレイを接続しました"
+title: TangConsoleDCJ11MEMにWS2812 LEDアレイを接続しました
 date: 2025-11-09
-slug: "pdp-11-tangconsole-dcj11-mem-ws2812-led-array"
-categories: 
-  - "pdp-11"
-tags: 
-  - "dcj11"
-  - "pdp-11"
-  - "tangconsole"
-  - "tangconsoledcj11mem"
-  - "ws2812"
-image: "images/pdp-11-tangconsole-dcj11-mem-ws2812-led-array1.jpg"
+slug: pdp-11-tangconsole-dcj11-mem-ws2812-led-array
+categories:
+- retrocomputing
+tags:
+- dcj11
+- pdp-11
+- tangconsole
+- tangconsoledcj11mem
+- ws2812
+image: images/pdp-11-tangconsole-dcj11-mem-ws2812-led-array1.jpg
 ---
 
 本記事はPDP-11の命令セットを持つ[DCJ11(Jaws)CPU](https://gunkies.org/wiki/J-11_chip_set)を動作させるためにRyo Mukaiさんが開発した[TangConsoleDCJ11MEM](https://github.com/ryomuk/TangConsoleDCJ11MEM)を使用しています。GitHubで公開されています。

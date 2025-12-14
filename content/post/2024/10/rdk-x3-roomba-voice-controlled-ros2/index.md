@@ -1,15 +1,16 @@
 ---
-title: "D-Robotics RDK X3でルンバを音声制御してみた"
+title: D-Robotics RDK X3でルンバを音声制御してみた
 date: 2024-10-18
-slug: "rdk-x3-roomba-voice-controlled-ros2"
-categories: 
-  - "rdk"
-  - "roomba"
-tags: 
-  - "rdk-x3"
-  - "roomba"
-  - "ros2"
-image: "images/rdk-x3-roomba-voice-control.jpg"
+slug: rdk-x3-roomba-voice-controlled-ros2
+categories:
+- robot
+- roomba
+tags:
+- rdk-x3
+- roomba
+- ros2
+- rdk
+image: images/rdk-x3-roomba-voice-control.jpg
 ---
 
 D-Robotics RDK X3のRoboticsサンプルプログラムには音声でロボットを制御するものがあります。これを試してみました。

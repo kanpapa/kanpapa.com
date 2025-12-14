@@ -1,15 +1,16 @@
 ---
-title: "RDK X3カメラ用ダブルクリップホルダーを作ってみました"
+title: RDK X3カメラ用ダブルクリップホルダーを作ってみました
 date: 2024-10-18
-slug: "rdk-x3-camera-double-clip-holder"
-categories: 
-  - "rdk"
-  - "electronics"
-tags: 
-  - "camera"
-  - "freecad"
-  - "rdk-x3"
-image: "images/rdk-x3-camera-double-clip-holder3.jpg"
+slug: rdk-x3-camera-double-clip-holder
+categories:
+- electronics
+- robot
+tags:
+- camera
+- freecad
+- rdk-x3
+- rdk
+image: images/rdk-x3-camera-double-clip-holder3.jpg
 ---
 
 [RDK X3をルンバに搭載](https://kanpapa.com/2024/09/rdk-x3-roomba-controlled-ros2.html)したときに、暫定的な取り付け方法としてダブルクリップにカメラモジュールを針金で取り付けていました。

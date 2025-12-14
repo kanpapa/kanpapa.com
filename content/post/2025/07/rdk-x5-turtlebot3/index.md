@@ -1,17 +1,18 @@
 ---
-title: "D-Robotics RDK X5をTurtleBot3に載せてみました"
+title: D-Robotics RDK X5をTurtleBot3に載せてみました
 date: 2025-07-29
-slug: "rdk-x5-turtlebot3"
-categories: 
-  - "rdk"
-  - "turtlebot3"
-tags: 
-  - "humble"
-  - "imu"
-  - "lidar"
-  - "rdk-x5"
-  - "ros2"
-image: "images/rdk-x5-turtlebot3-setup4.jpg"
+slug: rdk-x5-turtlebot3
+categories:
+- robot
+tags:
+- humble
+- imu
+- lidar
+- rdk-x5
+- ros2
+- rdk
+- turtlebot3
+image: images/rdk-x5-turtlebot3-setup4.jpg
 ---
 
 [D-Robotics RDK X5](https://www.switch-science.com/products/10500)を[TurtleBot3](https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/)に載せてみました。以前に[RDK X3をTurtleBot3に載せた](https://kanpapa.com/2024/11/rdk-x3-turtlebot3.html)ことはありますので基本的にはその手順で問題ないのですが、RDK X5での違いや気づいたところを中心にまとめました。

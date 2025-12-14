@@ -1,14 +1,14 @@
 ---
-title: "68000 VMEボードで遊んでみました（4）メモリマップ調査編"
+title: 68000 VMEボードで遊んでみました（4）メモリマップ調査編
 date: 2023-08-29
-slug: "68000-vme-board4"
-categories: 
-  - "68000"
-  - "retrocomputing"
-tags: 
-  - "dvmecpu2"
-  - "vme"
-image: "images/vme_board_4_rom2.jpg"
+slug: 68000-vme-board4
+categories:
+- retrocomputing
+tags:
+- dvmecpu2
+- vme
+- '68000'
+image: images/vme_board_4_rom2.jpg
 ---
 
 前回の[電源投入編](https://kanpapa.com/2023/08/68000-vme-board3.html "68000 VMEボードで遊んでみました（3）電源投入編")で68000 CPU VMEボードに電源をいれることができました。ただ、RUN LEDが消え、HALT LEDが点灯している状態ですから正常な動作はしていません。なぜ停止しているのかを調べていきます。なおこのVMEボードに関する資料はインターネットからは見つかっていないため、手探り状態で調べていきます。

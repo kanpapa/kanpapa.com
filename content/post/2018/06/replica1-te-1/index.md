@@ -1,13 +1,13 @@
 ---
-title: "Apple1レプリカのreplica1 TEを組み立ててみる（１）"
+title: Apple1レプリカのreplica1 TEを組み立ててみる（１）
 date: 2018-06-01
-slug: "replica1-te-1"
-categories: 
-  - "6502"
-  - "retrocomputing"
-tags: 
-  - "apple1"
-image: "images/replica1_te_1.jpg"
+slug: replica1-te-1
+categories:
+- retrocomputing
+tags:
+- apple1
+- '6502'
+image: images/replica1_te_1.jpg
 ---
 
 ヤフオクに興味あるキットが出品されていました。その名もreplica 1 TEです。

@@ -1,12 +1,13 @@
 ---
-title: "Facebookのフィッシング広告"
+title: Facebookのフィッシング広告
 date: 2024-08-13
-slug: "facebook-phishing-ad1"
-categories: 
-  - "security"
-tags: 
-  - "phishing"
-image: "images/facebook-phishing-ad-2024-08-12-181410-1.png"
+slug: facebook-phishing-ad1
+categories:
+- security
+tags:
+- phishing
+- security
+image: images/facebook-phishing-ad-2024-08-12-181410-1.png
 ---
 
 ここであげるような怪しい広告はクリックしないことを推奨します。私は毎回破棄できるテスト用の環境で確認しています。

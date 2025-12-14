@@ -1,15 +1,14 @@
 ---
-title: "PDP-11をARTY FPGAボードで動かしてみた(4) UNIX V5を動かす"
+title: PDP-11をARTY FPGAボードで動かしてみた(4) UNIX V5を動かす
 date: 2016-06-05
-slug: "pdp-11-arty-fpga-4-unix-v5"
-categories: 
-  - "pdp-11"
-  - "retrocomputing"
-tags: 
-  - "arty"
-  - "fpga"
-  - "pdp-11"
-image: "images/logingamen.png"
+slug: pdp-11-arty-fpga-4-unix-v5
+categories:
+- retrocomputing
+tags:
+- arty
+- fpga
+- pdp-11
+image: images/logingamen.png
 ---
 
 これまでの作業でARTY FPGAボードはPDP-11になったと思われるのですが、やはりアプリケーションを動かさないとよくわかりません。

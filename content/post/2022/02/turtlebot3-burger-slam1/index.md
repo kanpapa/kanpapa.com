@@ -1,15 +1,15 @@
 ---
-title: "TurtleBot3がやってきた #4（SLAMで地図を作る編）"
+title: 'TurtleBot3がやってきた #4（SLAMで地図を作る編）'
 date: 2022-02-06
-slug: "turtlebot3-burger-slam1"
-categories: 
-  - "turtlebot3"
-tags: 
-  - "melodic"
-  - "ros1"
-  - "slam"
-  - "turtlebot3"
-image: "images/turtlebot3-burger-slam-map1.png"
+slug: turtlebot3-burger-slam1
+categories:
+- robot
+tags:
+- melodic
+- ros1
+- slam
+- turtlebot3
+image: images/turtlebot3-burger-slam-map1.png
 ---
 
 [TurtleBot3のROS環境が整いました](https://kanpapa.com/2022/02/turtlebot3-burger-assembly3.html "TurtleBot3がやってきた（ROSセットアップ編）")ので実際に走行させてみることにします。

@@ -1,11 +1,12 @@
 ---
-title: "6802 Nano computerを動かしてみました"
+title: 6802 Nano computerを動かしてみました
 date: 2012-04-21
-slug: "6802-nano-computer"
-categories: 
-  - "6802"
-  - "retrocomputing"
-image: "images/mc6802_cpu.jpg"
+slug: 6802-nano-computer
+categories:
+- retrocomputing
+image: images/mc6802_cpu.jpg
+tags:
+- '6802'
 ---
 
 [工場ハック](http://jp.makezine.com/blog/2012/03/factory_hack.html)で手に入れたジャンク基板に懐かしの6802 CPUが載っていたので、ぜひ動かしてみたいと考えていました。

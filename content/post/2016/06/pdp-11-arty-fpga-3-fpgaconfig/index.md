@@ -1,14 +1,13 @@
 ---
-title: "PDP-11をARTY FPGAボードで動かしてみた(3) FPGAのコンフィグレーション"
+title: PDP-11をARTY FPGAボードで動かしてみた(3) FPGAのコンフィグレーション
 date: 2016-06-05
-slug: "pdp-11-arty-fpga-3-fpgaconfig"
-categories: 
-  - "pdp-11"
-  - "retrocomputing"
-tags: 
-  - "arty"
-  - "fpga"
-  - "pdp-11"
+slug: pdp-11-arty-fpga-3-fpgaconfig
+categories:
+- retrocomputing
+tags:
+- arty
+- fpga
+- pdp-11
 ---
 
 [Vivadoの開発環境](https://kanpapa.com/2016/06/pdp-11-arty-fpga-1-vivado.html "Vivadoの開発環境整備")と[OpenCoresの開発環境](https://kanpapa.com/2016/06/pdp-11-arty-fpga-2-opencores.html "OpenCoresの開発環境")が準備できましたので、いよいよFPGAのコンフィグレーションを行います。
