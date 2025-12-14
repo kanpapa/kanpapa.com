@@ -1,0 +1,106 @@
+# カテゴリ統廃合プラン
+# count: 現在の記事数
+# new_category: 移動先のカテゴリ（変更しなければそのまま）
+# add_tags: 追加するタグのリスト（不要なら [] にする）
+# --------------------------------------------------
+
+pico2:
+  count: 1
+  new_category: electronics
+  add_tags:
+  - pico2
+pico2mememu:
+  count: 2
+  new_category: electronics
+  add_tags:
+  - pico2mememu
+cosmac-toy-v2:
+  count: 2
+  new_category: retrocomputing
+  add_tags:
+  - cosmac-toy-v2
+risc-v:
+  count: 3
+  new_category: electronics
+  add_tags:
+  - risc-v
+'4004':
+  count: 3
+  new_category: retrocomputing
+  add_tags:
+  - '4004'
+'6802':
+  count: 6
+  new_category: retrocomputing
+  add_tags:
+  - '6802'
+z80:
+  count: 6
+  new_category: retrocomputing
+  add_tags:
+  - z80
+turtlebot3:
+  count: 7
+  new_category: robot
+  add_tags:
+  - turtlebot3
+rdk:
+  count: 9
+  new_category: robot
+  add_tags:
+  - rdk
+turtlebot2:
+  count: 9
+  new_category: robot
+  add_tags:
+  - turtlebot2
+mini-pupper-2:
+  count: 10
+  new_category: robot
+  add_tags:
+  - mini-pupper-2
+'6502':
+  count: 10
+  new_category: retrocomputing
+  add_tags:
+  - '6502'
+emu1802:
+  count: 11
+  new_category: retrocomputing
+  add_tags:
+  - emu1802
+m5stack:
+  count: 12
+  new_category: electronics
+  add_tags:
+  - m5stack
+esp32:
+  count: 13
+  new_category: electronics
+  add_tags:
+  - esp32
+'68000':
+  count: 13
+  new_category: retrocomputing
+  add_tags:
+  - '68000'
+pdp-11:
+  count: 14
+  new_category: retrocomputing
+  add_tags:
+  - pdp-11
+security:
+  count: 16
+  new_category: security
+  add_tags:
+  - security
+cosmac-mbc:
+  count: 20
+  new_category: retrocomputing
+  add_tags:
+  - cosmac-mbc
+cosmac-toy:
+  count: 20
+  new_category: retrocomputing
+  add_tags:
+  - cosmac-toy
