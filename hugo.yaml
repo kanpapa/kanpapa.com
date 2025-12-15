@@ -98,7 +98,7 @@ params:
             default: Licensed under CC BY-NC-SA 4.0
 
     comments:
-        enabled: true
+        enabled: false
         provider: disqus
 
         disqusjs:
@@ -241,13 +241,6 @@ menu:
           url: https://x.com/kanpapa
           params:
               icon: brand-twitter
-
-    # 新しく footer メニューを追加
-    footer:
-        - identifier: privacy
-          name: プライバシーポリシー
-          url: /privacy-policy/
-          weight: 1
 
 related:
     includeNewer: true
