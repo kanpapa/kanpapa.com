@@ -4,15 +4,6 @@ date: 2010-05-23
 slug: "ginger-monaka"
 categories: 
   - "electronics"
-tags: 
-  - "garageband"
-  - "ginger"
-  - "ginger-monaka"
-  - "mac"
-  - "make05"
-  - "midi"
-  - "monaka"
-  - "mtm05"
 image: "images/ginger_monaka_test01.jpg"
 ---
 

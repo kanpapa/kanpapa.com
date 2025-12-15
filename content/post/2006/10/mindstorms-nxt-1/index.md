@@ -4,8 +4,6 @@ date: 2006-10-28
 slug: "mindstorms-nxt-1"
 categories: 
   - "research"
-tags: 
-  - "lego"
 ---
 
 マインドストームNXTを触っていたら、NXTのファームウェアのアップデート1.03が添付ソフトウェアに入っているのをみつけました。

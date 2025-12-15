@@ -4,12 +4,6 @@ date: 2008-10-19
 slug: "macbook-promac-mini"
 categories: 
   - "pc"
-tags: 
-  - "mac"
-  - "mac-mini"
-  - "macbook-pro"
-  - "タイムマシン"
-  - "玄蔵"
 image: "images/macbookpro_macmini5.jpg"
 ---
 

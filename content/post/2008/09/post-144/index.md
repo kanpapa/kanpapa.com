@@ -4,9 +4,6 @@ date: 2008-09-28
 slug: "post-144"
 categories: 
   - "research"
-tags: 
-  - "大人の科学"
-  - "真空管"
 ---
 
 大人の科学の真空管アンプを作ってみました。

@@ -4,10 +4,6 @@ date: 2010-01-31
 slug: "kuro-sheeva-2"
 categories: 
   - "server"
-tags: 
-  - "linux"
-  - "ubuntu"
-  - "玄柴"
 image: "images/kuro-sheeva1.jpg"
 ---
 

@@ -4,12 +4,6 @@ date: 2009-10-03
 slug: "windows-7-rcmicrosoft-security-essentials"
 categories: 
   - "pc"
-tags: 
-  - "microsoft-security-essentials"
-  - "vaio"
-  - "windows-7"
-  - "virusbuster"
-  - "security"
 image: "images/ms_security_essentials.jpg"
 ---
 

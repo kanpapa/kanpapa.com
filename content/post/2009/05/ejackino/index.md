@@ -4,10 +4,6 @@ date: 2009-05-21
 slug: "ejackino"
 categories: 
   - "electronics"
-tags: 
-  - "arduino"
-  - "ejackino"
-  - "ej"
 image: "images/ejackino.jpg"
 ---
 

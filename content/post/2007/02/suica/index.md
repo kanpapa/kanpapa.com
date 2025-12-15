@@ -4,8 +4,6 @@ date: 2007-02-20
 slug: "suica"
 categories: 
   - "mobile"
-tags: 
-  - "osaifu-keitai"
 ---
 
 モバイルSuicaで定期券を購入してみました。

@@ -4,8 +4,6 @@ date: 2006-10-15
 slug: "mindstorms-nxt"
 categories: 
   - "research"
-tags: 
-  - "lego"
 image: "images/mindstorms-nxt_20061016232610.jpg"
 ---
 

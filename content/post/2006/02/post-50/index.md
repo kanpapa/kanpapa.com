@@ -4,9 +4,6 @@ date: 2006-02-14
 slug: "post-50"
 categories: 
   - "mobile"
-tags: 
-  - "w-zero3"
-  - "willcom"
 ---
 
 ちょこちょこプログラムを拾ってきてはインストールして試しています。

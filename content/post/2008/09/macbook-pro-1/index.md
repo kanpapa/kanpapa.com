@@ -4,10 +4,6 @@ date: 2008-09-07
 slug: "macbook-pro-1"
 categories: 
   - "pc"
-tags: 
-  - "hdd"
-  - "mac"
-  - "macbook-pro"
 image: "images/mbp45.jpg"
 ---
 

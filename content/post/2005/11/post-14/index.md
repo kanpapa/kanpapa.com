@@ -4,8 +4,6 @@ date: 2005-11-29
 slug: "post-14"
 categories: 
   - "mobile"
-tags: 
-  - "willcom"
 ---
 
 今日は電車に乗って会社にいきました。さて、[WX310K](http://www.willcom-inc.com/ja/lineup/wx/310k/)の出番です。

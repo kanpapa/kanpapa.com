@@ -4,9 +4,6 @@ date: 2006-07-29
 slug: "w-zero3es-13"
 categories: 
   - "mobile"
-tags: 
-  - "w-zero3"
-  - "willcom"
 ---
 
 こんな記事をみつけました。ベースはW-ZERO3とはいえチップ数を減らすことで省スペースを実現していますねぇ。

@@ -4,8 +4,6 @@ date: 2008-08-31
 slug: "post-21"
 categories: 
   - "server"
-tags: 
-  - "movable-type"
 ---
 
 はてなダイヤリーからインポートしてみましたが、きれいにインポートできますね。

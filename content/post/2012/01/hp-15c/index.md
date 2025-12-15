@@ -4,8 +4,6 @@ date: 2012-01-30
 slug: "hp-15c"
 categories: 
   - "research"
-tags: 
-  - "レアもの"
 image: "images/hp15c_2.jpg"
 ---
 

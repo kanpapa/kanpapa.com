@@ -4,10 +4,6 @@ date: 2009-06-06
 slug: "ejackinolcd"
 categories: 
   - "electronics"
-tags: 
-  - "arduino"
-  - "ejackino"
-  - "lcd"
 image: "images/ejackino5.jpg"
 ---
 

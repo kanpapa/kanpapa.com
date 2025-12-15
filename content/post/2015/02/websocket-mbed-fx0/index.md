@@ -4,9 +4,6 @@ date: 2015-02-08
 slug: "websocket-mbed-fx0"
 categories: 
   - "electronics"
-tags: 
-  - "firefox-os"
-  - "mbed"
 image: "images/mbed_application_board.jpg"
 ---
 

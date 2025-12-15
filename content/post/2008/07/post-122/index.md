@@ -4,8 +4,6 @@ date: 2008-07-06
 slug: "post-122"
 categories: 
   - "mobile"
-tags: 
-  - "iphone"
 ---
 
 発売日にiPhoneが購入できる幸運なかたの声を集めてみました。おめでとうございます！

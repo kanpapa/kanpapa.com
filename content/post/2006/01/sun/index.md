@@ -4,9 +4,6 @@ date: 2006-01-14
 slug: "sun"
 categories: 
   - "research"
-tags: 
-  - "sun-microsystems"
-  - "風景"
 image: "images/hatena_20060114110411.jpg"
 ---
 

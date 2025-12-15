@@ -4,10 +4,6 @@ date: 2008-11-09
 slug: "advancedw-zero3-es-ws011sh"
 categories: 
   - "mobile"
-tags: 
-  - "w-zero3"
-  - "willcom"
-  - "ws011sh"
 image: "images/w_zero3_update.jpg"
 ---
 

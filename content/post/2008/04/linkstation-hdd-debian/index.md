@@ -4,9 +4,6 @@ date: 2008-04-30
 slug: "linkstation-hdd-debian"
 categories: 
   - "server"
-tags: 
-  - "linkstation"
-  - "玄箱"
 ---
 
 LS-H250GLから外したHDDを実験用PCに接続します。

@@ -4,9 +4,6 @@ date: 2010-03-21
 slug: "kuro-sheevasetihome1wu"
 categories: 
   - "server"
-tags: 
-  - "seti"
-  - "玄柴"
 ---
 
 KURO-SHEEVA（玄柴）でSETI@homeに参加していますが、ようやく１つのワークユニットがおわりました。

@@ -4,8 +4,6 @@ date: 2012-04-15
 slug: "avalrom-pecker-112732a"
 categories: 
   - "retrocomputing"
-tags: 
-  - "pecker11"
 image: "images/mic68k_pecker11.jpg"
 ---
 

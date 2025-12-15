@@ -4,9 +4,6 @@ date: 2009-11-23
 slug: "arduinolcd"
 categories: 
   - "electronics"
-tags: 
-  - "arduino"
-  - "lcd"
 image: "images/lcd_shield.jpg"
 ---
 

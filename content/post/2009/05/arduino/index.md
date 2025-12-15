@@ -4,9 +4,6 @@ date: 2009-05-10
 slug: "arduino"
 categories: 
   - "electronics"
-tags: 
-  - "arduino"
-  - "led"
 image: "images/Arduino_dice.jpg"
 ---
 

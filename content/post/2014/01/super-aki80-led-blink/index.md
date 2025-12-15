@@ -4,9 +4,6 @@ date: 2014-01-13
 slug: super-aki80-led-blink
 categories:
 - retrocomputing
-tags:
-- aki-80
-- z80
 image: images/aki_80_eprom.jpg
 ---
 

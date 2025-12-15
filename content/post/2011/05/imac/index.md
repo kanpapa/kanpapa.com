@@ -4,8 +4,6 @@ date: 2011-05-30
 slug: "imac"
 categories: 
   - "pc"
-tags: 
-  - "mac"
 image: "images/imac_box.jpg"
 ---
 

@@ -4,8 +4,6 @@ date: 2007-03-27
 slug: "debian-linux-2"
 categories: 
   - "server"
-tags: 
-  - "玄箱"
 ---
 
 玄箱(KURO-BOX)にDebian Linuxをインストールしてみましたが、このDebianはWoody(Debian 3.0)という少し古いバージョンでした。

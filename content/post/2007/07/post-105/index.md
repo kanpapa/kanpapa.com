@@ -4,9 +4,6 @@ date: 2007-07-26
 slug: "post-105"
 categories: 
   - "mobile"
-tags: 
-  - "w-zero3"
-  - "willcom"
 ---
 
 ついにWILLCOM STOREでAdvanced/W-ZERO3\[es\] 用卓上充電ホルダが販売開始になりました。

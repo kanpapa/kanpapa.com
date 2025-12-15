@@ -4,10 +4,6 @@ date: 2010-03-08
 slug: "kuro-sheeva-kernel-update"
 categories: 
   - "server"
-tags: 
-  - "debian"
-  - "linux"
-  - "玄柴"
 image: "images/kuro-sheeva-kernelupdate.jpg"
 ---
 

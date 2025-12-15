@@ -4,11 +4,6 @@ date: 2010-05-08
 slug: "iphoto-09-photobook2"
 categories: 
   - "pc"
-tags: 
-  - "iphoto"
-  - "mac"
-  - "デジカメ"
-  - "フォトブック"
 image: "images/iphoto_photobook3.jpg"
 ---
 

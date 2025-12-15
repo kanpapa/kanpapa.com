@@ -4,8 +4,6 @@ date: 2005-11-10
 slug: "wx310k-1"
 categories: 
   - "mobile"
-tags: 
-  - "willcom"
 ---
 
 今日はWX310Kの予約開始の日です。

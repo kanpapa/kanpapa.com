@@ -4,10 +4,6 @@ date: 2008-09-16
 slug: "iphone-21-2"
 categories: 
   - "mobile"
-tags: 
-  - "iphone"
-  - "iphone-2-1"
-  - "safari"
 ---
 
 今日はiPhone 2.1を使い込んでみました。

@@ -4,10 +4,6 @@ date: 2010-03-20
 slug: "kuro-sheeva-pepper"
 categories: 
   - "server"
-tags: 
-  - "gainer"
-  - "pepper"
-  - "玄柴"
 image: "images/kuro-sheeva-pepper.jpg"
 ---
 

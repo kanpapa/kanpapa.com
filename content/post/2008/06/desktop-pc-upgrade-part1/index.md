@@ -4,8 +4,6 @@ date: 2008-06-04
 slug: "desktop-pc-upgrade-part1"
 categories: 
   - "pc"
-tags: 
-  - "windows"
 ---
 
 これがいままで使っていたAthlon64 3000+の内部です。マザーボードはATX。最近はPCIスロットもがら空き。

@@ -4,8 +4,6 @@ date: 2008-08-17
 slug: "iphone-2-2"
 categories: 
   - "mobile"
-tags: 
-  - "iphone"
 ---
 
 昔、ZERO3でやっていたのですが、iPhoneでもパケット数を記録してみたいと思います。

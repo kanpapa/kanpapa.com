@@ -4,9 +4,6 @@ date: 2014-12-07
 slug: seccon-ctf-2014-online-writeup
 categories:
 - security
-tags:
-- seccon
-- security
 image: images/ucom82_manual.jpg
 ---
 

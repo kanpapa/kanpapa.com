@@ -4,10 +4,6 @@ date: 2010-07-18
 slug: "gps"
 categories: 
   - "electronics"
-tags: 
-  - "gps"
-  - "gps-logger"
-  - "sdcard"
 ---
 
 エレキジャック No.13についていた付録基板でGPSロガーを組み立てています。  

@@ -4,9 +4,6 @@ date: 2008-11-13
 slug: "safari-32"
 categories: 
   - "pc"
-tags: 
-  - "mac"
-  - "safari"
 ---
 
 Safari 3.2のアップデートがありました。

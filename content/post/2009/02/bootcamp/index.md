@@ -4,12 +4,6 @@ date: 2009-02-22
 slug: "bootcamp"
 categories: 
   - "pc"
-tags: 
-  - "bootcamp"
-  - "mac"
-  - "macbook-pro"
-  - "parallels"
-  - "windows"
 image: "images/bootcamp_startup.jpg"
 ---
 

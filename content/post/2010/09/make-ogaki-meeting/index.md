@@ -4,8 +4,6 @@ date: 2010-09-28
 slug: "make-ogaki-meeting"
 categories: 
   - "electronics"
-tags: 
-  - "mbed"
 image: "images/orange_kanbai.jpg"
 ---
 

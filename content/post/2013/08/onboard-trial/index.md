@@ -4,9 +4,6 @@ date: 2013-08-11
 slug: "onboard-trial"
 categories: 
   - "electronics"
-tags: 
-  - "arduino"
-  - "onboard"
 image: "images/onboard_3.jpg"
 ---
 

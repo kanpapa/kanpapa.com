@@ -4,8 +4,6 @@ date: 2011-07-21
 slug: "mac-os-x-lion"
 categories: 
   - "pc"
-tags: 
-  - "mac"
 image: "images/macosx_lion.jpg"
 ---
 

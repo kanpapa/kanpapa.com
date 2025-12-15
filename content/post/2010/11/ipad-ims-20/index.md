@@ -4,8 +4,6 @@ date: 2010-11-12
 slug: "ipad-ims-20"
 categories: 
   - "research"
-tags: 
-  - "korg"
 image: "images/iMS-20.jpg"
 ---
 

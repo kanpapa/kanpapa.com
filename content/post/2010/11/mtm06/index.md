@@ -4,10 +4,6 @@ date: 2010-11-22
 slug: "mtm06"
 categories: 
   - "research"
-tags: 
-  - "maker-faire"
-  - "mbed"
-  - "mtm06"
 image: "images/mtm06_signboard.jpg"
 ---
 

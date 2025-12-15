@@ -4,9 +4,6 @@ date: 2008-05-03
 slug: "linkstation-hackkit-debian"
 categories: 
   - "server"
-tags: 
-  - "linkstation"
-  - "玄箱"
 ---
 
 LS-H250GLから外したHDDを実験用PCに接続し、山下さんの[LS-HGL ハックキット](http://www.yamasita.jp/linkstation/ls-hgl/hackkit/)に従ってdebian化を行いました。

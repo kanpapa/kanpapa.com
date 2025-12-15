@@ -4,9 +4,6 @@ date: 2006-03-12
 slug: "post-55"
 categories: 
   - "mobile"
-tags: 
-  - "w-zero3"
-  - "willcom"
 ---
 
 今日は以下のアプリケーションをインストールしてみました。

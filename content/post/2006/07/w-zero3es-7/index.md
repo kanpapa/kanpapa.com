@@ -4,9 +4,6 @@ date: 2006-07-18
 slug: "w-zero3es-7"
 categories: 
   - "mobile"
-tags: 
-  - "w-zero3"
-  - "willcom"
 ---
 
 ウィルコムストアでW-ZERO3\[es\]の通常商品(SIMあり)の予約が開始しています。

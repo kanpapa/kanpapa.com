@@ -4,8 +4,6 @@ date: 2007-10-27
 slug: "leopard-1"
 categories: 
   - "pc"
-tags: 
-  - "mac"
 ---
 
 今朝からLeopardを使っていますが、たまにアプリが落ちますね。

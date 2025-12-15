@@ -4,12 +4,6 @@ date: 2008-11-09
 slug: "macbook-pro1tbraid1"
 categories: 
   - "pc"
-tags: 
-  - "hdc2-u2-0"
-  - "hdd"
-  - "mac"
-  - "macbook-pro"
-  - "raid"
 ---
 
 ディスク容量不足で途中で中断してしまったminiDV→iMovie'08計画ですが、近所のPCショップの広告をチェックしていたところ、日替り特価2TB RAID0/1 USBハードディスクが29,700円（限定3台）と載っていたのが目に飛び込んできました。

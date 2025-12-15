@@ -4,9 +4,6 @@ date: 2009-08-15
 slug: "iphone-0xe800006b"
 categories: 
   - "mobile"
-tags: 
-  - "iphone"
-  - "itunes"
 ---
 
 いつものようにiPhoneをiTunesで同期していたところ、「不明なエラーが起きた(0xE800006B)ため、アプリケーション"名前"は iPhone "名前"にインストールされませんでした。」と表示されてしまいました。初めて見るエラーです。

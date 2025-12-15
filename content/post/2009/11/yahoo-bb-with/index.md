@@ -4,9 +4,6 @@ date: 2009-11-14
 slug: "yahoo-bb-with"
 categories: 
   - "pc"
-tags: 
-  - "b-flets"
-  - "yahoo-bb"
 image: "images/hikari_henkou.jpg"
 ---
 

@@ -4,10 +4,6 @@ date: 2008-10-28
 slug: "qfo"
 categories: 
   - "research"
-tags: 
-  - "qfo"
-  - "ガジェット"
-  - "極秘ファイル"
 image: "images/qfo.jpg"
 ---
 

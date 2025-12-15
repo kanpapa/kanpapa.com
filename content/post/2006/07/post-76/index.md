@@ -4,9 +4,6 @@ date: 2006-07-14
 slug: "post-76"
 categories: 
   - "mobile"
-tags: 
-  - "w-zero3"
-  - "willcom"
 ---
 
 今日は有楽町にW-ZERO3\[es\]を見にいったのですが、ちょっと時間がなくて予約まではできませんでした。

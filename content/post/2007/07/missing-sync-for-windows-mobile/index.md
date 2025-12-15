@@ -4,9 +4,6 @@ date: 2007-07-21
 slug: "missing-sync-for-windows-mobile"
 categories: 
   - "mobile"
-tags: 
-  - "w-zero3"
-  - "willcom"
 ---
 
 この前の日記でMac用SyncソフトのMissing SyncでAdvanced/W-ZERO3\[es\]と同期できないと言っていましたが、次期バージョンの案内がありました。これでWindows Mobile 6のアドエスでもSyncできるようになりそうです。

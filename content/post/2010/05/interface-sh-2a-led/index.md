@@ -4,9 +4,6 @@ date: 2010-05-10
 slug: "interface-sh-2a-led"
 categories: 
   - "electronics"
-tags: 
-  - "interface"
-  - "sh-2a"
 image: "images/SH7262_LED.jpg"
 ---
 

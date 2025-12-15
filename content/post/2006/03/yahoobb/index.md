@@ -4,10 +4,6 @@ date: 2006-03-19
 slug: "yahoobb"
 categories: 
   - "pc"
-tags: 
-  - "ftth"
-  - "yahoo-bb"
-  - "ybb"
 image: "images/yahoobb_20060319152308.jpg"
 ---
 

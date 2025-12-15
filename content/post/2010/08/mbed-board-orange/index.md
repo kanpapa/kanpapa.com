@@ -4,8 +4,6 @@ date: 2010-08-27
 slug: "mbed-board-orange"
 categories: 
   - "electronics"
-tags: 
-  - "mbed"
 image: "images/mbed_orange_board.jpg"
 ---
 

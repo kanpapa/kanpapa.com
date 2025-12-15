@@ -4,9 +4,6 @@ date: 2008-12-23
 slug: "midtown-garden-2008-xmas"
 categories: 
   - "research"
-tags: 
-  - "ミッドタウン"
-  - "風景"
 image: "images/midtown_garden_20081221175006.jpg"
 ---
 

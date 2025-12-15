@@ -4,8 +4,6 @@ date: 2005-12-18
 slug: "post-24"
 categories: 
   - "mobile"
-tags: 
-  - "willcom"
 ---
 
 W-ZERO3の快進撃で少し影が薄くなった感があるWX310Kですが、各社からガイド本が出版されるようです。すべて予約受付中です。

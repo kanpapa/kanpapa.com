@@ -4,10 +4,6 @@ date: 2009-02-06
 slug: "eeepc-4gxandros"
 categories: 
   - "pc"
-tags: 
-  - "eeepc"
-  - "linux"
-  - "xandros"
 ---
 
 これまで使ってきたモバイルパソコンEeePC 4Gの環境は無事VAIO type Pに移行しました。  

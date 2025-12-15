@@ -5,8 +5,6 @@ slug: 6802-nano-computer
 categories:
 - retrocomputing
 image: images/mc6802_cpu.jpg
-tags:
-- '6802'
 ---
 
 [工場ハック](http://jp.makezine.com/blog/2012/03/factory_hack.html)で手に入れたジャンク基板に懐かしの6802 CPUが載っていたので、ぜひ動かしてみたいと考えていました。

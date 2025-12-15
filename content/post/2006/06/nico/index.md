@@ -4,8 +4,6 @@ date: 2006-06-26
 slug: "nico"
 categories: 
   - "mobile"
-tags: 
-  - "willcom"
 ---
 
 [WILLCOM応援団](http://willcom.bg.cat-v.ne.jp/article/197768.html "WILLCOM応援団: WILLCOM『夏の新端末第１弾:nico.』")さんでも取り上げられていますが、ついにようやく噂の新機種がでましたねぇ。

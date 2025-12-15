@@ -4,8 +4,6 @@ date: 2011-07-22
 slug: "pen-e-p3"
 categories: 
   - "research"
-tags: 
-  - "pen"
 image: "images/pen-e-p3.jpg"
 ---
 

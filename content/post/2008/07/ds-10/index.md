@@ -4,8 +4,6 @@ date: 2008-07-27
 slug: "ds-10"
 categories: 
   - "research"
-tags: 
-  - "ds"
 ---
 
 子供とちょろっと触りましたが、KAOSSILATORモードがお気に入りのようです。

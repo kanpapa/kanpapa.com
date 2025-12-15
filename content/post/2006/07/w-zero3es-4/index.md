@@ -4,9 +4,6 @@ date: 2006-07-14
 slug: "w-zero3es-4"
 categories: 
   - "mobile"
-tags: 
-  - "w-zero3"
-  - "willcom"
 ---
 
 今、有楽町で実機さわってきました！！

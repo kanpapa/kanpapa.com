@@ -4,11 +4,6 @@ date: 2009-04-01
 slug: "vaio-type-piphonen700"
 categories: 
   - "mobile"
-tags: 
-  - "iphone"
-  - "n700"
-  - "vaio"
-  - "無線lan"
 image: "images/vaio_type_p_n700.jpg"
 ---
 

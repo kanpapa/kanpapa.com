@@ -4,9 +4,6 @@ date: 2014-07-21
 slug: seccon-2014-ctf
 categories:
 - security
-tags:
-- seccon
-- security
 image: images/WS000000.jpg
 ---
 

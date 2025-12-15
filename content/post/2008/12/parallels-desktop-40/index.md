@@ -4,9 +4,6 @@ date: 2008-12-02
 slug: "parallels-desktop-40"
 categories: 
   - "pc"
-tags: 
-  - "mac"
-  - "parallels-desktop"
 image: "images/parallels_desktop_4_0.jpg"
 ---
 

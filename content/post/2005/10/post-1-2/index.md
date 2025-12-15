@@ -4,8 +4,6 @@ date: 2005-10-22
 slug: "post-1-2"
 categories: 
   - "pc"
-tags: 
-  - "network"
 image: "images/hikari_denwa_20060311170155.jpg"
 ---
 

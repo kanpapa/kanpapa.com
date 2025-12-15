@@ -4,8 +4,6 @@ date: 2007-02-21
 slug: "quicpay"
 categories: 
   - "mobile"
-tags: 
-  - "osaifu-keitai"
 ---
 
 おサイフケータイのアプリもEdy、ANAマイレージクラブ、モバイルSuicaと入れたところで、チャージ不要なQUICPayを登録してみました。

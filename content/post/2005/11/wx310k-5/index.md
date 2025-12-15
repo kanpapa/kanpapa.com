@@ -4,8 +4,6 @@ date: 2005-11-26
 slug: "wx310k-5"
 categories: 
   - "mobile"
-tags: 
-  - "willcom"
 ---
 
 予定通り２５日に到着しました。WX310K。

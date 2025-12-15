@@ -4,10 +4,6 @@ date: 2010-06-24
 slug: "iphone-4-box"
 categories: 
   - "mobile"
-tags: 
-  - "dock"
-  - "iphone"
-  - "iphone-4"
 ---
 
 帰ってみたら箱が届いていました。

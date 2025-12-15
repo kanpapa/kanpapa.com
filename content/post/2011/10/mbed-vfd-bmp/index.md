@@ -4,9 +4,6 @@ date: 2011-10-18
 slug: "mbed-vfd-bmp"
 categories: 
   - "electronics"
-tags: 
-  - "mbed"
-  - "vfd"
 image: "images/mbed-vfd-bmp-sample1.jpg"
 ---
 

@@ -4,8 +4,6 @@ date: 2005-12-18
 slug: "w-zero3-5"
 categories: 
   - "mobile"
-tags: 
-  - "willcom"
 ---
 
 [「W-ZERO3」１ヶ月待ちの人気！](http://dailynews.yahoo.co.jp/fc/economy/willcom/?1134903739)というタイトルでついにYahoo! JAPANのトップページのトピックスに載ってしまいましたね。

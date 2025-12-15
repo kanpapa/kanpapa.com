@@ -4,10 +4,6 @@ date: 2008-11-01
 slug: "lets-notecf-w2debian-linuxlan"
 categories: 
   - "pc"
-tags: 
-  - "debian"
-  - "linux"
-  - "無線lan"
 ---
 
 少し前にPanasonic Let's Note CF-W2にdebian linux 4.0をインストールして、そのまま放置状態だったのですが、久々に電源をいれました。無線LANの接続をまだやっていなかったので、そのあたりの資料を探して接続してみました。ちなみにCF-W2の無線LANはIntel PRO /Wireless 2200BGです。

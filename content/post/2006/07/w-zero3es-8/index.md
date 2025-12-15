@@ -4,9 +4,6 @@ date: 2006-07-21
 slug: "w-zero3es-8"
 categories: 
   - "mobile"
-tags: 
-  - "w-zero3"
-  - "willcom"
 ---
 
 [WILLCOM NEWS](http://blog.willcomnews.com/?eid=321329 "WILLCOM NEWS | W-ZERO3 [es]の実機に触れる！「タッチ＆トライ」")さんの情報によると、各地でタッチ＆トライが開催されるとのこと。

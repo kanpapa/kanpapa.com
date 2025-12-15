@@ -4,8 +4,6 @@ date: 2005-11-20
 slug: "willcom-1"
 categories: 
   - "mobile"
-tags: 
-  - "willcom"
 ---
 
 前々から行きたかった[大江戸温泉](http://www.ooedoonsen.jp/)にいってきました。

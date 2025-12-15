@@ -4,9 +4,6 @@ date: 2006-07-26
 slug: "w-zero3es-11"
 categories: 
   - "mobile"
-tags: 
-  - "w-zero3"
-  - "willcom"
 ---
 
 このような記事をみつけました。もう祭りが始まっているとは・・・

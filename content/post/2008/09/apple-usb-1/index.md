@@ -4,8 +4,6 @@ date: 2008-09-20
 slug: "apple-usb-1"
 categories: 
   - "mobile"
-tags: 
-  - "iphone"
 ---
 
 早速申し込んでおきました。

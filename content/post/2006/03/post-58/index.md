@@ -4,8 +4,6 @@ date: 2006-03-28
 slug: "post-58"
 categories: 
   - "mobile"
-tags: 
-  - "willcom"
 ---
 
 最近操作していると突然ブラックアウトすることがあります。なんだろう？

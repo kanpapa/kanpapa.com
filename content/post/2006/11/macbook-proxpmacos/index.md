@@ -4,8 +4,6 @@ date: 2006-11-15
 slug: "macbook-proxpmacos"
 categories: 
   - "pc"
-tags: 
-  - "mac"
 ---
 
 MacBook ProのCore 2 Duo版とMacBookのCore 2 Duo版がでたところで、じ?っくり考えて結局MacBook Pro Core 2 Duo 15インチ 2.16GHzを買うことにきめました。早速[Apple Store](http://store.apple.com)で発注です。

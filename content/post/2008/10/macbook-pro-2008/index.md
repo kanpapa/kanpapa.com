@@ -4,9 +4,6 @@ date: 2008-10-15
 slug: "macbook-pro-2008"
 categories: 
   - "pc"
-tags: 
-  - "mac"
-  - "macbook-pro"
 ---
 
 [MacBook Pro](http://www.apple.com/jp/macbookpro/)が一新されましたね。

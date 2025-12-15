@@ -5,11 +5,6 @@ slug: "post-155"
 categories: 
   - "electronics"
   - "robot"
-tags: 
-  - "ccd-camera"
-  - "プラモデル"
-  - "robot"
-  - "akiduki-denshi"
 image: "images/rescue_robo.jpg"
 ---
 

@@ -4,8 +4,6 @@ date: 2006-02-03
 slug: "post-43"
 categories: 
   - "pc"
-tags: 
-  - "windows"
 ---
 
 机の上にMacとPCのキーボードが２台あって、お互い邪魔で困っていました。

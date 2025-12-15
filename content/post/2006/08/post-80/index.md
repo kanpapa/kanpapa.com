@@ -4,9 +4,6 @@ date: 2006-08-27
 slug: "post-80"
 categories: 
   - "mobile"
-tags: 
-  - "w-zero3"
-  - "willcom"
 ---
 
 W-ZERO3\[es\]のパケ数がすでに6万パケを突破してしまいました。この調子ではやはり10万パケでは足りないようです。

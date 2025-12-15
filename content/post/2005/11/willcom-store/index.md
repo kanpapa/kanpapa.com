@@ -4,8 +4,6 @@ date: 2005-11-24
 slug: "willcom-store"
 categories: 
   - "mobile"
-tags: 
-  - "willcom"
 ---
 
 さきほど[WILLCOM STOREのトップページ](https://store.willcom-inc.com/ec/faces/index.jsp)の画像が差し変わりました！

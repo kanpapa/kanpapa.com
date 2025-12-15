@@ -4,8 +4,6 @@ date: 2005-11-26
 slug: "wx310k-4"
 categories: 
   - "mobile"
-tags: 
-  - "willcom"
 ---
 
 [WILLCOM NEWS](http://blog.willcomnews.com/?eid=85740)さんにもWX310Kの注意点がいくつかあがっていますが、私が使ってみてはまった点は以下の２点です。

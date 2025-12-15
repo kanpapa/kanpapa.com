@@ -4,9 +4,6 @@ date: 2006-05-20
 slug: "apple-store-ginza"
 categories: 
   - "research"
-tags: 
-  - "mac"
-  - "風景"
 ---
 
 今日は午前中車検だったので午後からドライブにでかけました。

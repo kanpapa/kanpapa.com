@@ -4,11 +4,6 @@ date: 2009-06-06
 slug: "ejackinolcd-1"
 categories: 
   - "electronics"
-tags: 
-  - "arduino"
-  - "ejackino"
-  - "lcd"
-  - "lm73"
 image: "images/eJackino_lm73.jpg"
 ---
 

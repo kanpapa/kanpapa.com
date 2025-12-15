@@ -4,9 +4,6 @@ date: 2006-07-13
 slug: "w-zero3esget"
 categories: 
   - "mobile"
-tags: 
-  - "w-zero3"
-  - "willcom"
 ---
 
 会社の帰りに量販店をのぞいたところ、W-ZERO3\[es\]の紙モックがおいてありました。当然カタログもありました。

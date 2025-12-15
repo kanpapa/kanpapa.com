@@ -4,8 +4,6 @@ date: 2006-04-10
 slug: "post-63"
 categories: 
   - "mobile"
-tags: 
-  - "willcom"
 ---
 
 先週の月曜日に修理に出した京ぽん２ですが、まだ戻ってきません。

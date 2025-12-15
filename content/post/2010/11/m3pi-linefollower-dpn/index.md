@@ -4,9 +4,6 @@ date: 2010-11-23
 slug: "m3pi-linefollower-dpn"
 categories: 
   - "electronics"
-tags: 
-  - "m3pi"
-  - "mbed"
 ---
 
 前回はセンサーなどを使っていないただ走るだけのプログラムを試しましたが、今回はライントレーサのプログラムを書き込んでみました。  

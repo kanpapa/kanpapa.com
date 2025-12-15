@@ -4,11 +4,6 @@ date: 2010-07-09
 slug: "iphone-4-crystal-shield"
 categories: 
   - "mobile"
-tags: 
-  - "crystal-shield"
-  - "iphone"
-  - "iphone-4"
-  - "pdakobo"
 ---
 
 以前、[PDA工房](http://www.pdakobo.com/)さんから購入したiPhone 4の保護シート[Crystal Shield](http://www.pdakobo.com/review/C_Shield/CS_iphone4.htm)で、背面のカメラの周りが浮いてしまうということを書きましたが、その改修版の保護シートをわざわざお送りいただきました。今の保護シートももったいないのでとっておいたのですが、折角送っていただいたので張り替えてみました。

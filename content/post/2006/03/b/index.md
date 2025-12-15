@@ -4,9 +4,6 @@ date: 2006-03-31
 slug: "b"
 categories: 
   - "pc"
-tags: 
-  - "ftth"
-  - "yahoo-bb"
 ---
 
 明日の午後にはBフレッツが解約になり、アナログ回線に戻ります。  

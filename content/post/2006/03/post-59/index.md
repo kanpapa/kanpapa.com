@@ -4,9 +4,6 @@ date: 2006-03-31
 slug: "post-59"
 categories: 
   - "mobile"
-tags: 
-  - "willcom"
-  - "京ぽん"
 ---
 
 さあ、明日は京ぽん２を修理にだそうと、いきつけのWILLCOMカウンターの営業時間を調べようかなとWILLCOMのページをチェックしたところ・・・・そのお店がありません！！  

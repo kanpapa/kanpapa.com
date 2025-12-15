@@ -4,8 +4,6 @@ date: 2006-05-12
 slug: "willcom-4"
 categories: 
   - "mobile"
-tags: 
-  - "willcom"
 ---
 
 WILLCOM応援団さんに書かれていた記事[「ウィルコム定額プランは本当なんだけどなぁ。」](http://willcom.bg.cat-v.ne.jp/article/179567.html)を読んで思ったのですが、

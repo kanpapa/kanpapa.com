@@ -4,9 +4,6 @@ date: 2011-03-21
 slug: "mary-multi-mcu"
 categories: 
   - "electronics"
-tags: 
-  - "arm"
-  - "mary"
 ---
 
 昨日に引き続きトラ技増刊の付録である超小型ARMマイコン基板（MARY）を触っています。  

@@ -4,8 +4,6 @@ date: 2010-02-11
 slug: "pepper"
 categories: 
   - "electronics"
-tags: 
-  - "pepper"
 ---
 
 スイッチサイエンスさんに注文していた赤いPepperキットが届きましたので、早速組み立てました。パーツはこんな感じです。

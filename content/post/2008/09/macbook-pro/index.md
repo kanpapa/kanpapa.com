@@ -4,8 +4,6 @@ date: 2008-09-06
 slug: "macbook-pro"
 categories: 
   - "pc"
-tags: 
-  - "mac"
 ---
 
 愛機MacBook Proのハードディスクが残り4GBを切ってしまいました。

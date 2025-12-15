@@ -4,8 +4,6 @@ date: 2006-02-09
 slug: "willcom-store-2"
 categories: 
   - "mobile"
-tags: 
-  - "willcom"
 ---
 
 ひさびさに[WILLCOM STORE](https://store.willcom-inc.com/ec/faces/cat289/lstlsct000074/)をのぞいたら「定額プラン特価」ということで、WX310SAとWX310Kが16,800円になっていました。

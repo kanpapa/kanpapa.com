@@ -4,8 +4,6 @@ date: 2007-02-03
 slug: "windows-vistanas"
 categories: 
   - "pc"
-tags: 
-  - "windows"
 ---
 
 Windows Vistaでフリーズが多発しているので、最後に残ったI/O機器であるハードディスクを交換したところ快調です。

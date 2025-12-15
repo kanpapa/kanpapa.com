@@ -4,8 +4,6 @@ date: 2006-02-07
 slug: "post-46"
 categories: 
   - "mobile"
-tags: 
-  - "willcom"
 ---
 
 [センター設備障害の発生について](http://www.willcom-inc.com/ja/info/failure/00000132.html "WILLCOM｜センター設備障害の発生について（2月8日 07:00現在）")という内容でWILLCOMのトップに上がっていますが、早く直ってくれないですかねぇ。

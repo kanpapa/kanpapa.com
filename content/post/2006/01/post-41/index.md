@@ -4,8 +4,6 @@ date: 2006-01-24
 slug: "post-41"
 categories: 
   - "research"
-tags: 
-  - "つぶやき"
 ---
 
 最近はWX310Kも落ち着いてしまい、あまりネタがないですねぇ。

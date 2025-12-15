@@ -4,8 +4,6 @@ date: 2008-01-03
 slug: "cq-new-year-party-1"
 categories: 
   - "research"
-tags: 
-  - "ham"
 image: "images/cq-new-year-party-20080103144601.jpg"
 ---
 

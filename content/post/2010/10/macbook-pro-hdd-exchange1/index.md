@@ -4,8 +4,6 @@ date: 2010-10-03
 slug: "macbook-pro-hdd-exchange1"
 categories: 
   - "pc"
-tags: 
-  - "mac"
 image: "images/mac_diskcopy3.jpg"
 ---
 

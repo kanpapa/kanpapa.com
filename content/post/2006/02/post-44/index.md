@@ -4,8 +4,6 @@ date: 2006-02-07
 slug: "post-44"
 categories: 
   - "mobile"
-tags: 
-  - "willcom"
 ---
 
 困ったものですねぇ。メール遅延以外は何も問題ないのですが。

@@ -4,8 +4,6 @@ date: 2005-12-03
 slug: "willcom-2"
 categories: 
   - "mobile"
-tags: 
-  - "willcom"
 ---
 
 [京ぽんG](http://mkgblog.seesaa.net/article/10044353.html)さんによるとWILLCOMカレンダーというものがあるそうです。

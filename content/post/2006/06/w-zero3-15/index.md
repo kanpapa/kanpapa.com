@@ -4,9 +4,6 @@ date: 2006-06-05
 slug: "w-zero3-15"
 categories: 
   - "mobile"
-tags: 
-  - "w-zero3"
-  - "willcom"
 ---
 
 噂通りに今日発表されましたね。

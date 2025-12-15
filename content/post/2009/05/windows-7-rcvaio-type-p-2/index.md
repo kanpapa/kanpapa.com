@@ -4,9 +4,6 @@ date: 2009-05-08
 slug: "windows-7-rcvaio-type-p-2"
 categories: 
   - "pc"
-tags: 
-  - "vaio"
-  - "windows-7-rc"
 ---
 
 VAIO type PでWindows 7 RCを試用していますが、なかなかいい調子です。 すでにアップデートも何度かかかりました。更新履歴を確認すると、

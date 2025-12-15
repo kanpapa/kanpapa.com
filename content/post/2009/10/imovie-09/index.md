@@ -4,9 +4,6 @@ date: 2009-10-14
 slug: "imovie-09"
 categories: 
   - "pc"
-tags: 
-  - "imovie"
-  - "mac"
 ---
 
 iMovie '09 のアップデートがありました。バージョンは8.0.5になります。 以下の点を修正したとのこと。

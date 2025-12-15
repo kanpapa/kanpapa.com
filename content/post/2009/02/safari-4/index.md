@@ -4,10 +4,6 @@ date: 2009-02-28
 slug: "safari-4"
 categories: 
   - "pc"
-tags: 
-  - "mac"
-  - "macbook-pro"
-  - "safari"
 ---
 
 Safari 4 のパブリックベータが公開されましたので、早速MacBook Proにインストールしてみました。  

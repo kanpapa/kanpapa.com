@@ -4,12 +4,6 @@ date: 2009-02-23
 slug: "hcs08"
 categories: 
   - "pc"
-tags: 
-  - "codewarrior"
-  - "hcs08"
-  - "mac"
-  - "macbook-pro"
-  - "電子工作"
 image: "images/hcs08_led.jpg"
 ---
 

@@ -4,9 +4,6 @@ date: 2005-01-31
 slug: "mac-mini"
 categories: 
   - "pc"
-tags: 
-  - "mac"
-  - "mac-mini"
 image: "images/apple_keyboard.jpg"
 ---
 

@@ -4,10 +4,6 @@ date: 2009-10-22
 slug: "vaio-type-pwindows-7-1"
 categories: 
   - "pc"
-tags: 
-  - "vaio"
-  - "windows"
-  - "windows-7"
 ---
 
 VAIO type PにWIndows 7 Home Premiumをインストールしてみました。  

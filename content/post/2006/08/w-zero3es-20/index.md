@@ -4,9 +4,6 @@ date: 2006-08-12
 slug: "w-zero3es-20"
 categories: 
   - "mobile"
-tags: 
-  - "w-zero3"
-  - "willcom"
 ---
 
 さて、次は京ぽん２からW-ZERO3\[es\]への移行を行わないといけません。

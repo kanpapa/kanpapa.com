@@ -4,8 +4,6 @@ date: 2005-12-10
 slug: "post-20"
 categories: 
   - "mobile"
-tags: 
-  - "willcom"
 ---
 
 まだ重い状態ですね。いったいどうなっちゃうんだろう。

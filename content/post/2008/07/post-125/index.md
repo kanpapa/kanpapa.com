@@ -4,8 +4,6 @@ date: 2008-07-08
 slug: "post-125"
 categories: 
   - "mobile"
-tags: 
-  - "iphone"
 ---
 
 ビックカメラ有楽町店ではカウントダウンセレモニーを開催とのことです。

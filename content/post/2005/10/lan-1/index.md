@@ -4,8 +4,6 @@ date: 2005-10-24
 slug: "lan-1"
 categories: 
   - "pc"
-tags: 
-  - "network"
 image: "images/hikari_20060311170407.jpg"
 ---
 

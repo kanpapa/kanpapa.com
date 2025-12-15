@@ -4,9 +4,6 @@ date: 2006-07-29
 slug: "w-zero3es82"
 categories: 
   - "mobile"
-tags: 
-  - "w-zero3"
-  - "willcom"
 ---
 
 [ウィルコムストアでのW-ZERO3\[es\]の販売](https://store.willcom-inc.com/ec/faces/lstlscp000906/)ですが、順調に注文があるようで、ついに8月2日以降のお届けになりました。

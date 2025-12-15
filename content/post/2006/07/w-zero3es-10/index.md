@@ -4,9 +4,6 @@ date: 2006-07-25
 slug: "w-zero3es-10"
 categories: 
   - "mobile"
-tags: 
-  - "w-zero3"
-  - "willcom"
 ---
 
 [ウィルコムストアのW-ZERO3\[es\]キャンペーンページ](https://store.willcom-inc.com/ec/faces/lstlscp000906/)ですが、構成が変わっています。

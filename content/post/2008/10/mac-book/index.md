@@ -4,9 +4,6 @@ date: 2008-10-19
 slug: "mac-book"
 categories: 
   - "mobile"
-tags: 
-  - "iphone"
-  - "mac"
 ---
 
 近くのPCショップに出かけたところ、新[MacBook(Core2 Duo 2.0GHz)](http://www.apple.com/jp/macbook/)があったので触ってきました。

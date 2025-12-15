@@ -4,9 +4,6 @@ date: 2006-07-12
 slug: "w-zero3es-2"
 categories: 
   - "mobile"
-tags: 
-  - "w-zero3"
-  - "willcom"
 ---
 
 昨日はウィルコムストアでの事前登録日でしたが、当然会社なのでお昼休みにW-ZERO3から申し込もうと思ったら、すでにW-SIM無しの単体は売り切れとのことで完敗です。

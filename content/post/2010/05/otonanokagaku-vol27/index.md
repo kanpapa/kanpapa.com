@@ -4,11 +4,6 @@ date: 2010-05-22
 slug: "otonanokagaku-vol27"
 categories: 
   - "electronics"
-tags: 
-  - "arduino"
-  - "japanino"
-  - "pov"
-  - "大人の科学"
 image: "images/japanino.jpg"
 ---
 

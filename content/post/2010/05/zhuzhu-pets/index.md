@@ -4,8 +4,6 @@ date: 2010-05-22
 slug: "zhuzhu-pets"
 categories: 
   - "robot"
-tags: 
-  - "zuzu-pet"
 ---
 
 ズーズーペットが我が家にやってきました。  

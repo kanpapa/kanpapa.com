@@ -4,8 +4,6 @@ date: 2006-01-03
 slug: "willcom-3"
 categories: 
   - "mobile"
-tags: 
-  - "willcom"
 ---
 
 ようやく自宅に帰り着きました。ポストの中をみるとWILLCOMからのご利用料金のお知らせが届いていました。

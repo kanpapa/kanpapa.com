@@ -4,12 +4,6 @@ date: 2008-09-24
 slug: "post-142"
 categories: 
   - "mobile"
-tags: 
-  - "edy"
-  - "iphone"
-  - "quickpay"
-  - "suica"
-  - "osaifu-keitai"
 ---
 
 iPhoneを買ってからというもの、常にもう１台携帯をもち歩くことになってしまいました。

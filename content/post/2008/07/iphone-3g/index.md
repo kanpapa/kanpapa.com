@@ -4,8 +4,6 @@ date: 2008-07-08
 slug: "iphone-3g"
 categories: 
   - "mobile"
-tags: 
-  - "iphone"
 ---
 
 日本でもやってくれないですかねぇ。こういうの。

@@ -4,9 +4,6 @@ date: 2007-07-18
 slug: "post-104"
 categories: 
   - "mobile"
-tags: 
-  - "w-zero3"
-  - "willcom"
 ---
 
 明日は19日ですねぇ。Advanced/W-ZERO3\[es\]の発売日です。会社の帰りに速攻Get予定。

@@ -4,9 +4,6 @@ date: 2011-11-23
 slug: "mbed-m3pi-distance"
 categories: 
   - "electronics"
-tags: 
-  - "m3pi"
-  - "mbed"
 image: "images/m3pi_distance_sensor.jpg"
 ---
 

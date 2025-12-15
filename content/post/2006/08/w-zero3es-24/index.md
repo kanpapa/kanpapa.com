@@ -4,9 +4,6 @@ date: 2006-08-24
 slug: "w-zero3es-24"
 categories: 
   - "mobile"
-tags: 
-  - "w-zero3"
-  - "willcom"
 ---
 
 先日、[WILLCOM STORE](https://store.willcom-inc.com/ec/faces/cmdprde001588/)でW-ZERO3\[es\]の充電台が発売ということで、注文しようと思ったら在庫切れになっていました。

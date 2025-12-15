@@ -4,8 +4,6 @@ date: 2006-06-10
 slug: "windows-vista-1"
 categories: 
   - "pc"
-tags: 
-  - "windows"
 ---
 
 手持ちの空きPCにインストールしようとしたのですが、DVDドライブが不調でインストール途中で止まってしまいました。

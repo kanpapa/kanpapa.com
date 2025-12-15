@@ -4,9 +4,6 @@ date: 2006-03-12
 slug: "for-pocketpc"
 categories: 
   - "mobile"
-tags: 
-  - "w-zero3"
-  - "willcom"
 ---
 
 我が家ではモノポリーが流行っていまして、土曜の夜は家族でモノポリーを楽しんでいます。そういうわけで、モノポリーのPocket PC版が無いかなと探してみたところ英語版ですがありました。

@@ -4,8 +4,6 @@ date: 2005-11-23
 slug: "wx310k-3"
 categories: 
   - "mobile"
-tags: 
-  - "willcom"
 ---
 
 １１月２５日がWX310Kの発売日なので明日には今の京ぽんが使えなくなってしまうのだと思います。

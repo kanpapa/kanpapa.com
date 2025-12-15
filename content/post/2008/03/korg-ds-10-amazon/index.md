@@ -4,8 +4,6 @@ date: 2008-03-12
 slug: "korg-ds-10-amazon"
 categories: 
   - "research"
-tags: 
-  - "korg"
 ---
 
 早速予約しました！

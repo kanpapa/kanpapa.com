@@ -4,9 +4,6 @@ date: 2006-09-12
 slug: "17"
 categories: 
   - "mobile"
-tags: 
-  - "w-zero3"
-  - "willcom"
 ---
 
 今月はすでに17万パケを突破しています。目標の20万パケまであと僅か！

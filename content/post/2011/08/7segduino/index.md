@@ -4,9 +4,6 @@ date: 2011-08-29
 slug: "7segduino"
 categories: 
   - "electronics"
-tags: 
-  - "7segduino"
-  - "arduino"
 image: "images/7segduino_2.jpg"
 ---
 

@@ -4,10 +4,6 @@ date: 2008-12-30
 slug: "freespot"
 categories: 
   - "research"
-tags: 
-  - "eeepc"
-  - "freespot"
-  - "風景"
 image: "images/haneda_freespot_20081230105227.jpg"
 ---
 

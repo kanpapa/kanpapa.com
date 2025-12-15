@@ -4,10 +4,6 @@ date: 2010-05-22
 slug: "make-tokyo-meeting-05"
 categories: 
   - "electronics"
-tags: 
-  - "make05"
-  - "maker-faire"
-  - "mtm05"
 image: "images/make05.jpg"
 ---
 

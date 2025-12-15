@@ -4,8 +4,6 @@ date: 2006-12-10
 slug: "parallels-desktop"
 categories: 
   - "pc"
-tags: 
-  - "mac"
 ---
 
 日本の代理店のプロトンからお試し版のParallels Desktopをダウンロードして動かしてみました。

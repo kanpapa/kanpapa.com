@@ -4,8 +4,6 @@ date: 2005-11-03
 slug: "willcom11"
 categories: 
   - "mobile"
-tags: 
-  - "willcom"
 ---
 
 販売店からもらってきました。Vodafoneからの乗り換えを検討しているお友達がいるので３冊も。

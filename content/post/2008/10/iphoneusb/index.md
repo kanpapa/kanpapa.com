@@ -4,8 +4,6 @@ date: 2008-10-09
 slug: "iphoneusb"
 categories: 
   - "mobile"
-tags: 
-  - "iphone"
 image: "images/iphone_usb_ps3.jpg"
 ---
 

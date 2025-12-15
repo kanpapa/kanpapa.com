@@ -4,8 +4,6 @@ date: 2006-01-29
 slug: "ds"
 categories: 
   - "research"
-tags: 
-  - "ds"
 ---
 
 これ買ってみました。早速トライしたところ、大きな問題が！

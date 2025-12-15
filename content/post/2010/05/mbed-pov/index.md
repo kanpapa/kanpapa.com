@@ -4,11 +4,6 @@ date: 2010-05-29
 slug: "mbed-pov"
 categories: 
   - "research"
-tags: 
-  - "japanino"
-  - "mbed"
-  - "pov"
-  - "大人の科学"
 image: "images/mbed_pov.jpg"
 ---
 

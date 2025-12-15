@@ -4,11 +4,6 @@ date: 2006-03-20
 slug: "yahoobb-hikari"
 categories: 
   - "pc"
-tags: 
-  - "bbtv"
-  - "ftth"
-  - "yahoo-bb"
-  - "ybb"
 image: "images/yahoobb-hikari_20060321171208.jpg"
 ---
 

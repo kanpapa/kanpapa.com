@@ -4,8 +4,6 @@ date: 2008-06-30
 slug: "kabucom"
 categories: 
   - "research"
-tags: 
-  - "つぶやき"
 ---
 
 解約したにもかかわらず未だにメールが届く。

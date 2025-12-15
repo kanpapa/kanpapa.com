@@ -4,8 +4,6 @@ date: 2009-11-23
 slug: "make-tokyo-meeting-04"
 categories: 
   - "research"
-tags: 
-  - "maker-faire"
 ---
 
 大岡山の東京工業大学でMake: Tokyo Meeting 04が開催されていたので、顔を出してきました。  

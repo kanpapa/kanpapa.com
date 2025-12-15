@@ -4,9 +4,6 @@ date: 2006-08-05
 slug: "w-zero3es-17"
 categories: 
   - "mobile"
-tags: 
-  - "w-zero3"
-  - "willcom"
 ---
 
 WILLCOM応援団さんでも書き込みがありましたが、私も近所の量販店にいってみたところ、ホワイト、ブラック共に在庫切れで、次回入荷未定となっておりました。

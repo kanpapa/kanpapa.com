@@ -4,8 +4,6 @@ date: 2009-02-28
 slug: "vaio-type-p-9"
 categories: 
   - "pc"
-tags: 
-  - "vaio"
 ---
 
 こんな記事を見つけました。

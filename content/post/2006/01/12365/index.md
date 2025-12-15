@@ -4,8 +4,6 @@ date: 2006-01-11
 slug: "12365"
 categories: 
   - "mobile"
-tags: 
-  - "willcom"
 ---
 
 このような[新着情報](http://www.willcom-inc.com/ja/corporate/outline/member/index.html)がWILLCOMのトップページにあがってますね。新年早々おめでとうございます。

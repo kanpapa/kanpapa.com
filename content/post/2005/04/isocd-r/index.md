@@ -4,10 +4,6 @@ date: 2005-04-10
 slug: "isocd-r"
 categories: 
   - "pc"
-tags: 
-  - "cd-r"
-  - "mac"
-  - "mac-mini"
 image: "images/mac_iso_image_write.jpg"
 ---
 

@@ -4,8 +4,6 @@ date: 2008-07-16
 slug: "5a345"
 categories: 
   - "mobile"
-tags: 
-  - "iphone"
 ---
 
 私のiPhoneは5A345でした。何がどう違うんでしょうねぇ。

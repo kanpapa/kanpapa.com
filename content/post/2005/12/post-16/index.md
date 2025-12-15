@@ -4,8 +4,6 @@ date: 2005-12-05
 slug: "post-16"
 categories: 
   - "mobile"
-tags: 
-  - "willcom"
 ---
 
 京ぽん２で電車の中から書いてみるテストです。

@@ -4,9 +4,6 @@ date: 2013-06-29
 slug: "iphone5-lego-case"
 categories: 
   - "research"
-tags: 
-  - "iphone"
-  - "lego"
 image: "images/iphone_lego1.jpg"
 ---
 

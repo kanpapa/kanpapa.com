@@ -4,8 +4,6 @@ date: 2005-11-11
 slug: "my-willcom"
 categories: 
   - "mobile"
-tags: 
-  - "willcom"
 ---
 
 [WILLCOM NEWS](http://blog.willcomnews.com/?eid=63272)さんをみているとみなさん続々と予約されているようですね〓

@@ -2,8 +2,6 @@
 title: "Movable Type 5への移行を断念"
 date: 2009-12-12
 slug: "movable-type-5-1"
-tags: 
-  - "mysql"
 draft: true
 ---
 

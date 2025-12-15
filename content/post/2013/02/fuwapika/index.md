@@ -4,8 +4,6 @@ date: 2013-02-07
 slug: "fuwapika"
 categories: 
   - "research"
-tags: 
-  - "羊毛フェルト"
 image: "images/fuwapika.jpg"
 ---
 

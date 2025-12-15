@@ -4,8 +4,6 @@ date: 2008-01-24
 slug: "make-technology-on-your-time"
 categories: 
   - "research"
-tags: 
-  - "maker-faire"
 ---
 
 おもしろそうな本があったので買ってみた。

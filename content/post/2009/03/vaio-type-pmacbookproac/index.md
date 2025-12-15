@@ -4,10 +4,6 @@ date: 2009-03-13
 slug: "vaio-type-pmacbookproac"
 categories: 
   - "pc"
-tags: 
-  - "mac"
-  - "macbook-pro"
-  - "vaio"
 image: "images/macbook_pro_prug_vaio.jpg"
 ---
 

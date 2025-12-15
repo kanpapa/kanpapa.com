@@ -4,8 +4,6 @@ date: 2012-07-08
 slug: "kumamon-strap"
 categories: 
   - "research"
-tags: 
-  - "羊毛フェルト"
 image: "images/kumamon4.jpg"
 ---
 

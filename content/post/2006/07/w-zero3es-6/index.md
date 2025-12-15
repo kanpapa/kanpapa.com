@@ -4,9 +4,6 @@ date: 2006-07-14
 slug: "w-zero3es-6"
 categories: 
   - "mobile"
-tags: 
-  - "w-zero3"
-  - "willcom"
 ---
 
 朝一でウィルコムストアからメールがきました！

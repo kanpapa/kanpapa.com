@@ -4,11 +4,6 @@ date: 2009-06-21
 slug: "ejackino-minilcd"
 categories: 
   - "electronics"
-tags: 
-  - "arduino"
-  - "ejackino"
-  - "lcd"
-  - "lm73"
 image: "images/ejackino_mini_lm73.jpg"
 ---
 

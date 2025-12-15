@@ -2,8 +2,6 @@
 title: "Six Apartにフィードバックしました"
 date: 2009-12-19
 slug: "six-apart-feedback"
-tags: 
-  - "再構築"
 draft: true
 ---
 

@@ -4,9 +4,6 @@ date: 2009-08-27
 slug: "mac-os-x-snow-leopard-28"
 categories: 
   - "pc"
-tags: 
-  - "mac"
-  - "macos-x"
 ---
 
 今回はビックカメラでポイントを使ってSnow Leopardを通販で予約しました。 深夜販売があるとわかっていたら通販しなかったんだけどなぁ。 現在の出荷状況を確認すると、

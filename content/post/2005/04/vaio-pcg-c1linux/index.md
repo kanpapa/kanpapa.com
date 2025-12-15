@@ -4,10 +4,6 @@ date: 2005-04-10
 slug: "vaio-pcg-c1linux"
 categories: 
   - "pc"
-tags: 
-  - "gentoo"
-  - "linux"
-  - "vaio"
 ---
 
 久々にLinuxで遊ぼうかと。手持ちのVAIO C1にインストールするための情報を集める

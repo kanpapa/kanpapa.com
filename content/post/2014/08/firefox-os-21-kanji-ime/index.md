@@ -4,8 +4,6 @@ date: 2014-08-16
 slug: "firefox-os-21-kanji-ime"
 categories: 
   - "mobile"
-tags: 
-  - "firefox-os"
 image: "images/fxos21_kanji_ime.jpg"
 ---
 

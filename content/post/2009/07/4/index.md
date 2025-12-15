@@ -4,11 +4,6 @@ date: 2009-07-04
 slug: "4"
 categories: 
   - "research"
-tags: 
-  - "4bit-cpu"
-  - "gmc-4"
-  - "大人の科学"
-  - "電子工作"
 image: "images/gmc4.jpg"
 ---
 

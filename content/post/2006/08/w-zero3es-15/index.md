@@ -4,9 +4,6 @@ date: 2006-08-01
 slug: "w-zero3es-15"
 categories: 
   - "mobile"
-tags: 
-  - "w-zero3"
-  - "willcom"
 ---
 
 ウィルコムストアの[よくある質問](http://faq.willcom-inc.com/faq/1052/app/servlet/qasearch)にこのような質問が載っていた。

@@ -4,10 +4,6 @@ date: 2008-10-13
 slug: "post-146"
 categories: 
   - "research"
-tags: 
-  - "お会式"
-  - "ikegami-honmonji"
-  - "風景"
 image: "images/oeshiki_2008_1.jpg"
 ---
 

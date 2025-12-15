@@ -4,8 +4,6 @@ date: 2006-10-08
 slug: "wsim-clock-1"
 categories: 
   - "mobile"
-tags: 
-  - "willcom"
 ---
 
 例のワンセグ付きW-SIM対応腕時計(?)の応募シールがたまりました。

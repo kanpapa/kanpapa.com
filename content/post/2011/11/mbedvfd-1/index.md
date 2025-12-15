@@ -4,9 +4,6 @@ date: 2011-11-27
 slug: "mbedvfd-1"
 categories: 
   - "electronics"
-tags: 
-  - "mbed"
-  - "vfd"
 image: "images/mbed-vfd1-weather1.jpg"
 ---
 

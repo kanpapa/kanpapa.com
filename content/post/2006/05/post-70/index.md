@@ -4,8 +4,6 @@ date: 2006-05-22
 slug: "post-70"
 categories: 
   - "mobile"
-tags: 
-  - "willcom"
 ---
 
 [なおっきさんのブログ](http://naokki.com/etc/mt/archives/2006/05/tt.php)に遠くのウィルコムプラザを紹介されてあきれた話が載っていましたが、私も全く同じ体験をWX310Kの修理の時に経験しています。

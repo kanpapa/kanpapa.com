@@ -4,11 +4,6 @@ date: 2009-01-17
 slug: "post-152"
 categories: 
   - "research"
-tags: 
-  - "led"
-  - "リビング"
-  - "夜景"
-  - "風景"
 image: "images/living_led_20090115020159.jpg"
 ---
 

@@ -4,9 +4,6 @@ date: 2010-11-16
 slug: "pololu-3pi-robot-1"
 categories: 
   - "electronics"
-tags: 
-  - "m3pi"
-  - "mbed"
 image: "images/pololu_3pi_2.jpg"
 ---
 

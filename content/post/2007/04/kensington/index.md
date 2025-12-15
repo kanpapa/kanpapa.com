@@ -4,8 +4,6 @@ date: 2007-04-07
 slug: "kensington"
 categories: 
   - "pc"
-tags: 
-  - "mac"
 ---
 
 またトラックボールを買ってしまいました。今度は自宅用です。

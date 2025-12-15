@@ -4,9 +4,6 @@ date: 2007-07-01
 slug: "advancedw-zero3es"
 categories: 
   - "mobile"
-tags: 
-  - "w-zero3"
-  - "willcom"
 ---
 
 土曜日の午後に有楽町のお店のイベント会場に行って、実物を触ってきました。

@@ -4,8 +4,6 @@ date: 2008-02-29
 slug: "eee-pc-setup"
 categories: 
   - "pc"
-tags: 
-  - "eeepc"
 ---
 
 思ったより早くEeePCが届いたので環境構築を始めました。

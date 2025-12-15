@@ -4,8 +4,6 @@ date: 2005-11-19
 slug: "wx310k-2"
 categories: 
   - "mobile"
-tags: 
-  - "willcom"
 ---
 
 memn0ckさんの[WX310KのWiki](http://www.memn0ck.com/d/?WX310K)の一行コメントのところで、「[WILLCOM STORE](https://store.willcom-inc.com/ec/)から出荷完了のメールが来ました。（ただし発売日にお届け）」との一行書き込みがありました。匿名なので真偽はわかりませんが。

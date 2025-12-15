@@ -4,10 +4,6 @@ date: 2009-01-15
 slug: "vaio-type-p-2"
 categories: 
   - "pc"
-tags: 
-  - "linux"
-  - "vaio"
-  - "windows"
 ---
 
 明日16日はVAIO type Pの発売日ですね。

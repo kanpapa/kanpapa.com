@@ -4,11 +4,6 @@ date: 2006-03-27
 slug: "bbtv"
 categories: 
   - "pc"
-tags: 
-  - "bbtv"
-  - "ftth"
-  - "yahoo-bb"
-  - "ybb"
 ---
 
 帰ったらBBTVと書かれていた箱が届いていました。どうやらBBTVのセットトップボックスのようです。こんな箱で届きました。

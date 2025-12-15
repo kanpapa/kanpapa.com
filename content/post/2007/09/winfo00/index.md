@@ -4,9 +4,6 @@ date: 2007-09-06
 slug: "winfo00"
 categories: 
   - "mobile"
-tags: 
-  - "w-zero3"
-  - "willcom"
 ---
 
 今日は台風が来るのです。

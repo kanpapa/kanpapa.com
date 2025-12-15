@@ -4,8 +4,6 @@ date: 2010-10-09
 slug: "macbook-pro-hdd-dvd-2"
 categories: 
   - "pc"
-tags: 
-  - "mac"
 image: "images/mac_hdd_dvd14.jpg"
 ---
 

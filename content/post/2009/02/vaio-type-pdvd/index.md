@@ -4,10 +4,6 @@ date: 2009-02-03
 slug: "vaio-type-pdvd"
 categories: 
   - "pc"
-tags: 
-  - "amazon"
-  - "vaio"
-  - "ポータブルdvd"
 ---
 
 Amazonから注文していたポータブルDVDドライブが届いたので、早速VAIO type Pにつないでみました。  

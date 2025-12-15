@@ -4,10 +4,6 @@ date: 2013-11-17
 slug: "ledonboard"
 categories: 
   - "electronics"
-tags: 
-  - "arduino"
-  - "led"
-  - "onboard"
 image: "images/ledmatrix_onboard.jpg"
 ---
 

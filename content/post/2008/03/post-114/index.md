@@ -4,9 +4,6 @@ date: 2008-03-24
 slug: "post-114"
 categories: 
   - "mobile"
-tags: 
-  - "w-zero3"
-  - "willcom"
 ---
 
 今朝から新つなぎ放題に料金プランが切り替わったもようです。

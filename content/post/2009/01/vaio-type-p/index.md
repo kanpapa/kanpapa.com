@@ -4,9 +4,6 @@ date: 2009-01-10
 slug: "vaio-type-p"
 categories: 
   - "pc"
-tags: 
-  - "vaio"
-  - "vista"
 ---
 
 先日の新Mac miniの期待が外れたところで、SONYからVAIO type Pという魅力的なモバイルノートPCが発表されました。

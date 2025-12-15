@@ -4,9 +4,6 @@ date: 2006-07-06
 slug: "w-zero3es-1"
 categories: 
   - "mobile"
-tags: 
-  - "w-zero3"
-  - "willcom"
 ---
 
 [WILLCOM応援団](http://willcom.bg.cat-v.ne.jp/article/201030.html "WILLCOM応援団: W-ZERO3esのパンフをゲット!!")さんによると、W-ZERO3\[es\]のパンフレットがすでに販売店に置いてあるそうです。明日は私も最寄りのお店に寄って探してみようと思います。

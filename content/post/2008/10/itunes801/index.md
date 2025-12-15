@@ -4,10 +4,6 @@ date: 2008-10-03
 slug: "itunes801"
 categories: 
   - "mobile"
-tags: 
-  - "iphone"
-  - "itunes"
-  - "mac"
 ---
 
 iTunes8.0.1がリリースされたようです。早速インストールだ！

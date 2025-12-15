@@ -4,9 +4,6 @@ date: 2006-07-23
 slug: "w-zero3es-9"
 categories: 
   - "mobile"
-tags: 
-  - "w-zero3"
-  - "willcom"
 ---
 
 近所の量販店のタッチ＆トライにいってみましたが、１台の実機を女性が熱心に使っていまして、今日は触れませんでした。残念。

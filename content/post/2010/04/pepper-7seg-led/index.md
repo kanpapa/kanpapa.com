@@ -4,9 +4,6 @@ date: 2010-04-11
 slug: "pepper-7seg-led"
 categories: 
   - "electronics"
-tags: 
-  - "avr"
-  - "pepper"
 image: "images/pepper_newfarm5.jpg"
 ---
 

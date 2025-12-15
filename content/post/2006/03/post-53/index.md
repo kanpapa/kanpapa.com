@@ -4,9 +4,6 @@ date: 2006-03-07
 slug: "post-53"
 categories: 
   - "mobile"
-tags: 
-  - "w-zero3"
-  - "willcom"
 ---
 
 最近W-ZERO3の環境整備にハマっています。

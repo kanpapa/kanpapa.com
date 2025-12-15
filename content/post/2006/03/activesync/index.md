@@ -4,9 +4,6 @@ date: 2006-03-14
 slug: "activesync"
 categories: 
   - "mobile"
-tags: 
-  - "w-zero3"
-  - "willcom"
 ---
 
 ある事情で母艦のウィルス防止ソフトをNOD32からウィルスバスター2006に入れ替えました。

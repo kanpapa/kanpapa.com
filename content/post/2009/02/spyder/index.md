@@ -4,9 +4,6 @@ date: 2009-02-21
 slug: "spyder"
 categories: 
   - "electronics"
-tags: 
-  - "hcs08"
-  - "spyder"
 image: "images/spyder02.jpg"
 ---
 

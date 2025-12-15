@@ -5,8 +5,6 @@ slug: mc68000
 categories:
 - retrocomputing
 image: images/mc68k_book.jpg
-tags:
-- '68000'
 ---
 
 古本屋でこんな本を見つけたので思わず購入しました。

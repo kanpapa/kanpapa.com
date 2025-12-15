@@ -4,8 +4,6 @@ date: 2008-07-06
 slug: "post-123"
 categories: 
   - "research"
-tags: 
-  - "つぶやき"
 ---
 
 歩行者天国も無く、いつもより少し人出が少ないような気がする。

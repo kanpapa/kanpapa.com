@@ -4,8 +4,6 @@ date: 2007-01-22
 slug: "post-90"
 categories: 
   - "mobile"
-tags: 
-  - "willcom"
 ---
 
 残念ながらW-ZERO3後継も、新W-SIMジャケットも、おサイフケータイもありませんでした。

@@ -4,9 +4,6 @@ date: 2009-06-27
 slug: "arduinoweb"
 categories: 
   - "electronics"
-tags: 
-  - "arduino"
-  - "web"
 image: "images/arduino_ether1.jpg"
 ---
 

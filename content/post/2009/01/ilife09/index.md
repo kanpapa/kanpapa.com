@@ -4,12 +4,6 @@ date: 2009-01-29
 slug: "ilife09"
 categories: 
   - "pc"
-tags: 
-  - "ilife"
-  - "iphoto"
-  - "mac"
-  - "mac-mini"
-  - "macbook-pro"
 ---
 
 Amazonに注文していたiLife'09が到着しましたので、早速MacBook Proにインストールしました。今回もファミリーパックを買ったので、あとでMac miniにもインストールすることにしましょう。  

@@ -4,8 +4,6 @@ date: 2008-11-16
 slug: "quicktime-mpeg-2"
 categories: 
   - "pc"
-tags: 
-  - "mac"
 ---
 
 QuickTime MPEG-2 再生コンポーネントというものをApple Storeから購入しました。お値段は2400円。これでMPEG-2のファイルが直接再生できます。

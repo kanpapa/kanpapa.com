@@ -4,9 +4,6 @@ date: 2008-09-27
 slug: "post-143"
 categories: 
   - "mobile"
-tags: 
-  - "edy"
-  - "osaifu-keitai"
 ---
 
 登録されているおサイフケータイアプリの削除が完了しました。

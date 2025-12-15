@@ -4,8 +4,6 @@ date: 2007-03-25
 slug: "debian-linux"
 categories: 
   - "server"
-tags: 
-  - "玄箱"
 ---
 
 玄箱(KURO-BOX)にDebian Linuxをインストールしてみました。

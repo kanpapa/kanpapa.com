@@ -4,11 +4,6 @@ date: 2010-06-25
 slug: "iphone-4-get"
 categories: 
   - "mobile"
-tags: 
-  - "crystal-shield"
-  - "dock"
-  - "iphone"
-  - "iphone-4"
 ---
 
 予定通りにソフトバンクオンラインショップからiPhone 4が到着しました！  

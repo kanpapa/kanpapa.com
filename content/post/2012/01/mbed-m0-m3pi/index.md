@@ -4,9 +4,6 @@ date: 2012-01-30
 slug: "mbed-m0-m3pi"
 categories: 
   - "electronics"
-tags: 
-  - "m3pi"
-  - "mbed"
 ---
 
 mbed NXP LPC11U24でm3piを動かしてみました。  

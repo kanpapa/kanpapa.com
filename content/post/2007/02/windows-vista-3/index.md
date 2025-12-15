@@ -4,8 +4,6 @@ date: 2007-02-02
 slug: "windows-vista-3"
 categories: 
   - "pc"
-tags: 
-  - "windows"
 ---
 
 あちこちまわってこんな記事をみつけました。

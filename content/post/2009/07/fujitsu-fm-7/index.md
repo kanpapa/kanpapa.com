@@ -4,9 +4,6 @@ date: 2009-07-20
 slug: "fujitsu-fm-7"
 categories: 
   - "retrocomputing"
-tags: 
-  - "fm-7"
-  - "fujitsu"
 image: "images/fm7_tv.jpg"
 ---
 

@@ -4,10 +4,6 @@ date: 2008-09-25
 slug: "suica-1"
 categories: 
   - "mobile"
-tags: 
-  - "iphone"
-  - "suica"
-  - "osaifu-keitai"
 ---
 
 今日はモバイルSuicaの定期券が切れる日なのです。

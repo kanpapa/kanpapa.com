@@ -4,9 +4,6 @@ date: 2009-04-24
 slug: "vaio-type-p-10"
 categories: 
   - "pc"
-tags: 
-  - "vaio"
-  - "vista"
 image: "images/vaio_type_p_recover.jpg"
 ---
 

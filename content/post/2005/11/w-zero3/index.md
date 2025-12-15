@@ -4,8 +4,6 @@ date: 2005-11-30
 slug: "w-zero3"
 categories: 
   - "mobile"
-tags: 
-  - "willcom"
 ---
 
 ついに[W-ZERO3の価格と予約開始日が発表](https://store.willcom-inc.com/ec/faces/lstlscp000306/)になりましたね。

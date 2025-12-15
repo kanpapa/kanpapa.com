@@ -4,11 +4,6 @@ date: 2010-06-22
 slug: "iphone-4-0625"
 categories: 
   - "mobile"
-tags: 
-  - "crystal-shield"
-  - "iphone"
-  - "iphone-4"
-  - "pdakobo"
 ---
 
 昨日ソフトバンクオンラインショップからiPhone 4 本申し込みのメールが届きまして早速本申し込みを行いました。順調に行けば6月25日到着予定とのことです。 おまけに、PDA工房さんに注文していた iPhone 4用保護シート「Crystal Shield for iPhone 4 (両面セット) 」が、少数先行して入荷したので、ご注文順に先行して発送しましたといううれしい連絡が。メール便なので２〜３日はかかるけど、iPhone 4本体とほぼ同じ日に到着するのではと思います。PDA工房さんに感謝。

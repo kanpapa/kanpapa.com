@@ -4,9 +4,6 @@ date: 2006-05-18
 slug: "w-zero3-14"
 categories: 
   - "mobile"
-tags: 
-  - "w-zero3"
-  - "willcom"
 ---
 
 ケータイWatchで「[ロケーションフリーがMacやPocket PC、W-ZERO3で利用可能に](http://k-tai.impress.co.jp/cda/article/news_toppage/29215.html)」という記事がありました。

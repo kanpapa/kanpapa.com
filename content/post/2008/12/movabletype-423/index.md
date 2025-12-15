@@ -4,8 +4,6 @@ date: 2008-12-03
 slug: "movabletype-423"
 categories: 
   - "server"
-tags: 
-  - "movable-type"
 ---
 
 XSS脆弱性が見つかったということなので、4.23にアップグレードしました。

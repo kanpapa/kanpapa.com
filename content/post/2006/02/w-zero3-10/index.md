@@ -4,8 +4,6 @@ date: 2006-02-17
 slug: "w-zero3-10"
 categories: 
   - "mobile"
-tags: 
-  - "willcom"
 ---
 
 W-ZERO3を買ったというメールを先ほどもらいました。

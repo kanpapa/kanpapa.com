@@ -4,8 +4,6 @@ date: 2013-04-20
 slug: "patapata-radio-clock"
 categories: 
   - "research"
-tags: 
-  - "大人の科学"
 ---
 
 大人の科学マガジン パタパタ電波時計を組み立てました。

@@ -4,8 +4,6 @@ date: 2007-04-14
 slug: "egg"
 categories: 
   - "research"
-tags: 
-  - "風景"
 image: "images/egg_20070414104116.jpg"
 ---
 

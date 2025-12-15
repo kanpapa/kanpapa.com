@@ -4,10 +4,6 @@ date: 2009-02-04
 slug: "vaio-type-pwillcomnico"
 categories: 
   - "mobile"
-tags: 
-  - "nico"
-  - "vaio"
-  - "willcom"
 image: "images/vaio_type_p_nico.jpg"
 ---
 

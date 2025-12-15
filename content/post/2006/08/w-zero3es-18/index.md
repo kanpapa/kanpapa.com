@@ -4,9 +4,6 @@ date: 2006-08-10
 slug: "w-zero3es-18"
 categories: 
   - "mobile"
-tags: 
-  - "w-zero3"
-  - "willcom"
 ---
 
 すみません、単体＆１０カ月を我慢しきれずにやってしまいました。

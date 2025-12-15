@@ -4,8 +4,6 @@ date: 2005-12-09
 slug: "post-19"
 categories: 
   - "mobile"
-tags: 
-  - "willcom"
 ---
 
 まだWILLCOM STOREのトップページすら表示されない状態になっちゃっていますね。WX310シリーズの予約申し込みとは一桁違うアクセスがあるのではないでしょうか。

@@ -4,9 +4,6 @@ date: 2005-02-16
 slug: "mac-mini-5"
 categories: 
   - "pc"
-tags: 
-  - "mac"
-  - "mac-mini"
 ---
 
 昨日ですが、ようやくMac miniが届きました。  

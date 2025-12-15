@@ -4,8 +4,6 @@ date: 2008-09-01
 slug: "iphone-3"
 categories: 
   - "mobile"
-tags: 
-  - "iphone"
 ---
 
 最近インストールしたiPhoneアプリです。

@@ -4,9 +4,6 @@ date: 2008-12-13
 slug: "mindstorms-nxt-robot"
 categories: 
   - "research"
-tags: 
-  - "lego"
-  - "mindstorms-nxt"
 ---
 
 ひさしぶりにMINDSTORMS NXTをひっぱりだしてきました。二足歩行ロボを組み立てて実験開始です。

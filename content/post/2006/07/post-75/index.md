@@ -4,9 +4,6 @@ date: 2006-07-09
 slug: "post-75"
 categories: 
   - "mobile"
-tags: 
-  - "w-zero3"
-  - "willcom"
 ---
 
 総合パンフを手に入れたものの、やはり持った感触や画面表示を見てみたい！

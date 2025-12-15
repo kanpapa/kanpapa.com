@@ -4,12 +4,6 @@ date: 2010-01-11
 slug: "post-158"
 categories: 
   - "mobile"
-tags: 
-  - "au"
-  - "ddi-pocket"
-  - "willcom"
-  - "たんすケータイあつめタイ"
-  - "携帯"
 image: "images/tansu_keitai.jpg"
 ---
 

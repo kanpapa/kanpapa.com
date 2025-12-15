@@ -4,10 +4,6 @@ date: 2007-09-02
 slug: "breadboard-tlr306"
 categories: 
   - "electronics"
-tags: 
-  - "ブレッドボード"
-  - "akiduki-denshi"
-  - "電子工作"
 image: "images/breadboard_20070902215948.jpg"
 ---
 

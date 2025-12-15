@@ -4,9 +4,6 @@ date: 2013-07-25
 slug: "onboard"
 categories: 
   - "electronics"
-tags: 
-  - "arduino"
-  - "onboard"
 image: "images/onboard1.jpg"
 ---
 

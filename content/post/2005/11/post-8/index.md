@@ -4,8 +4,6 @@ date: 2005-11-17
 slug: "post-8"
 categories: 
   - "mobile"
-tags: 
-  - "willcom"
 ---
 
 明日は[WX300K](http://www.kyocera.co.jp/prdct/telecom/consumer/wx300k/index.html)の発売日ですね。

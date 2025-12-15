@@ -4,8 +4,6 @@ date: 2006-02-09
 slug: "post-48"
 categories: 
   - "mobile"
-tags: 
-  - "willcom"
 ---
 
 普通の状態にもどりつつありますね。なんとか乗りきってくれたというところ

@@ -4,8 +4,6 @@ date: 2011-04-03
 slug: "geiger-counter-mbed"
 categories: 
   - "electronics"
-tags: 
-  - "mbed"
 image: "images/geiger-counter-mbed-1.jpg"
 ---
 

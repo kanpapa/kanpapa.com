@@ -4,9 +4,6 @@ date: 2009-10-21
 slug: "windows-7-1"
 categories: 
   - "pc"
-tags: 
-  - "windows"
-  - "windows-7"
 ---
 
 いよいよWindows7が深夜０時から発売になります。秋葉原では相当盛り上がっている様子です。 我が家にも続々と発送完了のメールが届きつつあります。

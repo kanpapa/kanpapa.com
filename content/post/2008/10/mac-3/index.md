@@ -4,8 +4,6 @@ date: 2008-10-28
 slug: "mac-3"
 categories: 
   - "pc"
-tags: 
-  - "mac"
 ---
 
 Macのソフトウェアアップデートがありました。

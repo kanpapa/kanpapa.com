@@ -4,9 +4,6 @@ date: 2011-01-24
 slug: "openocd-jtag"
 categories: 
   - "electronics"
-tags: 
-  - "arm"
-  - "hp20b"
 image: "images/HP20b_JTAG.jpg"
 ---
 

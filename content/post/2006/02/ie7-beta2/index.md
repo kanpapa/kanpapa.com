@@ -4,8 +4,6 @@ date: 2006-02-03
 slug: "ie7-beta2"
 categories: 
   - "pc"
-tags: 
-  - "windows"
 ---
 
 [IE7 beta2](http://www.microsoft.com/windows/IE/ie7/default.mspx)をノートPCにインストールしてみました。

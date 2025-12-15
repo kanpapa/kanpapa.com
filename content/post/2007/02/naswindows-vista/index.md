@@ -4,8 +4,6 @@ date: 2007-02-03
 slug: "naswindows-vista"
 categories: 
   - "pc"
-tags: 
-  - "windows"
 ---
 
 NASがつながらない件で、いろいろ探していたら。次のような記事をみつけました。

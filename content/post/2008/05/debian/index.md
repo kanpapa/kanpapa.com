@@ -4,9 +4,6 @@ date: 2008-05-06
 slug: "debian"
 categories: 
   - "server"
-tags: 
-  - "linkstation"
-  - "玄箱"
 ---
 
 LinkStation LS-H250GLにセットアップしたdebianの環境設定開始です。

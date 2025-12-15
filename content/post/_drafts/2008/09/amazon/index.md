@@ -2,8 +2,6 @@
 title: "Amazonアソシエイト・プログラムに参加してみた"
 date: 2008-09-21
 slug: "amazon"
-tags: 
-  - "amazon"
 draft: true
 ---
 

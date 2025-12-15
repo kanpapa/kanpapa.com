@@ -4,8 +4,6 @@ date: 2014-02-16
 slug: "rapiro-camera"
 categories: 
   - "robot"
-tags: 
-  - "rapiro"
 ---
 
 RAPIROにRaspberry Piのカメラモジュールを取り付けました。

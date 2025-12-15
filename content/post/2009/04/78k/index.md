@@ -4,10 +4,6 @@ date: 2009-04-29
 slug: "78k"
 categories: 
   - "retrocomputing"
-tags: 
-  - "78k"
-  - "ej"
-  - "電子工作"
 image: "images/78k_2.jpg"
 ---
 

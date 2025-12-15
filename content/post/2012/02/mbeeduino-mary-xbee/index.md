@@ -4,10 +4,6 @@ date: 2012-02-18
 slug: "mbeeduino-mary-xbee"
 categories: 
   - "electronics"
-tags: 
-  - "arduino"
-  - "mary"
-  - "mbeeduino"
 image: "images/mbeeduino_xbee2.jpg"
 ---
 

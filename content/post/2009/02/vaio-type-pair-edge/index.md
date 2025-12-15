@@ -4,11 +4,6 @@ date: 2009-02-16
 slug: "vaio-type-pair-edge"
 categories: 
   - "mobile"
-tags: 
-  - "air-edge"
-  - "prin"
-  - "vaio"
-  - "willcom"
 ---
 
 これまでは、EeePCにWILLCOMのAIR-EDGEをつかってモバイル環境を作っていました。  

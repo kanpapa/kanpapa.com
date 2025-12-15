@@ -4,10 +4,6 @@ date: 2008-12-06
 slug: "virusbarrier-x5"
 categories: 
   - "pc"
-tags: 
-  - "mac"
-  - "macbook-pro"
-  - "virusbarrier"
 ---
 
 Mac用のウィルス対策ソフトVirusBarrier X5試用版をMacBook Proにインストールしてみました。

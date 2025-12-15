@@ -4,9 +4,6 @@ date: 2005-02-14
 slug: "mac-mini-4"
 categories: 
   - "pc"
-tags: 
-  - "mac"
-  - "mac-mini"
 ---
 
 この日のためにわざわざ登録した福山通運の荷物配達状況照会によると、今日アップルストアからの荷物が到着するらしいです。当然、BTOしたmac miniでしょう。

@@ -4,8 +4,6 @@ date: 2014-09-21
 slug: "firefox-os-yjmail-autoconfig"
 categories: 
   - "mobile"
-tags: 
-  - "firefox-os"
 ---
 
 Firefox OS 2.2 Nightlyで、原因は不明ですが、メールの手動設定が正常に動かない状態になってしまいました。 Yahoo!メールを手動設定したあとに、メールを受信しようとすると、こんな画面になってしまいます。前回ビルドしたときはこれで動いていたのですが。 ![fxos_mailconfig_error.png](images/fxos_mailconfig_error.png) Gmailは自動設定になりますが、こちらは全く問題ありませんでした。 まあ、Nightlyなのでこういうバグらしきものがでてくるのは仕方ないことです。 何か解決するヒントはないかなと、ビルド環境を見ているとメールの自動設定の定義ファイルがあったので、それをYahoo!メール用に書き直してみました。 メールの自動設定の定義ファイルはビルド環境の以下のディレクトリにあります。 [B2G/gaia/apps/email/autoconfig](https://github.com/mozilla-b2g/gaia/tree/master/apps/email/autoconfig "Github") ここに各メールプロバイダー用の設定が並んでいますので、それを参考にして次のようなテキストファイルを作り、ファイル名 yahoo.co.jpでautoconfigのディレクトリに置きました。

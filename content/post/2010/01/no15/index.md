@@ -4,8 +4,6 @@ date: 2010-01-24
 slug: "no15"
 categories: 
   - "electronics"
-tags: 
-  - "ej"
 image: "images/ej_no15_pcb.jpg"
 ---
 

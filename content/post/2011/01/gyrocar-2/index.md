@@ -4,9 +4,6 @@ date: 2011-01-25
 slug: "gyrocar-2"
 categories: 
   - "research"
-tags: 
-  - "サイエンス"
-  - "gyrocar"
 image: "images/gyrocar01.jpg"
 ---
 

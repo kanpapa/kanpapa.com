@@ -5,8 +5,6 @@ slug: "nutiny-sdk-nuc120led"
 categories: 
   - "electronics"
   - "retrocomputing"
-tags: 
-  - "arm"
 image: "images/NuTiny-SDK-NUC120-Keil-EV.jpg"
 ---
 

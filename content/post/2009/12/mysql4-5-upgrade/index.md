@@ -4,9 +4,6 @@ date: 2009-12-01
 slug: "mysql4-5-upgrade"
 categories: 
   - "server"
-tags: 
-  - "movable-type"
-  - "mysql"
 ---
 
 Movable Type 5がMySQL 5.x系しか使えないということで、Movable Type 4のままでまずはMySQLをバージョンアップすることにしました。  

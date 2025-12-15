@@ -4,10 +4,6 @@ date: 2012-03-23
 slug: "factory-hack"
 categories: 
   - "research"
-tags: 
-  - "モノファクトリー"
-  - "工場ハック"
-  - "工場見学"
 image: "images/factory_hack_201203_1.jpg"
 ---
 

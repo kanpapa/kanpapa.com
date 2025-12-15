@@ -4,9 +4,6 @@ date: 2008-03-30
 slug: "post-115"
 categories: 
   - "mobile"
-tags: 
-  - "w-zero3"
-  - "willcom"
 ---
 
 新つなぎ放題にしたらMy WILLCOMでのご利用状況紹介のご利用パケット数が更新されなくなってしまった。

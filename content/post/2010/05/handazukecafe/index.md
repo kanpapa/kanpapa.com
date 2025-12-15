@@ -4,8 +4,6 @@ date: 2010-05-09
 slug: "handazukecafe"
 categories: 
   - "electronics"
-tags: 
-  - "はんだづけカフェ"
 image: "images/hndcafe.jpg"
 ---
 

@@ -4,9 +4,6 @@ date: 2008-10-15
 slug: "movabletype-422"
 categories: 
   - "server"
-tags: 
-  - "movable-type"
-  - "security"
 ---
 
 Movable Type 4.22?[セキュリティアップデート](http://www.sixapart.jp/movabletype/news/2008/10/15-1400.html)が公開されていましたので、早速アップデートしてみました。

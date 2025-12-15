@@ -4,9 +4,6 @@ date: 2015-12-06
 slug: seccon-ctf-2015-online-write-up
 categories:
 - security
-tags:
-- seccon
-- security
 image: images/entry_form1.png
 ---
 

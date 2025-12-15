@@ -4,9 +4,6 @@ date: 2008-03-23
 slug: "post-113"
 categories: 
   - "mobile"
-tags: 
-  - "w-zero3"
-  - "willcom"
 ---
 
 これまで、パケコミネット＋長期割引＋年間契約＋A&B割の料金プランでしたが、新つなぎ放題にプランを変更してみました。

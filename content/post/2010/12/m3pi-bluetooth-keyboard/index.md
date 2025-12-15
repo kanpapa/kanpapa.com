@@ -4,9 +4,6 @@ date: 2010-12-11
 slug: "m3pi-bluetooth-keyboard"
 categories: 
   - "electronics"
-tags: 
-  - "m3pi"
-  - "mbed"
 image: "images/m3pi-bluetooth-keyboard-1.jpg"
 ---
 

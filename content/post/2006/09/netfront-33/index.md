@@ -4,9 +4,6 @@ date: 2006-09-12
 slug: "netfront-33"
 categories: 
   - "mobile"
-tags: 
-  - "w-zero3"
-  - "willcom"
 ---
 
 私もNetFront 3.3を愛用しています。伊藤さんと同じようにテキストモードでの高速ブラウジングです。

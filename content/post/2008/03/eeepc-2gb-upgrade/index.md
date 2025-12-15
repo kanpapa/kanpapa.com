@@ -4,8 +4,6 @@ date: 2008-03-08
 slug: "eeepc-2gb-upgrade"
 categories: 
   - "pc"
-tags: 
-  - "eeepc"
 ---
 
 Eee PCのメモリを増設しました。I-O DATA社製の2GBです。  

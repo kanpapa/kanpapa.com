@@ -4,8 +4,6 @@ date: 2007-10-26
 slug: "mac-os-x-105-leopard"
 categories: 
   - "pc"
-tags: 
-  - "mac"
 ---
 
 発売日の夜にビックカメラ.comからLeopardが到着しました。やはり18時以降配送指定となっていました。さすが。

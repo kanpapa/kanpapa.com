@@ -4,9 +4,6 @@ date: 2008-03-26
 slug: "sim-style"
 categories: 
   - "mobile"
-tags: 
-  - "w-zero3"
-  - "willcom"
 ---
 
 この前、WS002IN(DD)を買ったばかりなんですが・・・・。

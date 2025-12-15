@@ -4,8 +4,6 @@ date: 2009-06-19
 slug: "movable-type-4261"
 categories: 
   - "server"
-tags: 
-  - "movable-type"
 ---
 
 このまえアップグレードしたばかりなのに、また更新がありました。

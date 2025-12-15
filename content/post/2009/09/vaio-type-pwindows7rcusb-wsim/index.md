@@ -4,14 +4,6 @@ date: 2009-09-08
 slug: "vaio-type-pwindows7rcusb-wsim"
 categories: 
   - "pc"
-tags: 
-  - "usb-wsim"
-  - "vaio"
-  - "willcom"
-  - "windows"
-  - "windows-7-rc"
-  - "ybb"
-  - "おでかけアクセス"
 image: "images/usb-wsim-vaio.jpg"
 ---
 

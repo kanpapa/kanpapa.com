@@ -4,10 +4,6 @@ date: 2008-04-29
 slug: "linkstation-disassembly"
 categories: 
   - "server"
-tags: 
-  - "linkstation"
-  - "ls-h250gl"
-  - "玄箱"
 ---
 
 BUFFALO LinkStation LS-H250GLを分解してみました。

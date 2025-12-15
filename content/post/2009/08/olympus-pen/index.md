@@ -4,12 +4,6 @@ date: 2009-08-15
 slug: "olympus-pen"
 categories: 
   - "research"
-tags: 
-  - "fotopus"
-  - "pen"
-  - "オリンパス"
-  - "マイクロ一眼"
-  - "風景"
 image: "images/olympus_pen.jpg"
 ---
 

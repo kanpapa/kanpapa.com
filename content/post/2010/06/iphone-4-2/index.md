@@ -4,13 +4,6 @@ date: 2010-06-25
 slug: "iphone-4-2"
 categories: 
   - "mobile"
-tags: 
-  - "buzzhouse-design"
-  - "crystal-shield"
-  - "iphone"
-  - "iphone-4"
-  - "w-zero3"
-  - "ハンドメイドフェルトケース"
 image: "images/iphone4_no_sim.jpg"
 ---
 

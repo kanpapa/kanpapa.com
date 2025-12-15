@@ -4,9 +4,6 @@ date: 2009-01-11
 slug: "vaio-type-pwindows"
 categories: 
   - "pc"
-tags: 
-  - "vaio"
-  - "vista"
 ---
 
 朝一でビックカメラに出かけてVAIO type Pを触ってきました。

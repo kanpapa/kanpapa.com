@@ -4,9 +4,6 @@ date: 2011-12-06
 slug: "make-tokyo-meeting-07-mtm07"
 categories: 
   - "research"
-tags: 
-  - "maker-faire"
-  - "mtm07"
 image: "images/MTM07_02.jpg"
 ---
 

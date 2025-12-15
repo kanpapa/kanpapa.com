@@ -4,8 +4,6 @@ date: 2006-02-17
 slug: "w-zero3-11"
 categories: 
   - "mobile"
-tags: 
-  - "willcom"
 ---
 
 W-ZERO3も買ってしまったのでそちらのパケット数グラフも作ってみました。

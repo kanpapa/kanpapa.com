@@ -4,9 +4,6 @@ date: 2006-07-30
 slug: "w-zero3w-zero3es"
 categories: 
   - "mobile"
-tags: 
-  - "w-zero3"
-  - "willcom"
 ---
 
 W-ZERO3からW-ZERO3\[es\]のデータ移行ツールが公開されたみたいです。

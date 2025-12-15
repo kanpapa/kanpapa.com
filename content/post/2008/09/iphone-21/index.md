@@ -4,9 +4,6 @@ date: 2008-09-14
 slug: "iphone-21"
 categories: 
   - "mobile"
-tags: 
-  - "iphone"
-  - "iphone-2-1"
 ---
 
 iPhone 2.1を早速iPhoneにインストールしました。

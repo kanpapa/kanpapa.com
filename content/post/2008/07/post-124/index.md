@@ -4,8 +4,6 @@ date: 2008-07-08
 slug: "post-124"
 categories: 
   - "mobile"
-tags: 
-  - "iphone"
 ---
 
 並べるっていいなぁ?

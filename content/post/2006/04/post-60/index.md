@@ -4,10 +4,6 @@ date: 2006-04-01
 slug: "post-60"
 categories: 
   - "pc"
-tags: 
-  - "yahoo-bb"
-  - "ybb"
-  - "modem"
 ---
 
 土曜日にNTTのかたが、VDSLモデムとルータを引き上げてしまいアナログ回線にもどりました。  

@@ -4,9 +4,6 @@ date: 2008-09-10
 slug: "maciphone"
 categories: 
   - "mobile"
-tags: 
-  - "iphone"
-  - "mac"
 ---
 
 こんなiPhone向けサイトをみつけました。

@@ -4,9 +4,6 @@ date: 2015-02-22
 slug: "firefox-os-wot"
 categories: 
   - "electronics"
-tags: 
-  - "firefox-os"
-  - "mbed"
 image: "images/wot_hackathon_idea6.jpg"
 ---
 

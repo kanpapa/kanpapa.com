@@ -4,11 +4,6 @@ date: 2009-07-04
 slug: "gakken-gmc-4-4bit-cpu"
 categories: 
   - "research"
-tags: 
-  - "4bit-cpu"
-  - "gmc-4"
-  - "大人の科学"
-  - "電子工作"
 image: "images/gmc4_1stpgm.jpg"
 ---
 

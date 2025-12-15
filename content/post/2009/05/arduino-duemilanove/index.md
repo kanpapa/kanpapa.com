@@ -4,9 +4,6 @@ date: 2009-05-05
 slug: "arduino-duemilanove"
 categories: 
   - "electronics"
-tags: 
-  - "arduino"
-  - "duemilanove"
 image: "images/arduino_1.jpg"
 ---
 

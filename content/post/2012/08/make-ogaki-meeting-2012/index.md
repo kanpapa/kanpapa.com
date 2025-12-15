@@ -4,9 +4,6 @@ date: 2012-08-27
 slug: "make-ogaki-meeting-2012"
 categories: 
   - "research"
-tags: 
-  - "maker-faire"
-  - "mom2012"
 image: "images/mom2012_1f.jpg"
 ---
 

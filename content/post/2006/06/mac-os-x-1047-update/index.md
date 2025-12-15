@@ -4,8 +4,6 @@ date: 2006-06-27
 slug: "mac-os-x-1047-update"
 categories: 
   - "pc"
-tags: 
-  - "mac"
 ---
 
 [アップデート](http://docs.info.apple.com/article.html?artnum=303771-ja)完了しましたっ！

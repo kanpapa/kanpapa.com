@@ -4,8 +4,6 @@ date: 2008-07-12
 slug: "isoftbankjp"
 categories: 
   - "mobile"
-tags: 
-  - "iphone"
 ---
 
 いまだにi.softbank.jpのメール設定ができません。

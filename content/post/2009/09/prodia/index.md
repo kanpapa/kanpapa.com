@@ -4,10 +4,6 @@ date: 2009-09-19
 slug: "prodia"
 categories: 
   - "research"
-tags: 
-  - "prodia"
-  - "ピクセラ"
-  - "地デジ"
 image: "images/pixela_prodia02.jpg"
 ---
 

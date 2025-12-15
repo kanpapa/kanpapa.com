@@ -4,10 +4,6 @@ date: 2008-10-30
 slug: "post-148"
 categories: 
   - "research"
-tags: 
-  - "ham"
-  - "九十九電機"
-  - "工具"
 image: "images/DSCN0285.jpg"
 ---
 

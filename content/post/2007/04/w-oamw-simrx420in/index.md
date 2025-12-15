@@ -4,9 +4,6 @@ date: 2007-04-06
 slug: "w-oamw-simrx420in"
 categories: 
   - "mobile"
-tags: 
-  - "w-zero3"
-  - "willcom"
 ---
 
 おお、久しぶりに興味ある記事だ。

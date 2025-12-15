@@ -4,8 +4,6 @@ date: 2012-04-27
 slug: "minnano-kagaku"
 categories: 
   - "research"
-tags: 
-  - "レアもの"
 ---
 
 「みんなの科学 たのしい実験室」が再放送されるということなので、楽しみにしていました。

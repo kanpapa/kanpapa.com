@@ -4,8 +4,6 @@ date: 2005-12-23
 slug: "wx310k-7"
 categories: 
   - "mobile"
-tags: 
-  - "willcom"
 ---
 
 今朝再度チャレンジしたらサックリ更新できました。

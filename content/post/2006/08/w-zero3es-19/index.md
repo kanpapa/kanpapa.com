@@ -4,9 +4,6 @@ date: 2006-08-11
 slug: "w-zero3es-19"
 categories: 
   - "mobile"
-tags: 
-  - "w-zero3"
-  - "willcom"
 ---
 
 今日の夕方にこんなメールがきました。

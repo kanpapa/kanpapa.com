@@ -4,11 +4,6 @@ date: 2008-09-29
 slug: "w-zero3es-29"
 categories: 
   - "mobile"
-tags: 
-  - "iphone"
-  - "nico"
-  - "w-zero3"
-  - "willcom"
 ---
 
 最近はiPhoneばかりをいじっていましたが、WILLCOMの検索サイトがYahoo!になるとのニュースが流れたので、W-SIMをW-ZERO3\[es\]に入れて、久しぶりに電源をいれてみました。

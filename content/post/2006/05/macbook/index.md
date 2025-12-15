@@ -4,8 +4,6 @@ date: 2006-05-17
 slug: "macbook"
 categories: 
   - "pc"
-tags: 
-  - "mac"
 ---
 
 Intel Macがずっと気になっている今日この頃。やはり出てしまいましたね。[MacBook](http://www.apple.com/jp/macbook/macbook.html)。

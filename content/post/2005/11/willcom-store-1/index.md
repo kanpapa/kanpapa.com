@@ -4,8 +4,6 @@ date: 2005-11-24
 slug: "willcom-store-1"
 categories: 
   - "mobile"
-tags: 
-  - "willcom"
 ---
 
 ようやくWILLCOMストアから出荷完了のお知らせメールがとどきました。

@@ -4,8 +4,6 @@ date: 2013-11-05
 slug: "led-matrix-kit"
 categories: 
   - "electronics"
-tags: 
-  - "led"
 image: "images/ledmatrix12.jpg"
 ---
 

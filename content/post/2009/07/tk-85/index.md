@@ -4,9 +4,6 @@ date: 2009-07-04
 slug: "tk-85"
 categories: 
   - "retrocomputing"
-tags: 
-  - "nec"
-  - "tk-85"
 image: "images/tk85_1.jpg"
 ---
 

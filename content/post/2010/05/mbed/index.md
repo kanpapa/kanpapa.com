@@ -4,9 +4,6 @@ date: 2010-05-27
 slug: "mbed"
 categories: 
   - "electronics"
-tags: 
-  - "mbed"
-  - "プロトタイピング"
 image: "images/mbed04.jpg"
 ---
 

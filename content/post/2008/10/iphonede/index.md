@@ -4,10 +4,6 @@ date: 2008-10-11
 slug: "iphonede"
 categories: 
   - "research"
-tags: 
-  - "iphone"
-  - "ラムネ"
-  - "風景"
 image: "images/ramune_bin.jpg"
 ---
 

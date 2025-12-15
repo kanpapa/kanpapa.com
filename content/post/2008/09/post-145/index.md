@@ -4,10 +4,6 @@ date: 2008-09-28
 slug: "post-145"
 categories: 
   - "research"
-tags: 
-  - "おもちゃのカンヅメ"
-  - "レアもの"
-  - "冒険缶"
 image: "images/omocha_no_kanzume1.jpg"
 ---
 

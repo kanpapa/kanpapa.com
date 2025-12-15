@@ -4,9 +4,6 @@ date: 2006-04-18
 slug: "w-zero3-13"
 categories: 
   - "mobile"
-tags: 
-  - "w-zero3"
-  - "willcom"
 ---
 
 駅のホームでメールの整理をしていたところ、小さな女の子が寄ってきてW-ZERO3の画面を覗き見ようとしていました。

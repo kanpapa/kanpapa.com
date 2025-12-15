@@ -4,8 +4,6 @@ date: 2008-06-03
 slug: "oss-yakisoba"
 categories: 
   - "research"
-tags: 
-  - "つぶやき"
 image: "images/oss_yakisoba_20080604074037.jpg"
 ---
 

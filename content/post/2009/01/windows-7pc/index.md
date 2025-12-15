@@ -4,10 +4,6 @@ date: 2009-01-27
 slug: "windows-7pc"
 categories: 
   - "pc"
-tags: 
-  - "cf-w2"
-  - "windows"
-  - "windows-7"
 ---
 
 「Windows 7 ベータ版は、同じプロダクト キーを使用して、最大 3 台の PC にインストールできます。」というメールがMicrosoftから届いたので、手持ちの古いノートPCにもインストールしてみました。  

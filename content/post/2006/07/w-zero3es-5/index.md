@@ -4,9 +4,6 @@ date: 2006-07-15
 slug: "w-zero3es-5"
 categories: 
   - "mobile"
-tags: 
-  - "w-zero3"
-  - "willcom"
 ---
 
 ケータイWatchでこんな記事をみつけました。

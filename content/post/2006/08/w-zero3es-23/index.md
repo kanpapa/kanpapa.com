@@ -4,9 +4,6 @@ date: 2006-08-20
 slug: "w-zero3es-23"
 categories: 
   - "mobile"
-tags: 
-  - "w-zero3"
-  - "willcom"
 ---
 
 マナーモードを解除したのですが、何やら音が鳴りません。

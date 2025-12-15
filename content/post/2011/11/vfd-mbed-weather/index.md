@@ -4,9 +4,6 @@ date: 2011-11-20
 slug: "vfd-mbed-weather"
 categories: 
   - "electronics"
-tags: 
-  - "mbed"
-  - "vfd"
 image: "images/vfd_mbed_weather.jpg"
 ---
 

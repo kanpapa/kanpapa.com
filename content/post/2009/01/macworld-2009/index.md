@@ -4,8 +4,6 @@ date: 2009-01-06
 slug: "macworld-2009"
 categories: 
   - "pc"
-tags: 
-  - "mac"
 ---
 
 深夜２時ぐらいにMacWorld 2009の基調講演があるようです。

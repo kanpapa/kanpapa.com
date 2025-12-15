@@ -4,8 +4,6 @@ date: 2006-10-28
 slug: "mindstoms-nxt"
 categories: 
   - "research"
-tags: 
-  - "lego"
 ---
 
 [LEGOと僕と僕の生きる道](http://d.hatena.ne.jp/skelton_boy/20061024/1161649575 "LEGOと僕と僕の生きる道 - NXT本が届きました。")さんで、MINDSTORMS NXT本がでているのを知りました。

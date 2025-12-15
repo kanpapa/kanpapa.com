@@ -4,10 +4,6 @@ date: 2006-04-02
 slug: "ybb-hikari-kaitsuu"
 categories: 
   - "pc"
-tags: 
-  - "ftth"
-  - "yahoo-bb"
-  - "ybb"
 image: "images/ybb_hikari_20060404081330.jpg"
 ---
 

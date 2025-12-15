@@ -4,9 +4,6 @@ date: 2008-10-01
 slug: "w-zero3eswillcom"
 categories: 
   - "mobile"
-tags: 
-  - "w-zero3"
-  - "willcom"
 ---
 
 W-ZERO3\[es\]でWILLCOM公式サイト(http://menu.clubh.ne.jp/)を表示すると画面の上のほうに

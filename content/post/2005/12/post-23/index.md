@@ -4,8 +4,6 @@ date: 2005-12-18
 slug: "post-23"
 categories: 
   - "research"
-tags: 
-  - "sony"
 ---
 
 また、新しいデジモノを買ってしまった。

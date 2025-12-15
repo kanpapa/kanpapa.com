@@ -4,9 +4,6 @@ date: 2006-08-07
 slug: "w-zero3-17"
 categories: 
   - "mobile"
-tags: 
-  - "w-zero3"
-  - "willcom"
 ---
 
 [伊藤浩一のW-ZERO3応援団](http://d.hatena.ne.jp/itokoichi/)さんによると、W-ZERO3\[es\]のおすすめ機能が載っていました。

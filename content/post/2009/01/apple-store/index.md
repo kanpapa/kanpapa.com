@@ -4,8 +4,6 @@ date: 2009-01-06
 slug: "apple-store"
 categories: 
   - "pc"
-tags: 
-  - "mac"
 ---
 
 Apple Storeがメンテナンス開始みたいです。

@@ -4,8 +4,6 @@ date: 2009-01-06
 slug: "live-blog-macworld-2009-keynote"
 categories: 
   - "pc"
-tags: 
-  - "mac"
 ---
 
 結局、cnet newsの英語版ライブブログを視聴中。

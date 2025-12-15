@@ -4,8 +4,6 @@ date: 2014-02-09
 slug: "rapiro"
 categories: 
   - "robot"
-tags: 
-  - "rapiro"
 ---
 
 [Kickstarter](https://www.kickstarter.com/projects/shota/rapiro-the-humanoid-robot-kit-for-your-raspberry-p "kickstarter.com")で購入していた[RAPIRO](http://www.rapiro.com "rapiro.com")が到着しました。2月からは[スイッチサイエンスさん](http://www.switch-science.com "switch-science.com")で一般販売されるようです。

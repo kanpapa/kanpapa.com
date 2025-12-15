@@ -4,8 +4,6 @@ date: 2007-04-02
 slug: "setihome"
 categories: 
   - "server"
-tags: 
-  - "玄箱"
 ---
 
 動き出した玄箱ですが、せっかく常時稼働しているのでBOINCを動かしてseti@homeに参加してみることにしました。

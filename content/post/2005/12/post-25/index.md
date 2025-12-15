@@ -4,8 +4,6 @@ date: 2005-12-19
 slug: "post-25"
 categories: 
   - "research"
-tags: 
-  - "sony"
 ---
 
 ロケーションフリーベースをインターネットに接続してみました。

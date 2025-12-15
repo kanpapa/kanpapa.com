@@ -4,9 +4,6 @@ date: 2009-10-03
 slug: "post-157"
 categories: 
   - "electronics"
-tags: 
-  - "ej"
-  - "基板"
 image: "images/ej_no14_pcb.jpg"
 ---
 

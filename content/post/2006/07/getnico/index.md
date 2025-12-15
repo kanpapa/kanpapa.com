@@ -4,8 +4,6 @@ date: 2006-07-08
 slug: "getnico"
 categories: 
   - "mobile"
-tags: 
-  - "willcom"
 ---
 
 今日は朝一で某量販店にでかけてきました。

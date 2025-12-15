@@ -4,8 +4,6 @@ date: 2006-01-29
 slug: "wx300k-1"
 categories: 
   - "mobile"
-tags: 
-  - "willcom"
 ---
 
 [WILLCOM応援団](http://willcom.bg.cat-v.ne.jp/article/144066.html "WILLCOM応援団: ITmediaのPHS売上ランキング")さんで取り上げられていましたが、WX300Kの売り上げが第一位とのこと。

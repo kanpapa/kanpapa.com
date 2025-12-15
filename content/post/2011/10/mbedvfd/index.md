@@ -4,9 +4,6 @@ date: 2011-10-10
 slug: "mbedvfd"
 categories: 
   - "electronics"
-tags: 
-  - "mbed"
-  - "vfd"
 image: "images/vfd_font02.jpg"
 ---
 

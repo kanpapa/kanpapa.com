@@ -4,8 +4,6 @@ date: 2006-03-22
 slug: "camino"
 categories: 
   - "pc"
-tags: 
-  - "mac"
 ---
 
 Caminoの日本語ページができています！

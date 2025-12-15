@@ -4,8 +4,6 @@ date: 2007-01-22
 slug: "post-88"
 categories: 
   - "mobile"
-tags: 
-  - "osaifu-keitai"
 ---
 
 この記事の通りだと思いますね。いまのところ面倒くさくて、準備が大変。それは今回実感しました。

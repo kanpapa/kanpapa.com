@@ -4,8 +4,6 @@ date: 2005-12-16
 slug: "post-22"
 categories: 
   - "research"
-tags: 
-  - "sony"
 ---
 
 手持ちのPSPがもっと活用できないかなあということで、

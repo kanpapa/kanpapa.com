@@ -4,9 +4,6 @@ date: 2006-12-05
 slug: "the-missing-sync-for-windows-mobile"
 categories: 
   - "mobile"
-tags: 
-  - "w-zero3"
-  - "willcom"
 ---
 
 私もこの記事を読んで思い切って購入してみました。

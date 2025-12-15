@@ -4,12 +4,6 @@ date: 2009-04-14
 slug: "willcom-baum"
 categories: 
   - "mobile"
-tags: 
-  - "baum"
-  - "iphone"
-  - "w-zero3"
-  - "willcom"
-  - "osaifu-keitai"
 image: "images/willcom_baum.jpg"
 ---
 

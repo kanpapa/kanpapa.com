@@ -4,9 +4,6 @@ date: 2012-10-13
 slug: "trjr-nxp-dip-arm"
 categories: 
   - "electronics"
-tags: 
-  - "arm"
-  - "lpc1114"
 image: "images/nxp_dip_arm_aquestalk.jpg"
 ---
 

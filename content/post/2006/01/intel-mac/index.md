@@ -4,8 +4,6 @@ date: 2006-01-11
 slug: "intel-mac"
 categories: 
   - "pc"
-tags: 
-  - "mac"
 ---
 
 噂の[Intel版Mac](http://www.apple.com/jp/)がついに発表されましたね。どのくらい速いのか一度Apple Storeで見物してくるかな。

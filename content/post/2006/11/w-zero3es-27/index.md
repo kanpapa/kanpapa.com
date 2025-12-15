@@ -4,9 +4,6 @@ date: 2006-11-15
 slug: "w-zero3es-27"
 categories: 
   - "mobile"
-tags: 
-  - "w-zero3"
-  - "willcom"
 ---
 
 むむ。期待しちゃいますよ。SHARPさん。

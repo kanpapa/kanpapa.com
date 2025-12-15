@@ -4,8 +4,6 @@ date: 2010-11-17
 slug: "pololu-3pi-robot-demo"
 categories: 
   - "robot"
-tags: 
-  - "m3pi"
 ---
 
 Pololu 3pi robotに電池をいれてみました。単４電池４本です。  

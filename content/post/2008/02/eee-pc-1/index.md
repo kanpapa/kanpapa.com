@@ -4,8 +4,6 @@ date: 2008-02-28
 slug: "eee-pc-1"
 categories: 
   - "pc"
-tags: 
-  - "eeepc"
 ---
 
 なんとEeePC出荷のメールが昨日ビックカメラから届いていました。

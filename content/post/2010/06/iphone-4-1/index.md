@@ -4,9 +4,6 @@ date: 2010-06-08
 slug: "iphone-4-1"
 categories: 
   - "mobile"
-tags: 
-  - "iphone"
-  - "iphone-4"
 ---
 
 iPhone 4が発表されましたが、これで悩みが増えました。

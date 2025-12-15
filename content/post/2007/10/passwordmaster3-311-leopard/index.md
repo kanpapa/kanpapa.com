@@ -4,8 +4,6 @@ date: 2007-10-30
 slug: "passwordmaster3-311-leopard"
 categories: 
   - "pc"
-tags: 
-  - "mac"
 ---
 
 [PasswordMaster3 3.1.1 アップデータ](http://hp.vector.co.jp/authors/VA024217/object/html/product/updater/)が公開されています。

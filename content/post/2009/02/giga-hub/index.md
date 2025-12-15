@@ -4,12 +4,6 @@ date: 2009-02-11
 slug: "giga-hub"
 categories: 
   - "pc"
-tags: 
-  - "bs-g2008ur"
-  - "buffalo"
-  - "hub"
-  - "network"
-  - "switch"
 ---
 
 秋葉原を歩いていると、ふと段ボール箱が目に入りました。

@@ -4,9 +4,6 @@ date: 2013-02-08
 slug: "mbed-ledmatrix-newsboard"
 categories: 
   - "electronics"
-tags: 
-  - "led-matrix"
-  - "mbed"
 image: "images/mbed-ledmatrix-newsboard-4-1.jpg"
 ---
 

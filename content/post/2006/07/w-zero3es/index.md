@@ -4,8 +4,6 @@ date: 2006-07-03
 slug: "w-zero3es"
 categories: 
   - "mobile"
-tags: 
-  - "willcom"
 ---
 
 もうだめです。こんなに発表が続くと逝ってしまいそうです。

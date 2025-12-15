@@ -4,9 +4,6 @@ date: 2011-10-31
 slug: "vfd-lpcxpresso-lpc1768"
 categories: 
   - "electronics"
-tags: 
-  - "mbed"
-  - "vfd"
 image: "images/VFD_LPCXpresso.jpg"
 ---
 

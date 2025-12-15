@@ -4,8 +4,6 @@ date: 2008-08-07
 slug: "post-132"
 categories: 
   - "mobile"
-tags: 
-  - "iphone"
 ---
 
 最近インストールしたアプリです。いずれも無料です。

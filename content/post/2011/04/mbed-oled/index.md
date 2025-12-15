@@ -4,10 +4,6 @@ date: 2011-04-10
 slug: "mbed-oled"
 categories: 
   - "electronics"
-tags: 
-  - "mary"
-  - "mbed"
-  - "oled"
 image: "images/mbed_oled2.jpg"
 ---
 

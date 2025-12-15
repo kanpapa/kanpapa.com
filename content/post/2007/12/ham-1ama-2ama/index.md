@@ -4,8 +4,6 @@ date: 2007-12-10
 slug: "ham-1ama-2ama"
 categories: 
   - "research"
-tags: 
-  - "ham"
 image: "images/ham_2ama_20071210195841.jpg"
 ---
 
