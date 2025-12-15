@@ -71,7 +71,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon: /favicon.ico
+    favicon: /kanpapa.com/favicon.ico
     footer:
         since: 2005
         customText:
