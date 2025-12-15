@@ -1,4 +1,4 @@
-baseurl: https://kanpapa.github.io/kanpapa.com/
+baseurl: https://kanpapa.com/
 languageCode: ja 
 theme: hugo-theme-stack
 title: きょうのかんぱぱ
@@ -71,7 +71,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon: /kanpapa.com/favicon.ico
+    favicon: /favicon.ico
     footer:
         since: 2005
         customText:
