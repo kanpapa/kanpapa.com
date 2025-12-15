@@ -27,3 +27,16 @@ unused_images/
 # エディタの一時ファイル（VSCodeなど）
 .vscode/
 *.swp
+
+# テストサーバのロックファイル
+.hugo_build.lock
+
+# 古い記事のタグを削除する
+remove_old_tags.py
+
+# カテゴリの重複登録の記事一覧作成
+find_multi_category.py
+
+# リダイレクト作業ファイル
+generate_redirects.py
+redirects_html/
