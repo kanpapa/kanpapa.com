@@ -2,7 +2,6 @@
 title: "WordPressからGitHub Pages(Hugo)への移行を行いました"
 date: '2025-12-15T17:25:45+09:00'
 slug: migration-to-hugo
-description: "Geminiのおかげでたった2日間で2000件の記事を持つWordPressからHugoへ移行が完了しました"
 categories:
     - "Server"
 tags:
