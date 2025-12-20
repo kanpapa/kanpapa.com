@@ -3,6 +3,8 @@ languageCode: ja
 theme: hugo-theme-stack
 title: きょうのかんぱぱ
 copyright: kanpapa.com
+images:
+  - images/ogp.jpg
 
 # Theme i18n support
 # Available values: ar, bn, ca, de, el, en, es, fr, hu, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
@@ -205,16 +207,16 @@ params:
 
     defaultImage:
         opengraph:
-            enabled: false
-            local: false
-            src:
+            enabled: true
+            local: true
+            src: img/ogp.jpg
 
     colorScheme:
         # Display toggle
         toggle: true
 
         # Available values: auto, light, dark
-        default: auto
+        default: 
 
     imageProcessing:
         cover:
