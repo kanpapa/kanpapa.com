@@ -144,7 +144,7 @@ $ sudo apt install ros-melodic-teleop-twist-keyboard$ rosrun teleop_twist_keyboa
 
 動作中の様子をYouTubeにアップしておきました。
 
-https://youtu.be/f1ylQWFJX2M?si=HzvMXvOUFP3fLfTa
+{{< youtube f1ylQWFJX2M >}}
 
 ### 今後の計画
 

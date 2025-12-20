@@ -24,7 +24,7 @@ image: images/cosmac_add2.jpg
 
 実行した結果をYouTubeにアップしておきました。
 
-https://youtu.be/b9bunGEz8RQ?si=TD6UW02by\_WpmATU
+{{< youtube b9bunGEz8RQ >}}
 
 <!--more-->
 
@@ -36,7 +36,7 @@ https://youtu.be/b9bunGEz8RQ?si=TD6UW02by\_WpmATU
 
 こちらもYouTubeに動画をアップしておきました。
 
-https://youtu.be/tyrP2b0x0OM?si=US\_kdQnF8j20m69F
+{{< youtube tyrP2b0x0OM >}}
 
 次は加算プログラムです。トグルスイッチで設定した値に6を加算した数値をLEDに表示します。
 

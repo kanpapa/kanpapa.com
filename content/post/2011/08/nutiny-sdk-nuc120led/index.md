@@ -18,4 +18,4 @@ DVD-ROMをWindows PCに入れると、次のような画面が出てきます。
 また、動作中のビデオ画像も入っています。このあたり親切にできていると思います。  
 私も早速動かしてみました。
 
-https://youtu.be/KRsfO9KUL\_0
+{{< youtube KRsfO9KUL_0 >}}

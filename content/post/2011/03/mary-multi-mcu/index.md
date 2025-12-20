@@ -15,7 +15,7 @@ MB基板にもプログラムを書き込むためにもう１枚のMB基板をU
 
 このサンプルプログラムを参考にして、MB基板間で通信を行い、交互に点滅するようにしてみました。
 
-https://youtu.be/MCxlttvDDqc
+{{< youtube MCxlttvDDqc >}}
 
   
 さきほどのサンプルプログラムはtickを同期することで、各MB基板が同じタイミングで同じ動作になるようにしていますが、今回はtickは使わないでON/OFFのデータ(uint32)を送受して制御してみました。  
@@ -23,7 +23,7 @@ https://youtu.be/MCxlttvDDqc
 
 プログラムが動くことは確認できましたが、せっかくOB基板を持っているので、そちらにデバック情報を表示させてみました。
 
-https://youtu.be/IyOuLI\_HOvA
+{{< youtube IyOuLI_HOvA >}}
 
 これもAPIが準備されているのでprintf感覚で手軽に文字が表示できます。OLEDはデバッグにも活躍しそうです。
 

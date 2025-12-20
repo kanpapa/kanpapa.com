@@ -13,7 +13,7 @@ image: "images/geiger-counter-mbed-1.jpg"
 
 ![](images/geiger-counter-mbed-1-1024x765.jpg)
 
-https://youtu.be/IREz5TelWbM
+{{< youtube IREz5TelWbM >}}
 
 この映像は約１分間ですが、その間に４回検出があったことがわかります。D3372ではB.Gの検出はこれくらいになります。  
 現在のプログラムはただカウントするだけなので、数字は増えるばかりですが、  

@@ -224,7 +224,7 @@ currently:	speed 0.5	turn 1.0
 
 この状態で、「i」「j」「l」「,」「k」のキーを押すことで上下左右・停止ができます。
 
-https://youtu.be/sM9j-B0Yu0U
+{{< youtube sM9j-B0Yu0U >}}
 
 動画のようにキーボード操作で思うようにミニぷぱ２が動けばROS2のセットアップは完了です。
 

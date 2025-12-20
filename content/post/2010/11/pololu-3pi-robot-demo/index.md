@@ -12,7 +12,7 @@ LCD基板を外してから電池をセットします。
 購入した時点でマイコンにデモプログラムが書き込まれているそうで、すぐ動作確認ができるようです。  
 その様子はこんな感じ。(iPhone4で縦撮影したので画面が小さくてすみません。）
 
-https://youtu.be/XWZ0ZlFlbLg?si=BMXd3ZACAXmCyAKj
+{{< youtube XWZ0ZlFlbLg >}}
 
 Timer, Battery, LEDs, Sensors, Motors, Music.....などなど、デモプログラムだけで細かい操作ができます。  
 光センサーを５つ搭載しているので、本体を傾けることで光量が変化するとグラフが変化します。  

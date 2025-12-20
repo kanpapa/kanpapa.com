@@ -75,6 +75,6 @@ Mini Pupper 2のファームウェアに搭載されているGUIツールを使�
 
 ![](images/mini-pupper-2-6-final-assembly4.jpg)
 
-https://youtu.be/a3ry4448Gok
+{{< youtube a3ry4448Gok >}}
 
 このあとROS2のセットアップを行います。

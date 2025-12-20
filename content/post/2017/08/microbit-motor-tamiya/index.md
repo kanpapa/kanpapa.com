@@ -39,7 +39,7 @@ dav
 
 早速動かしてみます。今回はchibi:bitをモーター側に、micro:bitをリモコンとして使ってみました。
 
-https://youtu.be/cUEb1i0tbUo
+{{< youtube cUEb1i0tbUo >}}
 
 ちゃんと無線制御で動きますね。無線といっても難しいところは隠蔽されていて簡単に扱うことができます。micro:bitは単体ではなく複数で使うとより楽しめると思います。
 

@@ -63,7 +63,7 @@ https://kobuki.readthedocs.io/en/devel/firmware.html
 
 無事キーボード操作で車輪が回転することが確認できました。
 
-https://youtu.be/OYo0krMfjJQ
+{{< youtube OYo0krMfjJQ >}}
 
 ## まとめ
 

@@ -16,7 +16,7 @@ BMPフォーマットを扱っているプログラムがないかなとmbedサ�
 
 ![](images/mbed-vfd-bmp-sample1-1024x765.jpg)
 
-https://youtu.be/IOvl0Jce5NA
+{{< youtube IOvl0Jce5NA >}}
 
   
 今回はお手軽にUSB経由でストレージにBMPデータを置きましたが、今使っているmbedのベースボードStarBoard☆Orangeには、microSDカードのスロットもありますので、そちらからデータを取り込むのも良いかなと思います。

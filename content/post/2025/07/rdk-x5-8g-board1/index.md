@@ -134,7 +134,7 @@ https://d-robotics.github.io/rdk\_doc/Robot\_development/apps/car\_tracking
 
 実験部屋が狭いので追いかけてくる動作まではできませんでしたが、カメラで捉えた人の方向にルンバが向いてくることがわかります。もう少しルンバから離れることができれば追いかけてくることは確認できています。
 
-https://youtu.be/svVNqC0i8mU
+{{< youtube svVNqC0i8mU >}}
 
 他にもロボットアプリケーションの例として手のジェスチャーでの制御も問題なく動作しました。
 

@@ -24,11 +24,11 @@ DigitalOut d1(D1);
 
 折角ですので、ピンソケットをハンダ付けして、先日ハンダ付けした[Decoシールド](http://dev.tetrastyle.net/2012/08/deco.html)を取りつけて点滅するプログラムを書きました。
 
-https://youtu.be/WBrRLDG2JWI
+{{< youtube WBrRLDG2JWI >}}
 
 ついでにKL25Zに搭載されているタッチセンサーの値を読み取って、点滅速度が変化するようにしてみました。他にもKL25Zのデバイスが利用できる[サンプルプログラム](https://mbed.org/handbook/mbed-FRDM-KL25Z-Examples)がすでに準備されているので参考になります。
 
-https://youtu.be/GEPzYs1QkFo
+{{< youtube GEPzYs1QkFo >}}
 
 今回作成したプログラムは[http://mbed.org/users/kanpapa/code/FRDM\_Deco/](http://mbed.org/users/kanpapa/code/FRDM_Deco/)においておきます。
 

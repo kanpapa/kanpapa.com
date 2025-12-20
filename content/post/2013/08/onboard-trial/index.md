@@ -37,6 +37,6 @@ RGB LEDアレイとI2C LCDを接続したOnBoardは写真のようにシンプ�
   
 ![](images/onboard_3.jpg)実際に動作している様子をYouTubeにアップしておきました。
 
-https://youtu.be/wZnHkZZ6bHs
+{{< youtube wZnHkZZ6bHs >}}
 
 正式版のOnBoardが楽しみです。今回OnBoardのテスターにご招待いただいた@will2ttさんに感謝いたします。

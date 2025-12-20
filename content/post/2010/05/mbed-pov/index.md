@@ -15,6 +15,6 @@ POVのプログラムは[大人の科学.net](http://otonanokagaku.net/japanino/
 
 写真だけだといまいちなので、動画も載せておきます。
 
-https://youtu.be/pE\_U7iWvY9w
+{{< youtube pE_U7iWvY9w >}}
 
 mbedのプログラムは[こちら](http://mbed.org/users/kanpapa/programs/pov)にあります。もっと効率よい書き方ができそうな気もしますが、とりあえずこんな感じで。

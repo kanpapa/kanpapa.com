@@ -17,10 +17,10 @@ image: "images/picaxe_28x2_shield_base.jpg"
 
 これで問題なくLチカができました。
 
-https://youtu.be/nRtVLwgpIyY
+{{< youtube nRtVLwgpIyY >}}
 
 次に手持ちのDecoシールドを取り付けて、LEDが順に点灯するプログラムを書いたところ、こちらも問題なく動きました。
 
-https://youtu.be/X-smA6H2qOc
+{{< youtube X-smA6H2qOc >}}
 
 一通り動かしてみたあとで、BASICの文法を見ましたが、かなり複雑なことができるようなので今後いろいろ試してみようと思います。

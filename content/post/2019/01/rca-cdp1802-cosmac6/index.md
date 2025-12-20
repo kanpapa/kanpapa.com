@@ -55,7 +55,7 @@ image: images/cosmac_system2.jpg
 
 今回はカウンタプログラムを入力してみました。LEDがスイッチ通りに点灯し、正常にメモリに書き込みができているようです。RUNモードにして実行してみると・・・
 
-https://youtu.be/pWGi-db4hro?si=AZkjkn7SWSuZR4BP
+{{< youtube pWGi-db4hro >}}
 
 見事にLEDが点灯して動作しました。
 

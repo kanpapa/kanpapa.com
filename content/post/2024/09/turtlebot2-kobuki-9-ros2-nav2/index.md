@@ -138,7 +138,7 @@ ros2 run teleop_twist_keyboard teleop_twist_keyboard --ros-args --remap cmd_vel:
 
 実際にNav2で移動している動画を載せておきました。Rviz2のNav2 Goalで指定したポイントと方向に動くことが確認できました。
 
-https://youtu.be/\_I1T2YvwBOo
+{{< youtube _I1T2YvwBOo >}}
 
 ## まとめ
 

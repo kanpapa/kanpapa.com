@@ -8,7 +8,7 @@ categories:
 
 先週作った[LEDを交互に光らせるプログラム](https://kanpapa.com/2011/03/mary-multi-mcu.html)を４枚のMCUを使って動かしてみました。
 
-https://youtu.be/lFxK3cOfOOc
+{{< youtube lFxK3cOfOOc >}}
 
 今回はすでに購入しているUB基板も使って音もつけてみました。  
 相変わらずOB基板にはデバック情報を表示させています。  

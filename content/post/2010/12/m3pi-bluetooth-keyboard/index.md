@@ -18,7 +18,7 @@ BlueUSBの中の[TestShell.cpp](http://mbed.org/users/peterbarrett1967/programs/
 まずはスピードは控えめに0.1ぐらいにしてみました。  
 動画はYouTubeにアップしましたが、キーボードで思ったようにコントロールできます。
 
-https://youtu.be/rTww8PiBqTA?si=VuUtpwSNYzrkaKJW
+{{< youtube rTww8PiBqTA >}}
 
 コントローラがキーボードですので、他にもいろんな機能や動きを組み込むことができそうです。  
 詳しくはmbed.orgの[Notebook](http://mbed.org/users/kanpapa/notebook/m3pi_bluetooth_keyboard/)にまとめましたので、そちらをご覧ください。

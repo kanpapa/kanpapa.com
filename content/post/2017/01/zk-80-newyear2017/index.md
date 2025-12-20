@@ -14,7 +14,7 @@ image: "images/newyear2017_zk80_picture.jpg"
 
 あけましておめでとうございます。新春初プログラミングは8080アセンブラでした。
 
-https://youtu.be/0U\_0NbnFAVU
+{{< youtube 0U_0NbnFAVU >}}
 
 私は[ZK-80 mini](http://www.recfor.net/blog/mycom/?itemid=883 "ZK-80 mini")で動かしましたが、TK-80でも動くと思います。
 

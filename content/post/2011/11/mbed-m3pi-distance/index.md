@@ -16,4 +16,4 @@ image: "images/m3pi_distance_sensor.jpg"
 10cm未満になったら後退して、方向転換を行い再び前進するようにプログラムしました。  
 プログラムはまだ荒削りですが、[こちら](http://mbed.org/users/kanpapa/programs/m3pi_ledpsd/m12w8i)にあります。本当に簡単で短時間で動作確認ができました。
 
-https://youtu.be/LqP9Cs3XdtY?si=fyu3P\_VK1F9y-O1-
+{{< youtube LqP9Cs3XdtY >}}

@@ -174,7 +174,7 @@ Rviz2の左側にあるDisplaysのメニューでAddをクリックし、By disp
 
 ここまでの状況からみて、SLAMは正常に行えているようです。
 
-https://youtu.be/J0RSH-KoVfk
+{{< youtube J0RSH-KoVfk >}}
 
 参考までにrqt\_graphの結果を示します。
 

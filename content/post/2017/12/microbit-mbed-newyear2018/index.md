@@ -15,7 +15,7 @@ image: "images/newyear2018_photo.png"
 
 micro:bitにGhz2000さんの[SPI接続14セグメントLED表示器](http://ghz2000.dip.jp/wordpress/?p=665 "SPI接続14セグメントLED表示器")を接続して、新年のメッセージを表示させました。
 
-https://youtu.be/06iEs5ViAPc
+{{< youtube 06iEs5ViAPc >}}
 
 プログラムはこんな感じです。
 

@@ -85,6 +85,6 @@ image: images/MP2_4_body_fin2.jpg
 
 IPアドレスが表示されたので、WebUIを使ってモーターを動かしてみました。YouTubeに動画をアップロードしておきました。
 
-https://youtu.be/WPyEhA8T7IM?si=4B07lqleXMaVf5la
+{{< youtube WPyEhA8T7IM >}}
 
 ここまでは問題なさそうです。次は足の組み立てと取り付けを行います。

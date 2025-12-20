@@ -82,7 +82,7 @@ tros.bを使用するように source /opt/**tros**/humble/setup.bash と指定�
 
 実際にRDK X3で制御されているルンバの動画です。コマンドで連続してcmd\_velを送って動かしています。
 
-https://www.youtube.com/watch?v=Ei\_oN0CyfvM
+{{< youtube Ei_oN0CyfvM >}}
 
 これに加えて、SLAMやNav2を行うときにはYDLIDAR X2を使用するので、[NodeHub](https://developer.d-robotics.cc/nodehub)で紹介されていた[YDLIDAR用のドライバパッケージ](https://developer.d-robotics.cc/nodehubdetail/167289845913411078)をインストールしたのですが、ydlidar-sdk-1.1.15パッケージが見つからずエラーとなってしまいました。
 
@@ -130,7 +130,7 @@ ros2 launch body_tracking body_tracking_without_gesture.launch.py
 
 動作中の動画です。面白いくらいに人についていくことがわかります。反応も良いですね。
 
-https://youtu.be/kpddnwHPiwY
+{{< youtube kpddnwHPiwY >}}
 
 参考までにrqtgraphです。頭にhobotやhbとあるところがtros.bの機能を使っているようです。
 

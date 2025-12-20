@@ -27,7 +27,7 @@ $ rviz2
 
 Rviz2でTF（transform）を表示すると2つの座標が見えています。最初はodomとbase\_footprintは同じ座標のため重なって表示されていますが、車輪を接地しない状態でキーボードで前後に動かすと、odomの座標とbase\_footprintの座標の位置関係が変化します。
 
-https://youtu.be/V3W6gjqEXoU
+{{< youtube V3W6gjqEXoU >}}
 
 これはモーターの車軸に取り付けられているエンコーダが計測した車輪の回転方向と回転角度から割り出したロボットの座標がRviz2に表示されています。ただし、左右に回転した場合は何も変化がありません。これは座標自体には変化はなく、車輪を浮かせているため向きの情報が反映されないためでしょう。
 
@@ -67,7 +67,7 @@ $ ros2 launch kobuki_description robot_description.launch.py
 
 kobukiを持ち上げて左右に動かしてみるとRviz2の画面でも左右に動きます。これはkobukiに搭載されているIMUの情報が反映されているようです。
 
-https://youtu.be/b5qIkW5XWak
+{{< youtube b5qIkW5XWak >}}
 
 この状態でノードとトピックの情報をrqtで可視化してみます。
 

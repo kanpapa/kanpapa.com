@@ -11,7 +11,7 @@ categories:
 これが速いのなんのって、高速で線の上を駆け回ります。少し誤検知しておもしろい動きをするときもありましたが、問題なく走り回ります。  
 その様子をYouTubeにアップしておきました。（ちょっとiMovieで編集してます。）
 
-https://youtu.be/ScNM92hNAi8?si=G4wjNrMEowiiewVD
+{{< youtube ScNM92hNAi8 >}}
 
 m3pi\_LineFollower\_dpnのプログラムはそんなに長いものではありませんが、高速に走れるように工夫されているようです。  
 私が持っているMINDSTORMS NXTのコースがスムーズに走れるように少し調整してみたいと思います。

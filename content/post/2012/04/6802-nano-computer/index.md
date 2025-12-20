@@ -27,6 +27,6 @@ image: images/mc6802_cpu.jpg
 
 配線確認をして動作させたところ無事動きました。
 
-https://youtu.be/tZR-4znHiYw
+{{< youtube tZR-4znHiYw >}}
 
 CPUは正常のようです。折角7セグメントLEDを使っているので、数字として表示するようにプログラムを手直ししてみたいと思います。また、少し時間はかかると思いますが、6802 Nano computerのようにユニバーサル基板に実装しなおしてみたいと思います。

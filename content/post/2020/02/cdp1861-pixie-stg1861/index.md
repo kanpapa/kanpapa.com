@@ -36,7 +36,7 @@ image: "images/cosmac_stg1861_pcb3.jpg"
 
 次にこのプログラムを拡張した[アニメーションプログラム](https://billr.incolor.com/elf/html/elf-4a42.htm "アニメーションプログラム")があるのでそれも試してみました。
 
-https://youtu.be/euz8PwfibFU?si=u3mSBD6nYoNoRMzX
+{{< youtube euz8PwfibFU >}}
 
 エンタープライズ号が横スクロールで動くことが確認できました。表示されているプログラム本体のスタック領域が点滅して値が変化しているのもわかります。
 

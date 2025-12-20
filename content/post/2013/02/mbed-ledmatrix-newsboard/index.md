@@ -13,11 +13,11 @@ mbedとの接続は簡単で、ダイナミック表示も容易に行うこと�
 
 ダイナミック表示テスト中の動画をYouTubeにアップしておきました。
 
-https://youtu.be/L9M7tOVgrpI
+{{< youtube L9M7tOVgrpI >}}
 
 この仕組みを使い、前回同様にmbedを直接インターネットに接続し、Yahoo!ニュースWebAPIでニュースのヘッドラ­インを表示しました。
 
-https://youtu.be/CoNVTb788VE
+{{< youtube CoNVTb788VE >}}
 
 この動画では３セットのLEDマトリクス基板を使っています。もう１セット増設できるのでそこまで拡張してみました。
 

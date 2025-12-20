@@ -44,7 +44,7 @@ image: "images/linino-one-one-eye-catch.jpg"
 
 ![](images/linino-one-one-huntset7-1024x769.jpg)
 
-https://youtu.be/g6MN5KmdjnI
+{{< youtube g6MN5KmdjnI >}}
 
 ## Linino ONEのWiFiに接続する
 

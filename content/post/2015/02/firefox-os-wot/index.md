@@ -51,11 +51,11 @@ image: "images/wot_hackathon_idea6.jpg"
 
 YouTubeに動画も掲載しておきました。
 
-https://youtu.be/DDcWNeSXqKw
+{{< youtube DDcWNeSXqKw >}}
 
-https://youtu.be/oC6Vs4FJwPk
+{{< youtube oC6Vs4FJwPk >}}
 
-https://youtu.be/Jerkcrt3Ubg
+{{< youtube Jerkcrt3Ubg >}}
 
 ## なんとARM賞を受賞！
 

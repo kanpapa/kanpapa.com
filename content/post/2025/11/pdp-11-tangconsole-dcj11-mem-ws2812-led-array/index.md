@@ -27,7 +27,7 @@ image: images/pdp-11-tangconsole-dcj11-mem-ws2812-led-array1.jpg
 
 WS2812ですのでTangConsoleとは3本のワイヤーで接続します。本来はWS2812は5V用なのですが、Pmod端子から出力されている3.3Vでも動作しました。
 
-https://youtu.be/ZY\_XLpOFet4
+{{< youtube ZY_XLpOFet4 >}}
 
 ## 表示方向を変更する
 
@@ -61,7 +61,7 @@ WS2812 LED Arrayに情報の表示はできているのですが、表示方向�
 
 top.vを変更したあとにRerun Allを実行し、生成されたbitstreamをTangConsoleに書き込みました。電源を投入したところ予定通りに8桁×5行のビットマップとして表示できました。
 
-https://youtu.be/RvS4ef8d938
+{{< youtube RvS4ef8d938 >}}
 
 左上のLEDが常時青点滅しているのでCLKは問題ないとか、HALTキーを押しっぱなしにするとそのLEDが赤になるなど動作を目で確認することができます。
 
@@ -77,7 +77,7 @@ https://youtu.be/RvS4ef8d938
 
 完成したLEDアレイ基板をTangConsoleのPmodコネクタに接続して動かしてみました。
 
-https://youtu.be/S2qACVMagRU
+{{< youtube S2qACVMagRU >}}
 
 表示位置もマッチしており元気に光るのが楽しいです。
 

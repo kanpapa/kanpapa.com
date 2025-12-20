@@ -54,7 +54,7 @@ https://github.com/docofab/RoombaControlls/blob/main/ROS2/roomba\_subscribers.md
 
 動画はYouTubeにアップしておきました。
 
-https://youtu.be/Uso3jcj0-Gw
+{{< youtube Uso3jcj0-Gw >}}
 
 本当はLED点滅中にお正月ぽい曲を流そうとしたのですが、時間切れで間に合いませんでした。あとで追加してみようと思います。
 

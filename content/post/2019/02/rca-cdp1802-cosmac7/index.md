@@ -42,6 +42,6 @@ image: images/cosmac_speaker1.jpg
 
 実際に動作している動画です。
 
-https://youtu.be/lT78AJuX3FE?si=5FcHTCOGyJX4MeGO
+{{< youtube lT78AJuX3FE >}}
 
 これでプログラムで音がでることはわかりましたので、オルガンの鍵盤にあたる入力回路をCPUボードに接続すれば、電子オルガンができます。そちらは[次回の記事](https://kanpapa.com/cosmac/blog/2019/02/rca-cdp1802-cosmac8.html "RCA CDP1802 COSMACを動かしてみた(8) 電子オルガンを作ってみる")で。

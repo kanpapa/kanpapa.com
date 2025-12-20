@@ -29,4 +29,4 @@ LEDの間隔は2.54mmピッチではありませんので、やや無理矢理2.
 
 動いている様子をYouTubeにアップしておきました。
 
-https://youtu.be/oxkoUJ1-obc
+{{< youtube oxkoUJ1-obc >}}

@@ -134,7 +134,7 @@ https://github.com/kanpapa/M5Stack\_LLM/blob/main/Arduino/M5\_KWS\_ASR\_IR\_TTS/
 
 仕様としては、最初にwake upキーワードのHELLOを認識し、その直後の音声で"good morning"でライトを点灯し、"good night"でライトを消灯するようにしています。
 
-https://youtu.be/YJuOKk1zX-M
+{{< youtube YJuOKk1zX-M >}}
 
 動画のようにうまく動作しました。もちろんローカルLLMで動作していますので、ネットワークに接続する必要もありません。
 

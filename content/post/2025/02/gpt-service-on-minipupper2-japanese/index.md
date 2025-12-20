@@ -13,4 +13,4 @@ image: images/GPT-service-on-MiniPupper2-Japanese.png
 
 日本語版です。少し応答に時間はかかりますがちゃんと答えてくれました。字幕ONでご覧ください。
 
-https://www.youtube.com/watch?v=MKwQQiLYZXA
+{{< youtube MKwQQiLYZXA >}}

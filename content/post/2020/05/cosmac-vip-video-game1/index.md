@@ -19,7 +19,7 @@ image: "images/VIP_Space_-Intercept.jpg"
 
 実行中のビデオも掲載しておきます。
 
-https://youtu.be/6uIpNWMAVO4?si=cGwRjYeEsDBCZMnz
+{{< youtube 6uIpNWMAVO4 >}}
 
 ### VIP Wipe Off
 
@@ -29,7 +29,7 @@ https://youtu.be/6uIpNWMAVO4?si=cGwRjYeEsDBCZMnz
 
 こちらも実行中の動画です。
 
-https://youtu.be/coM34auZOjg?si=whU1kCTT6Zyyhp1j
+{{< youtube coM34auZOjg >}}
 
 ### VIP Space Intercept
 
@@ -39,7 +39,7 @@ https://youtu.be/coM34auZOjg?si=whU1kCTT6Zyyhp1j
 
 実行中の動画です。
 
-https://youtu.be/Ne8abozQoVU?si=5xbIYHVs9Z2RiS7f
+{{< youtube Ne8abozQoVU >}}
 
 ビデオゲーム初期のレトロな雰囲気が味わえますね。
 

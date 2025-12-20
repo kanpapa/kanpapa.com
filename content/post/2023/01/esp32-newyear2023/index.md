@@ -62,7 +62,7 @@ image: images/hdsp-2121-udc_rabbit_test.jpg
 
 完成したあけおめ画面の動画です。
 
-https://youtu.be/\_B-8n0Z9gAg?si=pezdHH6hveYvZaRb
+{{< youtube _B-8n0Z9gAg >}}
 
 ### GPSで時計を作ってみる
 
@@ -113,7 +113,7 @@ ESP32-DEVKITとGPSモジュールは以下のように接続しました。
 
 あとは新年を待つだけだったのですが、急いでいたためか肝心のif文を間違えてしまい、0時になっても時計のままでした。
 
-https://youtu.be/T2J9HYbM\_vM?si=4FUyJn5OxxYuokl5
+{{< youtube T2J9HYbM_vM >}}
 
 テストのために hh < 19 とかしていたので、hh < 24 としてしまったのです。これは hh != 0 が正解でした。
 

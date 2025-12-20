@@ -39,7 +39,7 @@ image: "images/otafab_new_lidar1.jpg"
 
 SLAM中の動画をYouTubeにアップしておきました。
 
-https://youtu.be/4iNM4a9ow-k
+{{< youtube 4iNM4a9ow-k >}}
 
 ### Nav2を試してみる
 
@@ -55,7 +55,7 @@ SLAMで作成したmapをつかってナビゲーションを行ってみまし�
 
 こちらもNav2中の動画をYouTubeにアップしておきました。
 
-https://youtu.be/8sHeUIRt8Z4
+{{< youtube 8sHeUIRt8Z4 >}}
 
 ### 今後の取り組み
 

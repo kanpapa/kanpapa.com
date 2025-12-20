@@ -56,7 +56,7 @@ esptool --port COM6 -b 115200 write-flash 0x00000 M5CoreS3.bin
 
 ここで簡単に日本語入力の例をあげておきます。以下のビデオで入力しているものです。
 
-https://youtu.be/6wtpaKj05y8
+{{< youtube 6wtpaKj05y8 >}}
 
 入力したい文章は「いい天気ですね。」とします。
 

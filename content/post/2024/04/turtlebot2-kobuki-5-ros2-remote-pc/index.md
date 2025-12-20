@@ -68,7 +68,7 @@ kobukiのUSBケーブルをRaspberry Pi 4のUSBに接続してkobukiのROS2ド�
 
 kobukiに電源ケーブルを接続した状態で机の上で動作確認を行っているため、大きな動きができません。とりあえず左右の動きを実際に動かして確認してみました。
 
-https://youtu.be/iwFwLyy57n4
+{{< youtube iwFwLyy57n4 >}}
 
 車輪によってkobuki本体が実際に左右に動くと、IMUの情報からRviz2でも左右に動いて表示されることがわかります。
 

@@ -8,7 +8,7 @@ categories:
 
 学研の[大人の科学のJapanino付録のPOVユニット](http://otonanokagaku.net/japanino/)をNXP DIP ARMにつないで表示させてみました。
 
-https://youtu.be/TZ9\_x4WFSTk
+{{< youtube TZ9_x4WFSTk >}}
 
 しばらくPOVユニットを使っていなかったためか、ハンドルを回しても滑らかに左右に動かなかったので今回はユニット自体を動かして表示しています。
 

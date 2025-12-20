@@ -44,7 +44,7 @@ OLYMPUS DIGITAL CAMERA
 
 MTM06に間に合わせるために急いで拡張基板のハンダ付けを行い、3piのATmega328Pに[serial slaveプログラム](http://www.pololu.com/docs/0J21/10.a)を書き込み、[m3pi\_HelloWorld](http://mbed.org/users/chris/programs/m3pi_HelloWorld/lhnzxb/docs/main_8cpp_source.html)のサンプルプログラムをコンパイルしてmbedに転送すると、あっさり動いてしまいました。
 
-https://youtu.be/Q0xCMMv0uKM?si=uZEHRZj4Ix4GMEp1
+{{< youtube Q0xCMMv0uKM >}}
 
 mbedを使うことで、プログラミング環境も簡単になりますし、mbedに他のセンサーやハードウェアを接続することでより高度なPololu 3pi robotの制御ができるのでは無いかと思います。拡張基板の空きスペースにbluetoothとかNetworkとか搭載すると面白いなと考え中です。
 

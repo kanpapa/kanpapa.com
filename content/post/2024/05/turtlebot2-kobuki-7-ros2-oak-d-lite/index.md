@@ -42,7 +42,7 @@ GitHubのREADME.mdに載せた手順に従ってプログラムを起動し、�
 
 https://github.com/kanpapa/oak\_detect
 
-https://youtu.be/lOuqtJsKPuA
+{{< youtube lOuqtJsKPuA >}}
 
 簡単なプログラムですが、思ったよりもスムーズな動きができています。
 

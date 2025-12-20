@@ -23,4 +23,4 @@ iPhone5のLEGOケースが販売開始ということで予約していました
 
 着信中の様子をYouTubeにアップしておきました。
 
-https://youtu.be/BzEFui0lOWU
+{{< youtube BzEFui0lOWU >}}

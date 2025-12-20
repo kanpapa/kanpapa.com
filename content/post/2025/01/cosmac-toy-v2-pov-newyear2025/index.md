@@ -29,7 +29,7 @@ https://github.com/kanpapa/cosmac\_toy\_v2/blob/main/programs/07\_pov1/README.md
 
 実際に動かしてみました。
 
-https://youtu.be/\_eNI0xys2NE
+{{< youtube _eNI0xys2NE >}}
 
 心の目で見ていただければ、2025という文字が見えてくると思います。
 

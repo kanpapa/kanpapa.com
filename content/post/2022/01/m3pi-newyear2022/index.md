@@ -26,7 +26,7 @@ image: "images/m3pi_newyear2022.jpg"
 
 今回はこれで新年を祝ってみました。動画をYouTubeにアップしておきました。回転音が大きいので無音にしています。
 
-https://youtu.be/Dx0RH-Y1uf0?si=VgDdIJ9fPTYzJ4Qe
+{{< youtube Dx0RH-Y1uf0 >}}
 
 きれいに2022と表示したかったのですが、回転のタイミングがなかなか合わずに文字が流れてしまいました。半日程度で作ったものなので、今回はこのくらいで勘弁してください。
 

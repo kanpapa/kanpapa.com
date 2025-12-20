@@ -35,7 +35,7 @@ image: images/cosmac-toy-v2-rev02-dev1-photo1.jpg
 
 実はRev.0.2基板の製作の前にRev.0.1基板も試作しました。回路を手直ししながらメモリの読み込みを確認している様子です。この結果をもとにRev.0.2基板を起こしています。
 
-https://youtu.be/m1Ll-BvsBz4
+{{< youtube m1Ll-BvsBz4 >}}
 
 COSMAC TOY V2の詳細はGitHubにまとめましたのでそちらをご覧ください。サンプルプログラムも大幅に整理して命令コードの説明や動作中の写真や動画リンクも追加しました。COSMAC TOY V1を利用のかたも参考になるかもしれません。
 

@@ -298,7 +298,7 @@ https://akizukidenshi.com/catalog/g/g100941
 
 2台で動かしてみましたが、同じプログラムなのに動きが違います。どうやらモーターの配線で極性が合っていないようです。次回見直したいと思います。
 
-https://youtu.be/Nw9MNqU4a8M
+{{< youtube Nw9MNqU4a8M >}}
 
 ## 次回
 

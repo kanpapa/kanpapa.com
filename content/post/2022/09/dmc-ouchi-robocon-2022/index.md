@@ -60,7 +60,7 @@ Raspberry Pi PicoをPCに接続し、Thonnyでサンプルプログラムを書�
 
 試走の様子をYouTubeにアップしておきました。
 
-https://youtu.be/h6xSptYL6HI?si=-mWbnwvYR5Zf\_tQn
+{{< youtube h6xSptYL6HI >}}
 
 まだ何も調整していないのに問題なくラインをトレースして走行しています。
 

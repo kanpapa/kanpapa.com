@@ -33,7 +33,7 @@ image: images/10x6-rgb-led-matrix-eyecatch1.jpg
 
 これまで設計した内容をtop.vに反映して動作確認を行いました。
 
-https://youtu.be/7v56jDFc\_zU
+{{< youtube 7v56jDFc_zU >}}
 
 一応正しく動作しているように見えます。
 

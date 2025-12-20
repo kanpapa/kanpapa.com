@@ -17,7 +17,7 @@ image: images/cosmac_vip_auto_vram1.jpg
 
 実際の動きをYouTubeにアップしておきました。
 
-https://youtu.be/Avk82hSGX6A
+{{< youtube Avk82hSGX6A >}}
 
 最終的にはCOSMACでよく見かける画面を表示することができました。
 

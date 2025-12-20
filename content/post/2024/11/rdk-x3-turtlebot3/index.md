@@ -112,7 +112,7 @@ $ ros2 run turtlebot3_teleop teleop_keyboard
 
 D-robotics RDK X3を載せたturtlebot3がキーボードの指示通りに問題なく動きました。
 
-https://youtu.be/kR93CRkBfwI
+{{< youtube kR93CRkBfwI >}}
 
 ## 応用例
 
@@ -128,7 +128,7 @@ LiDARの動作を確認するために、Quick Start Guideの[4.SLAM](https://em
 
 次はRDK X3の画像認識の機能を使い、手のジェスチャーでの制御を行ってみます。RDK X3の公式ドキュメントにある[5.4.5 Gesture Control The Car](https://d-robotics.github.io/rdk_doc/en/Robot_development/apps/car_gesture_control)を実行しました。左手で撮影しながら机の上で実験しましたのでやや反応が鈍いように見えますが、RDK X3カメラと手の位置が適正であれば正しく動いてくれます。
 
-https://youtu.be/ffh\_8o9Sb3c
+{{< youtube ffh_8o9Sb3c >}}
 
 ## まとめ
 

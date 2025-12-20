@@ -62,7 +62,7 @@ $ ros2 topic pub --once  /play_song create_msgs/PlaySong "song: 0"
 
 登録した曲が流れてきました。
 
-https://youtu.be/zADp\_K8gzoM?si=a3s1nsnCL5dUgKSh
+{{< youtube zADp_K8gzoM >}}
 
 ### まとめ
 

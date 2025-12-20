@@ -65,6 +65,6 @@ int main(){
 
 ![](images/ny2019_led16p.jpg)
 
-https://youtu.be/EjK3qz83rQw
+{{< youtube EjK3qz83rQw >}}
 
 では、本年もよろしくお願いします。

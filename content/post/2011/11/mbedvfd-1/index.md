@@ -11,7 +11,7 @@ image: "images/mbed-vfd1-weather1.jpg"
 
 ![](images/mbed-vfd1-weather1-1024x765.jpg)
 
-https://youtu.be/0NhOMDdwN-U
+{{< youtube 0NhOMDdwN-U >}}
 
 これで良く街中で見かけるような情報表示板になりました。MTM07にはこれを持っていこうと思います。  
 まだ表示されるのは大田区だけですけど、MTM07までには他の地域も表示するようにアレンジしてみます。

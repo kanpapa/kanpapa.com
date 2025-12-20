@@ -18,10 +18,10 @@ Pololu 3pi robotのマイコンにサンプルプログラムを書き込んで�
 まずはいつものLEDチカチカ。ここまではArduinoとかmbedとかと同じ感じ。  
 結構高速点滅ですね。
 
-https://youtu.be/HYWOCk8CQRM?si=k0t4J7mUouKutGK5
+{{< youtube HYWOCk8CQRM >}}
 
 次にライントレーサのサンプルプログラムを書き込んでみました。
 
-https://youtu.be/sfId4bowoRA?si=b1wdV6StR1G3vD9f
+{{< youtube sfId4bowoRA >}}
 
 コースはLEGO MINDSTORMS NXTについていたものですが、STARTの文字の周りも正確に曲がっているのはすごいです。じっくりサンプルプログラムのソースを読んでみたいと思います。

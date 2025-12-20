@@ -126,7 +126,7 @@ $ ros2 topic pub /cmd_vel geometry_msgs/Twist '{linear: {x: 0.1}, angular: {z: 0
 
 正常であれば、ルンバが少しずつ動き続けます。適当なところでCTRL-Cで中断してください。
 
-https://youtu.be/0ymFAM4fuzc
+{{< youtube 0ymFAM4fuzc >}}
 
 ## 自律走行の環境を設定する
 
@@ -148,7 +148,7 @@ Nav2実行中の画面です。
 
 自律走行中のルンバの動画も載せておきます。
 
-https://youtu.be/DKrlxROV3JE
+{{< youtube DKrlxROV3JE >}}
 
 ## まとめ
 

@@ -105,4 +105,4 @@ Arduino IDEにもサンプルスケッチが多数ありますので、ピン数
 
 LEDを3つ使ってみました。PC1,PC2,PC4にLEDを接続しています。
 
-https://youtu.be/qw34QagxYVo
+{{< youtube qw34QagxYVo >}}

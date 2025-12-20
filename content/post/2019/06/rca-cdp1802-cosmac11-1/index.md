@@ -61,7 +61,7 @@ COSMACのプログラムローダー基板にあるトグルスイッチの値�
 
 YouTubeにもアップしておきました。
 
-https://youtu.be/E1psAAdL30w?si=q\_SOc8v8gCRncG\_-
+{{< youtube E1psAAdL30w >}}
 
 これで動作確認もできましたので、シールド基板を発注しました。
 

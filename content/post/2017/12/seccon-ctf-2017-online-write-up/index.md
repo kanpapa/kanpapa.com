@@ -136,7 +136,7 @@ JPEGの写真がたくさん入っていて、Z-80 CPUとArduino Megaが接続�
 
 この問題のハードウェアの写真をまとめてビデオにしてみました。
 
-https://www.youtube.com/watch?v=an2iK-qTb2M
+{{< youtube an2iK-qTb2M >}}
 
 ※SECCON様から掲載許可をいただきました。ありがとうございます。
 

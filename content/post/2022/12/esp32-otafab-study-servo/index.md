@@ -84,7 +84,7 @@ myServo.writeの関数に渡している値を変更したり、myServo.writeの
 
 動画で見ると良くわかりますが、信号の幅が変わることでモーターの位置が変化することがわかります。これをPWM制御といいます。
 
-https://youtu.be/tIVskadQHgs?si=iLvcAIAZcQQdvxxj
+{{< youtube tIVskadQHgs >}}
 
 サーボモーターのライブラリではこのような信号を出力して、サーボモーターを制御することができます。
 

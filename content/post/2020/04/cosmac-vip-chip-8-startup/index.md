@@ -97,12 +97,12 @@ CHIP-8インタプリタはCOSMAC VIP OSのサブルーチンやデータをい�
 
 テストに使ったプログラムのV1, V2を変更すれば表示位置を変えることができますのでその応用です。
 
-https://youtu.be/qwQvJ6lSUUM?si=fjcV1V1ESk-9yJYM
+{{< youtube qwQvJ6lSUUM >}}
 
 ### カウンタ
 
 単純にカウントアップするものです。CPU基板のQ出力のLEDも同時に点滅しています。COSMAC VIPではQ出力にブザーがつながっているので、本来であればカウントアップ時に音が鳴るのでしょう。
 
-https://youtu.be/kGZPTHBLFho?si=nlrMQve-lO9BGlFA
+{{< youtube kGZPTHBLFho >}}
 
 他のCHIP-8のプログラムも試してみようと思います。

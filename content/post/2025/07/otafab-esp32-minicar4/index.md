@@ -250,7 +250,7 @@ float dest() {
 
 テスト走行の動画です。走りながらも距離を表示していました。
 
-https://youtu.be/goSN\_Ni4D7U
+{{< youtube goSN_Ni4D7U >}}
 
 ## 次回
 

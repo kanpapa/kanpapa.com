@@ -20,6 +20,6 @@ Vccは3piから取っているので、3piの電源をいれるとBluetoothア�
 次に [Bluetoothのテストプログラム](http://mbed.org/users/peterbarrett1967/notebook/blueusb---bluetooth-and-usb-host-controller-for-mb/)がCookbookにありましたので、まずはそれを書き込んでみました。  
 手持ちのBluetoothキーボードとの通信も無事できているようです。
 
-https://youtu.be/JFBtjI7e8I8?si=taHIA8lUIVJ72esq
+{{< youtube JFBtjI7e8I8 >}}
 
 あとはBluetoothの情報で、m3piが動くようにプログラムを書けばリモコン制御できそうです。

@@ -151,7 +151,7 @@ CTRL-C to quit
 
 このように表示された状態で、キーボードのa/w/x/dを入力するとその方向に動きます。停止はsです。
 
-https://youtu.be/8A7Pv9vOc7Y
+{{< youtube 8A7Pv9vOc7Y >}}
 
 これで車輪を動かす基本的な動作の確認はできました。
 
@@ -231,7 +231,7 @@ Rviz2のウインドウの左下にあるAddのボタンをクリックし、Imu
 
 実際の動きがわかるように動画も載せておきます。
 
-https://youtu.be/mmOb8yY-\_7c
+{{< youtube mmOb8yY-_7c >}}
 
 ## ノードとトピックの関連図を作る
 

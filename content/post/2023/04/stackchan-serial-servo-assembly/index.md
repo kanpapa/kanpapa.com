@@ -47,7 +47,7 @@ Arduino IDEをM5Stack用に設定し、シリアルサーボライブラリの�
 
 問題なく動作確認ができました。
 
-https://youtu.be/Dksr1vRFkEQ
+{{< youtube Dksr1vRFkEQ >}}
 
 ### シリアルサーボのIDと位置を設定する
 
@@ -64,7 +64,7 @@ https://youtu.be/Dksr1vRFkEQ
 
 - [SCS0009\_check\_twin.ino](https://github.com/kanpapa/scs0009/blob/main/Arduino/SCS0009_check_twin/SCS0009_check_twin.ino "SCS0009_check_twin.ino")
 
-https://youtu.be/gMw4rCovGZQ
+{{< youtube gMw4rCovGZQ >}}
 
 また、スタックチャンのモーターの位置決めをしておく必要があります。正しい位置でケースや足を固定しないと動作位置がおかしくなってしまいます。これもシリアルサーボのライブラリで設定します。基準位置は「Goal」の値を511にするとのことなのでそのようにプログラムで指定しました。
 
@@ -86,7 +86,7 @@ https://youtu.be/gMw4rCovGZQ
 
 オシロスコープではシリアル信号が頻繁に流れているのが気になったのですが、作者のかたからそれは問題ない動きで、Aボタンを押せば動くはずとのこと。Aボタンを押したところシリアルサーボが不定期に動くことを確認しました。これでケースに納めることができます。
 
-https://youtu.be/HwYSvKUVuA4
+{{< youtube HwYSvKUVuA4 >}}
 
 ### スタックチャンを組み立てる
 
@@ -102,12 +102,12 @@ USBケーブルで充電を行っているため、足だけが動いていま�
 
 ![](images/stackchan_scservo_case3.jpg)
 
-https://youtu.be/FIsbtimUVQo
+{{< youtube FIsbtimUVQo >}}
 
 ### バッテリケースを取り付けて完成
 
 最後に背中にバッテリーケースを取り付けます。これで自由にスタックチャンが動くようになりました。モーターが動作しても電源が落ちるということはなくなりました。
 
-https://youtu.be/9ZIimef3jp8
+{{< youtube 9ZIimef3jp8 >}}
 
 シリアルサーボなのでフィードバック情報も取れるとのことで、PWM版に比べて多彩な動きができそうです。

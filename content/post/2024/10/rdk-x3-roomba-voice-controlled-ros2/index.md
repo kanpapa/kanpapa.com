@@ -46,7 +46,7 @@ https://d-robotics.github.io/rdk\_doc/en/Robot\_development/apps/car\_audio\_con
 
 このサンプルプログラムでは中国語しか対応していないようなので、Google翻訳の音声出力を使用して動作確認を行いました。中国語の音声の命令通りに左右に動くことがわかります。
 
-https://youtu.be/D0ODMQSckUs
+{{< youtube D0ODMQSckUs >}}
 
 英語での認識はできないのかなと、キーワードリストに英語を入れてみました。
 
@@ -114,7 +114,7 @@ ros2 launch audio_control audio_control.launch.py
 
 実際にRDK X3とAudio Driver HATとルンバだけで動作している様子です。操作のための中国語音声はPCのブラウザでGoogle翻訳をつかって出力しています。
 
-https://youtu.be/MwVNIX19Ya4
+{{< youtube MwVNIX19Ya4 >}}
 
 RDK X3のログは以下のように出力されていました。なお、doa dataの数字は音声が聞こえる方向を示しています。
 

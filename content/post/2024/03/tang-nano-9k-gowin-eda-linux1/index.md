@@ -70,7 +70,7 @@ https://trabucayre.github.io/openFPGALoader/guide/install.html
 
 LEDも問題なく点灯して動作しているようです。
 
-https://youtu.be/EcPyujN45-o
+{{< youtube EcPyujN45-o >}}
 
 ## 秋月電子の球体液晶を動かしてみる
 

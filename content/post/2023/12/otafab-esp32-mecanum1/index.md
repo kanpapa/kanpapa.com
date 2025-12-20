@@ -91,7 +91,7 @@ void loop()
 
 このプログラムをESP32に書き込むと車輪が回転、逆回転、停止を３秒おきに繰り返します。動画をYouTubeにアップロードしておきました。
 
-https://youtu.be/bNPB8JlGAbE
+{{< youtube bNPB8JlGAbE >}}
 
 これで１つの車輪の制御ができるようになりました。
 

@@ -58,7 +58,7 @@ image: "images/cosmac_mft2019_day1_11.jpg"
 
 時間をみてモータードライバの応用である「きままなキツネさん」を動かしました。これは子供たちの目を引くようでした。
 
-https://youtu.be/noVUjfL6-Do?si=8akJWNRs8Vf\_feGM
+{{< youtube noVUjfL6-Do >}}
 
 質問として多かったのは、「古いCPUはどうやって入手しているのですか？」と、「これは販売しないのですか？」でした。
 

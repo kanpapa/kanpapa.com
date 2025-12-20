@@ -34,7 +34,7 @@ image: images/cosmac_organ1.jpg
 
 CPU基板とブレッドボードだけで動作させてみました。
 
-https://youtu.be/92-cT3EGbcU?si=Bd0XO7AaPhIhkF-D
+{{< youtube 92-cT3EGbcU >}}
 
 このようにCPU基板とちょっとした回路を組み合わせれば組み込みシステムとして活用できそうです。
 

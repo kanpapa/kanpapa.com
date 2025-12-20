@@ -40,7 +40,7 @@ ROM容量は4bitですので、動作は全部で16パターンになります�
 
 配線はごちゃごちゃしていますが、GitHubにある命令パターンが正しく動作していることが確認できました。
 
-https://youtu.be/Y7dlAbILw90
+{{< youtube Y7dlAbILw90 >}}
 
 ## ユニバーサル基板に実装して小型化してみる
 
@@ -58,7 +58,7 @@ https://youtu.be/Y7dlAbILw90
 
 ユニバーサル基板で製作したものも問題なく動作しました。
 
-https://youtu.be/BoYxWhEdeY4
+{{< youtube BoYxWhEdeY4 >}}
 
 現在はピンヘッダから電源を供給していますが、今度秋月電子に行ったときに[USB電源供給用USB Type-Cコネクタ DIP化キット](https://akizukidenshi.com/catalog/g/g117123/)を買ってきて取り付ける予定です。（そのため左側を少し空けてあります。）
 

@@ -34,7 +34,7 @@ https://www.rad51.net/blog/mycom/index.php?itemid=883
 
 動作している画像をYouTubeにアップしておきました。
 
-https://youtu.be/dVXC1-I1jLM
+{{< youtube dVXC1-I1jLM >}}
 
 ## ユニバーサル基板での製作
 

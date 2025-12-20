@@ -49,7 +49,7 @@ image: images/turtlebot2-kobuki-8-eyecatch.jpg
 
 kobukiの電源スイッチをONにしたところ、問題なく電源が投入できましたので、kobukiをテストモードにして走行させてみました。
 
-https://youtu.be/eMpcx4jFiyU
+{{< youtube eMpcx4jFiyU >}}
 
 元気よく部屋の中を走り回ってくれました。
 

@@ -55,6 +55,6 @@ RAPIROの電源を入れると無事動き始めました。
 
 動いている様子をYouTubeにアップしておきました。
 
-https://youtu.be/0Cq\_xpgKjPc
+{{< youtube 0Cq_xpgKjPc >}}
 
 今回は単純なコマンドをRAPIROに送ることを試しましたが、Bluetoothでリモコン制御にしたり、様々なセンサーを使った制御などmbedが得意とする分野では手軽に使えるのではないかと思います。

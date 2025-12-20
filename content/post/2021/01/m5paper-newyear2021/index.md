@@ -23,7 +23,7 @@ M5Paperはまだ発売されて間もなく、Arduinoのライブラリにもつ
 
 年越しの瞬間をYouTubeに載せておきました。
 
-https://youtu.be/fbHZ5\_Al60k?si=EXGVi3NtCdvVaSop
+{{< youtube fbHZ5_Al60k >}}
 
 プログラムはかなり適当に作成したものですが、GitHubに登録しておきました。
 
