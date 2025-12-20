@@ -45,7 +45,7 @@ eBayでオーダーしたあと、さほど時間はかからずにDCJ11 CPUが�
 
 TwitterではDCJ11が届いたという書き込みが多数届いてはいますが、実際に動作させたというポストは見当たりません。[PDP-11/HACK](http://madrona.ca/e/pdp11hack/index.html)の記事を参考にハードウェアを製作しようとしていたところでXに強力なポストがありました。
 
-https://twitter.com/uCOM80/status/1783372645683310957
+{{< x user="uCOM80" id="1783372645683310957" >}}
 
 Ryo Mukaiさんが開発を行っている[TangNanoDCJ11MEM](https://github.com/ryomuk/TangNanoDCJ11MEM)は、[TangNano 20K](https://wiki.sipeed.com/hardware/en/tang/tang-nano-20k/nano-20k.html)というFPGA開発ツールにDCJ11 CPUのメモリやシリアルコンソールの機能をもたせるという試みです。順調に開発が進んでいるようなので見守っていたところに、[TangNanoDCJ11MEM専用プリント基板](https://store.shopping.yahoo.co.jp/orangepicoshop/pico-a-088.html)がオレンジピコショップさんから発売になりました。すぐ購入しようとしたのですが、あっという間に売り切れてしまい、2回めの発売で購入することができました。
 
@@ -81,7 +81,7 @@ DCJ11 CPUとTangNano 20Kの実装前の基板です。
 
 (2024/07/17追記）10ピン程度にした丸ピンICソケットをCPUのピンに取り付けていった上で、基板上の丸ピンICソケットに取り付けると良いとの情報をHanya Zouさんから頂きました。参考にしてください。
 
-https://twitter.com/hanyazou/status/1813038940359991676
+{{< x user="hanyazou" id="1813038940359991676" >}}
 
 完成したTangNanoDCJ11MEM基板です。DCJ11 CPUの迫力に圧倒されます。
 

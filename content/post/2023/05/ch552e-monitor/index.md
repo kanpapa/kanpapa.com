@@ -11,7 +11,7 @@ image: "images/ch552e_monitor_startup1.png"
 
 [CH552Eの実験をブレッドボードで行っていた](https://kanpapa.com/2023/05/ch552e-prototype1.html "CH552Eをブレッドボードで使ってみました")ところに、TwitterでCH552のモニタプログラムを公開しましたという情報が流れてきました。
 
-<blockquote class="twitter-tweet" data-cards="hidden" data-conversation="none" data-partner="tweetdeck"><p dir="ltr" lang="ja">CH552用のBASIC-52とモニターをGoogle Driveで公開しました。BASIC-52はシリアルポートの速度自動認識機能が使えない（どのように修正すれば良いのか分からない）ので、19.2Kbps固定です。また、タイマー機能等も修正していませんので、動くかどうかも分かりません。<a href="https://t.co/X2wF9LxIwd">https://t.co/X2wF9LxIwd</a></p>-- みかんとひよどり (@hiyodori5) <a href="https://twitter.com/hiyodori5/status/1654696519763910656?ref_src=twsrc%5Etfw">May 6, 2023</a></blockquote>
+{{< x user="hiyodori5" id="1654696519763910656" >}}
 
 まずはこのモニタプログラムを[私のCH552Eブレッドボード](https://kanpapa.com/2023/05/ch552e-prototype1.html "CH552Eをブレッドボードで使ってみました")で動かしてみることにします。
 

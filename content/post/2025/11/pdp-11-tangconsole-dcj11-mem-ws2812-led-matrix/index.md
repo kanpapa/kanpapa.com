@@ -41,7 +41,7 @@ image: images/10x6-rgb-led-matrix-eyecatch1.jpg
 
 開発者のRyo Mukaiさんはすでに一歩先のことを考えていて、この10x6 RGB マトリクスを２個使用して全情報を一度に表示するようにされていました。確かにそうすればSW1で切り替える手間はいりません。さすがです。
 
-https://twitter.com/uCOM80/status/1987387003571478811
+{{< x user="uCOM80" id="1987387003571478811" >}}
 
 ## まとめ
 
