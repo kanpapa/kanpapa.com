@@ -62,7 +62,7 @@ image: "images/eyecatch.jpg"
   * 画像配置場所: static/images/gazou.jpg
   * Markdown記述: `![説明](/images/gazou.jpg)`
 
-## 3. YouTube動画の埋め込み
+## 4. YouTube動画の埋め込み
 Hugo標準のショートコードを使用することで、簡単にYouTube動画を埋め込むことができます。
 HTMLのiframeタグを直接書くよりも、スマホ表示などで崩れにくいため推奨されます。
 
