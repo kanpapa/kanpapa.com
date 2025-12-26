@@ -203,7 +203,8 @@ params:
             site: kanpapa
 
             # Available values: summary, summary_large_image
-            card: summary_large_image
+            #card: summary_large_image
+            card: summary
 
     defaultImage:
         opengraph:
@@ -280,7 +281,7 @@ markup:
         codeFences: true
         guessSyntax: true
         lineNoStart: 1
-        lineNos: true
+        lineNos: false
         lineNumbersInTable: true
         tabWidth: 4
 
