@@ -17,28 +17,26 @@ git pull origin main
 Hugoのコマンドを使用して、記事の雛形（Markdownファイル）を生成します。
 
 ```bash
-# 書式: hugo new post/[ファイル名].md
+# 書式: hugo new content post/[ディレクトリ名]/index.md
 # 例:
-hugo new post/my-new-article.md
+hugo new content post/my-new-article/index.md
 ```
 
-Note: ファイル名はそのままURLの一部（スラッグ）になります。日本語ファイル名は避け、英数字（ハイフン区切り）を推奨します。
+Note: ディレクトリ名はそのままURLの一部（スラッグ）になります。日本語のディレクトリ名は避け、英数字（ハイフン区切り）を設定します。
 
 ## 2. 記事の執筆・編集
-生成された .md ファイルをテキストエディタ（VS Codeなど）で開きます。 ファイルの先頭にある Front Matter（設定領域）を編集し、その下へ本文を記述します。
+生成された .md ファイルをテキストエディタ（VS Codeなど）で開きます。 ファイルの先頭には Front Matter（設定領域）がテンプレートarchetypes/post.mdで設定されているので、適切な内容に編集し、その下に本文をMarkdownで記述します。
 
 ```Markdown
----
-title: "記事のタイトル"
-date: 2025-12-21T12:00:00+09:00
-draft: true
-categories:
-    - "electronics"
-tags:
-    - "ESP32"
-    - "Robot"
-image: "images/eyecatch.jpg"
----
++++
+date = '2025-12-29T11:28:12+09:00'
+title = '投稿テスト7'
+slug = 'test7'
+image = 'test7.jpg'
+categories = ["electronics", "retrocomputing"]
+tags = ["arduino", "esp32"]
+draft = true
++++
 
 （ここから本文をMarkdownで記述）
 
