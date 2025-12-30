@@ -23,7 +23,7 @@ image: images/cosmac-toy-v2-pov1.jpg
 
 表示I/OとしてLEDが８つありますので、これを使ってPOVを行うことができます。詳細なドキュメントはGitHubを参照ください。
 
-https://github.com/kanpapa/cosmac\_toy\_v2/blob/main/programs/07\_pov1/README.md
+* [POVを試してみる](https://github.com/kanpapa/cosmac_toy_v2/blob/main/programs/07_pov1/README.md)
 
 ## POVを動かしてみる
 
