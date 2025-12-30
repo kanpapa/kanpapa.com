@@ -18,7 +18,7 @@ image: "images/tvdisp_ny2020.jpg"
 
 ![tvboard2_and_tv.jpg](images/tvboard2_and_tv.jpg) <!--more-->
 
-実験回路の詳細については[COSMAC研究会のページ](https://kanpapa.com/cosmac/blog/2019/12/cosmac-tv1.html "COSMACでTVディスプレイの実験をしてみた")でご覧ください。
+実験回路の詳細については[COSMACでTVディスプレイの実験をしてみた](https://kanpapa.com/2019/12/cosmac-tv1.html)でご覧ください。
 
 まずは書きぞめのデータの作成です。愛用のMAKER'S NOTEBOOKの方眼を使ってデザインしていきます。この方眼は８マス単位で区切られているのでこの手の用途には使いやすいです。
 
