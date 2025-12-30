@@ -39,4 +39,4 @@ Rev.0.2との違いはシリアル入力をEF4とEF3から選べるようにし�
 
 Membership Cardのモニタは転送機能や逆アセンブラ、BASICまで実装されている高機能モニタでした。通信速度も1200bpsもでますし、これまで使ってきた[UT4](http://www.retrotechnology.com/memship/UT4_rom.html "UT4")と比べてはるかに強力なものになっているので、各機能を試してみようと思います。
 
-(追記) [ガーバーデータを掲載](https://kanpapa.com/tag/cosmac-mbc "https://kanpapa.com/today/tag/cosmac-mbc")しました。
+(追記) ガーバーデータを[GitHub](https://github.com/kanpapa/cosmac_mbc)に掲載しました。

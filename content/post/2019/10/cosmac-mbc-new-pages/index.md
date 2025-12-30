@@ -11,6 +11,6 @@ image: "images/cosmac_mbc_pcb1.jpg"
 
 現在進行中のCOSMAC MicroBoard Computerのページを作成しました。製作情報はこちらにもまとめていきます。
 
-https://kanpapa.com/today/tag/cosmac-mbc
+https://kanpapa.com/tags/cosmac-mbc.html
 
 ![cosmac_mbc_pcb1.png](images/cosmac_mbc_pcb1.png)
