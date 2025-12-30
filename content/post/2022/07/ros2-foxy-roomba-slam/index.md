@@ -11,7 +11,7 @@ image: "images/ros2-foxy-roomba-slam-rviz.jpg"
 
 [前回の記事でルンバ単体の環境設定](https://kanpapa.com/2022/07/ros2-foxy-roomba-bringup.html "ROS2 Foxyでルンバを動かしてみました(1) ルンバ設定編")まで行うことができました。これだけでは手動操作しかできません。ここでPCを接続して、そちらで環境地図の生成（SLAM）や自律走行（Navigation）の環境を作っていきます。
 
-![ros2-foxy-roomba-base1.jpg](images/ros2-foxy-roomba-base1.jpg) <!--more-->
+![ros2-foxy-roomba-base1.jpg](images/ros2-foxy-roomba-base1.jpg) 
 
 ### ネットワーク経由でトピックを受信する
 

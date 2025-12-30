@@ -18,7 +18,7 @@ image: images/replica1_te_61.jpg
 
 CD-ROMの内容を見てみます。replica1の技術資料やApple1の資料も収録されています。
 
-![replica1_te_62.png](images/replica1_te_62.png) <!--more-->
+![replica1_te_62.png](images/replica1_te_62.png) 
 
 ここに収録されているソフトウェアはテキスト形式です。
 

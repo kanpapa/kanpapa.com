@@ -27,7 +27,7 @@ ROMやRAMがやや古いものに対応しているようですが、それ以�
 
 ![vme_board_4_rom2.jpg](images/vme_board_4_rom2.jpg)
 
-<!--more-->
+
 
 最初に必要な情報はROMの先頭に書かれているSP, PCの初期値です。
 

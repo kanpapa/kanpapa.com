@@ -17,7 +17,7 @@ FUSION360で3Dモデルを作ります。台所の食器棚の排水溝をノギ
 
 ![drain_fusion360_sketch.png](images/drain_fusion360_sketch.png)
 
-<!--more-->
+
 
 これをもとに押し出しで3Dモデルを作ります。ここは試行錯誤の連続で、何回かやり直して納得できる形にできました。
 

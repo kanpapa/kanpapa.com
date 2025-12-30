@@ -20,7 +20,7 @@ image: "images/HC-SR04_test.jpeg"
 
 ちょうど同じ超音波センサーを持っていたので、Lesson2のソースコードを参考にしてArduinoに接続してみました。
 
-![HC-SR04_test.jpeg](images/HC-SR04_test.jpeg) <!--more-->
+![HC-SR04_test.jpeg](images/HC-SR04_test.jpeg) 
 
 シリアルモニタに超音波センサーから出力された距離の情報が出力されました。
 

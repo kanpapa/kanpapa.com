@@ -18,7 +18,7 @@ image: "images/roomba_robot_ros_rasppi_connect1.jpg"
 
 ROSをつかってルンバを動かすという記事はインターネットを検索すればいろいろでてきます。今回は[demura.net](https://demura.net/ "demura.net")さんの記事を参考にして進めてみます。
 
-<!--more-->
+
 
 ### Raspberry Pi 4にUbuntu 18.04 LTSをインストールする
 

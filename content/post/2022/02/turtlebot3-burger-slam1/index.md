@@ -18,7 +18,7 @@ image: images/turtlebot3-burger-slam-map1.png
 
 これまではキーボードでTurtleBot3の移動方向や速度を指示していましたが、これだと少し扱いにくいです。そこでPS4のワイヤレスコントローラー DualShock4で操縦するように設定します。
 
-![turtlebot3-burger-ps4-dualshock4.jpg](images/turtlebot3-burger-ps4-dualshock4.jpg) <!--more-->
+![turtlebot3-burger-ps4-dualshock4.jpg](images/turtlebot3-burger-ps4-dualshock4.jpg) 
 
 以下の記事を参考にしました。
 

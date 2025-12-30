@@ -14,7 +14,7 @@ image: "images/mc68ez328_lan_rev02_3.jpg"
 
 ![mc68ez328_sbc_lan_rev01_3dmodel1.png](images/mc68ez328_sbc_lan_rev01_3dmodel1.png)
 
-<!--more-->
+
 
 ### RJ-45コネクタの穴位置が合わない
 

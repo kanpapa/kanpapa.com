@@ -11,7 +11,7 @@ image: "images/psoc_adc_lcd.jpg"
 
 サンプルプロジェクトを開きます。
 
-![adc_uart_prj.PNG](images/adc_uart_prj.png) <!--more-->
+![adc_uart_prj.PNG](images/adc_uart_prj.png) 
 
 TopDesignを開くと、ADCとUARTのコンポーネントが登録されており、この状態でビルドしてターゲットに書き込むと、電圧の数値がUART経由で表示できます。私の場合はTeraTermでUARTに接続しました。
 

@@ -34,7 +34,7 @@ D ADDRESS DATA DATA DATA DATA.....
 
 モニタを起動した状態で、Sレコードから変換したDレコードをアップロードすると、次々とメモリに書き込むことができます。
 
-<!--more-->
+
 
 ### Enhanced 68K BASICをMC68EZ328用に修正
 

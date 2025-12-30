@@ -16,7 +16,7 @@ COSMAC VIPは16進キーボードがあるので横向きの実装が望まし�
 
 ![tomi9s_mini_bus_board.jpg](images/tomi9s_mini_bus_board.jpg)
 
-<!--more-->
+
 
 そういえば、高校のときに使っていたTK-80BSもこのようなバス基板でCPUボードとBASICボードを接続していたのを思い出しました。
 

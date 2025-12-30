@@ -17,7 +17,7 @@ image: "images/roomba_otafab59_navi_base.jpg"
 
 おおたfabのみなさんに役立つようなロボットにしたいという意見がありました。いわゆるアシストロボットです。とはいってもルンバですので、ものを運んだりするのが良いのかなとストーリーをまとめてました。
 
-![roomba_otafab59_assist_robot_story1.png](images/roomba_otafab59_assist_robot_story1.png) <!--more-->
+![roomba_otafab59_assist_robot_story1.png](images/roomba_otafab59_assist_robot_story1.png) 
 
 ### アシストロボットのデザイン
 

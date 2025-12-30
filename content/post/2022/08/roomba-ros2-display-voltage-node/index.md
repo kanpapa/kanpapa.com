@@ -19,7 +19,7 @@ image: "images/roomba_dispvolv_led.jpg"
 
 これを繰り返せばバッテリ電圧がリアルタイムで表示されるはずです。
 
-<!--more-->
+
 
 ### ROS2のノードを書いてみる
 

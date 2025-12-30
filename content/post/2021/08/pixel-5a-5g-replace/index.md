@@ -13,7 +13,7 @@ image: "images/pixel5a_5g_6.jpg"
 
 Google Storeから到着したPixel 5a (5G)です。純正ケースも同時に購入しました。
 
-![pixel5a_5g_1.jpg](images/pixel5a_5g_1.jpg) <!--more-->
+![pixel5a_5g_1.jpg](images/pixel5a_5g_1.jpg) 
 
 早速開封です。Pixel 3aと比べて少し大きくなりましたが、気になるほどではありません。
 

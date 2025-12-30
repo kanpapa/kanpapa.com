@@ -17,7 +17,7 @@ image: "images/aesoc-case1.jpg"
 
 - [BeagleBone Blackのシステムを復旧しよう](https://www.marutsu.co.jp/select/list/detail.php?id=235 "BeagleBone Blackのシステムを復旧しよう") （マルツさんの記事）
 
-<!--more-->
+
 
 でもせっかくなのでこの基板用にカスタマイズしたLinuxを載せたいものです。調べたところ、[Yocto Project](https://www.yoctoproject.org/ "yocto project")という組み込みLinuxのプロジェクトを利用すると、汎用性が高くなりそうです。組み込みLinuxといえば以前[MC68EZ328というCPUをつかった基板でμClinuxを動かした](https://kanpapa.com/2021/09/mc68ez328-sbc-rev03-prod.html "MC68EZ328 SBC Rev.0.3基板を製作しました")ことを思い出します。
 

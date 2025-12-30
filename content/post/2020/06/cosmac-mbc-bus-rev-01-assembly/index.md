@@ -14,7 +14,7 @@ image: images/cosmac_mbc_bus_rev01_2.jpg
 
 ![cosmac_mbc_bus_rev01_1.jpg](images/cosmac_mbc_bus_rev01_1.jpg)
 
-<!--more-->
+
 
 早速基板接続用のコネクタを実装しました。
 

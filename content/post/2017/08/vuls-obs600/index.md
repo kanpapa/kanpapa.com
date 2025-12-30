@@ -15,7 +15,7 @@ tags:
 
 また、ちょうど「[What's New in Docker for Developers (2017 Summer ver.)](https://www.ospn.jp/odc2017/modules/eguide/event.php?eid=20)」でDockerについても詳しく聞くことができたのでDockerも使ってみました。
 
-<!--more-->
+
 
 VlusのすべてはREADME.jaに書いてあるということでしたので、README.jaを読みながら進めました。
 

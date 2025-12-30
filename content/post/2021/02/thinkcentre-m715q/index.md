@@ -13,7 +13,7 @@ image: "images/thinkcentre_m715q.jpg"
 
 ディスプレイの置き場がないので、モニタアームを使ったり、キーボードをワイヤレスで小さいものに変えたりなどしています。
 
-![monitor_arm.jpg](images/monitor_arm.jpg) <!--more-->
+![monitor_arm.jpg](images/monitor_arm.jpg) 
 
 先日[M1のMacbook Air](https://kanpapa.com/2020/11/m1-macbook-air-2020-arduino-ide.html "M1 MacBook Air 2020 でArduino IDEを動かしてみました")を買ったのでたいていの作業はそちらで行うようになりましたが、Windows PCでないと動かないものもあります。そのためデスクトップは手放せません。これまではDELL Optiplex 5050 (Core i7 6700, 24GB RAM, 500GB SSD)を使っていました。
 

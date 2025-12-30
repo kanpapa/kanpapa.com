@@ -21,7 +21,7 @@ image: "images/romi_ros_romipi1.jpg"
 
 ソースをみた感じではかなり完成系に近いように見えます。これは期待できそうです。
 
-![romi_ros_romipi1.jpg](images/romi_ros_romipi1.jpg) <!--more-->
+![romi_ros_romipi1.jpg](images/romi_ros_romipi1.jpg) 
 
 ### ROS Melodicのインストール
 

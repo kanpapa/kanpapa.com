@@ -22,7 +22,7 @@ image: images/mft2020_1002_51.jpg
 
 ![](images/mft2020_1002_8.jpg)
 
-<!--more-->
+
 
 あとは電車で移動です。
 

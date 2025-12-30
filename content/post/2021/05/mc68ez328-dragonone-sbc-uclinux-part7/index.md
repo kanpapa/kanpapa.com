@@ -49,7 +49,7 @@ mount_devfs_fs ();
 ここでUbuntuで試しにmountしたromfsの/dev/consoleをみてみると、MAJOR=5, MINOR=1となっていたので一致しています。
 
 ![mc68ez328_dragonone_sbc_uclinux_part7_dev_console.png](images/mc68ez328_dragonone_sbc_uclinux_part7_dev_console.png)
-<!--more-->
+
 
 ### create_dev()
 

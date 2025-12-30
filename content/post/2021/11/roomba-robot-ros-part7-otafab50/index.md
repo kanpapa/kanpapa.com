@@ -30,7 +30,7 @@ $ roslaunch ca_gazebo create_maze.launch
 
 ![rviz_sample1_20211116.png](images/rviz_sample1_20211116.png)
 
-<!--more-->
+
 
 2\. もう一つターミナルを開いて以下を入力します。
 

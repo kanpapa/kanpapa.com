@@ -17,7 +17,7 @@ image: "images/roomba_otafab62_roomba_check.jpg"
 
 [Maker Faire（メイカーフェア）](https://makezine.jp/event/mft2022/for_thefirst/ "はじめての方へ")は、ものづくりを行っている個人、団体、学校、企業が一堂に集まって作った作品を展示しあうお祭りです。始まった当初は[Make Tokyo Meeting](https://makezine.jp/blog/category/make-tokyo-meeting "Make Tokyo Meeting")といわれていましたが、2012年から現在のMaker Faireという名前に変わっています。私自身はMake Tokyo Meetingで1回、Maker Faire Tokyoで2回の出展経験があります。いずれも電子工作というカテゴリでしたが、今回はおおたfabのみなさんとロボティクスというカテゴリで出展にチャレンジします。
 
-<!--more-->
+
 
 ### 何を見せるかを考える
 

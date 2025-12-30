@@ -19,7 +19,7 @@ image: images/vme-board5-cpusocket-mbed68k1.jpg
 
 ![vme-board5-cpu-remove1.jpg](images/vme-board5-cpu-remove1.jpg)
 
-<!--more-->
+
 
 CPUのアドレス信号を中心に回路図を書いていきます。
 

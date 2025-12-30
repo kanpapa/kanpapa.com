@@ -18,7 +18,7 @@ image: "images/dragonone_mdump_python2.png"
 
 実行結果は以下のようになりました。ブートローダーのマイクロコードのアドレス付近にはプログラムが書かれていて、いろんな値が見えるだろうとダンプしてみました。
 
-![dragonone_mdump_python1.png](images/dragonone_mdump_python1.png) <!--more-->
+![dragonone_mdump_python1.png](images/dragonone_mdump_python1.png) 
 
 フラッシュメモリが接続されているはずの$00000000のあたりをダンプしてみると、$FFが並んでいましたが、$00も見えました。念のため続けて２度実行しましたが同じ値が取れています。
 

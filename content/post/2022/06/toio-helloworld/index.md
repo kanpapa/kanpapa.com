@@ -19,7 +19,7 @@ Maker Faire Tokyo 2022の申し込みをしましたが、残念ながら落選�
 
 パッケージはSonyらしくシンプルでかっこよいです。
 
-![toio_package1.jpg](images/toio_package1.jpg) <!--more-->
+![toio_package1.jpg](images/toio_package1.jpg) 
 
 パッケージをひらくと、ちょこんとCubeがありました。
 

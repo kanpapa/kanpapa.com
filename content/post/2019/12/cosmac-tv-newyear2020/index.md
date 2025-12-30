@@ -16,7 +16,7 @@ image: "images/tvdisp_ny2020.jpg"
 
 今回の実験風景です。足元には普通のテレビを置いて、TVディスプレイ回路から出力されるコンポジット信号をテレビのビデオ入力端子に接続しています。
 
-![tvboard2_and_tv.jpg](images/tvboard2_and_tv.jpg) <!--more-->
+![tvboard2_and_tv.jpg](images/tvboard2_and_tv.jpg) 
 
 実験回路の詳細については[COSMACでTVディスプレイの実験をしてみた](https://kanpapa.com/2019/12/cosmac-tv1.html)でご覧ください。
 

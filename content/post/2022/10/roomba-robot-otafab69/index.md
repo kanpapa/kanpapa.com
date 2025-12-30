@@ -22,7 +22,7 @@ image: "images/roomba_simple_base_laser1.jpg"
 
 写真のような板を２枚用意してパイプでつなぎ２段重ねにする予定です。
 
-<!--more-->
+
 
 参考までにこれまで製作したフレームの全景です。
 

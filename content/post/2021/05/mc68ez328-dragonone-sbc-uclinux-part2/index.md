@@ -18,7 +18,7 @@ image: "images/mc68ez328_dragonone_sbc_uclinux_romfs_etc.png"
 
 最初に起動されるプロセスであるinitが見つからないとのこと。ビルドの結果をみるかぎり、initはromfsに含まれているはずなのですが。おまけにconsoleも見つからないという警告も表示されています。この原因を探ってみます。
 
-<!--more-->
+
 
 ### エラーが出ている箇所のソースを探す
 

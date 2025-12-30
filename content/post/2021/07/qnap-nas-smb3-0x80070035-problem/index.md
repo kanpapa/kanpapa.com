@@ -21,7 +21,7 @@ image: "images/qnap_nas_error_0x80070035.png"
 
 ちなみにQNAPのファームウェアは現在最新の[QTS 4.5.4.1723 build 20210708](https://www.qnap.com/ja-jp/release-notes/qts/4.5.4.1723/20210708 "QTS 4.5.4.1723 build 20210708")を使用しています。
 
-<!--more-->
+
 
 ### SMBプロトコルを見てみよう
 

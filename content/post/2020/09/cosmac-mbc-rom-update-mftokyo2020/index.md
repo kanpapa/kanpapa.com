@@ -23,7 +23,7 @@ Maker Faire Tokyo 2020用にCOSMAC MBCに載せているROMをチューニング
 
 ![memory_map_for_mft2020.png](images/memory_map_for_mft2020.png)
 
-<!--more-->
+
 
 この結果、次の手順でデモができるようになります。
 

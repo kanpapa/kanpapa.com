@@ -17,7 +17,7 @@ image: images/MP2_2_servo3.jpg
 
 ![MP2_2_panel1.jpg](images/MP2_2_panel1.jpg)
 
-<!--more-->
+
 
 M2 self tappingネジで基板をフレームに固定します。
 

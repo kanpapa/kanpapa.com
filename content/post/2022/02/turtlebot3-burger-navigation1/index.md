@@ -38,7 +38,7 @@ $ roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:=$HOME/m
 
 正常に動作するとRvizの画面が表示されます。緑色の小さな矢印が散らばっていることがわかります。
 
-![turtlebot3-burger-navigation-rviz1.png](images/turtlebot3-burger-navigation-rviz1.png) <!--more-->
+![turtlebot3-burger-navigation-rviz1.png](images/turtlebot3-burger-navigation-rviz1.png) 
 
 ### 初期位置の設定
 

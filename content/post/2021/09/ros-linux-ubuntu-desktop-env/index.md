@@ -25,7 +25,7 @@ image: "images/ubuntu_desktop_ros1_env.jpg"
 
 ROSとGazeboを動かしてみると、なんとヌルヌル快適に動きます。いままでVMWareで苦労して動かしていたのは何だったのでしょうか。
 
-<!--more-->
+
 
 ### Ubuntuデスクトップ環境を本気で整備してみる
 

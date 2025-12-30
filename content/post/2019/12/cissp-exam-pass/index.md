@@ -12,7 +12,7 @@ image: images/cissp_exam1.jpg.jpg
 
 昨日、[CISSP](https://japan.isc2.org/cissp_about.html "CISSPについて")の試験を受けて無事合格となりました。まだ資格認定の手続きが残っていますが一安心です。今後受験されるかたの参考になるようにどう取り組んできたかをまとめておきます。なお、試験内容についてはNDAがありますのでここでは触れません。
 
-![cissp_exam1.jpg.jpg](images/cissp_exam1.jpg.jpg) <!--more-->
+![cissp_exam1.jpg.jpg](images/cissp_exam1.jpg.jpg) 
 
 ### まずは、試験日を決定
 

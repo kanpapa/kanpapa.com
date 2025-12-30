@@ -35,7 +35,7 @@ image: "images/cosmac_mft2019_tag1.jpg"
 出展決定の知らせを受けて、まずは展示する作品を決め、Googleスプレッドシート上でまとめていきました。
 
 ![](images/cosmac_mft2019_sheet1-1024x718.png)
-<!--more-->
+
 
 このとき予定していた作品は以下の通りです。
 

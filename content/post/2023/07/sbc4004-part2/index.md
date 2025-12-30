@@ -26,7 +26,7 @@ SBC4004はFPGAとArduinoを使用していますので、まずはこれらに�
 
 ![sbc4004_fpga_board1.jpg](images/sbc4004_fpga_board1.jpg)
 
-<!--more-->
+
 
 裏面にある指定されたチップ抵抗とチップコンデンサをはんだごてで温めて外します。
 

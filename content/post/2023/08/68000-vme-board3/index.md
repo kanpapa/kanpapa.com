@@ -19,7 +19,7 @@ image: images/vme_board_3_power_on_led1.jpg
 
 ![vme_board_3_power_pcb_product2.jpg](images/vme_board_3_power_pcb_product2.jpg)
 
-<!--more-->
+
 
 VMEボードとの接続も問題なさそうです。
 

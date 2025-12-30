@@ -23,7 +23,7 @@ image: "images/kobura_go_assembly16.jpg"
 
 ![kobura_go_assembly2.jpg](images/kobura_go_assembly2.jpg)
 
-<!--more-->
+
 
 ### パーツの確認
 

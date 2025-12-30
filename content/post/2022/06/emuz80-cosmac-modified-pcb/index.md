@@ -11,13 +11,15 @@ tags:
 image: images/emuz80_cosmac_modpcb7.jpg
 ---
 
-[前回の実験でLチカ](https://kanpapa.com/2022/05/emuz80-cosmac-blink-led.html "EMUZ80でCOSMACを動かしてみました（Lチカ編）")まで動かすことができたので、今後の実験を行いやすくするためにEMUZ80の基板を[COSMAC CDP1802 CPU](https://kanpapa.com/cosmac/cosmac-cpu.html "COSMAC CPUとは")を実装できるように改造してみます。もちろんZ80もEMUZ80で動かしたいので、COSMAC専用に追加で基板を注文しました。
+[前回の実験でLチカ](https://kanpapa.com/2022/05/emuz80-cosmac-blink-led.html "EMUZ80でCOSMACを動かしてみました（Lチカ編）")まで動かすことができたので、今後の実験を行いやすくするためにEMUZ80の基板を[COSMAC CDP1802 CPU](https://kanpapa.com/cosmac/cosmac-cpu.html "COSMAC CPUとは")を実装できるように改造してみます。
+
+## EMUZ80基板の追加購入
+
+Z80もEMUZ80で動かしたいので、COSMAC専用に追加で基板を注文しました。どちらの色を使おうかなと思ったのですが、今回はスタンダードな緑色の基板を使うことにしました。
 
 ![emuz80_cosmac_modpcb1.jpg](images/emuz80_cosmac_modpcb1.jpg)
 
-どちらの色を使おうかなと思ったのですが、今回はスタンダードな緑色の基板を使うことにしました。
-
-<!--more-->
+## EMUZ80基板をCOSMAC用に改造
 
 EMUZ80の基板を傷付けるのは申し訳ないですが、パターンをみると改造しやすくできているようです。データバス、アドレスバスは容易に切断できました。残りの電源ライン、制御信号も切り離しました。
 
@@ -39,9 +41,15 @@ EMUZ80の基板を傷付けるのは申し訳ないですが、パターンを�
 
 ![emuz80_cosmac_modpcb9.jpg](images/emuz80_cosmac_modpcb9.jpg)
 
-制御信号はまだ変更するかもしれないので、ジャンパーのままにしておきましたが、バスを接続していたジャンパー線が無くなったのでかなりすっきりしました。このあとに電源を投入し、Lチカができることを確認しました。
+制御信号はまだ変更するかもしれないので、ジャンパーのままにしておきましたが、バスを接続していたジャンパー線が無くなったのでかなりすっきりしました。
+
+## 動作確認
+
+電源を投入し、Lチカができることを確認しました。
 
 ![emuz80_cosmac_modpcb10.jpg](images/emuz80_cosmac_modpcb10.jpg)
+
+## まとめ
 
 このCOSMAC専用EMUZ80基板をベースとして今後の実験を進めます。
 

@@ -29,7 +29,7 @@ image: "images/fe738d2dc010c9fac171ea4412c5b8357a7d2bf8.jpg"
 
 この手順を参考にしながらカスタムレイヤーを作ってみます。開発環境は前回使用したYocto Project dunfell 3.1.23をそのまま使っています。
 
-<!--more-->
+
 
 ### カスタムレイヤーを追加する
 

@@ -14,7 +14,7 @@ COSMAC VIPにはタイマーIC555を使用したサウンド回路が搭載さ�
 
 ![cosmac_vip_sound1.jpg](images/cosmac_vip_sound1.jpg)
 
-<!--more-->
+
 
 COSMAC MBCにも同じサウンド回路を接続してみようと、ブレッドボードで試作しました。
 

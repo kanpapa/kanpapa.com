@@ -19,7 +19,7 @@ image: images/cosmac_system2.jpg
 でも、よく見るとシルク印刷が重なっているところがいくつかありました。
 
 ![](images/cosmac_cpu_pcb2.jpg)
-<!--more-->
+
 
 もう少し慎重にチェックすればよかったです。次回は気を付けるようにします。
 

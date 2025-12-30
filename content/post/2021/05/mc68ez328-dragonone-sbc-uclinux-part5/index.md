@@ -12,7 +12,7 @@ image: "images/mc68ez328_dragonone_sbc_uclinux_part5_kernel_book.jpg"
 
 start_kernelの続きです。ちょうどフリマで購入した参考書が届きました。kernel 2.4対応の詳解LINUXカーネル 第2版です。旧版なので格安というメリットはあります。ただシステムの起動の部分は付録の章となっていてあまり詳しく書かれていませんでした。コードを追うしかなさそうです。
 
-![mc68ez328_dragonone_sbc_uclinux_part5_kernel_book.jpg](images/mc68ez328_dragonone_sbc_uclinux_part5_kernel_book.jpg) <!--more-->
+![mc68ez328_dragonone_sbc_uclinux_part5_kernel_book.jpg](images/mc68ez328_dragonone_sbc_uclinux_part5_kernel_book.jpg) 
 
 ### 再びstart_kernelの続きから
 

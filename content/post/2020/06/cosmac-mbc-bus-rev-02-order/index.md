@@ -16,7 +16,7 @@ BUSボードのRev.0.2を設計しました。せっかくなのでLEDの取り�
 
 ![cosmac_mbc_rev02_back.jpg](images/cosmac_mbc_rev02_back.jpg)
 
-<!--more-->
+
 
 図面通りに基板の厚さを考慮して、基板厚1.6mm+スペーサー長(P-07567)12.7mm=コネクタ間隔14.3mmと決めました。
 

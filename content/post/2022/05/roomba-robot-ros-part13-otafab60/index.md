@@ -17,7 +17,7 @@ image: "images/roomba_otafab60_roomba_frame_plan_a.jpg"
 
 今回は2通りの実装方法を試してみることにしました。いずれも自律走行に必要なLiDARのレーザーを遮らないように実装することを考えました。
 
-<!--more-->
+
 
 ### TYPE Aの実装
 

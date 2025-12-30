@@ -15,7 +15,7 @@ image: "images/MCard1802_Q_pluse.jpg"
 
 ![MCard1802_pcb_manual.jpg](images/MCard1802_pcb_manual.jpg)
 
-<!--more-->
+
 
 マニュアルに掲載されているBOMを見ましたが、秋葉原では見かけない以下のパーツがありました。
 

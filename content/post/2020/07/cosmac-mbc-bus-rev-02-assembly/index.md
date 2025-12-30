@@ -14,7 +14,7 @@ image: images/cosmac_mbc_bus_rev02_pcb4.jpg
 
 ![cosmac_mbc_bus_rev02_pcb1.jpg](images/cosmac_mbc_bus_rev02_pcb1.jpg)
 
-<!--more-->
+
 
 前回のRev.0.1と比較すると基板の厚さだけ間隔が広くなっていることがわかります。
 

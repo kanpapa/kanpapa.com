@@ -25,7 +25,7 @@ image: "images/roomba_otafab61_roomba_frame2.jpg"
 
 この状態での自律走行の様子です。きちんと目的の場所まで動いてくれます。
 
-<!--more-->
+
 
 ### 受付機能
 

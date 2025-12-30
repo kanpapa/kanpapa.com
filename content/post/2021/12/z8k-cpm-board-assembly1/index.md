@@ -13,7 +13,7 @@ image: "images/z8kcpm_pcb3.jpg"
 
 到着した基板とパーツです。tomi9さんありがとうございました。
 
-![z8kcpm_pcb1.jpg](images/z8kcpm_pcb1.jpg) <!--more-->
+![z8kcpm_pcb1.jpg](images/z8kcpm_pcb1.jpg) 
 
 ### Z8K CP/M基板の組み立て
 

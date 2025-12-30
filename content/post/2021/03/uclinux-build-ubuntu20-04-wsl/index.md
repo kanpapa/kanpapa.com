@@ -20,7 +20,7 @@ image: "images/uClinux_build_tftperror.png"
 
 2014年の記事になりますが、この内容に沿ってArcturus社のuCsimmというMC68EZ328を使用したマイコンボード用のuClinux (3.x kernel)をビルドしてみます。
 
-<!--more-->
+
 
 ### uClinuxの入手
 

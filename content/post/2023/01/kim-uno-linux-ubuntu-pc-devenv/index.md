@@ -17,7 +17,7 @@ image: images/kim_uno_prototype_1.jpg
 
 いまこのPCで使用しているのは[Ubuntu 20.04 LTS Desktop 日本語 Remix](https://www.ubuntulinux.jp/download/ja-remix "Ubuntu Desktop 日本語 Remixのダウンロード")です。インストール直後から日本語入力は問題なく行えます。
 
-<!--more-->
+
 
 ### Ubuntuソフトウェアを揃える
 

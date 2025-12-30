@@ -22,7 +22,7 @@ image: "images/mc68ez328_dragonone_sbc_uclinux_part8_flash_dump.png"
 
 Passedと表示されるまで、3分01秒かかりました。これは$AAと$55と$00をそれぞれ書き込み一致しなければメモリ不良と判断してFailedと表示されるものです。簡易的なチェックではありますが、問題なさそうです。
 
-<!--more-->
+
 
 ### フラッシュメモリのデータチェック
 

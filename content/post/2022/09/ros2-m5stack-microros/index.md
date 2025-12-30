@@ -23,7 +23,7 @@ ESP32でできるならM5Stackでも同じことができそうだと試して�
 
 今回はM5Stack Fireを使いました。ROS2 Foxyの環境はVMWare Workstaion Player上のUbuntu 20.04 LTSです。
 
-<!--more-->
+
 
 ### マイコン(M5Stack）側の設定
 

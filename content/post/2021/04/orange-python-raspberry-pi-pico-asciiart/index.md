@@ -15,7 +15,7 @@ image: "images/orange_python_rasppi_pico5.jpg"
 
 これだけのパーツがそろって3,740円というのも信じられませんが、やはりRaspberry Pi Picoの低価格が貢献しているのでしょう。なお、Raspberry Pi PicoとPIC32MXのファームウェアも書き込み済みなので、初心者でも組み立てやすいと思います。
 
-<!--more-->
+
 
 ### ORANGE-Pythonの組み立て
 

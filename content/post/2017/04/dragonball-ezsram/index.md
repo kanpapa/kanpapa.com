@@ -18,7 +18,7 @@ DragonBall-EZ(MC68EZ328)のブートストラップモードとBBUG.EXEを使う
 
 このSRAMを２個使うことで16bitバスとします。１個が下位8ビット、もう１個は上位8ビットとなります。メモリ空間は0x0000〜0xFFFFの64KByteとなります。
 
-![mc68ez328_sram1.jpg](images/mc68ez328_sram1.jpg) <!--more-->
+![mc68ez328_sram1.jpg](images/mc68ez328_sram1.jpg) 
 
 DragonBall-EZのユーザーズマニュアルをみながら書いてみたのが以下の回路図です。（クリックすると拡大します。）
 

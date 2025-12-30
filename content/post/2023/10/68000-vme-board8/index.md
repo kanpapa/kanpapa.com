@@ -19,7 +19,7 @@ image: images/vme-board8_dvme_series1.jpg
 
 ![vme-board8_dvme_series1.jpg](images/vme-board8_dvme_series1.jpg)
 
-<!--more-->
+
 
 DVME AD2です。
 

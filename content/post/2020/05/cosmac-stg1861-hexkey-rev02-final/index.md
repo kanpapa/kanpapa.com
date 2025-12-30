@@ -14,7 +14,7 @@ image: images/coamac_stg1861_rev02_pcb3.jpg
 
 ![coamac_stg1861_rev02_pcb1.jpg](images/coamac_stg1861_rev02_pcb1.jpg)
 
-<!--more-->
+
 
 早速製作しました。Rev. 0.1で漏れていたゲートも追加実装し、ちょっとしたユニバーサル領域も付いています。
 

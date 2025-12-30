@@ -14,7 +14,7 @@ image: "images/mft2020_1003_2.jpg"
 
 ![mft2020_1003_1.jpg](images/mft2020_1003_1.jpg)
 
-<!--more-->
+
 
 看板も昨日のままです。
 

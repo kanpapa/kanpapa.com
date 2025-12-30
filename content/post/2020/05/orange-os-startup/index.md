@@ -14,7 +14,7 @@ image: "images/orange-os-wifi.jpg"
 
 1\. USBシリアルからORANGE-insideをESP32に書き込みます。付属のツールで簡単です。
 
-![orange-inside-write2.jpg](images/orange-inside-write2.jpg) <!--more-->
+![orange-inside-write2.jpg](images/orange-inside-write2.jpg) 
 
 2\. ESP32のリセットを行うと簡単なモニタに相当するORANGE-insideが起動します。
 

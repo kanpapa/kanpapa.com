@@ -13,7 +13,7 @@ image: "images/cosmac_mft2019_day1_11.jpg"
 [COSMAC研究会](https://makezine.jp/event/makers-mft2019/m0098/ "COSMAC研究会")で[Maker Faire Tokyo 2019](https://makezine.jp/event/mft2019/ "Maker Faire Tokyo 2019")に出展しました。[前日のレポート](https://kanpapa.com/2019/08/cosmac-maker-faire-tokyo-2019-3.html "前日のレポート")に引き続き1日めの様子のまとめです。
 
 ![](images/cosmac_mft2019_day1.jpg)
-<!--more-->
+
 
 ## ブースの設営
 

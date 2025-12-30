@@ -54,7 +54,7 @@ INFO : Log file location - /root/.Xilinx/xinstall/xinstall_1465016640139.log
 
 GUI画面が表示されるのでインストールを行います。Artix-7のチェックを忘れずに。
 
-![vivado_linux1.jpg](images/vivado_linux1.jpg) <!--more-->
+![vivado_linux1.jpg](images/vivado_linux1.jpg) 
 
 インストールが終了すると、シェルに戻ります。
 

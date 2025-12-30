@@ -20,7 +20,7 @@ image: "images/otafab_robot_43_roomba1.jpg"
 
 - [HARD2021: ルンバをPythonプログラムで動かそう！](https://demura.net/robot/hard/20101.html "HARD2021: ルンバをPythonプログラムで動かそう！")
 
-<!--more-->
+
 
 ### Pythonプログラムを眺めてみる
 

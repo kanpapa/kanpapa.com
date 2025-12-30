@@ -21,7 +21,7 @@ image: images/DVME_CPU2_board1.jpg
 
 ![DVME_CPU2_board_front1.jpg](images/DVME_CPU2_board_front1.jpg)
 
-<!--more-->
+
 
 ### CPUボードの仕様
 

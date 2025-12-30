@@ -13,7 +13,7 @@ image: "images/cosmac_stg1861_vipos.jpg"
 
 ![coamac_stg1861_pcb1.jpg](images/coamac_stg1861_pcb1.jpg)
 
-<!--more-->
+
 
 早速製作しようと思ったのですが、すでにゲートの実装漏れが分かっていたので、いきなり回路図の修正とパターンカットが必要になりました。
 

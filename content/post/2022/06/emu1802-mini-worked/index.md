@@ -18,7 +18,7 @@ image: images/emu1802-mini_final.jpg
 
 COSMACの場合アドレスバスが8本しかないためEMU1802のPIC18F47Q43のPORTDは全く使っていない状態です。信号線の数を確認したところ、PIC18F27Q43のピン数で足りそうです。
 
-<!--more-->
+
 
 回路図はGitHubに載せておきました。
 

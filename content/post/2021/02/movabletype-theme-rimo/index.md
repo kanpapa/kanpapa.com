@@ -11,7 +11,7 @@ image: "images/mt_themes_rimo.png"
 
 このサイトのMovableTypeのブログテーマを[Rimo](https://github.com/movabletype/mt-theme-rimo/wiki "Rimo documents wiki")に変更してみました。今どきのオウンドメディアサイトでスクロールするとコンテンツがどんどん表示されるものです。
 
-![mt_themes_rimo.png](images/mt_themes_rimo.png) <!--more-->
+![mt_themes_rimo.png](images/mt_themes_rimo.png) 
 
 テーマをRimoに変更したことで、Google Search Consoleでモバイルユーザビリティの改善が確認できました。
 

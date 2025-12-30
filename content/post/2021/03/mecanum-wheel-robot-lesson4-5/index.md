@@ -18,7 +18,7 @@ image: "images/mecanum_lesson4_5_run2.jpg"
 
 今回はメカナムロボットをスマートフォンで制御してみようという回です。スマートフォンの接続方法はBluetoothとWiFiの２種類です。
 
-<!--more-->
+
 
 ### Bluetoothで制御する
 

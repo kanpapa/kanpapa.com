@@ -25,7 +25,7 @@ SONYの[toioコアキューブ](https://www.switch-science.com/products/6300 "to
 
 翌日に到着しました。おまけにtoio消しゴムが入っていました。
 
-![AtomMateFor_toio_20221117.jpg](images/AtomMateFor_toio_20221117.jpg) <!--more-->
+![AtomMateFor_toio_20221117.jpg](images/AtomMateFor_toio_20221117.jpg) 
 
 ### ATOM Mate for toioを観察する
 

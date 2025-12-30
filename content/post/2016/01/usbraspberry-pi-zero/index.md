@@ -11,7 +11,7 @@ Raspberry Pi Zeroの設定をしようとしたところ、手持ちのHDMIケ�
 
 Raspberry Pi ZeroとUSBシリアル変換ボード(3.3v)を次のように接続します。
 
-![zero-usbserial.png](images/zero-usbserial.png) <!--more-->
+![zero-usbserial.png](images/zero-usbserial.png) 
 
 次にRaspianをインストールしたmicroSDカードを準備します。私は[Raspbian Jessie Lite](https://www.raspberrypi.org/downloads/raspbian/ "Raspbian")を使いました。あとで手持ちのWi-Fi USBドングルを接続して足りないものはネットワーク経由でインストールします。Razpberry Pi ZeroとWi-Fi USBドングルはOTGケーブルで接続します。
 

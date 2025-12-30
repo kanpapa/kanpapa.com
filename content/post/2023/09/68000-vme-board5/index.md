@@ -23,7 +23,7 @@ image: images/vme-board5-logic_analyzer2.jpg
 
 ![vme-board5-logic_analyzer2.jpg](images/vme-board5-logic_analyzer2.jpg)
 
-<!--more-->
+
 
 まずはクロックを確認します。
 

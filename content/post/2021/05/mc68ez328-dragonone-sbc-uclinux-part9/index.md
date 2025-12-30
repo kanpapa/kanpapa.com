@@ -29,7 +29,7 @@ image: "images/mc68ez328_dragonone_sbc_uclinux_part9_1stlogin.png"
 
 これで当時のビルド環境が構築できました。
 
-<!--more-->
+
 
 ### ソースコードの修正
 

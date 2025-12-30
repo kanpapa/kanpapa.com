@@ -17,7 +17,7 @@ image: "images/boox_memo1.jpg"
 
 この記事にもあるように電子工作を行っているかたはちょっとしたメモが溜まるのではないかと思います。私の場合は小さい付箋紙を使っていましたが、いつのまにかこんなにたまってよくわからない状態です。
 
-![postit_memo1.jpg](images/postit_memo1.jpg) <!--more-->
+![postit_memo1.jpg](images/postit_memo1.jpg) 
 
 というわけで、自分への誕生日プレゼントということで[BOOX Nova Pro](https://www.boox.com/ja/boox-nova-pro/ "BOOX Nova Pro")を思い切って購入です。
 

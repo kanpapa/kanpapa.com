@@ -14,7 +14,7 @@ EMU1802-miniの回路図および基板のガーバーデータは[GitHub](https
 
 ![emu1802-mini-pcb_rev10.jpg](images/emu1802-mini-pcb_rev10.jpg)
 
-<!--more-->
+
 
 さらにオレンジピコショップさんでは主要パーツも取り扱っていますので、こちらを利用すればお手軽にEMU1802-miniが製作できます。
 

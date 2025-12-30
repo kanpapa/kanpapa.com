@@ -17,7 +17,7 @@ image: "images/dragonone_dram_analyze1.jpg"
 DRAMにワイヤーをはんだ付けすることで、外部に信号線を引き出します。今回はAWG30のラッピングワイヤーを使用しました。
 
 ![dragonone_dram_analyze1.jpg](images/dragonone_dram_analyze1.jpg)
-<!--more-->
+
 
 ロジアナは格安のもので、ICクリップは付属していないタイプです。そのため、ワイヤーをブレッドボードに接続して、ロジアナに接続しました。
 

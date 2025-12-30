@@ -11,7 +11,7 @@ Maker Faire Tokyo 2017でヤマハの[YMF825 FM音源モジュール](https://ww
 
 早速Arduinoに接続して音を鳴らしてみましたが、[GitHub](https://github.com/yamaha-webmusic/ymf825board "ymf825board")のサンプルプログラムでは単調な音色でのドレミファソラシドの繰り返しでした。
 
-![ymf825_board.jpg](images/ymf825_board.jpg) <!--more-->
+![ymf825_board.jpg](images/ymf825_board.jpg) 
 
 少し音色を変えたいなとArduinoのサンプルスケッチ（ymf825board_sample1.ino）とデータシートを見比べたところ、tone_data\[35\] が音色の情報で、7byte並んでいるところがOperator1〜4の値のようです。
 

@@ -13,7 +13,7 @@ image: "images/weather_bit1.jpg"
 
 [weather:bit](https://www.switch-science.com/catalog/3383/ "weather:bit")はmicro:bitのシールドで、気圧、湿度、温度などを測ることができるものです。
 
-![weather_bit1.jpg](images/weather_bit1.jpg) <!--more-->
+![weather_bit1.jpg](images/weather_bit1.jpg) 
 
 micro:bitのI2Cに非常に小さな気象センサーであるBME280が接続されるようになっています。
 

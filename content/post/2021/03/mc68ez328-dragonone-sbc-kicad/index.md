@@ -16,7 +16,7 @@ image: "images/DragonOne_rev00_kicad.jpg"
 
 すでにEOLになっているのでやむを得ないのですが、MC68EZ328は何個か購入しているので、資料が無くなる前にいろいろ試してみようと考えました。
 
-![dragonball_mc68ez328_cpu.jpg](images/dragonball_mc68ez328_cpu.jpg) <!--more-->
+![dragonball_mc68ez328_cpu.jpg](images/dragonball_mc68ez328_cpu.jpg) 
 
 中でも気になっていたのは[DragonOne](http://www.mediumware.net/DragonOne/DragonOne.htm "DragonOne")というマイコンボードの記事で、[μClinux](https://ja.wikipedia.org/wiki/%CE%9CClinux "μClinux")をMC68EZ328で動かしているものです。こちらのページもリンク先がことごとく無くなっていて、InternetArchiveでも見つからないものも多数です。
 

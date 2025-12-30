@@ -15,7 +15,7 @@ image: "images/kicad_footprint_library_japaese_path_error0.jpg"
 
 日本語のパスが文字化けしてしまっています。私の場合はプロジェクトファイルをOneDriveに置いているのですが、「ドキュメント」という部分が文字化けしています。
 
-<!--more-->
+
 
 フットプリントのパス設定画面を確認したところ、KIPRJMODのパスが文字化けしてしまっています。
 

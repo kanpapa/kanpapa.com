@@ -11,7 +11,7 @@ image: "images/slamtec_rplidar_a1m8_z.jpg"
 
 最近はROS2でルンバを自律走行させるべく実験をしていますが、急にLiDARのデータが取れなくなりました。
 
-![slamtec_rplidar_a1m8_z.jpg](images/slamtec_rplidar_a1m8_z.jpg) <!--more-->
+![slamtec_rplidar_a1m8_z.jpg](images/slamtec_rplidar_a1m8_z.jpg) 
 
 おかしいなとWindows版のビューワーで確認したところ、なぜかデータが一か所しか取れていません。本来だと360度周囲の情報が取れるのですが。
 

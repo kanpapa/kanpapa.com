@@ -22,7 +22,7 @@ image: "images/roomba_otafab_open_house_20221030_4.jpg"
 
 ![roomba_otafab_open_house_20221029_pi42.jpg](images/roomba_otafab_open_house_20221029_pi42.jpg)
 
-<!--more-->
+
 
 もう一工夫したいなと、手元にあったUSBカメラも使えるようにしました。走行中ルンバからの景色を見ることができます。リモコン操縦の時にも役立ちそうです。
 

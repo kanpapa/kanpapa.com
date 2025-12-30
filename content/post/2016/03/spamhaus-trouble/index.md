@@ -20,7 +20,7 @@ Mail from IP 133.130.113.XX was rejected due to listing in Spamhaus SBL. For det
 
 どうやら[Spamhaus](https://www.spamhaus.org/ "spamhaus")のSBL（Spamhaus Block List）にkanpapa.comが使っているConoHa VPSのIPレンジが登録されてしまったようなのです。
 
-<!--more-->
+
 
 つまり、このVPSが何らかの原因でSPAMサーバと間違われて、送信先のメールサーバが受信を拒否してしまったのです。
 

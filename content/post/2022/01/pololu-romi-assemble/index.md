@@ -20,7 +20,7 @@ PololuのサイトでPololu 3piについて調べていたところ、[Romi](htt
 
 到着したRomiのシャーシです。スピードを優先して軽量小型の3piとは大きさがかなり違います。
 
-![romi_chassis1.jpg](images/romi_chassis1.jpg) <!--more-->
+![romi_chassis1.jpg](images/romi_chassis1.jpg) 
 
 Romi32U4ボードです。Raspberry Piを接続するコネクタがあります。
 

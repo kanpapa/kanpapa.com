@@ -13,7 +13,7 @@ image: "images/MCard1802_eeprom1.jpg"
 
 ![MCard1802_eeprom1.jpg](images/MCard1802_eeprom1.jpg)
 
-<!--more-->
+
 
 まず、モニタが起動しなかったEEPROMを取り外し、ROMライタで読み出したファイルを元のMCSMP20Jモニタプログラムをハッシュで比較してみました。
 

@@ -17,7 +17,7 @@ COSMACは命令が簡単すぎるので、何をやるにもステップが多�
 
 ![vip_os_disasm1.jpg](images/vip_os_disasm1.jpg)
 
-<!--more-->
+
 
 COSMAC VIP OSは画面表示に特徴があります。
 

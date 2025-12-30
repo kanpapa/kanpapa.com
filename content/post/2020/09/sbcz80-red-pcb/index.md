@@ -16,7 +16,7 @@ image: images/SBCZ80_red1.jpg
 
 私の手持ちのパーツを確認したところ、Z80シリーズはほぼそろっています。[オレンジピコショップさんから専用基板](https://store.shopping.yahoo.co.jp/orangepicoshop/pico-a-033.html " SBCZ80専用プリント基板")も発売になりましたので早速購入してくみたててみました。
 
-![SBCZ80_cpu1.jpg](images/SBCZ80_cpu1.jpg) <!--more-->
+![SBCZ80_cpu1.jpg](images/SBCZ80_cpu1.jpg) 
 
 到着した専用基板です。好きな色が選べたので燃える赤にしました。16Kx4bit DRAMはさすがに持っていなかったので合わせて購入しました。（しまった！DRAMは写真に写っていませんでした・・）
 

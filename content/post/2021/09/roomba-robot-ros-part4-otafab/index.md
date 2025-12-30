@@ -20,7 +20,7 @@ image: "images/roomba_theta.png"
 
 - [HARD2021:ルンバの位置をPythonプログラムで知ろう！](https://demura.net/robot/hard/20085.html "HARD2021:ルンバの位置をPythonプログラムで知ろう！")
 
-<!--more-->
+
 
 ### オドメトリ情報を取得してみる
 

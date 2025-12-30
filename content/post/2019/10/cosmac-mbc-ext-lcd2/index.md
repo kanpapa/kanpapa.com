@@ -19,7 +19,7 @@ COSMAC MBC拡張ボードに実装されている入出力ポート[CDP1852](htt
 
 ![](images/mbc_ext_lcd2_scr.jpg)
 
-<!--more-->
+
 
 プログラムリストは長くなりますので、GitHub.comに置きました。
 

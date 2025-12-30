@@ -15,7 +15,7 @@ image: images/cosmac_shield_organ_lcd.jpg
 CPU基板はコネクタ位置の微調整とQ信号とTPB信号を直接出力できるように変更したものを製作しました。
 
 ![](images/cosmac_cpu_new.jpg)
-<!--more-->
+
 
 また、シールド基板と干渉しないようにバッテリとメモリスタンバイスイッチを裏面に実装しています。コネクタもメス型のヘッダピンにしました。
 

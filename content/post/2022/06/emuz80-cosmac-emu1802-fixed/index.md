@@ -15,9 +15,9 @@ image: images/emu1802-fixed5.jpg
 
 ![emu1802-fixed1.jpg](images/emu1802-fixed1.jpg)
 
-<!--more-->
 
-### 制御信号を配線する
+
+## 制御信号を配線する
 
 これまではデータバスとアドレスバスだけ配線していました。白いワイヤーがデータバスで、青いワイヤーがアドレスバスです。
 
@@ -37,12 +37,12 @@ image: images/emu1802-fixed5.jpg
 
 あとはファームウェアをブラッシュアップしていくことになります。IDIOTモニタで動くアプリケーションも試してみます。
 
-### GitHubリポジトリ
+## GitHubリポジトリ
 
 GitHubにリポジトリを作りましたので、ハードウェアやソフトウェアについてはこちらにまとめていきます。
 
 - [https://github.com/kanpapa/emu1802](https://github.com/kanpapa/emu1802 "emu1802")
 
-### 謝辞
+## 謝辞
 
 [EMUZ80](https://vintagechips.wordpress.com/2022/03/05/emuz80_reference/ "EMUZ80が完成")という挑戦的なマイコンボードを開発いただいた電脳伝説さん、こんな形で楽しませていただいています。ありがとうございます。

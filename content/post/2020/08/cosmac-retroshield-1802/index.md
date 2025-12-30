@@ -13,7 +13,7 @@ image: "images/RetroShield_1802_RevB.jpg"
 
 ![RetroShield_1802_RevB.jpg](images/RetroShield_1802_RevB.jpg)
 
-<!--more-->
+
 
 Arduino MegaがメモリーやI/Oをエミュレーションしてくれるので、COSMACなどの少し古いCPUをお手軽に動作させることができます。基板を見るとわかりますが接続回路はシンプルです。
 

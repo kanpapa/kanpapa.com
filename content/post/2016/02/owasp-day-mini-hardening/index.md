@@ -11,7 +11,7 @@ tags:
 
 OWASP DAY in TOKYO 2016 Spring!!でMini Hardeningがあるということで申し込みをしたところ、運良く参加することができました。
 
-![mini_hardening.png](images/mini_hardening.png) <!--more-->
+![mini_hardening.png](images/mini_hardening.png) 
 
 #### 前日にトラブル発生
 

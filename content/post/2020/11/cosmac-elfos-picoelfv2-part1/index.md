@@ -15,9 +15,13 @@ Pico/Elf V2のサイトはこちらです。
 
 - [http://elf-emulation.com/picoelf.html](https://t.co/6gr1jXliB9?amp=1 "http://www.elf-emulation.com/picoelf.html")
 
+## Pico/Elf V2基板が到着
+
 到着したPico/Elf V2基板です。見た目は一般的なSBCに見えますが、IDEインターフェイスがあるのが特徴です。
 
 ![picoelfv2_pcb.jpg](images/picoelfv2_pcb.jpg)
+
+## Pico/Elf V2基板の組み立て
 
 パーツが揃ったので組み立て開始です。
 
@@ -30,6 +34,8 @@ Pico/Elf V2のサイトはこちらです。
 完成したPico/Elf V2基板です。
 
 ![picoelfv2_finished.jpg](images/picoelfv2_finished.jpg)
+
+## Diskless ROMでの動作確認
 
 この時点ではIDE-CF変換基板が手元になかったため、まずは[Diskless ROM](http://www.elf-emulation.com/software.html "Pico/Elf V2 software")でPico/Elf V2を動かしてみました。私の場合はUSB-シリアル変換基板を使っているので、外部バス端子の/EF2とQをUSBシリアルに接続しました。
 
@@ -45,7 +51,9 @@ Pico/Elf V2のサイトはこちらです。
 
 ![screenshot_2020-11-02_235911.jpg](images/screenshot_2020-11-02_235911.jpg)
 
-BASIC、FORTH、LISP、アセンブラ、モニタ、デバッカと一通りの開発環境が揃っているようです。
+## Diskless ROMを探検する
+
+メニューの表示によると、BASIC、FORTH、LISP、アセンブラ、モニタ、デバッカと一通りの開発環境が揃っているようです。
 
 あまり聞いたことがないVisual/02を動かしてみました。
 
@@ -59,6 +67,8 @@ Dump Memory/Load MemoryではXMODEMを使ってメモリ上のデータの入出
 
 このようにかなり強力な環境です。
 
-また、メモリマップやハードウェアは一般的な構成なので、私の[COSMAC MBC](https://kanpapa.com/tag/cosmac-mbc)ボードでもこのDiskless ROMを動かすことができました。次にCOSMAC MBCを改版することがあれば、シリアル入力にEF2を選択できるようにしてPico/Elf V2 Diskless ROMも動くようにしたいと思います。
+## まとめ
+
+メモリマップやハードウェアは一般的な構成なので、私の[COSMAC MBC](https://kanpapa.com/tag/cosmac-mbc)ボードでもこのDiskless ROMを動かすことができました。次にCOSMAC MBCを改版することがあれば、シリアル入力にEF2を選択できるようにしてPico/Elf V2 Diskless ROMも動くようにしたいと思います。
 
 IDE-CF変換基板が到着したらいよいよ[Elf/OSを動かしてみます](https://kanpapa.com/2020/11/cosmac-elfos-picoelfv2-part2.html "COSMACでElf/OSを動かしてみました（Elf/OS起動編）")。

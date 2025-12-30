@@ -22,7 +22,7 @@ micro:bitのプログラムをmbedで開発するには、以下を参照する�
 
 microbit-samplesの中にあるsourceディレクトリがmicro:bitの各機能を使用したサンプルプログラムになります。
 
-<!--more-->
+
 
 複数のサンプルプログラムがありますが、コンパイル対象はMicroBitSamples.hの以下の部分を書き換えて選択します。
 

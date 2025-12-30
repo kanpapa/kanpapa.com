@@ -15,7 +15,7 @@ image: "images/cosmac_vip_hexkey3.jpg"
 
 ![cosmac_vip_hexkey1.jpg](images/cosmac_vip_hexkey1.jpg)
 
-<!--more-->
+
 
 裏面はこのような感じです。
 

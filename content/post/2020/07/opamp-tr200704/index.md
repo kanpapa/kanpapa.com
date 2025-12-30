@@ -11,7 +11,7 @@ image: "images/opamp_tr200704_1.jpg"
 
 これがオペアンプの付録基板です。右側の[1.27mmピッチの表面実装パッケージ(SOP8)をDIP8Pに変換する基板](http://akizukidenshi.com/catalog/g/gP-05154/ "ＳＯＰ８（１．２７ｍｍ）ＤＩＰ変換基板　金フラッシュ　（９枚入）")に乗せ換えます。
 
-![opamp_tr200704_1.jpg](images/opamp_tr200704_1.jpg) <!--more-->
+![opamp_tr200704_1.jpg](images/opamp_tr200704_1.jpg) 
 
 基板には[NJU7043](http://akizukidenshi.com/catalog/g/gI-06840/ "２回路入入出力フルスイングオペアンプ　ＮＪＵ７０４３Ｄ")Mと[NJM2732M](http://akizukidenshi.com/catalog/g/gI-06018/ "２回路入入出力フルスイングオペアンプ　ＮＪＭ２７３２Ｍ")が表面実装されています。周りにあるパターンにSIPソケットをはんだ付けし、他のパーツやジャンパを組み合わせて、トラ技に掲載されている実験回路を再現するしくみですが、私はブレッドボードのほうが慣れていて楽です。
 

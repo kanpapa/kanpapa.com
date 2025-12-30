@@ -12,7 +12,7 @@ image: "images/cosmac_mbc_ex_make3.jpg"
 [到着した拡張ボードのプリント基板](https://kanpapa.com/2019/10/cosmac-mbc-ex-pcb2.html "到着した拡張ボードのプリント基板")にパーツを実装しました。いつものように[おおたFab](https://ot-fb.com/ "おおたFab")さんではんだ付けです。
 
 ![cosmac_mbc_ex_make1.jpg](images/cosmac_mbc_ex_make1.jpg)
-<!--more-->
+
 
 製作は問題なくできましたが、CPUボードに接続するIDCコネクタの向きが逆だったことに気がつきました。まあ、物理的にはつながるので問題ないということで。
 

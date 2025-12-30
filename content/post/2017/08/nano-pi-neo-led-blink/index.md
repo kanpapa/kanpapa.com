@@ -24,7 +24,7 @@ pi@NanoPi-NEO:~/WiringNP$ chmod 755 build
 pi@NanoPi-NEO:~/WiringNP$ ./build
 ```
 
-<!--more-->
+
 
 次にCでプログラムを書き、コンパイルしてみます。
 

@@ -22,7 +22,7 @@ image: images/illustrator_panel1.jpg
 
 ![panel_harepane.jpg](images/panel_harepane.jpg)
 
-<!--more-->
+
 
 原稿はイラストレーターで作成中です。イラストレーターの豊富な機能を使いこなすのは大変ですが、Web検索すればたいていの問題は解決しますし、便利！と感じるところも多々あります。写真切り抜きも綺麗に簡単にできます。
 

@@ -17,7 +17,7 @@ image: images/l_star_plus_finish.jpg
 
 この前作ったReplica 1と何となく似ているなと、[L-STAR PLUS](https://www.l-star.org/ "https://www.l-star.org/")について調べたところオープンソースハードウェアとして公開されている6502のマイコンボードで、Replica 1をさらに最適化したボードのようです。早速、製作希望ということで基板を配布いただきました。@tomi9tw様ありがとうございました。
 
-![l_star_plus_board2.jpg](images/l_star_plus_board2.jpg) <!--more-->
+![l_star_plus_board2.jpg](images/l_star_plus_board2.jpg) 
 
 Replica 1はキットでしたのでパーツはほぼ揃っていましたが、今回はパーツをすべてそろえなければなりません。リストを作って秋葉原で入手できるものをまずは揃えます。
 

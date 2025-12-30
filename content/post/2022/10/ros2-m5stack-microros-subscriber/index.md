@@ -17,7 +17,7 @@ image: images/ros2-m5stack-microros_subscriber2.jpg
 
 今回はM5Stack Goを使いました。ROS2 Foxyの環境はVMWare Workstaion Player上のUbuntu 20.04 LTSです。
 
-<!--more-->
+
 
 ### マイコン（M5Stack）側の設定
 

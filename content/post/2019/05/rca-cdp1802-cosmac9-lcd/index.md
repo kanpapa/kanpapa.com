@@ -23,7 +23,7 @@ image: images/cosmac_lcd_proto.jpg
 まずはブレッドボードでプロトタイプを製作しました。この写真ではすでに表示プログラムが動いています。
 
 ![](images/cosmac_lcd_proto.jpg)
-<!--more-->
+
 
 LCDの表示プログラムは次のようになりました。
 

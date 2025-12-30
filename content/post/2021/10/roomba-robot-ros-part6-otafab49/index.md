@@ -20,7 +20,7 @@ image: "images/real_roomba_rplidar_photo1.jpg"
 
 - [HARD2021：シミュレータで地図作成からナビゲーションまでしよう！](https://demura.net/robot/hard/20061.html "HARD2021：シミュレータで地図作成からナビゲーションまでしよう！")
 
-<!--more-->
+
 
 ### Gazeboシミュレーターで地図を作ってみる
 

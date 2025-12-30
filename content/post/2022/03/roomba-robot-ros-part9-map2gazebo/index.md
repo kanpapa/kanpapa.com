@@ -18,7 +18,7 @@ image: "images/map2world_otafab1.png"
 
 元となるSLAMで作成した地図はこちらです。
 
-![Roomba_slam_2022-03-06_15-01-35.png](images/Roomba_slam_2022-03-06_15-01-35.png) <!--more-->
+![Roomba_slam_2022-03-06_15-01-35.png](images/Roomba_slam_2022-03-06_15-01-35.png) 
 
 ### map2gazeboのインストール
 

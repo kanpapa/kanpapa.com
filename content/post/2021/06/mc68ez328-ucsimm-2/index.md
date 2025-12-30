@@ -44,7 +44,7 @@ ttype    ttype    ttypf    ttypf    zero     zero
 
 ```
 
-<!--more-->
+
 
 初期ディレクトリが/devになっているのでしょうか。カレントディレクトリを確認してみます。
 

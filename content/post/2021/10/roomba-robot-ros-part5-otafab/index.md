@@ -18,7 +18,7 @@ image: "images/Roomba-robot-ros-part5-turtlesim.jpg"
 
 少し前から新たなメンバーが加わり、[Raspberry Pi 4にROSとGazeboシミュレーターのインストール](https://github.com/docofab/RoombaControlls/blob/main/ROS/instructions/setup-gazebo-rasppi.md "Roombaのシミュレーション環境のセットアップ(Raspberry Pi 4)")にチャレンジしています。メンバーで作成した手順に基づき作業を進めていましたが、どうしても亀が出てこないそうです。確認したところ肝心のROSがインストールできていませんでした。再度確認しながら途中のエラーを解決していき、ようやく亀が動くようになりました。その瞬間みんなで拍手です。
 
-![Roomba-robot-ros-part5-turtlesim.jpg](images/Roomba-robot-ros-part5-turtlesim.jpg) <!--more-->
+![Roomba-robot-ros-part5-turtlesim.jpg](images/Roomba-robot-ros-part5-turtlesim.jpg) 
 
 ### オドメトリ情報を使って正方形に動かすには
 

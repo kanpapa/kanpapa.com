@@ -18,7 +18,7 @@ uClinuxの起動時には/etc/rcが実行され、ここに記述されている
 
 実際に修正してみました。
 
-![uclinux_update_romfs1.png](images/uclinux_update_romfs1.png) <!--more-->
+![uclinux_update_romfs1.png](images/uclinux_update_romfs1.png) 
 
 etc/rcの中にネットワーク設定の部分があるので、これを書き換えました。書き換えたあとはmake imageを行います。
 

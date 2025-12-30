@@ -24,7 +24,7 @@ $ cd $RETROBASE/rtl/sys_gen/w11a/arty_bram/$ make　：Loading route data...Proc
 
 この.bitファイルがFPGAのコンフィグレーションに使われるファイルです。
 
-<!--more-->
+
 
 ## FPGAにbitstreamを書き込む
 

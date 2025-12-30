@@ -13,7 +13,7 @@ image: "images/cosmac_tv_pcb1_0110.jpg"
 
 ![cosmac_tv_pcb1_0110.jpg](images/cosmac_tv_pcb1_0110.jpg)
 
-<!--more-->
+
 
 今回は[Seeed FUSION PCB](https://www.fusionpcb.jp/prototype-pcb-sale.html "Seeed FUSION PCB")さんの12.9$基板試作サービスを利用しましたが、土曜日に発注して翌週の木曜日に手元に到着というスピードで驚きました。また、実験的に空いているエリアをユニバーサル基板にしてみましたが、思ったようにできあがりました。
 

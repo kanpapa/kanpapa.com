@@ -21,7 +21,7 @@ STG1861のパーツをみるとGAL以外は容易に入手できそうです。G
 
 ![stg1861_gal1.jpg](images/stg1861_gal1.jpg)
 
-<!--more-->
+
 
 GALの書き込みは[TL866IIPlus](http://www.aitendo.com/product/17038 "TL866IIPlus")で行いました。書き込みに必要なファイルも配布されているのでありがたいです。
 

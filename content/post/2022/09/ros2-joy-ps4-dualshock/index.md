@@ -13,7 +13,7 @@ image: "images/ros2_joy_ps4_usb1.jpg"
 
 DualShock4はBluetoothをサポートしているのですが、今回は有線でのUSB接続です。
 
-![ros2_joy_ps4_usb1.jpg](images/ros2_joy_ps4_usb1.jpg) <!--more-->
+![ros2_joy_ps4_usb1.jpg](images/ros2_joy_ps4_usb1.jpg) 
 
 ### DualShock4をLinuxに認識させる
 

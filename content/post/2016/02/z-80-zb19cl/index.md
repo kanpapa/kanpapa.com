@@ -12,7 +12,7 @@ image: images/ZB19C_board.jpg
 
 中日電工さんのBASIC制御小型マイコンボードZB19Cを手にいれました。このボードは別製品のZB11で開発したプログラムを載せるためのボードのようです。
 
-![ZB19C_board.jpg](images/ZB19C_board.jpg) <!--more-->
+![ZB19C_board.jpg](images/ZB19C_board.jpg) 
 
 基板をみるとわかるように実にシンプルな構成で、Z-80 CPU、8KB SRAM（バッテリーバックアップ付）、16KB PROM×2、8255 PPIが実装されています。PROMの１つは制御用BASICが書き込まれているようです。もう１つはユーザROMで何が書かれているかわかりません。
 

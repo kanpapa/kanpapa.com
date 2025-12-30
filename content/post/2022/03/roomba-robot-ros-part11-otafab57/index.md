@@ -17,7 +17,7 @@ image: "images/roomba_otafab57_baseplate.jpg"
 
 写真に写っていますが、現在LiDARやRaspberry Piやバッテリーを固定するためのベースプレートもおおたfabさんの[レーザーカッター](https://ot-fb.com/fablab "おおたFabのファブラボ")で製作中です。
 
-<!--more-->
+
 
 ### 今回参考にした記事
 

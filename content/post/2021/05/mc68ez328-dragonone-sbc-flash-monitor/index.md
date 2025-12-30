@@ -13,7 +13,7 @@ image: "images/mc68ez328-dragonone-sbc-flash-boot.jpg"
 フラッシュツールの開発が完了し、フラッシュメモリの情報の表示だけでなく、消去や書き込みも行えるようになりました。68k-Monitorをベースとしたので比較的短時間にできました。
 
 ![mc68ez328_dragonone_sbc_flash_monitor0.png](images/mc68ez328_dragonone_sbc_flash_monitor0.png)
-<!--more-->
+
 
 ### フラッシュメモリの書き込みテスト
 

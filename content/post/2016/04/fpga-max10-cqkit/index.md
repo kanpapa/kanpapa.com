@@ -13,7 +13,7 @@ image: "images/fpga_max10_cqqkit11.jpg"
 
 早速手持ちのパーツと少々のパーツを購入して組み立てました。
 
-![fpga_max10_cqqkit1.jpg](images/fpga_max10_cqqkit1.jpg) <!--more-->
+![fpga_max10_cqqkit1.jpg](images/fpga_max10_cqqkit1.jpg) 
 
 完成したところで、MAX10-FB基板とMAX10-JB基板を組み合わせ、MAX10-JB基板のPICへの書き込みも無事完了したようです。
 

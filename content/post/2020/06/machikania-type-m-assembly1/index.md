@@ -11,7 +11,7 @@ image: "images/machikania_typem_7.jpg"
 
 ある程度のパーツは買ってあったと思うので組み立ててみました。PIC32MX370は直接はんだ付けしました。47μFの電解コンが無かったので33μFで代用し、LEDは表面実装がかっこいいかなと思い使用しました。ひとまず完成です。
 
-![machikania_typem_2.jpg](images/machikania_typem_2.jpg) <!--more-->
+![machikania_typem_2.jpg](images/machikania_typem_2.jpg) 
 
 まだ外部拡張用コネクタをはんだ付けしていませんが、動作確認をしてから取り付けることにします。
 

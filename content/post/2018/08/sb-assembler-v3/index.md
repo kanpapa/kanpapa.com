@@ -26,7 +26,7 @@ image: "images/sbasm2.png"
 7. 環境が整えば sbasm と入力すると以下のように表示されるはずです。 ![sbasm1.PNG](images/sbasm1.png)
 8. これで環境構築は完了です。
 
-<!--more-->
+
 
 ### SB-Assemblerを使ってみる
 

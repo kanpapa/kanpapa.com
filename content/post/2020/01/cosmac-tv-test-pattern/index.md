@@ -18,7 +18,7 @@ image: "images/cosmac_tv_test_pattern1.jpg"
 
 ![cosmac_tv_test_pattern1.jpg](images/cosmac_tv_test_pattern1.jpg)
 
-<!--more-->
+
 
 ### パターン２：縦線表示
 

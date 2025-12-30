@@ -18,7 +18,7 @@ ALLPCBさんに基板を発注してからなんとその週のうちに到着�
 
 早速製作し完成した基板です。まずは動作に必要な最低限のパーツだけ実装します。
 
-![mc68ez328_sbc_rev03_prod2.jpg](images/mc68ez328_sbc_rev03_prod2.jpg) <!--more-->
+![mc68ez328_sbc_rev03_prod2.jpg](images/mc68ez328_sbc_rev03_prod2.jpg) 
 
 ### SBC基板の動作確認
 

@@ -9,7 +9,11 @@ tags:
 image: "images/picoelfv2_idecf.jpg"
 ---
 
-前回は[Pico/Elf V2の動作確認](https://kanpapa.com/2020/11/cosmac-elfos-picoelfv2-part1.html "COSMACでElf/OSを動かしてみました（Pico/Elf V2製作編）")までおこないましたが、[Elf/OS](http://www.elf-emulation.com/elfos.html "Elf/OS")を動かすために注文していたIDE-CF変換基板が到着しました。IDE側は40Pコネクタです。
+前回は[Pico/Elf V2の動作確認](https://kanpapa.com/2020/11/cosmac-elfos-picoelfv2-part1.html "COSMACでElf/OSを動かしてみました（Pico/Elf V2製作編）")までおこないましたが、IDE-CF変換基板がないためDiskless ROMでの確認まででした。
+
+## IDE-CF変換基板が到着
+
+[Elf/OS](http://www.elf-emulation.com/elfos.html "Elf/OS")を動かすために注文していたIDE-CF変換基板が到着しました。IDE側は40Pコネクタです。
 
 ![icd_cf_pcb.jpg](images/icd_cf_pcb.jpg)
 
@@ -17,11 +21,17 @@ image: "images/picoelfv2_idecf.jpg"
 
 ![picoelfv2_dc1.jpg](images/picoelfv2_dc1.jpg)
 
+## IDE-CF変換基板の接続と動作確認
+
 準備ができたところで、IDE-CF変換基板をPico/Elf V2のIDEインタフェースに接続して、Elf/OSを動かしてみます。まずは、IDE-CF変換基板をPico/Elf V2に取り付けます。今回は32MBのCFカードを使いました。ROMもDiskless版からElf/OSインストールパッケージ版に差し替えました。
 
 ![picoelfv2_idecf.jpg](images/picoelfv2_idecf.jpg)
 
-この状態で電源をいれ、シリアルコンソールでEnterをしたところ > のプロンプトが表示されました。一応動作しているようです。続けて @9000と入力して、Elf/OSのインストーラーを起動します。
+この状態で電源をいれ、シリアルコンソールでEnterをしたところ > のプロンプトが表示されました。一応動作しているようです。
+
+## Elf/OSのインストール
+
+続けて @9000と入力して、Elf/OSのインストーラーを起動します。
 
 ![](images/screenshot_elfos_installation1.jpg)
 
@@ -49,6 +59,8 @@ CFカードの初期化ができたようですので、ファイルシステム
 
 バイナリファイルのインストールも終わりました。
 
+## Elf/OSの起動
+
 いよいよElf/OSを起動します。
 
 ![](images/elfos_boot1.jpg)
@@ -58,6 +70,8 @@ CFカードの初期化ができたようですので、ファイルシステム
 ![](images/elfos_dir1.jpg)
 
 BINというディレクトリの中に先ほどインストールしたコマンド群が見えます。
+
+## まとめ
 
 CP/Mに近い感覚です。一通りのファイル操作コマンドやエディタ、アセンブラ、モニタ、ダンプなど開発ツールもあるようです。
 

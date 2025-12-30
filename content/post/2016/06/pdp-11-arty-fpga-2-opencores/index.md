@@ -33,7 +33,7 @@ OpenCoresのページからアカウントを登録します。このアカウ�
 - tclreadline
 - subversion
 
-<!--more-->
+
 
 ## PDP-11のソースツリーをチェックアウト
 

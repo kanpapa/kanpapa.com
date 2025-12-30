@@ -12,7 +12,7 @@ tags:
 
 kanpapa.comでは[MovableType](http://movabletype.jp/)を使用していますので、次の手順で移行することにしました。
 
-<!--more-->
+
 
 1\. 現ConoHaサーバのバックアップを取得
 

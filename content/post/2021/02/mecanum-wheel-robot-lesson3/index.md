@@ -16,7 +16,7 @@ image: "images/mecanum_lesson3_run1.jpg"
 
 ![mecanum_lesson3_run1.jpg](images/mecanum_lesson3_run1.jpg) [前回(第37回)のセミナー](https://kanpapa.com/2021/02/mecanum-wheel-robot-lesson2-fixed.html "メカナムロボットに超音波センサーを取り付けました（おおたFab 第35回 素人でもロボットをつくりたい）")で障害物をよけて動くロボットができました。今回はセンサーを追加してライントレーサーをつくります。
 
-<!--more-->
+
 
 ### センサーの取り付け
 

@@ -34,7 +34,7 @@ $ cd $RETROBASE/tools/oskit/unix-v5_rk
 $ console_starter -d DL0 &
 ```
 
-<!--more-->
+
 
 ## unix-v5をbootする
 

@@ -28,7 +28,7 @@ image: "images/linux_gpu_pc_completed1.jpg"
 
 今回購入したパーツです。
 
-![linux_gpu_pc_parts1.jpg](images/linux_gpu_pc_parts1.jpg) <!--more-->
+![linux_gpu_pc_parts1.jpg](images/linux_gpu_pc_parts1.jpg) 
 
 今回購入したケースです。まず最初に置き場所におけるかを確認しました。右隣の小さいPCがこれまでのLinux専用で使っていたPCです。
 

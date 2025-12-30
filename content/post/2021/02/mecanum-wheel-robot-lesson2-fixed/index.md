@@ -14,7 +14,7 @@ image: "images/mecanum_lesson2_fix1.jpg"
 
 [おおたfab](https://ot-fb.com/ "おおたfab")さんのセミナー「素人でもロボットをつくりたい」では、[OSOYOOさんのメカナムロボット](https://osoyoo.com/2019/11/08/omni-direction-mecanum-wheel-robotic-kit-v1/ "Metal Chassis Mecanum Wheel Robotic (for Arduino Mega2560) ")を素材にして実験をしています。
 
-![mecanum_lesson2_fix1.jpg](images/mecanum_lesson2_fix1.jpg) <!--more--> [前々回(第35回)のセミナー](https://kanpapa.com/2020/12/mecanum-wheel-robot-lesson2-1.html "メカナムロボットに超音波センサーを取り付けました（おおたFab 第35回 素人でもロボットをつくりたい）")でLesson2として障害物をよけて動くロボットを試したのですが、うまく動きませんでした。本来であればセンサーがあるとよける動きをすべきですが、なぜか後ろ向きに進み、障害物がセンサーに近づくと逆に寄ってくる挙動をします。
+![mecanum_lesson2_fix1.jpg](images/mecanum_lesson2_fix1.jpg)  [前々回(第35回)のセミナー](https://kanpapa.com/2020/12/mecanum-wheel-robot-lesson2-1.html "メカナムロボットに超音波センサーを取り付けました（おおたFab 第35回 素人でもロボットをつくりたい）")でLesson2として障害物をよけて動くロボットを試したのですが、うまく動きませんでした。本来であればセンサーがあるとよける動きをすべきですが、なぜか後ろ向きに進み、障害物がセンサーに近づくと逆に寄ってくる挙動をします。
 
 この回は時間切れのためトラブルシューティングは次回ということになりました。
 

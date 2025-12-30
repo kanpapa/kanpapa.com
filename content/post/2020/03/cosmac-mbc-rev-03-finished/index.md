@@ -13,7 +13,7 @@ image: "images/cosmac_mbc_ext_rev03_1.jpg"
 
 ![cosmac_mbc_ext_rev03_1.jpg](images/cosmac_mbc_ext_rev03_1.jpg)
 
-<!--more-->
+
 
 早速組み立てて、Rev.0.2基板のパーツを移し替えました。
 

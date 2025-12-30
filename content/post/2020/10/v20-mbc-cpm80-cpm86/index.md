@@ -19,7 +19,7 @@ image: "images/v20_mbc_cpu_changed.jpg"
 
 私の場合、少しパーツが不足していたので、Maker Faire Tokyoが終わったあとに秋葉原に買い出しにいきました。
 
-![v20_mbc_pcb1.jpg](images/v20_mbc_pcb1.jpg) <!--more-->
+![v20_mbc_pcb1.jpg](images/v20_mbc_pcb1.jpg) 
 
 基板へのパーツの取り付けも完了し、久々にAtmel Studio 7のTools/Device ProgrammingとAVRISPmkIIでATMEGA32Aにウェブに掲載されているS260320_R230520.ino.with_bootloader_atmega32_16000000L.hexをそのまま書き込みました。FusesとLock bitを書き込むのもお忘れなく。電源はUSBシリアル基板の+5Vを使いました。
 

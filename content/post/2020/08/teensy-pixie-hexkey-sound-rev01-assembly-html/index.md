@@ -14,7 +14,7 @@ image: images/teensy_pixie_pcb01_3.jpg
 
 ![teensy_pixie_pcb01_1.jpg](images/teensy_pixie_pcb01_1.jpg)
 
-<!--more-->
+
 
 早速[試作したブレッドボード](https://kanpapa.com/2020/08/teensy32-cdp1861-pixie-simulator.html "Teensy 3.2でのCDP1861 Pixie Simulatorを試してみました")からパーツを移して実装しました。別に[試作していたサウンド回路](https://kanpapa.com/2020/07/cosmac-vip-555-sound.html "COSMAC VIPのサウンド回路を実装しました")も合わせて実装です。
 

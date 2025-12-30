@@ -13,7 +13,7 @@ image: "images/cosmac_mbc_cpu_rev02_pcb1.jpg"
 
 ![cosmac_mbc_cpu_rev02_pcb1.jpg](images/cosmac_mbc_cpu_rev02_pcb1.jpg)
 
-見た目は問題なさそうです。秋月電子の[28ピンフラットパッケージの256Kbit SRAM](http://akizukidenshi.com/catalog/g/gI-10715/ "SRAM 256K SRM2B256SLMX55")も問題なく実装できそうです。 <!--more-->
+見た目は問題なさそうです。秋月電子の[28ピンフラットパッケージの256Kbit SRAM](http://akizukidenshi.com/catalog/g/gI-10715/ "SRAM 256K SRM2B256SLMX55")も問題なく実装できそうです。 
 
 心配していたトグルスイッチまわりのシルク印刷ですが、トグルスイッチが少しスリムだったので文字が隠れることはありませんでした。
 

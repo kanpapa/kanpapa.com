@@ -17,7 +17,7 @@ image: "images/ts251d_hdd4.jpg"
 
 写真データがかなり溜まってきたので、ファイルの自動整理をおこなおうかと[Qfilling](https://www.qnap.com/ja-jp/software/qfiling "Qfilling")を使ってみたところ、メタデータを使った整理は全文検索エンジンの[Qsirch](https://www.qnap.com/ja-jp/software/qsirch "Qsirch")を動かすために、メモリが2GB以上（4GB推奨）必要で、今使っているTS-231P（メモリ1GB、増設不可）では動かないことがわかりました。
 
-<!--more-->
+
 
 ### NASのアップグレードを検討
 

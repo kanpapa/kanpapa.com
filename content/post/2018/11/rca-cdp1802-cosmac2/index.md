@@ -23,7 +23,7 @@ image: images/cosmac_osc1.jpg
 CPUモード選択がややこしいのでブレッドボードの横に紙を張り付けました。
 
 ![](images/cosmac_switch1.jpg)
-<!--more-->
+
 
 メモリへの書き込みは以下の手順で行います。
 

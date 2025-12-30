@@ -31,7 +31,7 @@ export ROS_HOSTNAME=192.168.100.60
 
 ROSのmasterはこのLinux PCで動かします。
 
-<!--more-->
+
 
 ### Raspberry PiにROSをセットアップ
 

@@ -14,7 +14,7 @@ MC68EZ328 SBCにLANコントローラを接続してネットワークに接続�
 
 ![cs8900a_lan_prototype2.jpg](images/cs8900a_lan_prototype2.jpg) [前回の記事](https://kanpapa.com/2021/07/mc68ez328-dragonone-sbc-uclinux-network1.html "MC68EZ328 DragonOne SBCでLAN接続に挑戦中")ではモニタ上でプログラムを動かし、LANコントローラCS8900Aの情報が取得できることを確認しました。次にこれをuClinuxで動かすことでネットワークアプリケーションを使えるようにします。
 
-<!--more-->
+
 
 ### CS8900Aに関係するuClinuxのソースを修正
 

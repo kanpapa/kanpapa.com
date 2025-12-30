@@ -20,7 +20,7 @@ image: "images/dragonone_sbc_solder_pcb4.jpg"
 
 恐る恐る電源を入れて、シリアルポートにPCを接続します。MC68EZ328にはユニークなブートローダーモードがあって、EMUBRK信号をLOWにしたまま、RESETをすることで、CPU単体でブートローダーが動きます。ターミナルから何か１文字を入力すると、それを認識して「@」が返ってくるのですが、試したところ何も反応がありませんでした。
 
-![dragonone_sbc_solder_pcb4.jpg](images/dragonone_sbc_solder_pcb4.jpg) <!--more-->
+![dragonone_sbc_solder_pcb4.jpg](images/dragonone_sbc_solder_pcb4.jpg) 
 
 ### トラブルシューティング
 

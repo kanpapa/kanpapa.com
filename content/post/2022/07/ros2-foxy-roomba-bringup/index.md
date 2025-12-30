@@ -26,7 +26,7 @@ ROS1でルンバを動かしたという記事は見かけますが、ROS2はあ
 
 これらを組み合わせるとこのようになります。
 
-![roomba600_rasppi_ydlidar.jpg](images/roomba600_rasppi_ydlidar.jpg) <!--more-->
+![roomba600_rasppi_ydlidar.jpg](images/roomba600_rasppi_ydlidar.jpg) 
 
 ### どのROS2を使うか
 

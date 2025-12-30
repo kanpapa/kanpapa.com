@@ -13,7 +13,7 @@ image: "images/cy8ckit_059_blink.jpg"
 
 実はPSoCという名前は知っていますが、これまで一度も使ったことはありません。
 
-<!--more-->
+
 
 まずはパッケージ裏面にあるURLから開発ツールをダウンロードして、手元のThinkPad X220(Windows 10 Preview)にインストールしました。
 

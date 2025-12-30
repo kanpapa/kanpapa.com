@@ -19,7 +19,7 @@ image: "images/nanopi_neo.jpg"
 
 なお、Raspberry Piとは異なりHDMI出力はありません。そのぶんシンプルになっていると思います。私はコンソールからログインできれば十分なので、これでまったく問題ありません。
 
-<!--more-->
+
 
 まずは、microSDカードにNano Pi NEO用のOSをインストールしなければなりません。
 

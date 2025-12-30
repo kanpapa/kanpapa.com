@@ -16,7 +16,7 @@ image: images/mic68k_board1.jpg
 
 基板の中央に68HC000P8が構えています。今ではこんな巨大なICは見る機会はないでしょう。あとは256KbitのSRAMが２つ。8bit×2個で16bitバスに接続されているのでしょう。２つの空きソケットがありますが、ここにはROMを実装するものと思われます。SRAM同様に256KbitのROMが搭載できるでしょう。
 
-<!--more-->
+
 
 あとは63B40P(PTM: Programmble Timer Module)、63B50P(ACIA:Asynchronous Communications Interface Adapter)が２つ、63B21P (PIA:Peripheral Interface Adapter)と8bit系の周辺デバイスが並んでいます。接続端子はRS232CとRS485ですので、63B50Pがそれぞれ接続されているはずです。
 

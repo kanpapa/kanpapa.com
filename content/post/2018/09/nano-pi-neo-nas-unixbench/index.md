@@ -20,7 +20,7 @@ $ ./Run
 
 コンパイルが終わると、次のような表示になりベンチマークが始まります。
 
-![unixbench.PNG](images/unixbench.png) <!--more-->
+![unixbench.PNG](images/unixbench.png) 
 
 ベンチマークが始まりそのまま放っておいたところ、このサーバを監視している [mackerel.io](https://mackerel.io/ "mackerel.io") からアラートがSlackで上がってきました。mackerel.io のダッシュボードで確認したところ、ロードアベレージとCPU負荷が急激に上がっています。 ![nanopineo-cpu2.png](images/nanopineo-cpu2.png) ちょっと大丈夫かなとログインしたところ、CPUの温度が58℃まで上がっていました。 ![nanopi58c.PNG](images/nanopi58c.png) ちょっと怖くなったのでベンチマークを中断したところ、CPU負荷と温度が急速に下がりました。 ![nanopineo-cpu1.png](images/nanopineo-cpu1.png) ![nanopi44c.PNG](images/nanopi44c.png) Nano Pi NEOにはヒートシンクはついていますが、NASのアルミケースに格納されています。アルミケースを外せばもう少し温度は低下すると思いますが、もし壊れては元も子もないのでここまでにしておきます。
 

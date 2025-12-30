@@ -25,7 +25,7 @@ image: "images/HM6264checker.jpg"
 
 Arduino MEGAはたくさんのGPIOを持っていますので、それを利用してSRAMの読み出しと書き込みに必要な信号を作ります。接続方法はスケッチに書いておきました。実体配線図は以下のようになります。線は多いですけど順番に接続すれば大丈夫です。チップセレクトは常時イネーブルされている状態にしますので、CS1はGNDに、CS2はVccに接続します。
 
-![hm6264_check.png](images/hm6264_check.png) <!--more-->
+![hm6264_check.png](images/hm6264_check.png) 
 
 実際の接続の様子です。
 

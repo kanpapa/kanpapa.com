@@ -26,7 +26,7 @@ COSMAC MBCのタクトスイッチの配線の引き出しですが、ちょう�
 
 ![cosmac_tact_sw2.jpg](images/cosmac_tact_sw2.jpg)
 
-<!--more-->
+
 
 製作したシステムは以下のようになりました。
 

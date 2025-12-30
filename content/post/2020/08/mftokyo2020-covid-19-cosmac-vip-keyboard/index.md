@@ -17,7 +17,7 @@ image: images/cosmac_vip_web_keyboard1.png
 
 ![cosmac_vip_web_keyboard1.png](images/cosmac_vip_web_keyboard1.png)
 
-<!--more-->
+
 
 試作中のシステムの写真です。ハードウェアは[ESP32-DevKitC](http://akizukidenshi.com/catalog/g/gM-11819/ "ESP32-DevKitC ESP-WROOM-32開発ボード")と3.3V/5Vレベル変換IC、16チャンネルリレーモジュールといったシンプルな構成です。リレーモジュールは12Vの電源が必要です。
 

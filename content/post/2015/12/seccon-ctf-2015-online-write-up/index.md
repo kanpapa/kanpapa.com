@@ -21,7 +21,7 @@ SECCON 2015 オンラインCTFに参加しました。
 
 忘れないうちにWrite-upを書いておきました。
 
-<!--more--> **Start SECCON CTF (Exercises) 50点**
+ **Start SECCON CTF (Exercises) 50点**
 
 これは練習用の問題です。暗号表がありますので１文字づつ比較して復号しました。
 

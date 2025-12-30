@@ -14,7 +14,7 @@ image: "images/cosmac_stg1861_pcb3.jpg"
 レイアウトはこのような感じで考えました。ビデオ出力周りは基板上のパターンをそのまま使います。
 
 ![cosmac_stg1861_pcb0.jpg](images/cosmac_stg1861_pcb0.jpg)
-<!--more-->
+
 
 早速[おおたfab](https://ot-fb.com/ "おおたfab")さんで実装開始です。私の場合は手持ちのラッピングワイヤーを使って配線しています。いろんな色があるので配線の種類の応じて色を変えています。
 

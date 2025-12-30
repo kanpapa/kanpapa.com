@@ -20,7 +20,7 @@ image: "images/ros2-foxy-roomba-nav2-goal1.jpg"
 
 この地図はmap.pgmとmap.yamlという２つのファイルでできています。このファイルをホームディレクトリに用意します。
 
-<!--more-->
+
 
 ### 自律走行を行ってみる
 

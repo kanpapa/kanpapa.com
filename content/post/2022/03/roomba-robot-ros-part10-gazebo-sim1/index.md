@@ -21,7 +21,7 @@ image: "images/roomba_slam_otafab_gazebo_sim1.png"
 - [https://github.com/RoboticaUtnFrba/create_autonomy](https://github.com/RoboticaUtnFrba/create_autonomy "RoboticaUtnFrba/create_autonomy")
 - [https://github.com/RoboticaUtnFrba/libcreate](https://github.com/RoboticaUtnFrba/libcreate "RoboticaUtnFrba/libcreate")
 
-<!--more-->
+
 
 ### 作成したworldモデルでgmapping-SLAMを行う
 

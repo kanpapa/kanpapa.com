@@ -17,7 +17,7 @@ Nano Pi NEOでどんなNASができるのか、試しに購入してみました
 
 到着したパッケージはこんな感じでした。思ったより大きいです。
 
-![nanopi_nas1.jpg](images/nanopi_nas1.jpg) <!--more-->
+![nanopi_nas1.jpg](images/nanopi_nas1.jpg) 
 
 パッケージを開けるとケースがでてきました。なかなかしっかりした作りのケースに見えます。
 

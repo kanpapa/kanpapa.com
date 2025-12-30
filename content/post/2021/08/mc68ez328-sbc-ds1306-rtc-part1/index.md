@@ -18,7 +18,7 @@ image: "images/ds1306_cs_probe.jpg"
 
   
 
-<!--more-->
+
 
 ### SPIを使うには
 

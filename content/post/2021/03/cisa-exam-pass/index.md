@@ -29,7 +29,7 @@ CISA試験の参考書はISACA BOOK STOREで販売されています。私は以
 
 ![cisa_review_manual.jpeg](images/cisa_review_manual.jpeg)
 
-<!--more-->
+
 
 ## 試験の申し込み
 

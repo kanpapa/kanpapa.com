@@ -16,7 +16,7 @@ image: "images/kinect_slam4_2021-11-28-190057_pp.png"
 
 ![kinect_slam1_photo.jpg](images/kinect_slam1_photo.jpg)
 
-<!--more-->
+
 
 ### RGB-D SLAMとは
 

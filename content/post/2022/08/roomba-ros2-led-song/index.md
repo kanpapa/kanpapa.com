@@ -12,7 +12,7 @@ image: "images/roomba_all_led_on.jpg"
 ルンバには各種状態表示を行うためのLEDと音を出す機能があります。[ルンバのROS2用のドライバ](https://github.com/AutonomyLab/create_robot/tree/foxy " AutonomyLab / create_robot")ではこの機能をサポートしているので、実際に試してみました。
 
 ![roomba_sub_test1.jpg](images/roomba_sub_test1.jpg)
-<!--more-->
+
 
 ### ルンバのSubscribers
 
