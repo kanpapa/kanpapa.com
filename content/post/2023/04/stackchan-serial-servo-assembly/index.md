@@ -39,7 +39,7 @@ PWM用に組み立てた基板のパーツを付け替えることでシリア�
 
 Arduino IDEをM5Stack用に設定し、シリアルサーボライブラリのサンプルプログラムをM5Stack＋スタックチャン基板用に書き換えました。
 
-- [SCS0009\_sample1.ino](https://github.com/kanpapa/scs0009/blob/main/Arduino/SCS0009_sample1/SCS0009_sample1.ino "SCS0009_sample1.ino")
+- [SCS0009_sample1.ino](https://github.com/kanpapa/scs0009/blob/main/Arduino/SCS0009_sample1/SCS0009_sample1.ino "SCS0009_sample1.ino")
 
 まず1個だけモーターを接続して動かしてみます。
 
@@ -58,17 +58,17 @@ Arduino IDEをM5Stack用に設定し、シリアルサーボライブラリの�
 
 本来であれば、[シリアルサーボを設定するツール](https://www.switch-science.com/products/7490 "FEETECH FE-URT1-C001 シリアルバスサーボ用USBプログラマ ")を使うのですが、持っていないのでスタックチャン基板を使って設定することにしました。秋月電子のシリアルサーボのライブラリにもIDを変更するサンプルプログラムがありました。これを流用しました。
 
-- [SCS0009\_set\_ID2.ino](https://github.com/kanpapa/scs0009/blob/main/Arduino/SCS0009_set_ID2/SCS0009_set_ID2.ino "SCS0009_set_ID2.ino")
+- [SCS0009_set_ID2.ino](https://github.com/kanpapa/scs0009/blob/main/Arduino/SCS0009_set_ID2/SCS0009_set_ID2.ino "SCS0009_set_ID2.ino")
 
 これでID=1、ID=2のモーターに設定できたので個々に制御することができるようになりました。プログラムは以下におきました。
 
-- [SCS0009\_check\_twin.ino](https://github.com/kanpapa/scs0009/blob/main/Arduino/SCS0009_check_twin/SCS0009_check_twin.ino "SCS0009_check_twin.ino")
+- [SCS0009_check_twin.ino](https://github.com/kanpapa/scs0009/blob/main/Arduino/SCS0009_check_twin/SCS0009_check_twin.ino "SCS0009_check_twin.ino")
 
 {{< youtube gMw4rCovGZQ >}}
 
 また、スタックチャンのモーターの位置決めをしておく必要があります。正しい位置でケースや足を固定しないと動作位置がおかしくなってしまいます。これもシリアルサーボのライブラリで設定します。基準位置は「Goal」の値を511にするとのことなのでそのようにプログラムで指定しました。
 
-- [SCS0009\_set511.ino](https://github.com/kanpapa/scs0009/blob/main/Arduino/SCS0009_set511/SCS0009_set511.ino "SCS0009_set511.ino")
+- [SCS0009_set511.ino](https://github.com/kanpapa/scs0009/blob/main/Arduino/SCS0009_set511/SCS0009_set511.ino "SCS0009_set511.ino")
 
 ケースを取り付ける直前にこのプログラムで位置決めを行い、ケースと足を取り付けるようにします。
 

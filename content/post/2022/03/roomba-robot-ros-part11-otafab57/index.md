@@ -21,11 +21,11 @@ image: "images/roomba_otafab57_baseplate.jpg"
 
 ### 今回参考にした記事
 
-- [hector\_slamと2D Navigationを組み合わせてRoombaを自律移動させる](https://daikimaekawa.github.io/ros/2014/04/20/Navigation2d "hector_slamと2D Navigationを組み合わせてRoombaを自律移動させる ") ([ゼロから始めるロボットプログラミング入門講座](https://daikimaekawa.github.io/) Daiki Maekawaさん）
+- [hector_slamと2D Navigationを組み合わせてRoombaを自律移動させる](https://daikimaekawa.github.io/ros/2014/04/20/Navigation2d "hector_slamと2D Navigationを組み合わせてRoombaを自律移動させる ") ([ゼロから始めるロボットプログラミング入門講座](https://daikimaekawa.github.io/) Daiki Maekawaさん）
 
 ### 前回から変更した点
 
-- gmapping-slamからhector-slamに変更しました。 参考記事からgmapping-slamはルンバに不向きとのことなので、hector\_slamを試したところ、なかなか良い感じです。
+- gmapping-slamからhector-slamに変更しました。 参考記事からgmapping-slamはルンバに不向きとのことなので、hector_slamを試したところ、なかなか良い感じです。
 - ルンバに接続するRaspberry Pi 3B＋(1GB RAM)をRaspberry Pi 4(4GB RAM)に変更しました。 前回やや動きが悪くなる時があったのでCPUとメモリに余裕があるようにしました。
 
 ### 実機で動かし方
@@ -42,7 +42,7 @@ RvizでのNavigationの様子です。
 
 ルンバ実機の動画です。途中で少し止まりますが、何かを考えているようです。
 
-rqt\_graphの結果
+rqt_graphの結果
 
 ![rosgraph03191711.png](images/rosgraph03191711.png)
 

@@ -31,7 +31,7 @@ https://wiki.sipeed.com/hardware/en/tang/Tang-Nano-9K/Nano-9K.html
 
 Windows版とLinux版のソフトウェアがありましたので、私はUbuntu22.04 LTSにLinux版のGowin V1.9.9Beta-4 Education (Linux x86)をダウンロードしてホームディレクトリに展開しました。Education版（商用利用は不可）はライセンス登録が不要ですし、Tang Nano 9KはEducation版で問題なく利用できます。
 
-展開したディレクトリにあるIDE/bin/gw\_ideを実行すればGOWIN FPGA Designerが起動します。
+展開したディレクトリにあるIDE/bin/gw_ideを実行すればGOWIN FPGA Designerが起動します。
 
 ![](images/tang-nano-9k-gowin-eda-linux-startup.png)
 
@@ -90,7 +90,7 @@ IP Core Generatorで作成されたrPLLのソースを組み込むことでLCD�
 
 作成したプロジェクトはGithubに登録しておきました。
 
-https://github.com/kanpapa/TangNano/tree/main/aki\_grove\_lcd
+https://github.com/kanpapa/TangNano/tree/main/aki_grove_lcd
 
 ## まとめ
 

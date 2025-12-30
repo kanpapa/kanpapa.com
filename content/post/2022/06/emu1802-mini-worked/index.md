@@ -22,8 +22,8 @@ COSMACの場合アドレスバスが8本しかないためEMU1802のPIC18F47Q43�
 
 回路図はGitHubに載せておきました。
 
-- [emu1802\_mini\_sch.pdf](https://github.com/kanpapa/emu1802/blob/devel/kicad/emu1802_mini_sch.pdf "emu1802_mini_sch.pdf")（回路図）
-- [emu1802\_mini\_bom.pdf](https://github.com/kanpapa/emu1802/blob/main/kicad/emu1802_mini_bom.pdf "emu1802_mini_bom.pdf")（部品表）
+- [emu1802_mini_sch.pdf](https://github.com/kanpapa/emu1802/blob/devel/kicad/emu1802_mini_sch.pdf "emu1802_mini_sch.pdf")（回路図）
+- [emu1802_mini_bom.pdf](https://github.com/kanpapa/emu1802/blob/main/kicad/emu1802_mini_bom.pdf "emu1802_mini_bom.pdf")（部品表）
 
 せっかくですのでコンパクトにまとめてみようと思い久しぶりに基板を発注しました。
 

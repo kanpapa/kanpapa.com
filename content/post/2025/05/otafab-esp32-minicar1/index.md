@@ -77,7 +77,7 @@ https://akizukidenshi.com/catalog/g/g113651
 
 Arduino UnoとモータドライバAE-DRV8835-Sを使用した例をベースにしてマイコンをESP32 DevKitCに置き換えてみることにします。
 
-- Arduinoでの製作例　[https://akizukidenshi.com/goodsaffix/ft-dc-002\_appendix.pdf](https://akizukidenshi.com/goodsaffix/ft-dc-002_appendix.pdf)
+- Arduinoでの製作例　[https://akizukidenshi.com/goodsaffix/ft-dc-002_appendix.pdf](https://akizukidenshi.com/goodsaffix/ft-dc-002_appendix.pdf)
 
 ### センサー・表示系
 

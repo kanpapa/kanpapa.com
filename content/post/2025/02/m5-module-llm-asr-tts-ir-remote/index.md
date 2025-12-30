@@ -120,13 +120,13 @@ void loop() {
 
 ## 音声認識と音声合成にリモコン機能を組み込む
 
-Module LLMのサンプルプログラムとしてウェイクアップワードをトリガに音声認識を行うKWS(Key Word Spoting)\_ASR(Automated Speech Recognition)と音声合成を行うTTS(Text To Speech)が提供されています。
+Module LLMのサンプルプログラムとしてウェイクアップワードをトリガに音声認識を行うKWS(Key Word Spoting)_ASR(Automated Speech Recognition)と音声合成を行うTTS(Text To Speech)が提供されています。
 
 ![](images/m5-llm-sample-list.png)
 
 これを参考にしてリモコンプログラムを作成しました。ソースコードはGitHubにあげておきました。
 
-https://github.com/kanpapa/M5Stack\_LLM/blob/main/Arduino/M5\_KWS\_ASR\_IR\_TTS/M5\_KWS\_ASR\_IR\_TTS.ino
+https://github.com/kanpapa/M5Stack_LLM/blob/main/Arduino/M5_KWS_ASR_IR_TTS/M5_KWS_ASR_IR_TTS.ino
 
 ## 音声認識リモコンを動かしてみる
 

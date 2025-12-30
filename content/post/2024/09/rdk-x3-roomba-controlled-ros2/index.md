@@ -20,7 +20,7 @@ image: images/rdk-x3-roomba-camera-up1.jpg
 
 D-Robotics RDK X3の公式ドキュメントにはロボットアプリケーション開発について説明しているページがあります。
 
-https://d-robotics.github.io/rdk\_doc/en/Robot\_development
+https://d-robotics.github.io/rdk_doc/en/Robot_development
 
 ここで説明されているのはD-Robotics社がRDK用に開発した[TogetheROS.Bot](https://developer.d-robotics.cc/rdk_doc/en/Robot_development/tros)（略称はtros.b）とそのサンプルアプリケーションです。これまでのROS2の資産を生かしつつRDK X3が得意とする物体検出、画像分類、音声処理などが最適化された状態でアプリケーションから利用できる仕組みのようです。ROS2 Foxy/Humbleと完全互換とのことなので実際にサンプルアプリケーションを動かして使い勝手を確認してみます。
 
@@ -58,7 +58,7 @@ sudo apt install ros-humble-examples-rclcpp-minimal-publisher ros-humble-example
 
 サンプルアプリケーションにSLAMがありましたので試してみました。
 
-https://d-robotics.github.io/rdk\_doc/en/Robot\_development/apps/slam
+https://d-robotics.github.io/rdk_doc/en/Robot_development/apps/slam
 
 PCではGazeboによるロボットシミュレータとRviz2による可視化を行い、RDK X3でslam toolboxを動かす構成です。手順通りで問題なく動かすことができました。手順も source /opt/**tros**/humble/setup.bash とtros.bの環境にすることを除いて、ROS2 humbleで実行するときと同じコマンドラインです。
 
@@ -80,7 +80,7 @@ tros.bを使用するように source /opt/**tros**/humble/setup.bash と指定�
 
 ![](images/rdk-x3-roomba-create-bringup1.png)
 
-実際にRDK X3で制御されているルンバの動画です。コマンドで連続してcmd\_velを送って動かしています。
+実際にRDK X3で制御されているルンバの動画です。コマンドで連続してcmd_velを送って動かしています。
 
 {{< youtube Ei_oN0CyfvM >}}
 
@@ -96,7 +96,7 @@ tros.bを使用するように source /opt/**tros**/humble/setup.bash と指定�
 
 カメラモジュールを使ったアプリケーションが無いかと探したところ、Robot Follows the Human Bodyというアプリケーションがありました。
 
-https://d-robotics.github.io/rdk\_doc/en/Robot\_development/apps/car\_tracking
+https://d-robotics.github.io/rdk_doc/en/Robot_development/apps/car_tracking
 
 サンプルアプリケーションはGazeboを使ったシミュレーションとなっていましたが、Gazeboの代わりにルンバ実機を使ってみることにしました。
 
@@ -104,7 +104,7 @@ https://d-robotics.github.io/rdk\_doc/en/Robot\_development/apps/car\_tracking
 
 ![](images/rdk-x3-roomba-camera1.jpg)
 
-手順としてはGazeboを動かさずに、代わりにルンバのROS2ドライバを動かして、body\_trackingをlaunchするだけです。サンプルプログラムの変更は一切ありません。
+手順としてはGazeboを動かさずに、代わりにルンバのROS2ドライバを動かして、body_trackingをlaunchするだけです。サンプルプログラムの変更は一切ありません。
 
 ターミナルを2つ開いてRDK X3にログインし以下のように入力しました。
 

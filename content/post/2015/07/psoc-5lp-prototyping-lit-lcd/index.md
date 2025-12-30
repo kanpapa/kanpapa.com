@@ -31,17 +31,17 @@ LCDコンポーネットをクリックしたところ、ユーザ定義文字�
 
 ![lcd_user_defined.png](images/lcd_user_defined.png)
 
-ここで設定したユーザ定義文字はLCD\_CustChars.cにフォントデータとして自動生成されます。
+ここで設定したユーザ定義文字はLCD_CustChars.cにフォントデータとして自動生成されます。
 
 ![lcd_customfonts_src.png](images/lcd_customfonts_src.png)
 
 ここまで出来たら、main.cでLCDにも表示するように書き換えます。
 
-ユーザ定義文字の表示は自動生成されたフォント名をLCD\_PutChar()に指定するだけです。
+ユーザ定義文字の表示は自動生成されたフォント名をLCD_PutChar()に指定するだけです。
 
 ![lcd_font_putchar.png](images/lcd_font_putchar.png)
 
-電圧表示はUARTに出力している文字列をそのままLCD\_PrintString()に渡すだけでお手軽です。
+電圧表示はUARTに出力している文字列をそのままLCD_PrintString()に渡すだけでお手軽です。
 
 ![lcd_adc_main.png](images/lcd_adc_main.png)
 

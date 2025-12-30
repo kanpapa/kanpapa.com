@@ -81,7 +81,7 @@ MCRに書き込みも行われFAIL LEDが消灯しましたが、STACKが使わ�
 
 作成したソースコードはGithub.comに置きました。アセンブラはEasy68Kを使っています。
 
-- [https://github.com/kanpapa/VMEbus/blob/main/hardware\_test/DVMECPU2\_noram.X68](https://github.com/kanpapa/VMEbus/blob/main/hardware_test/DVMECPU2_noram.X68 "DVMECPU2_noram.X68")
+- [https://github.com/kanpapa/VMEbus/blob/main/hardware_test/DVMECPU2_noram.X68](https://github.com/kanpapa/VMEbus/blob/main/hardware_test/DVMECPU2_noram.X68 "DVMECPU2_noram.X68")
 
 このROMをVMEボードに取り付けて、電源を投入したところRUN LEDが点灯状態になり、FAIL LEDとHALT LEDは消灯しました。無事プログラムが動作しているようです。
 

@@ -39,7 +39,7 @@ WCH-LinkEとはダウンロードに必要なSWDIOと3.3V、GNDを接続しま�
 
 最初にWCH-LinkEでCH32V003が書き込めるように設定する必要があるので、以下のサイトからWCH-LinkUtility.ZIPをダウンロードして展開します。Windowsのみのサポートです。
 
-https://www.wch.cn/downloads/WCH-LinkUtility\_ZIP.html
+https://www.wch.cn/downloads/WCH-LinkUtility_ZIP.html
 
 展開したフォルダの中にあるWCH-LinkUtility.exeを実行し、表示される画面の下のあたりにあるActive WCH-Link Mode: のGetボタンを押すと現在のWCH-LinkEのモードが表示されます。最初は「WCH-LinkDAP-WINUSB」になっていると思います。このプルダウンメニューから「WCH-LinkRV」を選択してSetを押すと、WCH-LinkEのモードがCH32V用に切り替わります。
 
@@ -51,7 +51,7 @@ https://www.wch.cn/downloads/WCH-LinkUtility\_ZIP.html
 
 Arduino IDEにCH32V用のボード設定を組み込む必要がありますが、以下のGitHubで公開されています。
 
-- [https://github.com/openwch/arduino\_core\_ch32](https://github.com/openwch/arduino_core_ch32 "arduino_core_ch32")
+- [https://github.com/openwch/arduino_core_ch32](https://github.com/openwch/arduino_core_ch32 "arduino_core_ch32")
 
 READMEにあるようにArduino IDEの環境設定の追加のボードマネージャーのURLに以下のURLを追加します。
 

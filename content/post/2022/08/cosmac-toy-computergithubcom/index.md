@@ -12,6 +12,6 @@ image: images/cosmac_lab_slide1.jpg
 
 COSMAC Toy Computerの技術資料や成果物をGitHub.comで管理するようにしました。
 
-- [kanpapa/cosmac\_toy: The COSMAC Toy Computer (github.com)](https://github.com/kanpapa/cosmac_toy)
+- [kanpapa/cosmac_toy: The COSMAC Toy Computer (github.com)](https://github.com/kanpapa/cosmac_toy)
 
 詳細は[README.md](https://github.com/kanpapa/cosmac_toy/blob/main/README.md "README.md")でご確認ください。

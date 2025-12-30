@@ -34,7 +34,7 @@ image: "images/roomba-simple-base-20221016.jpg"
 
 作成したデータはGitHubに登録しておきました。
 
-- [kanpapa/roomba\_600\_simple\_base](https://github.com/kanpapa/roomba_600_simple_base "roomba_600_simple_base")
+- [kanpapa/roomba_600_simple_base](https://github.com/kanpapa/roomba_600_simple_base "roomba_600_simple_base")
 
 このデータを使いアクリル板をレーザーカッターで加工します。
 

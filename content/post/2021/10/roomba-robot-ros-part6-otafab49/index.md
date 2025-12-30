@@ -52,20 +52,20 @@ image: "images/real_roomba_rplidar_photo1.jpg"
 
 - [How to Build a Map Using Logged Data](https://wiki.ros.org/slam_gmapping/Tutorials/MappingFromLoggedData "How to Build a Map Using Logged Data")
 
-1. 以下を参考にROSとcreate\_autonomyをインストールしたRaspberry Pi 4(4GB)環境を準備する。 [https://github.com/docofab/RoombaControlls/blob/main/ROS/instructions/setup-gazebo-rasppi.md](https://github.com/docofab/RoombaControlls/blob/main/ROS/instructions/setup-gazebo-rasppi.md "setup-gazebo-rasppi.md")
+1. 以下を参考にROSとcreate_autonomyをインストールしたRaspberry Pi 4(4GB)環境を準備する。 [https://github.com/docofab/RoombaControlls/blob/main/ROS/instructions/setup-gazebo-rasppi.md](https://github.com/docofab/RoombaControlls/blob/main/ROS/instructions/setup-gazebo-rasppi.md "setup-gazebo-rasppi.md")
 2. Navigation & SLAM のインストール（もう入っているかも） $ sudo apt install ros-melodic-navigation $ sudo apt install ros-melodic-slam-gmapping
 3. 新しいRPLIDAR ROS パッケージに置き換えたいので ros-melodic-rplidar-ros がインストールされていたらアンインストールする。 $ sudo apt remove ros-melodic-rplidar-ros
-4. RPLIDAR ROS パッケージ rplidar\_rosをクローンする。 $ cd ~/catkin\_ws/src $ git clone https://github.com/Slamtec/rplidar\_ros.git $ catkin build rplidar\_ros $ source ~/.bashrc
-5. 新しいターミナルを開き、ルンバ実機のドライバを実行する $ roslaunch ca\_driver create\_2.launch
-6. 新しいターミナルを開き、ルンバをキーボードで操作できるようにする。 $ roslaunch ca\_tools keyboard\_teleop.launch
-7. 新しいターミナルを開き、RPLiDARのノードを起動する。 $ roslaunch rplidar\_ros rplidar.launch
+4. RPLIDAR ROS パッケージ rplidar_rosをクローンする。 $ cd ~/catkin_ws/src $ git clone https://github.com/Slamtec/rplidar_ros.git $ catkin build rplidar_ros $ source ~/.bashrc
+5. 新しいターミナルを開き、ルンバ実機のドライバを実行する $ roslaunch ca_driver create_2.launch
+6. 新しいターミナルを開き、ルンバをキーボードで操作できるようにする。 $ roslaunch ca_tools keyboard_teleop.launch
+7. 新しいターミナルを開き、RPLiDARのノードを起動する。 $ roslaunch rplidar_ros rplidar.launch
 8. 新しいターミナルを開き、全Topicデータを記録する $ mkdir -p ~/bag $ cd ~/bag $ rosbag record -a
 9. 6.のターミナルでキーボードを操作してロボットを動かし地図生成のためのデータを取得する。
 10. 取得が終わったら、忘れずに、Ctrl-Cでrosbagを止める。
-11. bagファイルを使って地図生成するための設定をする。 $ rosparam set use\_sim\_time true
-12. SLAMを実行します。 $ rosrun gmapping slam\_gmapping
+11. bagファイルを使って地図生成するための設定をする。 $ rosparam set use_sim_time true
+12. SLAMを実行します。 $ rosrun gmapping slam_gmapping
 13. 取得したtopicの再生 $ rosbag play --clock "bagファイル名"
-14. topicの再生が終了してから以下のコマンドを実行する。 $ mkdir -p ~/map $ cd ~/map $ rosrun map\_server map\_saver
+14. topicの再生が終了してから以下のコマンドを実行する。 $ mkdir -p ~/map $ cd ~/map $ rosrun map_server map_saver
 15. ~/mapディレクトリにmap.pgmとmap.yamlが生成される。
 
 ルンバ実機＋LiDARで地図データを取得している様子です。

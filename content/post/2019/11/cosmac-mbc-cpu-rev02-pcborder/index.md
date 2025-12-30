@@ -21,7 +21,7 @@ COSMAC MBC CPUボード Rev.0.2の基板を[FusionPCB](https://www.fusionpcb.jp/
     - プッシュスイッチ　型番：APE1F-6M-10-ZまたはAPE1F-5M-10-Z（日本電産コパル電子）
     - トグルスイッチ　型番：2MS1-T1-B2-M6-S-E（Linkman）
 - SRAMは256Kbitに変更し、秋月のSOP2 SRAMも実装できるように表面実装パターンも追加しました。表面実装基板は初発注です。
-- オリジナルに存在する信号（~EXT\_WAIT, ~EXT\_CLEAR, ~STOP, ~XTAL）のコネクタを追加しました。
+- オリジナルに存在する信号（~EXT_WAIT, ~EXT_CLEAR, ~STOP, ~XTAL）のコネクタを追加しました。
 - パスコンを配置しました。
 - その他、細かい点を修正しました。
 

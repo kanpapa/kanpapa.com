@@ -12,7 +12,7 @@ image: "images/bbug_memtest2.png"
 
 DragonBall-EZ(MC68EZ328)に64KByteのメモリ空間ができましたので何かプログラムを動かしてみます。
 
-ちょうどMC68EZ328ADSTOOLS2\_0.zipの中にメモリテストプログラムがありましたので、これを実行してみます。
+ちょうどMC68EZ328ADSTOOLS2_0.zipの中にメモリテストプログラムがありましたので、これを実行してみます。
 
 今回アセンブラは[EASy68K](http://www.easy68k.com/ "EASy68K")を使いました。実は今回のDragonBall-EZで遊ぶきっかけはこのサイトのフォーラムで知った情報なのです。
 

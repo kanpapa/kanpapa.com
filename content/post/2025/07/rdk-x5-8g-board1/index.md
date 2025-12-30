@@ -70,7 +70,7 @@ RDK X5本体です。
 
 RDK X5の公式サイトにセットアップの方法は書かれていますので、それに従って進めれば問題ありません。公式サイトは英語版と中国語版がありますが、英語版は若干内容が古いところがあり、そのままでは動作しないところがあるので、中国語版をブラウザの翻訳機能で日本語にして参照することをお勧めします。
 
-https://d-robotics.github.io/rdk\_doc/Quick\_start/hardware\_introduction/rdk\_x5
+https://d-robotics.github.io/rdk_doc/Quick_start/hardware_introduction/rdk_x5
 
 今回もRDK X3の時と同様に秋月電子の[スイッチングACアダプター(USB ACアダプター) Type-Cオス 5.1V3.8A](https://akizukidenshi.com/catalog/g/g114935/)を使用します。
 
@@ -86,7 +86,7 @@ RDK X5のスペック上は5V5Aということにはなっているのですが�
 
 RDK X3の時と同様にカメラ画像からリアルタイムで物体を検出するプログラムを試してみました。
 
-https://d-robotics.github.io/rdk\_doc/Basic\_Application/Image/mipi\_camera
+https://d-robotics.github.io/rdk_doc/Basic_Application/Image/mipi_camera
 
 RDK X3の時は画像にBoxが表示されていたのですが、今回のデモプログラムではBoxの表示がありませんでした。
 
@@ -130,7 +130,7 @@ RDK X5のねじ穴はRaspberry Pi 4と全く同じでそのまま取り付けが
 
 ROS2ベースのデモアプリケーションであるRobot Follows the Human Bodyを動かしてみました。
 
-https://d-robotics.github.io/rdk\_doc/Robot\_development/apps/car\_tracking
+https://d-robotics.github.io/rdk_doc/Robot_development/apps/car_tracking
 
 実験部屋が狭いので追いかけてくる動作まではできませんでしたが、カメラで捉えた人の方向にルンバが向いてくることがわかります。もう少しルンバから離れることができれば追いかけてくることは確認できています。
 
@@ -138,7 +138,7 @@ https://d-robotics.github.io/rdk\_doc/Robot\_development/apps/car\_tracking
 
 他にもロボットアプリケーションの例として手のジェスチャーでの制御も問題なく動作しました。
 
-https://d-robotics.github.io/rdk\_doc/Robot\_development/apps/car\_gesture\_control
+https://d-robotics.github.io/rdk_doc/Robot_development/apps/car_gesture_control
 
 気になるCPUの温度ですが、これらの画像認識系のアプリケーションを動かしていた時は以下のような状態でした。指ではCPUを触れない状態なので何かで冷却するのが良いかもしれません。
 

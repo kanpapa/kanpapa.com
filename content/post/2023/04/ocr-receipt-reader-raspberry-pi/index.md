@@ -73,4 +73,4 @@ Raspberry Pi 3とのカメラ部の固定は余っているアクリル板に穴
 
 今回作成したプログラムやFreeCADのデータはGithubに入れておきました。参考にしてください。
 
-- [https://github.com/kanpapa/ocr\_receipt](https://github.com/kanpapa/ocr_receipt "ocr_receipt")
+- [https://github.com/kanpapa/ocr_receipt](https://github.com/kanpapa/ocr_receipt "ocr_receipt")

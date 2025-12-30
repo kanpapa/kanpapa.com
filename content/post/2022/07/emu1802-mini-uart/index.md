@@ -34,7 +34,7 @@ IDIOTモニタでUARTのレジスタのメモリアドレスを確認します�
 
 次にテストプログラムを作って、プログラムからUARTにアクセスできるかを確認します。EMUZ80の雑誌投稿記事「[EMUZ80の設計と製作](https://vintagechips.files.wordpress.com/2022/06/emuz80designdetails.pdf)」にEMUZ80での端末インターフェースのテストプログラムが掲載されています。これのCOSMAC版を書いてみます。EMUZ80でのプログラムは再利用できるように機能がサブルーチンに分かれていますが、COSMACではとりあえず動くものにしています。（アーキテクチャ的にきちんと設計しないとサブルーチン化できないので・・・）
 
-- [/emu1802/test\_programs/uart\_echo/](https://github.com/kanpapa/emu1802/blob/main/test_programs/uart_echo/uart_echo.asm "uart_echo.asm")
+- [/emu1802/test_programs/uart_echo/](https://github.com/kanpapa/emu1802/blob/main/test_programs/uart_echo/uart_echo.asm "uart_echo.asm")
 
 これをSB-Assemblerでアセンブルして、ファームウェアのROMエリアに組みこみます。
 
@@ -50,7 +50,7 @@ EMU1802-miniの電源をいれると、EMUZ80の確認プログラムと同様�
 
 実はすでにIDIOTモニタのUART版は存在します。COSMACのペリフェラルである[CDP1854 UART](http://www.cosmacelf.com/publications/data-sheets/cdp1854.pdf "CDP1854A, CDP1854AC Programmable Universal Asynchronous Receiver/Transmitter (UART)")を使ったものです。このソースを参考にしてPICのUART用に書き換えました。作成したソースはGitHubに置きました。
 
-- [/emu1802/idiotmon/idiot\_uart](https://github.com/kanpapa/emu1802/tree/main/idiotmon/idiot_uart "idiot_uart")
+- [/emu1802/idiotmon/idiot_uart](https://github.com/kanpapa/emu1802/tree/main/idiotmon/idiot_uart "idiot_uart")
 
 これをファームウェアのROMエリアに組み込んだ状態でリセットをしたところ、IDIOTモニタのプロンプトがPICのUARTに出力されました。通信速度は9600bpsです。プログラムを読み込んで、実行できることを確認しました。
 
@@ -60,4 +60,4 @@ CPUクロックが遅いためかテキストアップロードを行うと取�
 
 GitHubに置いてあるソースやドキュメントもこれにあわせてアップデートしました。ついでにRCA BASICの動かしかたを含む「EMU1802-miniでのCOSMAC CPUの楽しみ方」も追記しておきましたのでぜひご覧ください。
 
-- [/emu1802/EMU1802mini\_Setup\_ja.md](https://github.com/kanpapa/emu1802/blob/main/EMU1802mini_Setup_ja.md "EMU1802mini_Setup_ja.md")
+- [/emu1802/EMU1802mini_Setup_ja.md](https://github.com/kanpapa/emu1802/blob/main/EMU1802mini_Setup_ja.md "EMU1802mini_Setup_ja.md")

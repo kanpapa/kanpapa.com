@@ -27,13 +27,13 @@ image: images/pdp-11-dcj11-cpu-2-eyecatch.jpg
 
 https://wiki.sipeed.com/hardware/en/tang/tang-nano-20k/nano-20k.html
 
-ダウンロードページにアクセスするためにはアカウントを登録する必要があります。私の場合はアカウント登録後にLinux OS用のGowin\_V1.9.9.03\_Education\_linux.tar.gzをダウンロードしてホームディレクトリに展開しました。なお、Education版はライセンスの申請は不要で、非営利および非商用目的でのみ使用できます。
+ダウンロードページにアクセスするためにはアカウントを登録する必要があります。私の場合はアカウント登録後にLinux OS用のGowin_V1.9.9.03_Education_linux.tar.gzをダウンロードしてホームディレクトリに展開しました。なお、Education版はライセンスの申請は不要で、非営利および非商用目的でのみ使用できます。
 
-Linux OSの場合は展開したフォルダのIDE/bin/gw\_ideを実行することで、GOWIN IDEが起動します。
+Linux OSの場合は展開したフォルダのIDE/bin/gw_ideを実行することで、GOWIN IDEが起動します。
 
 ![](images/pdp-11-cpu-2-bare-metal-gowin1.png)
 
-GOWIN IDEの詳細な使用方法は省略しますが、TangNanoDCJ11MEMのソースをビルドしてTangNano20Kに書き込むためのビットストリームを作りたい場合は、FileメニューからOpenを選択して、GitHubからcloneしたapplication/baremetal/TangNanoDCJ11MEM\_project.20240707のディレクトリにあるGOWINプロジェクトファイル TangNanoDCJ11MEM.project.gprj を指定してOpenします。
+GOWIN IDEの詳細な使用方法は省略しますが、TangNanoDCJ11MEMのソースをビルドしてTangNano20Kに書き込むためのビットストリームを作りたい場合は、FileメニューからOpenを選択して、GitHubからcloneしたapplication/baremetal/TangNanoDCJ11MEM_project.20240707のディレクトリにあるGOWINプロジェクトファイル TangNanoDCJ11MEM.project.gprj を指定してOpenします。
 
 ![](images/pdp-11-cpu-2-bare-metal-gowin2.png)
 
@@ -41,7 +41,7 @@ GOWIN IDEの詳細な使用方法は省略しますが、TangNanoDCJ11MEMのソ�
 
 ![](images/pdp-11-cpu-2-bare-metal-gowin3.png)
 
-ビットストリームはapplications/baremetal/pnr/TangNanoDCJ11MEM\_project.fsに生成されます。ファイルサイズが大きいのですぐわかると思います。
+ビットストリームはapplications/baremetal/pnr/TangNanoDCJ11MEM_project.fsに生成されます。ファイルサイズが大きいのですぐわかると思います。
 
 ![](images/pdp-11-cpu-2-bare-metal-gowin4.png)
 
@@ -105,7 +105,7 @@ https://github.com/ryomuk/TangNanoDCJ11MEM/tree/main/applications/baremetal
 
 ![](images/pdp-11-cpu-2-bare-metal-asciiart-make1.png)
 
-このrom.asciiart.vは、applications/baremetal/TangNanoDCJ11MEM\_project.20240707/src にコピーして、rom.vにリネームします。rom.vはtop.vのソースでincludeされ、ビットストリームに組み込まれます。
+このrom.asciiart.vは、applications/baremetal/TangNanoDCJ11MEM_project.20240707/src にコピーして、rom.vにリネームします。rom.vはtop.vのソースでincludeされ、ビットストリームに組み込まれます。
 
 なお、コンパイル時にbin2loadが無いというエラーになった場合は以下のリポジトリのソースをbuildして/usr/local/binに置いてください。
 

@@ -57,11 +57,11 @@ $ cd ros2_setup_scripts_ubuntu
 $ ./run.sh
 ```
 
-https://github.com/Tiryoh/ros2\_setup\_scripts\_ubuntu
+https://github.com/Tiryoh/ros2_setup_scripts_ubuntu
 
 ## ルンバのROS2ドライバをRaspberry Piにインストール
 
-ルンバのROS2ドライバはAutonomyLab/create\_robotのhumbleブランチを使用しました。README.mdの通りでインストールできています。
+ルンバのROS2ドライバはAutonomyLab/create_robotのhumbleブランチを使用しました。README.mdの通りでインストールできています。
 
 ```
 $ sudo apt install build-essential cmake libboost-system-dev libboost-thread-dev
@@ -79,7 +79,7 @@ $ sudo usermod -a -G dialout $USER
 $ source ~/create_ws/install/setup.bash
 ```
 
-https://github.com/AutonomyLab/create\_robot/tree/humble
+https://github.com/AutonomyLab/create_robot/tree/humble
 
 ## ルンバとRaspberry Pi を接続する
 

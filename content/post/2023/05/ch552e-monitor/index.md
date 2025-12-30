@@ -98,11 +98,11 @@ mov scon1,#h32 ; patch by kanpapa
 
 ; .equ t2mod,0xc9 ; t2mod define
 
-; orl t2mod,#0xa0 ; Set bTMR\_CLK, bT1\_CLK ( Set Timer1 Clock, MAX Speed = Fsys = 6MHz )
+; orl t2mod,#0xa0 ; Set bTMR_CLK, bT1_CLK ( Set Timer1 Clock, MAX Speed = Fsys = 6MHz )
 
 ; ------------
 
-通信速度を設定しているSet\_baudのルーチンは以下のようにsbaud1を使うように変更しました。Timer1の設定は使用しないのでコメントアウトしています。
+通信速度を設定しているSet_baudのルーチンは以下のようにsbaud1を使うように変更しました。Timer1の設定は使用しないのでコメントアウトしています。
 
 mov sbaud1,a
 
@@ -114,7 +114,7 @@ mov sbaud1,a
 
 ; setb tr1 ; start timer for serial port
 
-あとは、ソースコードを見ながら、UART0のレジスタであるti, ri, sbufにアクセスしている部分を、UART1のレジスタ u1ti, u1ri, sbuf1 に書き換えます。書き換えた例として、chr\_outのサブルーチンを示します。
+あとは、ソースコードを見ながら、UART0のレジスタであるti, ri, sbufにアクセスしている部分を、UART1のレジスタ u1ti, u1ri, sbuf1 に書き換えます。書き換えた例として、chr_outのサブルーチンを示します。
 
 ;------------------------------------------------------------------------
 
@@ -122,7 +122,7 @@ mov sbaud1,a
 
 ;
 
-chr\_out:
+chr_out:
 
 jnb u1ti,\*
 

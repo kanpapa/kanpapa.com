@@ -7,8 +7,8 @@ categories:
 image: "images/7segduino_2.jpg"
 ---
 
-@morecat\_labさんから、7segduinoの試作版を試しませんかというツイートをみかけたのでお願いしたとこころ、7segduinoリード部品版パーツセット一式をお送りいただきました。  
-7segduinoの詳細は@morecat\_labさんのサイトで紹介されています。  
+@morecat_labさんから、7segduinoの試作版を試しませんかというツイートをみかけたのでお願いしたとこころ、7segduinoリード部品版パーツセット一式をお送りいただきました。  
+7segduinoの詳細は@morecat_labさんのサイトで紹介されています。  
 [http://morecatlab.akiba.coocan.jp/lab/index.php/aruino/7segduino/](http://morecatlab.akiba.coocan.jp/lab/index.php/aruino/7segduino/)  
 本来ですと、[SparkfunのFTDIアダプター](http://www.sparkfun.com/products/9115)がそのまま刺さるようになっていますが、私はあいにく持っていませんので、[秋月のFTDIモジュール](http://akizukidenshi.com/catalog/g/gK-01977/)を使うことにしました。  
 7segduinoの組み立てですが、ハンダ付けの経験があれば特に問題なく作れると思います。  
@@ -24,7 +24,7 @@ image: "images/7segduino_2.jpg"
 
 秋月のFTDIモジュールとの接続は、ピンーソケットケーブルで以下のように接続しました。  
 JP1(Sparkfun FTDIアダプタ)　CN2(秋月FTDIモジュール）  
-\---------------------------------------------- 
+---------------------------------------------- 
 1 GND　　　　　　　　　　　7 GND  
 2 CTS (U1-11)　　　　　　　10 CTS  
 3 Vcc (5V or 3.3V)　　　　　4 VIO  
@@ -52,4 +52,4 @@ OLYMPUS DIGITAL CAMERA
 無事動作を確認することができました。  
 最近は自動販売機の投入料金表示の7セグLEDでアニメーションをやっているのを見かけますが、あのような様々な表現を試してみたいと思います。  
 また、I/O端子にセンサー類も取り付けられるので、ブレッドボードでいろんなセンサーを接続して、気に入ったものは基板にして7segduinoに取り付けると面白いでしょう。  
-試作7segduinoをお送りいただいた@morecat\_labさんに感謝です。
+試作7segduinoをお送りいただいた@morecat_labさんに感謝です。

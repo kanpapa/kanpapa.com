@@ -9,7 +9,7 @@ tags:
 image: "images/boox_memo1.jpg"
 ---
 
-@ina\_aniさんのブログで興味あるガジェットが紹介されていました。
+@ina_aniさんのブログで興味あるガジェットが紹介されていました。
 
 - [電子ペーパー手書きタブレット BOOX Nova Pro のススメ - inajob's blog](https://inajob.hatenablog.jp/entry/boox-nova-pro "電子ペーパー手書きタブレット BOOX Nova Pro のススメ - inajob's blog ")
 
@@ -37,4 +37,4 @@ image: "images/boox_memo1.jpg"
 
 なかなか使えそうな感じです。Android端末としてみるとややもっさりした感はありますが、メモ書きとしては全く問題なく使えます。カバーを開けるとすぐ使える状態になりますし、電池の持ちもよく手元においておきたいガジェットです。
 
-@ina\_aniさんご紹介ありがとうございました。
+@ina_aniさんご紹介ありがとうございました。

@@ -29,11 +29,11 @@ image: "images/Roomba_slam_2022-03-06_15-01-35.png"
 
 ### Roombaドライバを変更
 
-これまではGazeboも動作する[RoboticaUtnFrba/create\_autonomy](https://github.com/RoboticaUtnFrba/create_autonomy)を使用していましたが、以下の記事で実機動作が確認されているgoodfield55さん改良版のRoombaドライバを使用してみました。
+これまではGazeboも動作する[RoboticaUtnFrba/create_autonomy](https://github.com/RoboticaUtnFrba/create_autonomy)を使用していましたが、以下の記事で実機動作が確認されているgoodfield55さん改良版のRoombaドライバを使用してみました。
 
 - [RaspberryPi + ROS で　ルンバを制御](https://goodfield55.blog.fc2.com/blog-entry-16.html "RaspberryPi + ROS で　ルンバを制御") （楽しい ものづくり）
 - [GoodField55/libcreate](https://github.com/GoodField55/libcreate/tree/goodfield "GoodField55/libcreate")
-- [GoodField55/create\_autonomy](https://github.com/GoodField55/create_autonomy/tree/goodfield "GoodField55/create_autonomy")
+- [GoodField55/create_autonomy](https://github.com/GoodField55/create_autonomy/tree/goodfield "GoodField55/create_autonomy")
 
 ### 地図を取得してみる
 
@@ -72,9 +72,9 @@ export ROS_HOSTNAME=192.168.0.63
 
 1\. Raspberry Piの設定
 
-2\. rplidarのlaunchファイルでlaserとbase\_footprintのリンクをpublishする設定を追加する。
+2\. rplidarのlaunchファイルでlaserとbase_footprintのリンクをpublishする設定を追加する。
 
-~/catkin\_ws/src/rplidar\_ros/launch/rplidar.launch に以下の行を追加
+~/catkin_ws/src/rplidar_ros/launch/rplidar.launch に以下の行を追加
 
 3\. Ubuntu PCでroscoreを起動する。
 
@@ -100,7 +100,7 @@ roslaunch ca_driver create_2.launch
 roslaunch rplidar_ros rplidar.launch
 ```
 
-7\. Ubuntu PCでキーボードでルンバを動かして、地図情報を取得する。(/create1/cmd\_velを/cmd\_velに変更したもの）
+7\. Ubuntu PCでキーボードでルンバを動かして、地図情報を取得する。(/create1/cmd_velを/cmd_velに変更したもの）
 
 ```
 roslaunch ca_tools keyboard_teleop2.launch
@@ -155,7 +155,7 @@ rosrun map_server map_saver -f my_map3
 
 ### 生成した地図の確認
 
-地図のデータをmap\_serverで配信します。
+地図のデータをmap_serverで配信します。
 
 ```
 $ rosrun map_server map_server my_map3.yaml

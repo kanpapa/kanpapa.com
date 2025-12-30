@@ -21,7 +21,7 @@ image: "images/v20_mbc_cpu_changed.jpg"
 
 ![v20_mbc_pcb1.jpg](images/v20_mbc_pcb1.jpg) <!--more-->
 
-基板へのパーツの取り付けも完了し、久々にAtmel Studio 7のTools/Device ProgrammingとAVRISPmkIIでATMEGA32Aにウェブに掲載されているS260320\_R230520.ino.with\_bootloader\_atmega32\_16000000L.hexをそのまま書き込みました。FusesとLock bitを書き込むのもお忘れなく。電源はUSBシリアル基板の+5Vを使いました。
+基板へのパーツの取り付けも完了し、久々にAtmel Studio 7のTools/Device ProgrammingとAVRISPmkIIでATMEGA32Aにウェブに掲載されているS260320_R230520.ino.with_bootloader_atmega32_16000000L.hexをそのまま書き込みました。FusesとLock bitを書き込むのもお忘れなく。電源はUSBシリアル基板の+5Vを使いました。
 
 その後、手持ちのSDカードにSD-S260320-R230520-v3.zipを展開したものをそのままコピーし、SDカードモジュールにセットして基板に取り付けました。RTCモジュールも持っていたので同様に接続しました。
 
@@ -29,7 +29,7 @@ image: "images/v20_mbc_cpu_changed.jpg"
 
 ![v20_mbc_read_bus_cycle_timeout.png](images/v20_mbc_read_bus_cycle_timeout.png)
 
-このメッセージを表示しているところをS260320-R230520\_IOS\_V20-MBC.zipのS260320\_R230520.inoで確認したところ、Read Bus Cycleがタイムアウトになっているようで、バスの読み込みがうまくできないようです。
+このメッセージを表示しているところをS260320-R230520_IOS_V20-MBC.zipのS260320_R230520.inoで確認したところ、Read Bus Cycleがタイムアウトになっているようで、バスの読み込みがうまくできないようです。
 
 このメッセージが表示されていて動かないとTweetしたところ、@yanatokuさんからSDカードの相性かもしれないとのことで、SDカードを交換したところ、BINファイルを読み込み、少し進んだようですが、結局無反応になってしまいました。
 

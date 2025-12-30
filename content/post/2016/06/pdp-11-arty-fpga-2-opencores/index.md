@@ -37,7 +37,7 @@ OpenCoresのページからアカウントを登録します。このアカウ�
 
 ## PDP-11のソースツリーをチェックアウト
 
-OpenCoresのPDP-11のソースツリーをsvnでチェックアウトします。作業用のディレクトリはoc\_w11としましたが、任意の名前で構いません。
+OpenCoresのPDP-11のソースツリーをsvnでチェックアウトします。作業用のディレクトリはoc_w11としましたが、任意の名前で構いません。
 
 ```
 $ cd$ mkdir oc_w11$ cd oc_w11$ svn --username OCアカウント co http://opencores.org/ocsvn/w11/w11/trunkパスワードを聞いてくるのでOpenCoresのパスワードを入力する。   :A    trunk/.cvsignoreA    trunk/MakefileU   trunkリビジョン 35 をチェックアウトしました。$

@@ -23,7 +23,7 @@ image: "images/dip_arm_lpclink.jpg"
 
 **3\. LEDの接続**
 
-ブレッドボードにLPC1114FN28を取り付けて、LPCXpresso LPC1114と同じように、PIO0\_7 (28番ピン）に330Ωの抵抗を入れてLEDを接続し、GNDにつなぎました。
+ブレッドボードにLPC1114FN28を取り付けて、LPCXpresso LPC1114と同じように、PIO0_7 (28番ピン）に330Ωの抵抗を入れてLEDを接続し、GNDにつなぎました。
 
 **4\. LPC-Linkとの接続**
 
@@ -37,21 +37,21 @@ LPCXpressoをインストールすると、インストールされたディレ�
 
 Mac版の場合ですと、
 
-/Applications/lpcxpresso\_4.2.4\_267/lpcxpresso/Examples/NXP/
+/Applications/lpcxpresso_4.2.4_267/lpcxpresso/Examples/NXP/
 
-LPC1000/LPC11xx/LPCXpresso1114\_cmsis2.zip
+LPC1000/LPC11xx/LPCXpresso1114_cmsis2.zip
 
 になります。
 
-LPCXpressoを立ち上げて、左下のQuickstartのメニューにあるImport and ExportのImport archived projects (zip)で上記のZIPファイルを取り込みます。取り込みが完了するといくつかのプロジェクトができますが、LチカはLPCX1114\_cmsis2\_systickが該当します。
+LPCXpressoを立ち上げて、左下のQuickstartのメニューにあるImport and ExportのImport archived projects (zip)で上記のZIPファイルを取り込みます。取り込みが完了するといくつかのプロジェクトができますが、LチカはLPCX1114_cmsis2_systickが該当します。
 
-説明書の裏面にあるLPCXpressoでデバックするときのTipsに従って、ターゲットマイコンをLPC1114FN/102にして、ClockソースをIRCにします。説明書に書かれているsystem\_LPC11xx.cはCMSISv2p00\_LPC11xxのプロジェクトのsrcにありますので、このファイルを修正します。
+説明書の裏面にあるLPCXpressoでデバックするときのTipsに従って、ターゲットマイコンをLPC1114FN/102にして、ClockソースをIRCにします。説明書に書かれているsystem_LPC11xx.cはCMSISv2p00_LPC11xxのプロジェクトのsrcにありますので、このファイルを修正します。
 
-修正後にLPCX1114\_cmsis2\_systickのプロジェクトをビルドするとバイナリができあがります。
+修正後にLPCX1114_cmsis2_systickのプロジェクトをビルドするとバイナリができあがります。
 
 **6\. LPC-Linkデバッカで動かす。**
 
-ビルドができたら、左下のQuickstartのメニューにあるDebug and RunのDebug 'LPC1114\_cmsis\_systick' \[debug\]をクリックすると、LPC-Link経由でプログラムがマイコンに書き込まれます。あとはRunメニューでステップ実行をするもよし、動かしてみてください。
+ビルドができたら、左下のQuickstartのメニューにあるDebug and RunのDebug 'LPC1114_cmsis_systick' \[debug\]をクリックすると、LPC-Link経由でプログラムがマイコンに書き込まれます。あとはRunメニューでステップ実行をするもよし、動かしてみてください。
 
 動作中の画像はこちらです。ゆっくり点滅していますが、systick.cを修正して点滅速度を変えることもできます。
 

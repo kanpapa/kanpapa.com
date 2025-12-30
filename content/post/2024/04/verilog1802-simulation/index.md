@@ -23,7 +23,7 @@ FPGAで動作させる前に、このverilog1802が動くかどうかをシミ�
 
 https://bleyer.org/icarus
 
-公式サイトから iverilog-v12-20220611-x64\_setup \[18.2MB\] をダウンロードしてインストールしました。
+公式サイトから iverilog-v12-20220611-x64_setup \[18.2MB\] をダウンロードしてインストールしました。
 
 ## テストベンチを書いてみる
 
@@ -37,11 +37,11 @@ https://bleyer.org/icarus
 
 このコードを動作させるためのテストベンチを書きました。RAM領域にCOSMACの4バイトのプログラムを書き込んでおき、RESET信号を出力したあとに、CPUクロックを255個与えるものになっています。ソースコードはforkしたiverilog-testブランチに置いておきました。
 
-https://github.com/kanpapa/verilog1802/blob/iverilog-test/t\_testbench.v
+https://github.com/kanpapa/verilog1802/blob/iverilog-test/t_testbench.v
 
 ## シミュレーターの実行
 
-verilog1802のリポジトリにあるcdp1802.vとram.vをそのまま使い、先ほど作成したテストベンチをt\_testbench.vとしています。コマンドプロンプトを立ち上げて以下のように入力します。
+verilog1802のリポジトリにあるcdp1802.vとram.vをそのまま使い、先ほど作成したテストベンチをt_testbench.vとしています。コマンドプロンプトを立ち上げて以下のように入力します。
 
 ```
 C:\Users\ocha\verilog1802>iverilog -o testbench cdp1802.v ram.v t_testbench.v
@@ -65,7 +65,7 @@ https://github.com/kanpapa/verilog1802/blob/iverilog-test/iverilog-run.bat
 
 ![](images/verilog1802-sim1.png)
 
-ram\_aはRAMのアドレスバスです。0000番地から0004番地を順番に読み込んでいます。ram\_qはRAMに書き込んだ４バイトのプログラムがみえます。これを解釈してQに１，０の繰り返し出力ができています。基本的なSEQ、REQ、BRのみの確認にはなりますが、他の命令も同様に動くものと思われます。
+ram_aはRAMのアドレスバスです。0000番地から0004番地を順番に読み込んでいます。ram_qはRAMに書き込んだ４バイトのプログラムがみえます。これを解釈してQに１，０の繰り返し出力ができています。基本的なSEQ、REQ、BRのみの確認にはなりますが、他の命令も同様に動くものと思われます。
 
 ## まとめ
 

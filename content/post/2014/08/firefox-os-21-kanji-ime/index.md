@@ -77,7 +77,7 @@ MD5SUM = md5 -r
 ```
 
 日本語リソースの組み込み  
-https://hg.mozilla.org/releases/gaia-l10n/v2\_0から日本語リソースをダウンロード  
+https://hg.mozilla.org/releases/gaia-l10n/v2_0から日本語リソースをダウンロード  
 ダウンロードした日本語リソースをホームディレクトリに展開
 
 ```

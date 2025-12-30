@@ -42,7 +42,7 @@ image: images/hdsp-2121-udc_rabbit_test.jpg
 
 プログラミングはArduino IDE ESP32を使用します。このLEDディスプレイはデータバスが8ビットパラレル接続となっているため、ESP32のGPIOレジスタを直接操作することで簡略化を図っています。
 
-- [esp32\_parallel\_bus.ino](https://github.com/kanpapa/newyear2023/blob/main/esp32_parallel_bus/esp32_parallel_bus.ino "esp32_parallel_bus.ino")
+- [esp32_parallel_bus.ino](https://github.com/kanpapa/newyear2023/blob/main/esp32_parallel_bus/esp32_parallel_bus.ino "esp32_parallel_bus.ino")
 
 このプログラムでLEDに文字を表示することができたのですが、アルファベットを表示したつもりが、なぜかカナ文字が表示されてしまいました。
 
@@ -86,7 +86,7 @@ image: images/hdsp-2121-udc_rabbit_test.jpg
 
 これを使いサンプルプログラムを修正して、GPSのシリアル信号から時刻情報をシリアルモニタに表示するプログラムを書きました。
 
-- [esp32\_gpsclock\_serial\_test.ino](https://github.com/kanpapa/newyear2023/blob/main/esp32_gpsclock_serial_test/esp32_gpsclock_serial_test.ino "esp32_gpsclock_serial_test.ino")
+- [esp32_gpsclock_serial_test.ino](https://github.com/kanpapa/newyear2023/blob/main/esp32_gpsclock_serial_test/esp32_gpsclock_serial_test.ino "esp32_gpsclock_serial_test.ino")
 
 ESP32-DEVKITとGPSモジュールは以下のように接続しました。
 
@@ -105,7 +105,7 @@ ESP32-DEVKITとGPSモジュールは以下のように接続しました。
 
 これまで作成したGPS時計とLEDディスプレイを組み合わせます。プログラムは以下のようになりました。
 
-- [esp32\_newyear2023.ino](https://github.com/kanpapa/newyear2023/blob/main/esp32_newyear2023/esp32_newyear2023.ino "esp32_newyear2023.ino")
+- [esp32_newyear2023.ino](https://github.com/kanpapa/newyear2023/blob/main/esp32_newyear2023/esp32_newyear2023.ino "esp32_newyear2023.ino")
 
 プログラムでは新年になった瞬間にあけおめ画面が切り替わるようにしています。最終的なハードウェアは写真のようになりました。
 

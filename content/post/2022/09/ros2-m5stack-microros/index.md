@@ -33,7 +33,7 @@ M5StackにおけるArduinoIDEの使い方は一般的なので簡単にまとめ
 
 これは[M5Stack公式マニュアル](https://docs.m5stack.com/en/arduino/arduino_development "M5Stack Arduino IDE Development")通りにすすめます。すでにM5Stackの開発環境がセットアップされていれば不要です。
 
-1. 「ファイル」→「環境設定」→「追加のボードマネージャーのURLを設定」で https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package\_m5stack\_index.json を指定。
+1. 「ファイル」→「環境設定」→「追加のボードマネージャーのURLを設定」で https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json を指定。
 2. 「ツール」→「ボード」→「ボードマネージャー」→「M5Stack」を検索してインストール
 3. 「スケッチ」→「ライブラリをインクルード」→「ライブラリを管理...」から「M5Stack」ライブラリをインストール
 
@@ -45,11 +45,11 @@ GitHubにある[micro-ROS for Arduino公式マニュアル](https://github.com/m
 
 GitHubに登録されているZIPファイルをダウンロードし、Arduino IDEの「ライブラリの管理...」の「.Zip形式のライブラリをインストール」で読み込みます。
 
-正常に読み込めればライブラリの一覧に「micro\_ros\_arduino」が追加されます。
+正常に読み込めればライブラリの一覧に「micro_ros_arduino」が追加されます。
 
 #### 3\. micro-ROSのサンプルプログラムのビルドとM5Stackへの書き込み
 
-micro-ROSのサンプルプログラム([micro-ros\_publisher\_wifi.ino](https://github.com/micro-ROS/micro_ros_arduino/blob/foxy/examples/micro-ros_publisher_wifi/micro-ros_publisher_wifi.ino "micro-ros_publisher_wifi.ino"))をM5Stack用に修正したものを使います。
+micro-ROSのサンプルプログラム([micro-ros_publisher_wifi.ino](https://github.com/micro-ROS/micro_ros_arduino/blob/foxy/examples/micro-ros_publisher_wifi/micro-ros_publisher_wifi.ino "micro-ros_publisher_wifi.ino"))をM5Stack用に修正したものを使います。
 
 今回はM5Stackのバッテリーレベルをtopicとして配信するようにしました。WiFiの設定のところはWiFiのSSIDとパスフレーズとmicro-ROS-Agentが動作するPCのIPアドレスに書き換える必要があります。
 
@@ -61,7 +61,7 @@ micro-ROSのサンプルプログラム([micro-ros\_publisher\_wifi.ino](https:/
 
 ### PC側の設定
 
-これも[micro-ROS-Agentの公式マニュアル](https://github.com/micro-ROS/micro_ros_setup "micro_ros_setup")に沿って設定します。なお、環境変数 ROS\_DOMAIN\_IDを設定していると動作しませんので、unset ROS\_DOMAIN\_ID で環境変数を削除してください。
+これも[micro-ROS-Agentの公式マニュアル](https://github.com/micro-ROS/micro_ros_setup "micro_ros_setup")に沿って設定します。なお、環境変数 ROS_DOMAIN_IDを設定していると動作しませんので、unset ROS_DOMAIN_ID で環境変数を削除してください。
 
 #### 1.micro-ROS-Agentのセットアップ
 
@@ -76,7 +76,7 @@ source install/local_setup.bash
 
 #### 2.micro-ROS-Agentをビルドして実行します。
 
-cd ~/uros\_ws  
+cd ~/uros_ws  
 `ros2 run micro_ros_setup create_agent_ws.sh ros2 run micro_ros_setup build_agent.sh source install/local_setup.sh ros2 run micro_ros_agent micro_ros_agent udp4 --port 8888`
 
 micro-ROSが動いているM5StackとAgentがつながると以下のような画面になります。

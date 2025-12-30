@@ -52,7 +52,7 @@ EhBASICのソースをアセンブルして生成されたSレコードをDレ�
 
 ![mc68ez328_dragonone_sbc_ehbasic_load1.png](images/mc68ez328_dragonone_sbc_ehbasic_load1.png)
 
-最初は動きがおかしかったのですが、VEC\_OUTでD0レジスタを破壊しないように修正したところ正常に動くようになりました。
+最初は動きがおかしかったのですが、VEC_OUTでD0レジスタを破壊しないように修正したところ正常に動くようになりました。
 
 ここまで動けばASCIIARTベンチマークの実行です。ただし、オリジナルのソースをつかうと"NEXT without FOR Error"となってしまいました。EhBASICではFOR NEXTループを脱出できない仕様のようで、一番内側のFOR NEXTループをIFループにすることで実行できました。
 

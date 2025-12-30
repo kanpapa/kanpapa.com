@@ -46,19 +46,19 @@ $ roslaunch ca_tools keyboard_teleop.launch
 - TF(座標変換：transformation)の表示  
     - TFのFramesでAll Enabledにチェックを入れると様々な座標が見えます。
     - 見やすくするために以下のところだけチェックをいれます。
-        - create1/base\_footprint
-        - create1/base\_link
+        - create1/base_footprint
+        - create1/base_link
         - create1/odm
-        - create1/wheel\_left\_link
-        - create1/wheel\_right\_link
+        - create1/wheel_left_link
+        - create1/wheel_right_link
         - map
-    - Addボタンを押す→By display typeでtfを選択→Topicで/create1/base\_footprintを選択→OK
+    - Addボタンを押す→By display typeでtfを選択→Topicで/create1/base_footprintを選択→OK
 - LaserScanの表示
     - Addボタンを押す→By display typeでLaserScanを選択→Topicで/create1/rplider/scanを選択→OK
 
 4\. 2枚目のターミナルからキーボードでルンバを動かしてみる
 
-- create1/wheel\_left\_link, create1/wheel\_right\_link の座標が回転しているのがわかります。
+- create1/wheel_left_link, create1/wheel_right_link の座標が回転しているのがわかります。
 - create1/odom や /map は元の位置にとどまっているのがわかります。
 
 ![rviz_sample3_20211106.png](images/rviz_sample3_20211106.png)
@@ -69,11 +69,11 @@ $ roslaunch ca_tools keyboard_teleop.launch
 
 - map　ワールドの原点（大体は起動した絶対的な位置）
 - create1/odom　ワールドの基準点（様々な原因で起こる微妙なずれを調整するためのもの）
-- create1/base\_footprint ロボットの現在位置（車軸の中心の地上面）
-- create1/base\_link ロボットの基準位置
-- create1/battery\_link　バッテリーの位置
-- create1/wheel\_left\_link　 左車輪の位置
-- create1/wheel\_right\_link　右車輪の位置
+- create1/base_footprint ロボットの現在位置（車軸の中心の地上面）
+- create1/base_link ロボットの基準位置
+- create1/battery_link　バッテリーの位置
+- create1/wheel_left_link　 左車輪の位置
+- create1/wheel_right_link　右車輪の位置
 
 ### URDFをRvizで見てみる
 
@@ -89,7 +89,7 @@ URDF (Unified Robot Description Format)は、ロボットの構造を記述す�
 
 #### 初期設定
 
-１．ca\_driverのconfigファイルで/tfをpublishするように設定する。
+１．ca_driverのconfigファイルで/tfをpublishするように設定する。
 
 - 変更するファイル
 
@@ -103,7 +103,7 @@ URDF (Unified Robot Description Format)は、ロボットの構造を記述す�
 # Whether to publish the transform between odom_frame and base_frame#publish_tf: falsepublish_tf: true
 ```
 
-２．rplidarのlaunchファイルでlaserとbase\_footprintのリンクをpublishするように設定する。
+２．rplidarのlaunchファイルでlaserとbase_footprintのリンクをpublishするように設定する。
 
 - 変更するファイル
 

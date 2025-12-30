@@ -14,7 +14,7 @@ image: "images/roomba_dispvolv_led.jpg"
 具体的には以下の処理を行います。
 
 1. ルンバからはバッテリー電圧の情報(battery/voltage)が配信されていますので、これをSubscribeします。
-2. 受け取ったバッテリー電圧の情報を使って、LEDを表示する指令(set\_ascii)をPublishします。
+2. 受け取ったバッテリー電圧の情報を使って、LEDを表示する指令(set_ascii)をPublishします。
 3. ルンバではLEDを表示する指令をSubscribeして、LEDを点灯させます。
 
 これを繰り返せばバッテリ電圧がリアルタイムで表示されるはずです。
@@ -35,7 +35,7 @@ image: "images/roomba_dispvolv_led.jpg"
 
 ### ノードを動かしてみる
 
-ルンバのROS2ドライバを動かしておき、今回作成したノード(dispvolt\_node)を動かしてみます。
+ルンバのROS2ドライバを動かしておき、今回作成したノード(dispvolt_node)を動かしてみます。
 
 ![roomba_dispvolv_node_run.png](images/roomba_dispvolv_node_run.png)
 
@@ -45,7 +45,7 @@ image: "images/roomba_dispvolv_led.jpg"
 
 ![roomba_dispvolv_led.jpg](images/roomba_dispvolv_led.jpg)
 
-rqt\_graphでも確認してみました。意図した構造になっています。
+rqt_graphでも確認してみました。意図した構造になっています。
 
 ![roomba_dispvolv_rqtgraph1.png](images/roomba_dispvolv_rqtgraph1.png)
 
@@ -53,4 +53,4 @@ rqt\_graphでも確認してみました。意図した構造になっていま�
 
 ルンバから配信される情報を受信して、それに応じた結果をルンバに返すという簡単なノードを作ることができました。
 
-今回はシンプルなものですが、もう少し拡張してバッテリー電圧が低下してきたら、CHECK LEDを点灯させたり、play\_songでアラート音を出したりといったこともできそうです。
+今回はシンプルなものですが、もう少し拡張してバッテリー電圧が低下してきたら、CHECK LEDを点灯させたり、play_songでアラート音を出したりといったこともできそうです。

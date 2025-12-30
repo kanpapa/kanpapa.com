@@ -16,7 +16,7 @@ image: "images/roomba_all_led_on.jpg"
 
 ### ルンバのSubscribers
 
-ルンバで扱えるtopicはcreate\_robotの[README.md](https://github.com/AutonomyLab/create_robot/blob/foxy/README.md "README.md")にまとまっています。これを試していきます。
+ルンバで扱えるtopicはcreate_robotの[README.md](https://github.com/AutonomyLab/create_robot/blob/foxy/README.md "README.md")にまとまっています。これを試していきます。
 
 まずはルンバにつながっているRaspberry PiでROS2ドライバを動かします。
 
@@ -48,13 +48,13 @@ $ ros2 topic pub --once /check_led std_msgs/Bool "data: false"
 
 ルンバでは4種類の曲をあらかじめ登録できます。1曲は最大16個の音階と音長で構成されます。
 
-まずdefile\_songというtopicを発行して、1曲分のデータを登録します。
+まずdefile_songというtopicを発行して、1曲分のデータを登録します。
 
 ```
 $ ros2 topic pub --once /define_song create_msgs/DefineSong "{song: 0,length: 16,notes: [78,77,76,75,74,73,72,71,70,69,68,67,66,65,64,63],durations: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]}"
 ```
 
-曲の登録を行ったあとにplay\_songというtopicを発行して、曲番号を指定します。
+曲の登録を行ったあとにplay_songというtopicを発行して、曲番号を指定します。
 
 ```
 $ ros2 topic pub --once  /play_song create_msgs/PlaySong "song: 0"
@@ -70,4 +70,4 @@ $ ros2 topic pub --once  /play_song create_msgs/PlaySong "song: 0"
 
 今回試したtopicはGitHubにまとめておきました。
 
-- [RoombaControlls/roomba\_subscribers.md at main · docofab/RoombaControlls (github.com)](https://github.com/docofab/RoombaControlls/blob/main/ROS2/roomba_subscribers.md)
+- [RoombaControlls/roomba_subscribers.md at main · docofab/RoombaControlls (github.com)](https://github.com/docofab/RoombaControlls/blob/main/ROS2/roomba_subscribers.md)

@@ -85,7 +85,7 @@ Raspberry Pi 5本体の温度を確認してみます。SoCチップは指でち
 
 ![](images/raspberrypi5-1st-impression-16.jpg)
 
-正確な温度を知るために vcgencmd measure\_temp コマンドを入力してみると、62.6℃でした。少し熱くなっているようですが、まだ動作に支障はなさそうです。
+正確な温度を知るために vcgencmd measure_temp コマンドを入力してみると、62.6℃でした。少し熱くなっているようですが、まだ動作に支障はなさそうです。
 
 ![](images/raspberrypi5-1st-impression-15.jpg)
 

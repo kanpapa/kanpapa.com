@@ -23,7 +23,7 @@ COSMAC MBC拡張ボードに実装されている入出力ポート[CDP1852](htt
 
 プログラムリストは長くなりますので、GitHub.comに置きました。
 
-- [lcd2\_1852.lst](https://github.com/kanpapa/cosmac/blob/master/ut4/lcd2_1852.lst "lcd2_1852.lst")
+- [lcd2_1852.lst](https://github.com/kanpapa/cosmac/blob/master/ut4/lcd2_1852.lst "lcd2_1852.lst")
 
 CDP1852から正しいデータが出力されているかの確認は[格安ロジアナ](https://www.amazon.co.jp/gp/product/B01N0KMLHX/ "格安ロジアナ")で行いました。
 

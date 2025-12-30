@@ -68,7 +68,7 @@ REST APIを使おうといろいろ試してみたのですが、No such file or
 
 スイッチサイエンスのWebページによるとOSのアップデートが必要のようです。
 
-https://trac.switch-science.com/wiki/linino\_one\_restapi
+https://trac.switch-science.com/wiki/linino_one_restapi
 
 残念ですが、REST APIの使用はあきらめました。
 

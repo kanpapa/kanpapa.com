@@ -82,7 +82,7 @@ pi@raspberrypi:~$
 
 ```
 
-ばっちりwlan0で認識されていますが、この時点ではWi-Fiのアクセスポイントの設定をしていないのでネットワークに接続できていません。/etc/wpa\_supplicant/wpa\_supplicant.confにWi-Fiのアクセスポイントの情報を設定すれば起動と同時にネットワークに接続されます。
+ばっちりwlan0で認識されていますが、この時点ではWi-Fiのアクセスポイントの設定をしていないのでネットワークに接続できていません。/etc/wpa_supplicant/wpa_supplicant.confにWi-Fiのアクセスポイントの情報を設定すれば起動と同時にネットワークに接続されます。
 
 ここまでできればUSBシリアルコンソールは不要です。Raspberry Pi Zeroに電源が入っていれば無線LAN経由でsshログインができます。
 

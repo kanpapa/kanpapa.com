@@ -21,7 +21,7 @@ image: images/tangnanodcj11mem-ptapebasic-running1.jpg
 
 PDP-11でプログラムを実行させる際にデータが記録されている紙テープを紙テープリーダーで読み込んでメモリにプログラムをロードすることを行っていました。当時の紙テープのデータをまとめたアーカイブが存在します。
 
-https://www.vaxhaven.com/Paper\_Tape\_Archive
+https://www.vaxhaven.com/Paper_Tape_Archive
 
 この紙テープデータを読み込む機能がPDP11GUIにありますので、それを使ってみます。
 
@@ -86,7 +86,7 @@ HELLO WORLDと表示することができました。
 
 PDP-11 BASICのマニュアルは以下にあります。実数も使えるBASICです。
 
-[https://retrocmp.com/attachments/article/254/DEC-11-AJPB-D\_PDP-11\_BASIC\_Programming\_Manual\_Dec70.pdf](https://retrocmp.com/attachments/article/254/DEC-11-AJPB-D_PDP-11_BASIC_Programming_Manual_Dec70.pdf)
+[https://retrocmp.com/attachments/article/254/DEC-11-AJPB-D_PDP-11_BASIC_Programming_Manual_Dec70.pdf](https://retrocmp.com/attachments/article/254/DEC-11-AJPB-D_PDP-11_BASIC_Programming_Manual_Dec70.pdf)
 
 PDP-11 BASICでいつもの[ASCIIART(マンデルブロ集合)ベンチマーク](http://haserin09.la.coocan.jp/asciiart.html)を実行してみようとしたのですが、PDP-11 BASICにおいて以下の制約があるためやむなくプログラムを改変して実行しています。このため実行時間はあくまでも参考値としてください。
 

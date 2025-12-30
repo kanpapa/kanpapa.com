@@ -16,7 +16,7 @@ image: "images/MC68EZ328CPU.jpg"
 
 このCPUはブートストラップモードがあり、CPUに水晶をつなぐだけで、シリアルポートにPCを接続して、BBUG.EXEというDOSプログラムを使ってメモリの表示、メモリの変更、プログラムのロード、および実行を行うことができます。外付けメモリが全く無くても動くのが面白いところです。まずはCPU単体を動かし、メモリを接続し、プログラムをロードして実行するまでがシリアルポートとBBUG.EXEだけで済んでしまうのです。大掛かりな開発ツールや専用の開発用機器は不要です。
 
-BBUG.EXEはMC68EZ328ADSTOOLS2\_0.zipというファイルに含まれています。[www.](http://www.nxp.com/ "NXP Semiconductors")[nxp.com](http://www.nxp.com/ "NXP Semiconductors")のサイトで検索すれば見つかります。
+BBUG.EXEはMC68EZ328ADSTOOLS2_0.zipというファイルに含まれています。[www.](http://www.nxp.com/ "NXP Semiconductors")[nxp.com](http://www.nxp.com/ "NXP Semiconductors")のサイトで検索すれば見つかります。
 
 DragonBall-EZのユーザーズマニュアルやドキュメントもwww.nxp.comから入手することができます。
 

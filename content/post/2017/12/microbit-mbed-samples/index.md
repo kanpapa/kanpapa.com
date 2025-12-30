@@ -41,9 +41,9 @@ microbit-samplesの中にあるsourceディレクトリがmicro:bitの各機能�
 
 ```
 
-初期値は「#define MICROBIT\_SAMPLE\_HELLO\_WORLD」が指定されていて、Hello\_World.cppがコンパイルされます。
+初期値は「#define MICROBIT_SAMPLE_HELLO_WORLD」が指定されていて、Hello_World.cppがコンパイルされます。
 
-例えば、AccelerometerDemo.cppを試したい場合は、以下のように「#define　MICROBIT\_SAMPLE\_HELLO\_WORLD」をコメントにして、「#define　MICROBIT\_SAMPLE\_ACCELEROMETER\_DEMO」のコメントを外します。
+例えば、AccelerometerDemo.cppを試したい場合は、以下のように「#define　MICROBIT_SAMPLE_HELLO_WORLD」をコメントにして、「#define　MICROBIT_SAMPLE_ACCELEROMETER_DEMO」のコメントを外します。
 
 ```
 //#define     MICROBIT_SAMPLE_HELLO_WORLD
@@ -53,6 +53,6 @@ microbit-samplesの中にあるsourceディレクトリがmicro:bitの各機能�
 
 このようにすれば、AccelerometerDemo.cppの内容がコンパイルされます。
 
-注意すべき点としては、各\*.cppファイルにはmain関数がありますので、どれか１つだけコメントを外すようにしてください。
+注意すべき点としては、各*.cppファイルにはmain関数がありますので、どれか１つだけコメントを外すようにしてください。
 
 このサンプルプログラムを組み合わせることで、micro:bitに搭載されている機能を組み合わせることができると思います。

@@ -33,7 +33,7 @@ ARMが乗ったMacが発売されるということで早速注文してしま�
 
 ![M1_Rosetta2.jpeg](images/M1_Rosetta2.jpeg)
 
-Rosettaが自動的にインストールされ、Chromeのx86\_64のバイナリをM1プロセッサ用に翻訳してくれます。起動後にChromeのバージョン情報を確認するとアーキテクチャのところに「（x86\_64 翻訳）」と表示されています。
+Rosettaが自動的にインストールされ、Chromeのx86_64のバイナリをM1プロセッサ用に翻訳してくれます。起動後にChromeのバージョン情報を確認するとアーキテクチャのところに「（x86_64 翻訳）」と表示されています。
 
 ChromeでWebサイトをみてみましたが、スピードも問題なく普通に動きます。なかなかよくできていると思います。
 
@@ -75,12 +75,12 @@ Arduino IDEはM1 MacBook Airでも問題なく使えることがわかりまし�
 
 1. Arduino IDEの環境設定から、/Users/...../preferences.txt のリンクをクリックして、フォルダを開く。
 
-3. packages/esp32/hardware/esp32/1.x.x フォルダの中にある plathome.txtを開き、7行目にある tools.esptool\_py.cmd=esptool となっている部分を tools.esptool\_py.cmd=esptool.py と書き換えて保存する。
+3. packages/esp32/hardware/esp32/1.x.x フォルダの中にある plathome.txtを開き、7行目にある tools.esptool_py.cmd=esptool となっている部分を tools.esptool_py.cmd=esptool.py と書き換えて保存する。
 
-5. packages/esp32/hardware/esp32/1.x.x/tools フォルダにある esptool.py を packages/esp32/tools/esptool\_py/2.x.x/ フォルダにコピーする。
+5. packages/esp32/hardware/esp32/1.x.x/tools フォルダにある esptool.py を packages/esp32/tools/esptool_py/2.x.x/ フォルダにコピーする。
 
 7. 以下のコマンドで、コピーした esptool.py に実行権限をつける。  
-    chmod +x packages/esp32/tools/esptool\_py/2.x.x/esptool.py
+    chmod +x packages/esp32/tools/esptool_py/2.x.x/esptool.py
 
 スクリーンキャプチャが記事にありますのでそれを確認しながら行うことをお勧めします。
 

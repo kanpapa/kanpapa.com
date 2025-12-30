@@ -15,7 +15,7 @@ image: "images/63b03_lilbug_07.jpg"
 
 まずは63B03用のモニタを探します。検索したところ以下のモニタがみつかりました。
 
-- [MC6801L1UM\_LILbug\_Monitor\_for\_the\_MC6801L\_Aug80.pdf](ftp://bitsavers.informatik.uni-stuttgart.de/components/motorola/6801/MC6801L1UM_LILbug_Monitor_for_the_MC6801L_Aug80.pdf "MC6801L1UM_LILbug_Monitor")
+- [MC6801L1UM_LILbug_Monitor_for_the_MC6801L_Aug80.pdf](ftp://bitsavers.informatik.uni-stuttgart.de/components/motorola/6801/MC6801L1UM_LILbug_Monitor_for_the_MC6801L_Aug80.pdf "MC6801L1UM_LILbug_Monitor")
 
 モトローラ純正のMC6801用のモニタのようです。PDFファイルにソースリストが載っていますが、ソースファイルもLILBUG.ASMで検索すると見つけることができました。
 

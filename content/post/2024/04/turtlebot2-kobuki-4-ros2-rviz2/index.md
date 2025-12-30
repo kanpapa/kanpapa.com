@@ -15,7 +15,7 @@ image: images/turtlebot2-kobuki-4-ros2-rviz2-eyecatch.png
 
 ## Rviz2でkobukiの情報を可視化してみる
 
-kobuki\_nodeとteleop\_twist\_keyboardを動かしている状態でRviz2を起動してみました。
+kobuki_nodeとteleop_twist_keyboardを動かしている状態でRviz2を起動してみました。
 
 ```
 $ ros2 launch kobuki_node kobuki_node-launch.py
@@ -25,13 +25,13 @@ $ rviz2
 
 ![](images/turtlebot2-kobuki-rviz2-kobuki-node-only1-1024x549.png)
 
-Rviz2でTF（transform）を表示すると2つの座標が見えています。最初はodomとbase\_footprintは同じ座標のため重なって表示されていますが、車輪を接地しない状態でキーボードで前後に動かすと、odomの座標とbase\_footprintの座標の位置関係が変化します。
+Rviz2でTF（transform）を表示すると2つの座標が見えています。最初はodomとbase_footprintは同じ座標のため重なって表示されていますが、車輪を接地しない状態でキーボードで前後に動かすと、odomの座標とbase_footprintの座標の位置関係が変化します。
 
 {{< youtube V3W6gjqEXoU >}}
 
 これはモーターの車軸に取り付けられているエンコーダが計測した車輪の回転方向と回転角度から割り出したロボットの座標がRviz2に表示されています。ただし、左右に回転した場合は何も変化がありません。これは座標自体には変化はなく、車輪を浮かせているため向きの情報が反映されないためでしょう。
 
-この状態でノードとトピックの情報をrqt\_graphコマンドで可視化してみます。
+この状態でノードとトピックの情報をrqt_graphコマンドで可視化してみます。
 
 ```
 $ rqt_graph
@@ -39,7 +39,7 @@ $ rqt_graph
 
 ![](images/turtlebot2-kobuki-node-only-rqt-graph1-1024x79.png)
 
-teleop\_twist\_keyboardノードから発行された/commands/velocityトピックを/kobukiノードが受信してモーターを動かし、TFの情報をRviz2が受信して表示していることがわかります。
+teleop_twist_keyboardノードから発行された/commands/velocityトピックを/kobukiノードが受信してモーターを動かし、TFの情報をRviz2が受信して表示していることがわかります。
 
 さらにTFの状態を見てみます。
 
@@ -49,13 +49,13 @@ $ ros2 run tf2_tools view_frames
 
 ![](images/turtlebot2-kobuki-node-only-tf2tools-view-frames1.png)
 
-Rviz2に表示されているodomとbase\_footprintが表示されました。
+Rviz2に表示されているodomとbase_footprintが表示されました。
 
 ## kobukiの詳細な情報を可視化してみる
 
 この時点では車輪の位置などもっと細かなTFが流れてきていないようです。
 
-確認したところkobuki\_descriptionでこの辺りの情報を流しているようでしたので、新たにターミナルを開いてノードを起動してみました。
+確認したところkobuki_descriptionでこの辺りの情報を流しているようでしたので、新たにターミナルを開いてノードを起動してみました。
 
 ```
 $ ros2 launch kobuki_description robot_description.launch.py
@@ -73,17 +73,17 @@ kobukiを持ち上げて左右に動かしてみるとRviz2の画面でも左右
 
 ![](images/turtlebot2-kobuki-node-description-rqt-graph1-1024x91.png)
 
-新たにrobot\_state\_publisherノードとjoint\_state\_publisherノードが追加され、tfが追加配信されているのがわかります。
+新たにrobot_state_publisherノードとjoint_state_publisherノードが追加され、tfが追加配信されているのがわかります。
 
-tfの状態をみるとbase\_footprintからbase\_linkにリンクが追加され、さらにkobukiの各パーツにリンクされていることがわかります。
+tfの状態をみるとbase_footprintからbase_linkにリンクが追加され、さらにkobukiの各パーツにリンクされていることがわかります。
 
 ![](images/turtlebot2-kobuki-node-description-tf2tools-view-frames1-1024x296.png)
 
-- base\_link：ロボットの位置
-- wheel\_left\_link, wheel\_right\_link,：左右の車輪の位置
-- cliff\_sensor\_front\_link, cliff\_sensor\_left\_link, cliff\_sensor\_right\_link：落下防止センサーの位置
-- gyro\_link：IMUセンサーの位置
-- caster\_back\_link, caster\_front\_link：前後に取り付けられているキャスターの位置
+- base_link：ロボットの位置
+- wheel_left_link, wheel_right_link,：左右の車輪の位置
+- cliff_sensor_front_link, cliff_sensor_left_link, cliff_sensor_right_link：落下防止センサーの位置
+- gyro_link：IMUセンサーの位置
+- caster_back_link, caster_front_link：前後に取り付けられているキャスターの位置
 
 Rviz2でkobukiをひっくり返して裏から見ながらTF→Framesのチェックボックスをつけたり外したりすると、それぞれの座標が確認しやすいです。
 

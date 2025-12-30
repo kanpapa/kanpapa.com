@@ -36,8 +36,8 @@ demura.netさんの記事にサンプルプログラムとして、odometry.py �
 
 以下の手順で進めます。
 
-1. Raspberry pi 4でGazeboシミュレーターの起動 以下のコマンドを入力する。 $ roslaunch ca\_gazebo create\_empty\_world.launch
-2. 別ターミナルでOdometryのログをとる。 $ roscd move $ rosrun move odometry.py > odometry\_log.txt
+1. Raspberry pi 4でGazeboシミュレーターの起動 以下のコマンドを入力する。 $ roslaunch ca_gazebo create_empty_world.launch
+2. 別ターミナルでOdometryのログをとる。 $ roscd move $ rosrun move odometry.py > odometry_log.txt
 3. 別ターミナルでmove4k.pyを動かす。 $ roscd move $ rosrun move move4k.py
 
 ログはこのような内容で出力されます。
@@ -59,8 +59,8 @@ demura.netさんの記事にサンプルプログラムとして、odometry.py �
 1. Raspberry Pi 4をシャットダウンして、電源にモバイルバッテリーを接続して起動します。
 2. [https://github.com/docofab/RoombaControlls/blob/main/ROS/instructions/setup-real-roomba-rasppi.md](https://github.com/docofab/RoombaControlls/blob/main/ROS/instructions/setup-real-roomba-rasppi.md "setup-real-roomba-rasppi.md") に従って実機が動くようにします。
 3. USBシリアル基板でルンバに接続します。
-4. ルンバドライバを動かします。 roslaunch ca\_driver create\_2.launch
-5. Raspberry Pi 4にsshログインしてOdometryのログをとります。 $ roscd move $ rosrun move odometry.py > odometry\_roomba.txt
+4. ルンバドライバを動かします。 roslaunch ca_driver create_2.launch
+5. Raspberry Pi 4にsshログインしてOdometryのログをとります。 $ roscd move $ rosrun move odometry.py > odometry_roomba.txt
 6. Raspberry Pi 4にsshログインしてmove4k.pyを動かします。 $ roscd move $ rosrun move move4k.py
 
 ログはこのような内容で出力されます。

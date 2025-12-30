@@ -30,6 +30,6 @@ DigitalOut d1(D1);
 
 {{< youtube GEPzYs1QkFo >}}
 
-今回作成したプログラムは[http://mbed.org/users/kanpapa/code/FRDM\_Deco/](http://mbed.org/users/kanpapa/code/FRDM_Deco/)においておきます。
+今回作成したプログラムは[http://mbed.org/users/kanpapa/code/FRDM_Deco/](http://mbed.org/users/kanpapa/code/FRDM_Deco/)においておきます。
 
 このようにArduinoのシールドを活用して楽しむことができそうです。

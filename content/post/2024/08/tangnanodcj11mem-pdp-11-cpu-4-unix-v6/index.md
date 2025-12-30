@@ -51,7 +51,7 @@ sudo apt install simh
 
 simh環境へのUNIX v6インストール方法は以下のページに詳しくまとまっています。
 
-https://gunkies.org/wiki/Installing\_UNIX\_v6\_(PDP-11)\_on\_SIMH
+https://gunkies.org/wiki/Installing_UNIX_v6_(PDP-11)_on_SIMH
 
 すでにsimh用にセットアップされた[Software Kit](http://simh.trailing-edge.com/software.html)もあるのですが、ここではUNIX v6の紙テープデータを使ってsimhの環境にインストールしていきます。この作業を通して紙テープからディスクにシステムを読み込み、UNIX v6を起動するまで一連の流れを体験することができます。なお、Software Kitに登録されているuv6swre.zipはPDP-11/45用にカスタマイズされているようで、PDP-11/40の環境では動きませんでした。
 

@@ -68,7 +68,7 @@ Raspberry Pi 4のUSBコネクタに[USBシリアル変換アダプター](https:
 
 ![roomba_robot_ros_rasppi_connect1.jpg](images/roomba_robot_ros_rasppi_connect1.jpg)
 
-この状態でPCのsshターミナルからRaspberry Pi 4にログインし、roslaunch ca\_driverを実行したところopenエラーになってしまいました。どうやらca\_driverでは/dev/roombaというデバイス名を使っているようです。/dev/USBtty0は認識しているので、シンボリックリンクを張って再実行したところ、ルンバからピポッという音がして、正常に接続できました。
+この状態でPCのsshターミナルからRaspberry Pi 4にログインし、roslaunch ca_driverを実行したところopenエラーになってしまいました。どうやらca_driverでは/dev/roombaというデバイス名を使っているようです。/dev/USBtty0は認識しているので、シンボリックリンクを張って再実行したところ、ルンバからピポッという音がして、正常に接続できました。
 
 ![ros_roomba_start1.png](images/ros_roomba_start1.png)
 

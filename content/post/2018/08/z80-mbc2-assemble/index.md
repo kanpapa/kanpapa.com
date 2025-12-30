@@ -47,7 +47,7 @@ ATMEGA32の中にはArduinoのブートローダーが書きこまれていま�
 1. Arduino IDEを起動します。
 2. ファイルメニューから環境設定を選びます。
 3. 設定メニューに追加のボードマネージャのURLの項目に以下のように入力し、OKボタンを押します。  
-    　https://mcudude.github.io/MightyCore/package\_MCUdude\_MightyCore\_index.json
+    　https://mcudude.github.io/MightyCore/package_MCUdude_MightyCore_index.json
     ![z80mbc2_boardmanager.PNG](images/z80mbc2_boardmanager.png)
     
 4. ツールメニューからボードを選び一番上にある「ボードマネージャー...」を選択します。

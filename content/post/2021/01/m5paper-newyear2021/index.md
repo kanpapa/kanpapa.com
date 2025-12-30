@@ -27,7 +27,7 @@ M5Paperはまだ発売されて間もなく、Arduinoのライブラリにもつ
 
 プログラムはかなり適当に作成したものですが、GitHubに登録しておきました。
 
-- [M5EPD\_HappyNewYear2021.ino](https://github.com/kanpapa/M5EPD/blob/main/M5EPD_HappyNewYear2021/M5EPD_HappyNewYear2021.ino "M5EPD_HappyNewYear2021.ino")
+- [M5EPD_HappyNewYear2021.ino](https://github.com/kanpapa/M5EPD/blob/main/M5EPD_HappyNewYear2021/M5EPD_HappyNewYear2021.ino "M5EPD_HappyNewYear2021.ino")
 
 無事年を越すことができました。
 

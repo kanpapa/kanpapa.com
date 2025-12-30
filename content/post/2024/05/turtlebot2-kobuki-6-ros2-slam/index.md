@@ -48,7 +48,7 @@ $ sudo make install
 
 YDLIDAR X2のROS2ドライバは以下のGithubにあります。
 
-https://github.com/YDLIDAR/ydlidar\_ros2\_driver/tree/humble
+https://github.com/YDLIDAR/ydlidar_ros2_driver/tree/humble
 
 手順に従ってインストールを行います。
 
@@ -176,7 +176,7 @@ Rviz2の左側にあるDisplaysのメニューでAddをクリックし、By disp
 
 {{< youtube J0RSH-KoVfk >}}
 
-参考までにrqt\_graphの結果を示します。
+参考までにrqt_graphの結果を示します。
 
 ![](images/turtlebot2-kobuki-slam-rqt-graph1-1024x142.png)
 

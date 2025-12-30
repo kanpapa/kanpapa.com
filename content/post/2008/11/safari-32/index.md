@@ -12,4 +12,4 @@ Safari 3.2のアップデートがありました。
 
   
 
-このアップデートのセキュリティ関連の内容について詳しくは、次の?Web?サイトを参照してください：[http://support.apple.com/kb/HT1222?viewlocale=ja\_JP」](http://support.apple.com/kb/HT1222?viewlocale=ja_JP)
+このアップデートのセキュリティ関連の内容について詳しくは、次の?Web?サイトを参照してください：[http://support.apple.com/kb/HT1222?viewlocale=ja_JP](http://support.apple.com/kb/HT1222?viewlocale=ja_JP)

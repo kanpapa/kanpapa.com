@@ -10,7 +10,7 @@ tags:
 image: "images/rosserial_3pi_robot1.jpg"
 ---
 
-大掃除で見つかった[Pololu 3pi robot](https://www.pololu.com/product/975 "Pololu 3pi robot")ですが、これはATmega328Pが搭載されていて、Arduino IDEでもプログラミングができます。そこで[rosserial\_arduino](http://wiki.ros.org/rosserial_arduino "rosserial_arduino")を使って、ROSのノードにしてみました。
+大掃除で見つかった[Pololu 3pi robot](https://www.pololu.com/product/975 "Pololu 3pi robot")ですが、これはATmega328Pが搭載されていて、Arduino IDEでもプログラミングができます。そこで[rosserial_arduino](http://wiki.ros.org/rosserial_arduino "rosserial_arduino")を使って、ROSのノードにしてみました。
 
 ![rosserial_3pi_robot1.jpg](images/rosserial_3pi_robot1.jpg)
 
@@ -64,9 +64,9 @@ m3piで使っていたSlaveプログラムのままで、この基板を接続�
 
 インストールはROSのチュートリアルに従って進めました。
 
-- [http://wiki.ros.org/rosserial\_arduino/Tutorials](http://wiki.ros.org/rosserial_arduino/Tutorials "rosserial_arduino Tutorials")
+- [http://wiki.ros.org/rosserial_arduino/Tutorials](http://wiki.ros.org/rosserial_arduino/Tutorials "rosserial_arduino Tutorials")
 
-今回はubuntu18.04のROS Melodicにインストールしました。このあとにインストールされたArduino用のrosライブラリをWindowsのDocuments\\Arduino\\libraries\\ros\_libにコピーしています。
+今回はubuntu18.04のROS Melodicにインストールしました。このあとにインストールされたArduino用のrosライブラリをWindowsのDocuments\\Arduino\\libraries\\ros_libにコピーしています。
 
 ### rosserialのチュートリアルを3piで動かす
 
@@ -74,14 +74,14 @@ m3piで使っていたSlaveプログラムのままで、この基板を接続�
 
 チュートリアル通りに問題なく動作したので、Githubに入れておきました。
 
-- [rosserial\_3pi\_helloworld.ino](https://github.com/kanpapa/rosserial_arduino_3pi/blob/main/Arduino/rosserial_3pi_helloworld/rosserial_3pi_helloworld.ino "rosserial_3pi_helloworld.ino")
-- [rosserial\_3pi\_blink.ino](https://github.com/kanpapa/rosserial_arduino_3pi/blob/main/Arduino/rosserial_3pi_blink/rosserial_3pi_blink.ino "rosserial_3pi_blink.ino")
+- [rosserial_3pi_helloworld.ino](https://github.com/kanpapa/rosserial_arduino_3pi/blob/main/Arduino/rosserial_3pi_helloworld/rosserial_3pi_helloworld.ino "rosserial_3pi_helloworld.ino")
+- [rosserial_3pi_blink.ino](https://github.com/kanpapa/rosserial_arduino_3pi/blob/main/Arduino/rosserial_3pi_blink/rosserial_3pi_blink.ino "rosserial_3pi_blink.ino")
 
 ### 3piのモーターを動かすトピックを実装する
 
-モーターを動かすためのsubscriberを書いてみました。/cmd\_vel のトピックに従ってモーターが動くシンプルなものです。
+モーターを動かすためのsubscriberを書いてみました。/cmd_vel のトピックに従ってモーターが動くシンプルなものです。
 
-- [rosserial\_3pi\_robot\_01.ino](https://github.com/kanpapa/rosserial_arduino_3pi/blob/main/Arduino/rosserial_3pi_robot_01/rosserial_3pi_robot_01.ino "rosserial_3pi_robot_01.ino")
+- [rosserial_3pi_robot_01.ino](https://github.com/kanpapa/rosserial_arduino_3pi/blob/main/Arduino/rosserial_3pi_robot_01/rosserial_3pi_robot_01.ino "rosserial_3pi_robot_01.ino")
 
 このスケッチをArduino IDEで3piに書き込みます。
 
@@ -103,17 +103,17 @@ $ rosrun rosserial_python serial_node.py /dev/ttyUSB0 _baud:=115200
 
 ![rosserial_python_startup1.png](images/rosserial_python_startup1.png)
 
-新しいターミナルを起動してトピックを確認します。ここに /cmd\_vel が表示されればOKです。
+新しいターミナルを起動してトピックを確認します。ここに /cmd_vel が表示されればOKです。
 
 ![rosserial_rostopic_list1.png](images/rosserial_rostopic_list1.png)
 
-モーターを動かすための /cmd\_velのトピックを発行します。
+モーターを動かすための /cmd_velのトピックを発行します。
 
 ```
 $ rostopic pub -1 /cmd_vel geometry_msgs/Twist -- '[1.0, 0.0, 0.0]' '[0.0, 0.0, 0.0]'
 ```
 
-モーターを止める /cmd\_vel トピックを発行します。
+モーターを止める /cmd_vel トピックを発行します。
 
 ```
 $ rostopic pub -1 /cmd_vel geometry_msgs/Twist -- '[0.0, 0.0, 0.0]' '[0.0, 0.0, 0.0]'

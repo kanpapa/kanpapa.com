@@ -17,7 +17,7 @@ KiCadでの基板設計時に自動配線ツールとして、[kosakaさんのKi
 
 ## OpenJDKのダウンロード
 
-[OpenJDKの公式サイト](https://jdk.java.net/14/ "OpenJDK14")からダウンロードします。最新のものはOpenJDK 14で、現時点でのファイル名はopenjdk-14.0.1\_windows-x64\_bin.zipです。
+[OpenJDKの公式サイト](https://jdk.java.net/14/ "OpenJDK14")からダウンロードします。最新のものはOpenJDK 14で、現時点でのファイル名はopenjdk-14.0.1_windows-x64_bin.zipです。
 
 ダウンロードしたzipファイルを展開すると、バイナリがそのまま入っています。
 
@@ -41,11 +41,11 @@ KiCadでの基板設計時に自動配線ツールとして、[kosakaさんのKi
 
 ![win10_system_variables3.jpg](images/win10_system_variables3.jpg)
 
-システム環境変数のJAVA\_HOMEに合わせて「編集」ボタンを押します。もし、JAVA\_HOMEが無ければ「新規」ボタンを押してください。
+システム環境変数のJAVA_HOMEに合わせて「編集」ボタンを押します。もし、JAVA_HOMEが無ければ「新規」ボタンを押してください。
 
 表示されるダイヤログに以下のように入力します。
 
-- 変数名: JAVA\_HOME
+- 変数名: JAVA_HOME
 - 変数値: C:\\java\\jdk-14.0.1
 
 ![win10_system_variables4.jpg](images/win10_system_variables4.jpg)

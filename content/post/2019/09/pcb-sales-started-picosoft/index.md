@@ -16,7 +16,7 @@ image: images/cosmac_pcb_cpu_pl_picosoft.jpg
 
 合わせて部品表を掲載しましたので、製作時にご利用ください。
 
-- [COSMAC\_SERIES\_BOM](https://docs.google.com/spreadsheets/d/1RaJOUz-MUIusvn-sCO8Sv9yx96meL28Bqul8-KvWmr0/edit?usp=sharing "COSMAC_SERIES_BOM") (Google スプレッドシート)
+- [COSMAC_SERIES_BOM](https://docs.google.com/spreadsheets/d/1RaJOUz-MUIusvn-sCO8Sv9yx96meL28Bqul8-KvWmr0/edit?usp=sharing "COSMAC_SERIES_BOM") (Google スプレッドシート)
 
 [各ボードの説明](https://github.com/kanpapa/cosmac_toy)も若干追記しています。
 

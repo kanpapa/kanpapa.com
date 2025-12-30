@@ -17,7 +17,7 @@ COSMACにTVディスプレイを接続する場合に思いつくのは[CDP1861]
 
 <!--more-->
 
-書籍に掲載されている回路図では、８つのCMOSロジックICを使っています。COSMAC CPUボードのメモリの内容をDMAで出力し、それを映像信号としてテレビに出力します。この回路はRFモジュレーター経由でテレビに接続するための信号レベルになっていたため、現在のビデオ入力の信号に合うように一部変更しています。また、COSMAC CPUでV-SYNCを検出するためにEF4を使用していますが、使用しているCPUボードのシリアル入力で使っているので、EF2を使用するように変更しました。回路図は以下になります。PDF版は[cosmac\_tv\_rev0\_2\_sch.pdf](https://github.com/kanpapa/cosmac_mbc/blob/main/schematics/cosmac_tv_rev02_sch.pdf)です。
+書籍に掲載されている回路図では、８つのCMOSロジックICを使っています。COSMAC CPUボードのメモリの内容をDMAで出力し、それを映像信号としてテレビに出力します。この回路はRFモジュレーター経由でテレビに接続するための信号レベルになっていたため、現在のビデオ入力の信号に合うように一部変更しています。また、COSMAC CPUでV-SYNCを検出するためにEF4を使用していますが、使用しているCPUボードのシリアル入力で使っているので、EF2を使用するように変更しました。回路図は以下になります。PDF版は[cosmac_tv_rev0_2_sch.pdf](https://github.com/kanpapa/cosmac_mbc/blob/main/schematics/cosmac_tv_rev02_sch.pdf)です。
 
 ![](images/cosmac_tv_sch1-1024x704.jpg)
 

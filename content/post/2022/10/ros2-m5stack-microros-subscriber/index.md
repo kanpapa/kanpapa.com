@@ -21,9 +21,9 @@ image: images/ros2-m5stack-microros_subscriber2.jpg
 
 ### マイコン（M5Stack）側の設定
 
-micro-ROSのサンプルプログラム([micro-ros\_subscriber.ino](https://github.com/micro-ROS/micro_ros_arduino/blob/humble/examples/micro-ros_subscriber/micro-ros_subscriber.ino "micro-ros_subscriber.ino"))をM5Stack用に修正したものを使います。
+micro-ROSのサンプルプログラム([micro-ros_subscriber.ino](https://github.com/micro-ROS/micro_ros_arduino/blob/humble/examples/micro-ros_subscriber/micro-ros_subscriber.ino "micro-ros_subscriber.ino"))をM5Stack用に修正したものを使います。
 
-サンプルプログラムではmicro\_ros\_arduino\_subscriberというトピックを購読するようになっています。データの内容はInt32です。WiFiの設定のところは前回同様にWiFiのSSIDとパスフレーズとmicro-ROS-Agentが動作するPCのIPアドレスに書き換える必要があります。
+サンプルプログラムではmicro_ros_arduino_subscriberというトピックを購読するようになっています。データの内容はInt32です。WiFiの設定のところは前回同様にWiFiのSSIDとパスフレーズとmicro-ROS-Agentが動作するPCのIPアドレスに書き換える必要があります。
 
 作成したソースコードは[GitHub](https://github.com/kanpapa/micro_ros_arduino/blob/main/micro-ros_m5stack_subscriber_wifi/micro-ros_m5stack_subscriber_wifi.ino "micro-ros_m5stack_subscriber_wifi.ino")に登録しておきました。
 
@@ -35,7 +35,7 @@ micro-ROSのサンプルプログラム([micro-ros\_subscriber.ino](https://gith
 
 #### 1.micro-ROS-Agentを実行する。
 
-すでにAgentはビルドされていますので、Agentの実行のみを行います。なお、環境変数 ROS\_DOMAIN\_IDを設定していると動作しませんので、unset ROS\_DOMAIN\_ID で環境変数を削除してください。
+すでにAgentはビルドされていますので、Agentの実行のみを行います。なお、環境変数 ROS_DOMAIN_IDを設定していると動作しませんので、unset ROS_DOMAIN_ID で環境変数を削除してください。
 
 ```
 ros2 run micro_ros_agent micro_ros_agent udp4 --port 8888

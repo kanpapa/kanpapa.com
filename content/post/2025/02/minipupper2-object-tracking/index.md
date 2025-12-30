@@ -15,4 +15,4 @@ Mini Pupper 2とOAK-D LITEでペットボトルの追跡ができるようにな
 
 Mini pupper 2で実験中のソースです。
 
-https://github.com/kanpapa/mini\_pupper\_follow
+https://github.com/kanpapa/mini_pupper_follow

@@ -23,7 +23,7 @@ image: "images/nanopi_neo.jpg"
 
 まずは、microSDカードにNano Pi NEO用のOSをインストールしなければなりません。
 
-私は[NanoPi NEOのWiki](http://wiki.friendlyarm.com/wiki/index.php/NanoPi_NEO "NanoPi NEO")にリンクされているnanopi-neo\_ubuntu-core-xenial\_4.11.2\_20170705.img.zipをダウンロードし、toolsにあるwin32diskimagerを使ってmicroSDカードに書き込みました。
+私は[NanoPi NEOのWiki](http://wiki.friendlyarm.com/wiki/index.php/NanoPi_NEO "NanoPi NEO")にリンクされているnanopi-neo_ubuntu-core-xenial_4.11.2_20170705.img.zipをダウンロードし、toolsにあるwin32diskimagerを使ってmicroSDカードに書き込みました。
 
 microSDカードをセットして、電源を入れてみたところ、問題なくブートしました。
 

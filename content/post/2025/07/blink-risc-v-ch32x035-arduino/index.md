@@ -46,7 +46,7 @@ image: images/ch32x035g8u6-breakout-blinking.jpg
 
 CH32V003のときと同様に書き込みにはWCH-LinkEを使いますが、CH32X035に書き込みできるように設定が必要です。以下のサイトから最新のWCH-LinkUtility.ZIPをダウンロードします。
 
-https://www.wch.cn/downloads/WCH-LinkUtility\_ZIP.html
+https://www.wch.cn/downloads/WCH-LinkUtility_ZIP.html
 
 WCH-LinkEをWindows PCにUSB接続したあとに、展開したフォルダの中にあるWCH-LinkUtility.exeを実行し、MCU CoreをRISC-Vに、SeriesをCH32X035に設定します。
 
@@ -60,7 +60,7 @@ WCH-LinkEをWindows PCにUSB接続したあとに、展開したフォルダの�
 
 Arduino IDEでCH32X035を扱うには、ボードマネージャーでCH32X035ボードを組み込む必要がありますが、詳細は以下のGitHubで公開されています。
 
-- [https://github.com/openwch/arduino\_core\_ch32](https://github.com/openwch/arduino_core_ch32)
+- [https://github.com/openwch/arduino_core_ch32](https://github.com/openwch/arduino_core_ch32)
 
 READMEにあるようにArduino IDEの環境設定の追加のボードマネージャーのURLに以下のURLを追加します。
 
@@ -125,4 +125,4 @@ void loop() {
 
 ## まとめ
 
-CH32X035G8U6もArduino IDEでLチカを行うことができました。今回はLinux版のArduino IDEでの動作確認はできましたが、Windows版はまだ未対応のようでした。まだCH32X035版の開発は進行中でSPIやI2C\_Masterのサポートも今後のリリースとなるようです。しかし、そのうち対応されると思われますので、高機能なマイコンをどこまでArduino IDEで使えるのか今後もウォッチしていきます。
+CH32X035G8U6もArduino IDEでLチカを行うことができました。今回はLinux版のArduino IDEでの動作確認はできましたが、Windows版はまだ未対応のようでした。まだCH32X035版の開発は進行中でSPIやI2C_Masterのサポートも今後のリリースとなるようです。しかし、そのうち対応されると思われますので、高機能なマイコンをどこまでArduino IDEで使えるのか今後もウォッチしていきます。

@@ -24,7 +24,7 @@ image: "images/otafab_robot_43_roomba1.jpg"
 
 ### Pythonプログラムを眺めてみる
 
-記事にはPythonで書かれたプログラムが掲載されています。39行でコメントもついていて読みやすいです。Pythonプログラムでmoveというnodeを作り、/create1/cmd\_velというtopicを一定間隔でGazeboシミュレーターにpublishして仮想のルンバを動かすというものです。
+記事にはPythonで書かれたプログラムが掲載されています。39行でコメントもついていて読みやすいです。Pythonプログラムでmoveというnodeを作り、/create1/cmd_velというtopicを一定間隔でGazeboシミュレーターにpublishして仮想のルンバを動かすというものです。
 
 これをrqtというツールで構造を可視化すると次の図が表示されます。（クリックして拡大）
 

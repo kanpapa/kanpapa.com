@@ -80,7 +80,7 @@ ros2 launch ydlidar_ros2_driver ydlidar_launch.py
 
 Navigation2は公式サイトのtutorialにある[Navigating with a Physical Turtlebot 3](https://docs.nav2.org/tutorials/docs/navigation2_on_real_turtlebot3.html)を参考にして動かしました。
 
-https://docs.nav2.org/tutorials/docs/navigation2\_on\_real\_turtlebot3.html
+https://docs.nav2.org/tutorials/docs/navigation2_on_real_turtlebot3.html
 
 ドキュメントに従ってターミナルからNav2を起動します。
 
@@ -100,11 +100,11 @@ ros2 run rviz2 rviz2 -d $(ros2 pkg prefix nav2_bringup)/share/nav2_bringup/rviz/
 
 ### トピック名を変換するノードの作成
 
-Nav2からロボットに対して送信される移動のためのトピック名は/cmd\_velですが、kobukiではこのトピック名が/commands/velocityのため、kobukiでトピックが受信できません。これを解決するにはトピック名の書き換えが必要となります。トピック名をremapしてみたのですが、書き換えてはいけないトピック名まで書き換わってしまったので、トピック名の書き換えをするノードを新たに作りました。
+Nav2からロボットに対して送信される移動のためのトピック名は/cmd_velですが、kobukiではこのトピック名が/commands/velocityのため、kobukiでトピックが受信できません。これを解決するにはトピック名の書き換えが必要となります。トピック名をremapしてみたのですが、書き換えてはいけないトピック名まで書き換わってしまったので、トピック名の書き換えをするノードを新たに作りました。
 
-今回作成したkobuki\_cmdvelパッケージです。ノードのソースはシンプルなものになります。
+今回作成したkobuki_cmdvelパッケージです。ノードのソースはシンプルなものになります。
 
-https://github.com/kanpapa/kobuki\_cmdvel/blob/main/kobuki\_cmdvel/kobuki\_cmdvel\_function.py
+https://github.com/kanpapa/kobuki_cmdvel/blob/main/kobuki_cmdvel/kobuki_cmdvel_function.py
 
 ノードの実行は以下のように行います。
 
@@ -112,13 +112,13 @@ https://github.com/kanpapa/kobuki\_cmdvel/blob/main/kobuki\_cmdvel/kobuki\_cmdve
 ros2 run kobuki_cmdvel kobuki_cmdvel
 ```
 
-このノードで正しくトピック名が置換されるかテストしてみました。rqt\_graphで確認すると動作は一目瞭然です。購読している/cmd\_velが/commands/velocityに書き換わっています。
+このノードで正しくトピック名が置換されるかテストしてみました。rqt_graphで確認すると動作は一目瞭然です。購読している/cmd_velが/commands/velocityに書き換わっています。
 
 ![](images/turtlebot2-kobuki-9-ros2-kobuki-cmdvel1.png)
 
 NAV2を実行する際はこのノードを動かしておけば大丈夫なはずです。
 
-再度、Nav2を動かしてrqt\_graphで確認したところ、/cmd\_velトピックがkobuki\_cmdvel\_subscriberノードによって/commands/velocityトピックに変換されkobukiノードが購読していることが確認できました。
+再度、Nav2を動かしてrqt_graphで確認したところ、/cmd_velトピックがkobuki_cmdvel_subscriberノードによって/commands/velocityトピックに変換されkobukiノードが購読していることが確認できました。
 
 ![](images/turtlebot2-kobuki-9-ros2-kobuki-cmdvel3.png)
 
@@ -126,13 +126,13 @@ NAV2を実行する際はこのノードを動かしておけば大丈夫なは�
 
 この状態で再度自律走行を確認してみます。細かい手順は[Navigating with a Physical Turtlebot 3](https://docs.nav2.org/tutorials/docs/navigation2_on_real_turtlebot3.html)のページにも掲載されていますのでそちらも参考にしてください。
 
-SLAMの時と同様にteleop\_twist\_keyboardを別のターミナルから起動します。
+SLAMの時と同様にteleop_twist_keyboardを別のターミナルから起動します。
 
 ```
 ros2 run teleop_twist_keyboard teleop_twist_keyboard --ros-args --remap cmd_vel:=commands/velocity
 ```
 
-まずKobukiの位置と向きを2D Pose Estimateで調整します。そのあとにteleop\_twist\_keyboardで本体を少しずつ回転させると地図上のkobukiの位置が調整されます。ある程度収束したところでNav2 Goalで目的地を指定するとその場所にkobukiが移動することが確認できました。
+まずKobukiの位置と向きを2D Pose Estimateで調整します。そのあとにteleop_twist_keyboardで本体を少しずつ回転させると地図上のkobukiの位置が調整されます。ある程度収束したところでNav2 Goalで目的地を指定するとその場所にkobukiが移動することが確認できました。
 
 ![](images/turtlebot2-kobuki-9-ros2-nav2-rviz2.png)
 

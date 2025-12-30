@@ -20,7 +20,7 @@ categories:
 8. オンラインサインアップで再設定
 9. W+Infoの再設定
 10. microSDを装着
-11. 高速化アプリ(vclient\_willcom.cab)をインストール
+11. 高速化アプリ(vclient_willcom.cab)をインストール
 12. OperaのBookMarkをリストア
 13. さあ、高速化してるかな？←竜巻でました！
 14. 最後にActiveSyncでPCと同期

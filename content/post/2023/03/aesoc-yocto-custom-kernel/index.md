@@ -148,7 +148,7 @@ $ cd recipes-kernel/linux-yocto
 $ vi linux-yocto_%.bbappend
 ```
 
-linux-yokuto\_%.bbappendファイルには以下の内容を書き込みます。
+linux-yokuto_%.bbappendファイルには以下の内容を書き込みます。
 
 ```
 FILESEXTRAPATHS_prepend := "${THISDIR}/linux-yocto:"

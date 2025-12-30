@@ -125,7 +125,7 @@ $ roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
 
 このターミナルからキーボードでTurtleBot3の車輪の動きをコントロールできることを確認しました。
 
-参考までにrqt\_graphでノードとトピックの状態を図にしてみました。
+参考までにrqt_graphでノードとトピックの状態を図にしてみました。
 
 ![turtlebot3_burger_bringup_rqtgraph1.png](images/turtlebot3_burger_bringup_rqtgraph1.png)
 

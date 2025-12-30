@@ -52,11 +52,11 @@ GitHubのCodeからDownload ZIPをクリックしてダウンロードし適当�
 
 ![](images/hifive1-revb-github-zip-download.png)
 
-ZIPファイルを展開して、Visual Studio Codeのエクスローラでexamplesフォルダを見るといくつかのサンプルプログラムがあります。それぞれ使用するフレームワークの名称（Freedom E SDKやZephyr）がフォルダ名に含まれています。今回はフレームワークを使わないnative-blink\_asmフォルダを選択します。
+ZIPファイルを展開して、Visual Studio Codeのエクスローラでexamplesフォルダを見るといくつかのサンプルプログラムがあります。それぞれ使用するフレームワークの名称（Freedom E SDKやZephyr）がフォルダ名に含まれています。今回はフレームワークを使わないnative-blink_asmフォルダを選択します。
 
 ![](images/hifive1-revb-platformio-folder1.png)
 
-native-blink\_asmのフォルダを開くとフォルダに含まれているplatformio.iniファイルに従ってProjectのConfigrationが始まり、必要なツールのインストールが自動的に行われます。完了までは少し時間がかかります。
+native-blink_asmのフォルダを開くとフォルダに含まれているplatformio.iniファイルに従ってProjectのConfigrationが始まり、必要なツールのインストールが自動的に行われます。完了までは少し時間がかかります。
 
 ![](images/hifive1-revb-platformio-config1-1024x565.png)
 

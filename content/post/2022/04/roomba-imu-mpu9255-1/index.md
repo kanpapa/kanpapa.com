@@ -11,12 +11,12 @@ image: "images/roomba_imu2.jpg"
 
 ルンバのROSパッケージは以下のものを使用していますが、IMUをサポートしているようです。
 
-- [https://github.com/RoboticaUtnFrba/create\_autonomy](https://github.com/RoboticaUtnFrba/create_autonomy "RoboticaUtnFrba/create_autonomy")
+- [https://github.com/RoboticaUtnFrba/create_autonomy](https://github.com/RoboticaUtnFrba/create_autonomy "RoboticaUtnFrba/create_autonomy")
 - [https://github.com/RoboticaUtnFrba/libcreate](https://github.com/RoboticaUtnFrba/libcreate "RoboticaUtnFrba/libcreate")
 
 IMUとしてMPU9255が使えるようですので、以下のドキュメントにしたがってRaspberry Piに接続してみることにしました。
 
-- [https://github.com/RoboticaUtnFrba/create\_autonomy/blob/kinetic-devel/sensors/ca\_imu/README.md](https://github.com/RoboticaUtnFrba/create_autonomy/blob/kinetic-devel/sensors/ca_imu/README.md "https://github.com/RoboticaUtnFrba/create_autonomy/blob/kinetic-devel/sensors/ca_imu/README.md")
+- [https://github.com/RoboticaUtnFrba/create_autonomy/blob/kinetic-devel/sensors/ca_imu/README.md](https://github.com/RoboticaUtnFrba/create_autonomy/blob/kinetic-devel/sensors/ca_imu/README.md "https://github.com/RoboticaUtnFrba/create_autonomy/blob/kinetic-devel/sensors/ca_imu/README.md")
 
 ### MPU-9255を入手
 
@@ -62,7 +62,7 @@ i2cdetectを使って接続確認を行います。
 
 ### ROSドライバで動かしてみる
 
-ca\_bringup のlaunchファイルにIMUの有効・無効のパラメタがあります。これまではfalseにしていましたが、trueに変更します。
+ca_bringup のlaunchファイルにIMUの有効・無効のパラメタがあります。これまではfalseにしていましたが、trueに変更します。
 
 ```
 export IMU=true
@@ -70,7 +70,7 @@ roslaunch ca_bringup minimal2.launch
 
 ```
 
-ca\_bringupが問題なく起動できました。IMUも認識されているようです。
+ca_bringupが問題なく起動できました。IMUも認識されているようです。
 
 ```
 　：

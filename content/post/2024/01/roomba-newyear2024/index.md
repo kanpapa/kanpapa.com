@@ -17,9 +17,9 @@ image: "images/roomba-newyear2024-led1.jpg"
 
 ## ルンバをROS2 Humbleで制御する
 
-以前はルンバをROS2 Foxyで動かしていました。もうPCの環境はUbuntu 22.04 LTSになり、ROS2 Humbleに変わっています。この環境でルンバ用のROS2ドライバ AutonomyLab/create\_robotをビルドして問題なく動くことを確認しました。
+以前はルンバをROS2 Foxyで動かしていました。もうPCの環境はUbuntu 22.04 LTSになり、ROS2 Humbleに変わっています。この環境でルンバ用のROS2ドライバ AutonomyLab/create_robotをビルドして問題なく動くことを確認しました。
 
-https://github.com/AutonomyLab/create\_robot
+https://github.com/AutonomyLab/create_robot
 
 ## カウントダウンのシナリオを考える
 
@@ -27,7 +27,7 @@ https://github.com/AutonomyLab/create\_robot
 
 以前におおたfabで「素人でもロボットをつくりたい」の勉強会で調べたときの資料を参考にしました。
 
-https://github.com/docofab/RoombaControlls/blob/main/ROS2/roomba\_subscribers.md
+https://github.com/docofab/RoombaControlls/blob/main/ROS2/roomba_subscribers.md
 
 この情報から以下のシナリオを考えました。
 
@@ -48,7 +48,7 @@ https://github.com/docofab/RoombaControlls/blob/main/ROS2/roomba\_subscribers.md
 
 ## 完成した2024年の年越しカウントダウン
 
-シナリオに従って、ROS2のノードをpythonで書いて、create\_robotの仕様に合わせてtopicをpublishしていきます。カウントダウンのところは１秒タイマーのコールバックで正確に1秒を刻み、各種LEDの繰り返し点滅は0.5秒タイマーのコールバックで行うようにしました。
+シナリオに従って、ROS2のノードをpythonで書いて、create_robotの仕様に合わせてtopicをpublishしていきます。カウントダウンのところは１秒タイマーのコールバックで正確に1秒を刻み、各種LEDの繰り返し点滅は0.5秒タイマーのコールバックで行うようにしました。
 
 ![](images/roomba-newyear2024-led1-1024x769.jpg)
 

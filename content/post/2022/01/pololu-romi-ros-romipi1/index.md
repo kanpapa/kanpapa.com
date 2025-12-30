@@ -48,7 +48,7 @@ dtparam=i2c_baudrate=400000
 
 ### RomiPiのインストール
 
-作成したcatkin\_ws/srcにRomiPiのソースを展開します。私の場合はcatkin buildでまとめてビルドを行い、特に問題はなくビルドが完了しました。
+作成したcatkin_ws/srcにRomiPiのソースを展開します。私の場合はcatkin buildでまとめてビルドを行い、特に問題はなくビルドが完了しました。
 
 ![romi_ros_catkin_build_screenshot.png](images/romi_ros_catkin_build_screenshot.png)
 
@@ -74,7 +74,7 @@ roslaunch romipi_astar romipi_astar.launch
 roslaunch romipi_teleop romipi_teleop_key.launch
 ```
 
-ここまでは問題ないように見えたのですが、 romipi\_teleop を動かした途端に次のエラーが赤い文字で連続して表示され、正常に動きませんでした。
+ここまでは問題ないように見えたのですが、 romipi_teleop を動かした途端に次のエラーが赤い文字で連続して表示され、正常に動きませんでした。
 
 ```
 [ERROR] [1642828616.621967]: bad callback: >
@@ -90,7 +90,7 @@ Traceback (most recent call last):
 TypeError: Third argument must be a list of at least one, but not more than 32 integers
 ```
 
-エラーメッセージからみると、romipi\_driver.pyの58行目にあるself.bus.write\_i2c\_block\_data(20, address, data\_array)の三番目の引数の型が一致していないようです。そこで、data\_arrayの型をみたところ、stringのリストのようでした。本来はintegerのリストでないといけないので、これでは動きません。
+エラーメッセージからみると、romipi_driver.pyの58行目にあるself.bus.write_i2c_block_data(20, address, data_array)の三番目の引数の型が一致していないようです。そこで、data_arrayの型をみたところ、stringのリストのようでした。本来はintegerのリストでないといけないので、これでは動きません。
 
 そのため、以下のように修正しました。
 
@@ -102,7 +102,7 @@ TypeError: Third argument must be a list of at least one, but not more than 32 i
 
 これでintegerのリストになり、修正後はエラーがでることはなくなりました。
 
-romipi\_teleopのターミナルでキーボードを操作すると、車輪が回り始めました。前進・後進・左右回転ができることを確認しました。
+romipi_teleopのターミナルでキーボードを操作すると、車輪が回り始めました。前進・後進・左右回転ができることを確認しました。
 
 こちらの動画をYouTubeに入れておきました。
 
@@ -128,7 +128,7 @@ ubuntu@ubuntu:~$
 
 各種トピックが流れているのがわかります。内容も見てみます。
 
-/battery\_state - バッテリ電圧の情報が刻々と送られています。この時点ではバッテリーは8.2Vのようです。
+/battery_state - バッテリ電圧の情報が刻々と送られています。この時点ではバッテリーは8.2Vのようです。
 
 ```
 ---

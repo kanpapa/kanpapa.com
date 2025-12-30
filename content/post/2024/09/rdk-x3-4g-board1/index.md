@@ -47,7 +47,7 @@ CPU側から見たところです。HDMIは標準コネクタで、USB-Cは電�
 
 公式サイトのQuick Startに従ってセットアップを進めます。
 
-https://d-robotics.github.io/rdk\_doc/en/Quick\_start
+https://d-robotics.github.io/rdk_doc/en/Quick_start
 
 まずはイメージファイルをmicroSDカードに書き込みます。私の場合は3.0.0/release/ubuntu-preinstalled-desktop-arm64.img.xzをダウンロードして、balenaEtcherでmicroSDカードに書き込みました。デスクトップ環境が起動するはずなので、HDMIディスプレイと、USB無線キーボード、USB無線マウスを接続し、電源は秋月電子の[スイッチングACアダプター(USB ACアダプター) Type-Cオス 5.1V3.8A](https://akizukidenshi.com/catalog/g/g114935/)を使用しました。
 
@@ -83,7 +83,7 @@ Quick Startに従ってWiFiを接続し、他のPCからsshができるところ
 
 Basic Applicationで紹介されている画像認識アプリケーションを試してみます。今回はMIPIカメラモジュールを使いましたがUSBカメラでも使えます。
 
-https://developer.d-robotics.cc/rdk\_doc/en/Basic\_Application/Image/mipi\_camera
+https://developer.d-robotics.cc/rdk_doc/en/Basic_Application/Image/mipi_camera
 
 まずは実行に必要となるカメラモジュールが正常に接続できているかを確認しました。I2Cアドレス0x10として無事カメラモジュールが認識されています。
 

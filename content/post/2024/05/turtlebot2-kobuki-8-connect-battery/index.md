@@ -83,18 +83,18 @@ serial_number: ''
  :
 ```
 
-voltageがバッテリー電圧で、この例では14.39Vのようです。percentage: 39.54とありますので残り容量は39.54%と認識しているようです。他にpower\_supply\_status, power\_supply\_health, power\_supply\_technology, presentなど気になる項目があるのでソースから追ってみたところ、次の仕様となっていました。
+voltageがバッテリー電圧で、この例では14.39Vのようです。percentage: 39.54とありますので残り容量は39.54%と認識しているようです。他にpower_supply_status, power_supply_health, power_supply_technology, presentなど気になる項目があるのでソースから追ってみたところ、次の仕様となっていました。
 
 | **Variable name** | **Value** | **Memo** |
 | --- | --- | --- |
 | voltage | バッテリーの電圧\[V\] |  |
 | percentage | バッテリー残り容量\[%\] | 電圧範囲を16.5V〜13.2Vと定義し、現在の電圧から残り容量を計算している。 |
-| power\_supply\_status | POWER\_SUPPLY\_STATUS\_DISCHARGING = 2   POWER\_SUPPLY\_STATUS\_FULL = 4   POWER\_SUPPLY\_STATUS\_CHARGING = 1 | ドライバではこの3種類しか使用されていない。 |
-| power\_supply\_health | POWER\_SUPPLY\_HEALTH\_UNKNOWN = 0 | 固定値でした。 |
-| power\_supply\_technology | POWER\_SUPPLY\_TECHNOLOGY\_LION = 2 | リチウムイオン電池であることを示しており固定値でした。 |
+| power_supply_status | POWER_SUPPLY_STATUS_DISCHARGING = 2   POWER_SUPPLY_STATUS_FULL = 4   POWER_SUPPLY_STATUS_CHARGING = 1 | ドライバではこの3種類しか使用されていない。 |
+| power_supply_health | POWER_SUPPLY_HEALTH_UNKNOWN = 0 | 固定値でした。 |
+| power_supply_technology | POWER_SUPPLY_TECHNOLOGY_LION = 2 | リチウムイオン電池であることを示しており固定値でした。 |
 | present | msg->present = true; | 常にtrueでした。 |
 
-まずは、voltage, percentage, power\_supply\_statusを気にしておけば良さそうです。
+まずは、voltage, percentage, power_supply_statusを気にしておけば良さそうです。
 
 ## まとめ
 

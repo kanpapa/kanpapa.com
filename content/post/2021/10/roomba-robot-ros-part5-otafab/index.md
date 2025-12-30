@@ -24,11 +24,11 @@ image: "images/Roomba-robot-ros-part5-turtlesim.jpg"
 
 オドメトリ情報を使ってROSで正方形で動かす記事を検索したところ以下のサイトがみつかりました。
 
-- [毎日がロボット勉強会](http://dailyrobottechnology.blogspot.com/2014/12/793-navsquarepy.html "毎日がロボット勉強会")　四角形に沿って移動する nav\_square.py を見てみる
+- [毎日がロボット勉強会](http://dailyrobottechnology.blogspot.com/2014/12/793-navsquarepy.html "毎日がロボット勉強会")　四角形に沿って移動する nav_square.py を見てみる
 
-nav\_square.pyのソース解説を行っていますが、どうもソース全体は掲載されていないようです。GitHubで検索したところ、オリジナルと思われるものがみつかりました。こちらpi\_robotのプロジェクトの成果物のようです。
+nav_square.pyのソース解説を行っていますが、どうもソース全体は掲載されていないようです。GitHubで検索したところ、オリジナルと思われるものがみつかりました。こちらpi_robotのプロジェクトの成果物のようです。
 
-- [nav\_square.py](https://github.com/pirobot/ros-by-example/blob/master/rbx_vol_1/rbx1_nav/nodes/nav_square.py "nav_square.py")
+- [nav_square.py](https://github.com/pirobot/ros-by-example/blob/master/rbx_vol_1/rbx1_nav/nodes/nav_square.py "nav_square.py")
 
 このソースを眺めているとロジックが見えてきました。今使用しているプログラムと大きく構造がちがうので、アルゴリズムを流用させていただき、これまでのプログラムに組み込みました。
 

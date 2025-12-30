@@ -82,9 +82,9 @@ keyPath = "/root/.ssh/id_rsa_vuls"
 
 診断対象のサーバにリモートアクセスするための、ssh接続用のキーペアは新たに作成しましたが、このときパスフェーズは設定しないようにします。
 
-設定ファイルのkeyPathには"/root/.ssh/id\_rsa\_vuls"とありますが、これはボリューム上のパスですので、iMac側では自分のホームディレクトリ ~/.ssh/に秘密鍵（id\_rsa\_vuls）を置きます。
+設定ファイルのkeyPathには"/root/.ssh/id_rsa_vuls"とありますが、これはボリューム上のパスですので、iMac側では自分のホームディレクトリ ~/.ssh/に秘密鍵（id_rsa_vuls）を置きます。
 
-診断対象のサーバでは、診断に使うアカウントvuls-userを作成し、~/.sshにauthorized\_keysというファイル名で公開鍵を置き、sudo visudoで以下の行を追加しました。このあたりはREADME.jaに載っています。
+診断対象のサーバでは、診断に使うアカウントvuls-userを作成し、~/.sshにauthorized_keysというファイル名で公開鍵を置き、sudo visudoで以下の行を追加しました。このあたりはREADME.jaに載っています。
 
 ```
 # for vuls

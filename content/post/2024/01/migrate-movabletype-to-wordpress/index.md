@@ -110,9 +110,9 @@ https://ja.wordpress.org/plugins/search-regex
 
 |  | **検索文字列** | **置換後** |
 | --- | --- | --- |
-| **パターン1** | https://kanpapa.com/today/assets\_c/ | http://192.168.0.224/wp-content/uploads/today/assets\_c/ |
+| **パターン1** | https://kanpapa.com/today/assets_c/ | http://192.168.0.224/wp-content/uploads/today/assets_c/ |
 | **パターン2** | https://kanpapa.com/today/images/ | http://192.168.0.224/wp-content/uploads/today/images/ |
-| **パターン3** | https://kanpapa.com/cosmac/assets\_c/ | http://192.168.0.224/wp-content/uploads/cosmac/assets\_c/ |
+| **パターン3** | https://kanpapa.com/cosmac/assets_c/ | http://192.168.0.224/wp-content/uploads/cosmac/assets_c/ |
 | **パターン4** | https://kanpapa.com/cosmac/images/ | http://192.168.0.224/wp-content/uploads/cosmac/images/ |
 
 ## アンダーバーとハイフンの問題
@@ -120,13 +120,13 @@ https://ja.wordpress.org/plugins/search-regex
 WordPressに移行した記事をチェックしてみたところ、オリジナルのブログURLと今回作成したブログURLが異なることがあり、リンク切れがあることがわかりました。
 
 旧ブログのURL　https://kanpapa.com/today/2013/09/mbed**\-**lpc1114fn28.html  
-新ブログのURL　https://192.168.0.224/today/2013/09/mbed**\_**lpc1114fn28.html
+新ブログのURL　https://192.168.0.224/today/2013/09/mbed**_**lpc1114fn28.html
 
 MovableTypeではDBデータに含まれているアンダーバーがハイフンに自動変換されてURLが作成されているようです。移行先のWordPressではDBデータの値がそのまま使用されているようです。SEO的に記事のURLは保持したいところです。Regexで記事中のURLだけアンダーバーをハイフンに書き換えることができれば良いのですが、どうも記事中のURLだけを書き換えるのは難しそうです。そこでmySQLのデータを直接変更できないかを考えてみます。
 
 ## WordPressのDBを修正する
 
-mySQLAdminなどUIベースのツールを入れておくとDBの管理が楽なのですが、インストールしていないので、CUIで確認したところ、wp\_2\_postsテーブルのpost\_nameとguid、wp\_2\_termsテーブルのslugでアンダーバーをハイフンに置換すれば良さそうです。まずは作業前には必ずmySQLのDBバックアップを行っておきます。
+mySQLAdminなどUIベースのツールを入れておくとDBの管理が楽なのですが、インストールしていないので、CUIで確認したところ、wp_2_postsテーブルのpost_nameとguid、wp_2_termsテーブルのslugでアンダーバーをハイフンに置換すれば良さそうです。まずは作業前には必ずmySQLのDBバックアップを行っておきます。
 
 ```
 $ mysqldump -h localhost -u root -p --databases wordpress > wordpress_dump_12150722.sql
@@ -226,13 +226,13 @@ cursor.close()
 conn.close()
 ```
 
-このプログラムを実行することで記事中のURLに含まれるアンダーバーはハイフンに置換できました。table\_nameとcolumn\_nameは以下のように指定して都度実行しました。
+このプログラムを実行することで記事中のURLに含まれるアンダーバーはハイフンに置換できました。table_nameとcolumn_nameは以下のように指定して都度実行しました。
 
-| **table\_name** | **column\_name** |
+| **table_name** | **column_name** |
 | --- | --- |
-| wp\_2\_posts | post\_name |
-| wp\_2\_posts | guid |
-| wp\_2\_terms | slug |
+| wp_2_posts | post_name |
+| wp_2_posts | guid |
+| wp_2_terms | slug |
 
 ## カテゴリURLのリダイレクト対応
 

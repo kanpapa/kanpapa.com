@@ -31,7 +31,7 @@ Mini Pupper 2をリモート制御するためにUbuntu 22.04がインストー�
 
 ガイドに記載されているビルド済のMini Pupper 2用ROS2イメージをダウンロードしました。ファイル名は以下の通りです。
 
-- 20240618\_MD-Puppy2\_ROS2Humble\_Ubuntu22.04.img.zip　(2.54GB)
+- 20240618_MD-Puppy2_ROS2Humble_Ubuntu22.04.img.zip　(2.54GB)
 
 次に新しいmicroSDカードを用意してこのイメージファイルをbalenaEtherで書き込みます。書き込みかたはガイドの通りです。私の場合は32GBのmicroSDカードに書き込みました。
 
@@ -98,7 +98,7 @@ sudo apt upgrade
 
 ### 起動
 
-最初にPCからミニぷぱ２にsshでログインして、mini\_pupper\_bringupを起動します。
+最初にPCからミニぷぱ２にsshでログインして、mini_pupper_bringupを起動します。
 
 ```
 ubuntu:~$ ssh ubuntu@192.168.0.113

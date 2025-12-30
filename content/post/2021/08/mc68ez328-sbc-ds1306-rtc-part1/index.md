@@ -30,7 +30,7 @@ DS1306のCE信号はMC68EZ328のPORTB bit1(PB1)に接続されています。Ena
 
 まずCE信号が正常にコントロールできるか、テストプログラムを作りました。
 
-- [https://github.com/kanpapa/MC68EZ328/blob/main/src/ds1306\_cstest.X68](https://github.com/kanpapa/MC68EZ328/blob/main/src/ds1306_cstest.X68 "ds1306_cstest.X68")
+- [https://github.com/kanpapa/MC68EZ328/blob/main/src/ds1306_cstest.X68](https://github.com/kanpapa/MC68EZ328/blob/main/src/ds1306_cstest.X68 "ds1306_cstest.X68")
 
 DS1306のCE信号にミニオシロスコープを接続して、High-Lowが繰り返されていることが確認できました。
 
@@ -67,7 +67,7 @@ MC68EZ328のSPI初期化時にPHA=1, POL=0と指定したところ、受信デ�
 この例ではDS1306 RTCのRAM書き込み(0xA0)を行ったあとに、RAM読み出し(0x20)を行いました。書き込んだデータは0xA5で、読み出したデータも0xA5になっています。ようやくRTCのWrite/Readが確認できました。  
 このテストプログラムはGitHubにコミットしておきました。
 
-- [https://github.com/kanpapa/MC68EZ328/blob/main/src/ds1306\_test.X68](https://github.com/kanpapa/MC68EZ328/blob/main/src/ds1306_test.X68 "ds1306_test.X68")
+- [https://github.com/kanpapa/MC68EZ328/blob/main/src/ds1306_test.X68](https://github.com/kanpapa/MC68EZ328/blob/main/src/ds1306_test.X68 "ds1306_test.X68")
 
 ### RTCのレジスタとメモリをダンプしてみる
 
@@ -79,7 +79,7 @@ MC68EZ328のSPI初期化時にPHA=1, POL=0と指定したところ、受信デ�
 
 このテストプログラムはGitHubにコミットしておきました。
 
-- [https://github.com/kanpapa/MC68EZ328/blob/main/src/ds1306\_readrtc.X68](https://github.com/kanpapa/MC68EZ328/blob/main/src/ds1306_readrtc.X68 "ds1306_readrtc.X68")
+- [https://github.com/kanpapa/MC68EZ328/blob/main/src/ds1306_readrtc.X68](https://github.com/kanpapa/MC68EZ328/blob/main/src/ds1306_readrtc.X68 "ds1306_readrtc.X68")
 
 ### 次はuClinuxのコマンド開発
 

@@ -118,7 +118,7 @@ if __name__ == '__main__':
 
 ### ROSパッケージの作成
 
-今回のパッケージはgpio\_testという名前にして以下の手順で作成しました。Publisherはpub.py、Subscriberはsub.pyとしました。
+今回のパッケージはgpio_testという名前にして以下の手順で作成しました。Publisherはpub.py、Subscriberはsub.pyとしました。
 
 ```
 cd ~/catkin_ws/src

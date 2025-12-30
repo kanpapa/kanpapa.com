@@ -100,18 +100,18 @@ ros2 topic echo /joy
 
 ここで、先ほど/joyトピックの確認のために起動したノードを停止します。
 
-次にジョイスティックの操作が/cmd\_velのトピックになるような、launchファイルが準備されていますので、以下のコマンドを実行します。
+次にジョイスティックの操作が/cmd_velのトピックになるような、launchファイルが準備されていますので、以下のコマンドを実行します。
 
 ```
 ros2 launch teleop_twist_joy teleop-launch.py
 ```
 
-意図しない誤操作を防ぐために、/cmd\_velを発生させるためには、以下のボタンを押しながら左側のスティックで操作する必要があります。
+意図しない誤操作を防ぐために、/cmd_velを発生させるためには、以下のボタンを押しながら左側のスティックで操作する必要があります。
 
-- OPTIONSボタン ・・通常モード（/cmd\_velの範囲はXは±0.7、Zは±0.4）
-- PSボタン・・・・・・ブーストモード（/cmd\_velの範囲はXは±1.5、Zは±1.0）
+- OPTIONSボタン ・・通常モード（/cmd_velの範囲はXは±0.7、Zは±0.4）
+- PSボタン・・・・・・ブーストモード（/cmd_velの範囲はXは±1.5、Zは±1.0）
 
-ジョイスティックを操作して、/cmd\_velのトピックに正常な値が流れてくることを確認します。
+ジョイスティックを操作して、/cmd_velのトピックに正常な値が流れてくることを確認します。
 
 ```
 ros2 topic echo /cmd_vel
@@ -119,7 +119,7 @@ ros2 topic echo /cmd_vel
 
 ![joy_cmd_vel_topic1.png](images/joy_cmd_vel_topic1.png)
 
-これをrqt\_graphで見ると以下のようになっています。
+これをrqt_graphで見ると以下のようになっています。
 
 ![ros2_joy_ps4_rqtgraph1.png](images/ros2_joy_ps4_rqtgraph1.png)
 

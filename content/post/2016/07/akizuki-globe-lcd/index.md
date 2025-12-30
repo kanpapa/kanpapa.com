@@ -65,7 +65,7 @@ PLLの設定は以下の通りです。（2020/5/4追記）
 
 画像データはRGBのパラレル入力ですが、まずは単純に縦方向のカウント数でR,G,Bの色データを設定するようにしました。うまく動けばこれでカラーストライプが表示されるはずです。
 
-今回ベースとしたソースはMAX10本のPROJ\_COLORLED2です。作成したソースは[github](https://github.com/kanpapa/max10/tree/master/PROJ_GROVELCD "PROJ_GROVELCD")におきました。このソースに加えてPLLの作成も必要です。
+今回ベースとしたソースはMAX10本のPROJ_COLORLED2です。作成したソースは[github](https://github.com/kanpapa/max10/tree/master/PROJ_GROVELCD "PROJ_GROVELCD")におきました。このソースに加えてPLLの作成も必要です。
 
 ## 球体スクリーンの製作
 

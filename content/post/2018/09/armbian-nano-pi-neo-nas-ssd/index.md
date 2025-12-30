@@ -22,7 +22,7 @@ image: "images/nano_pi_neo_serial_console.jpg"
 
 今回は[Nano pi NEO / Core 用のArmbian Bionic](https://www.armbian.com/nanopi-neo/ "Nano pi NEO / Core")をダウンロードしました。
 
-7zのファイルなので展開すると、Armbian\_5.59\_Nanopineo\_Ubuntu\_bionic\_next\_4.14.65.img というイメージファイルができますので、これをmicroSDカードに書き込みます。
+7zのファイルなので展開すると、Armbian_5.59_Nanopineo_Ubuntu_bionic_next_4.14.65.img というイメージファイルができますので、これをmicroSDカードに書き込みます。
 
 イメージファイルの書き込みは公式サイトにリンクされていた[Etcher](https://etcher.io/ "Etcher")を使います。このプログラムはSDカードにイメージファイルを書き込む機能に特化しているので簡単につかえます。
 

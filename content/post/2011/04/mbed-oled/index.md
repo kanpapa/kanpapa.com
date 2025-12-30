@@ -8,10 +8,10 @@ image: "images/mbed_oled2.jpg"
 ---
 
 mbedに[MARYシステムのOB基板(OLED)](http://toragi.cqpub.co.jp/tabid/412/Default.aspx)を接続してみました。  
-というのも@nxpfanさんがmbed で [MARMEX\_OB 基板(OLED表示)を制御するライブラリ](http://mbed.org/users/nxpfan/notebook/MARMEX_OB_oled_lib/)(MAPLE基板を利用)を公開されていたからです。  
+というのも@nxpfanさんがmbed で [MARMEX_OB 基板(OLED表示)を制御するライブラリ](http://mbed.org/users/nxpfan/notebook/MARMEX_OB_oled_lib/)(MAPLE基板を利用)を公開されていたからです。  
 今まではキャラクタLCDを[Starboard Orange](http://mbed.org/cookbook/StarBoard-Orange)で接続していましたが、ガイガーカウンタの出力をもう少し見やすくできないかという目的もありました。
 
-とりあえず、回路図とMARMEX\_OB基板用のライブラリをにらめっこして、mbedに直接接続して、@nxpfanさんのサンプルプログラムを動かしたところ、問題なく表示されました。  
+とりあえず、回路図とMARMEX_OB基板用のライブラリをにらめっこして、mbedに直接接続して、@nxpfanさんのサンプルプログラムを動かしたところ、問題なく表示されました。  
 接続方法はこんな感じです。この接続は@nxpfanさんのサンプルプログラムに合わせています。
 
 ```

@@ -10,7 +10,7 @@ image: "images/kuro-sheeva-pepper.jpg"
 KURO-SHEEVA（玄柴）にGainer互換のPepperを接続してみました。  
 参考にしたのはエレキジャックのサポートページです。  
 [「Gainer互換Pepperでフィジカル・コンピューティング」フォローアップ記事（6）](http://www.eleki-jack.com/FC/2010/01/gainerpepper6.html)  
-すでにKernelは2.6.32.3に更新済で、cdc\_acmドライバは組み込まれているので、PepperをKURO-SHEEVAのUSBに接続すれば認識できるはずです。  
+すでにKernelは2.6.32.3に更新済で、cdc_acmドライバは組み込まれているので、PepperをKURO-SHEEVAのUSBに接続すれば認識できるはずです。  
 まずは、シリアル通信での動作確認を行うためにuucpパッケージをインストールします。
 
 ```
@@ -109,20 +109,21 @@ $
 ```
 
 早速テストプログラムを流してみます。
+```
+$ cat blink.rb  
+require 'rubygems'  
+require 'gainer'
 
-> $ cat blink.rb  
-> require 'rubygems'  
-> require 'gainer'
-> 
-> gainer = Gainer::Serial.new("/dev/ttyACM0")
-> 
-> flag = true  
-> while true  
-> 　gainer.analog\_output\[0\] = (flag == true ? 0xff : 0);  
-> 　flag = ! flag  
-> 　sleep(0.2)  
-> end  
-> $ ruby blink.rb
+gainer = Gainer::Serial.new("/dev/ttyACM0")
+
+flag = true  
+while true  
+　gainer.analog_output[0] = (flag == true ? 0xff : 0);  
+　flag = ! flag  
+　sleep(0.2)  
+end  
+$ ruby blink.rb
+```
 
 Pepperに接続しているLEDが点滅を始めました！  
 これで開発環境が整いました。

@@ -15,7 +15,7 @@ image: images/hobot_dnn-hands-point1.jpg
 
 ## カメラ画像認識
 
-https://d-robotics.github.io/rdk\_doc/Robot\_development/quick\_demo/ai\_predict
+https://d-robotics.github.io/rdk_doc/Robot_development/quick_demo/ai_predict
 
 MIPIカメラで読み込んだ画像に対して、人体検出、年齢認識、顔のキーポイント検出、手のキーポイント検出、手のジェスチャー認識を行った推論結果をWeb経由で表示してくれます。
 
@@ -27,7 +27,7 @@ MIPIカメラで読み込んだ画像に対して、人体検出、年齢認識�
 
 ## テキスト読み上げ
 
-https://d-robotics.github.io/rdk\_doc/Robot\_development/quick\_demo/hobot\_tts
+https://d-robotics.github.io/rdk_doc/Robot_development/quick_demo/hobot_tts
 
 テキストデータをトピックとして与えることでそれを読み上げてくれるサンプルプログラムです。実行したところ私の環境ではうまく動かずエラーとなってしまいます。
 
@@ -62,7 +62,7 @@ RDK X5だけでなく、RDK X3でも同様の状態なので[issue](https://gith
 
 ## 大規模言語モデル
 
-https://d-robotics.github.io/rdk\_doc/Robot\_development/quick\_demo/hobot\_llm
+https://d-robotics.github.io/rdk_doc/Robot_development/quick_demo/hobot_llm
 
 こちらは残念ながらサポートモデルがRDK X3のみとなっていて、RDK X5はサポートされていません。ダメもとで試したところ、以下のようなエラーになってしまいました。
 
@@ -74,7 +74,7 @@ The model's march is bernoulli2, please run on X/J3 board!
 
 ## 視覚言語モデル
 
-https://d-robotics.github.io/rdk\_doc/Robot\_development/quick\_demo/hobot\_llamacpp
+https://d-robotics.github.io/rdk_doc/Robot_development/quick_demo/hobot_llamacpp
 
 画像データを与えることで、その画像が何であるかを推論してくれます。デモプログラムを動かしたところパンダの画像に対してパンダの説明を返してくれました。
 
@@ -96,7 +96,7 @@ https://d-robotics.github.io/rdk\_doc/Robot\_development/quick\_demo/hobot\_llam
 
 ## 放熱について
 
-RDK X5でCPU/BPU/DDR/GPUの各温度を表示するにはhrut\_somstatusコマンドを使います。同時にクロック等も表示されます。
+RDK X5でCPU/BPU/DDR/GPUの各温度を表示するにはhrut_somstatusコマンドを使います。同時にクロック等も表示されます。
 
 ```
 sunrise@ubuntu:~$ sudo hrut_somstatus

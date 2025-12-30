@@ -53,4 +53,4 @@ COSMAC TOY V2にもこのカバーをとりつけて思いっきりパチパチ�
 
 なお、オリジナルであるC基板のFreeCADファイルのデータを改変利用の許可もいただきましたのでGitHubにてデータを公開いたしました。
 
-https://github.com/kanpapa/Akizuki\_B\_Board\_BottomCover
+https://github.com/kanpapa/Akizuki_B_Board_BottomCover

@@ -32,7 +32,7 @@ image: images/otafab-esp32-minicar6-car2.jpg
 
 実装したプログラムは以下のようになりました。サンプルとしてメインルーチンからそれぞれの動きを実行するようにしています。
 
-ソースコードはこちら(esp32\_mouse2\_move\_to\_4\_direction\_and\_rolate.ino)
+ソースコードはこちら(esp32_mouse2_move_to_4_direction_and_rolate.ino)
 
 ```
 //-----------------------------------------------------

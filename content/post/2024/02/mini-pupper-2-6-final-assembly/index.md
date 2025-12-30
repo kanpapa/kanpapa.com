@@ -19,7 +19,7 @@ https://minipupperdocs.readthedocs.io/en/latest/guide/Assembly/MiniPupper2.html
 
 作業手順は以下のようになります。
 
-1. pre-built-imagesにあるv2\_stanford\_1.0.2.1\_20230820.img.zipをダウンロードします。
+1. pre-built-imagesにあるv2_stanford_1.0.2.1_20230820.img.zipをダウンロードします。
 2. Raspberry Pi ImagerでSDカードに書き込みます。
 3. Mini Pupper 2にHDMIモニタ、USBキーボードを接続し、SDカードをセットして電源を入れます。
 4. HDMIモニタでUbuntu 22.04の起動が確認できたらログインします。

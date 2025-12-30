@@ -12,7 +12,7 @@ tags:
 image: images/orangeputer-kb-m5stack-frame2.jpg
 ---
 
-[前回の記事](https://kanpapa.com/2025/11/orangeputer-m5stacks3-japanese-editor1.html)ではM5Stack CoreS3にOrangeputer-KBを接続し、日本語入力ができることを確認しました。その後、M5Stack用日本語入力キーボード組立てキット用フレーム (Orangeputer-KB + M5StackS3 をハンディコンソール的な感じにするフレーム)が[@n602\_NA](https://x.com/n602_NA)さんから公開されましたので早速3Dプリンタで出力してみました。
+[前回の記事](https://kanpapa.com/2025/11/orangeputer-m5stacks3-japanese-editor1.html)ではM5Stack CoreS3にOrangeputer-KBを接続し、日本語入力ができることを確認しました。その後、M5Stack用日本語入力キーボード組立てキット用フレーム (Orangeputer-KB + M5StackS3 をハンディコンソール的な感じにするフレーム)が[@n602_NA](https://x.com/n602_NA)さんから公開されましたので早速3Dプリンタで出力してみました。
 
 ## Orangeputer-KB ２号機の製作
 
@@ -70,6 +70,6 @@ M5Stack CoreS3もフレームに取り付けました。お互いが固定され
 
 ## まとめ
 
-[@n602\_NA](https://x.com/n602_NA)さんのM5Stack用日本語入力キーボード組立てキット用フレームでOrangeputer-KBとM5Stack CoreS3のセットが取り扱いやすくなりました。今後Orangeputer-KBに接続できる機器が増えてくると思いますので、今回製作したDIN BASE用フレームのように様々な機器ごとにフレームができていくのではないかと楽しみです。
+[@n602_NA](https://x.com/n602_NA)さんのM5Stack用日本語入力キーボード組立てキット用フレームでOrangeputer-KBとM5Stack CoreS3のセットが取り扱いやすくなりました。今後Orangeputer-KBに接続できる機器が増えてくると思いますので、今回製作したDIN BASE用フレームのように様々な機器ごとにフレームができていくのではないかと楽しみです。
 
-3Dデータを設計・公開いただいた [@n602\_NA](https://x.com/n602_NA)さんありがとうございました。
+3Dデータを設計・公開いただいた [@n602_NA](https://x.com/n602_NA)さんありがとうございました。

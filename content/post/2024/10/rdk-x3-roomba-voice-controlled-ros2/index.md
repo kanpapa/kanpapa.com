@@ -26,7 +26,7 @@ WM8960 Audio HATはRaspberry Pi用に設計された汎用的なもので2チャ
 
 製品の詳細やRDK X3でのセットアップ情報は以下のドキュメントページにまとまっています。（ブラウザの翻訳機能で日本語にして読んでいます）
 
-https://d-robotics.github.io/rdk\_doc/en/Basic\_Application/audio/audio\_board\_x3\_md
+https://d-robotics.github.io/rdk_doc/en/Basic_Application/audio/audio_board_x3_md
 
 ## Audio Driver HATを接続する
 
@@ -42,7 +42,7 @@ RDK X3のケースの上にぴったりと取り付けることができまし�
 
 まずはドキュメントのサンプルプログラムに従ってGazeboシミュレーターを音声で制御してみます。
 
-https://d-robotics.github.io/rdk\_doc/en/Robot\_development/apps/car\_audio\_control
+https://d-robotics.github.io/rdk_doc/en/Robot_development/apps/car_audio_control
 
 このサンプルプログラムでは中国語しか対応していないようなので、Google翻訳の音声出力を使用して動作確認を行いました。中国語の音声の命令通りに左右に動くことがわかります。
 

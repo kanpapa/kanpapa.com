@@ -22,4 +22,4 @@ categories:
 
 今後消音の工夫とか他のマイコンとかと組み合わせとか、あちこちでいろんな改造が始まるのではないかと思います。
 
-＜追記＞ @create\_clockさまからラチェット回りにグリスを塗ると音が静かになるとの情報をいただきましたので、手持ちのグリスを塗ったところ、以前よりは遥かに静かになりました。 ![patapata-radio-clock_05.jpg](images/patapata-radio-clock_05.jpg)
+＜追記＞ @create_clockさまからラチェット回りにグリスを塗ると音が静かになるとの情報をいただきましたので、手持ちのグリスを塗ったところ、以前よりは遥かに静かになりました。 ![patapata-radio-clock_05.jpg](images/patapata-radio-clock_05.jpg)

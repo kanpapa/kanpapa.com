@@ -16,7 +16,7 @@ image: "images/mc68ez328_dragonone_sbc_uclinux_startup2.png"
 
 まずは、uCsimmボード用のイメージファイルを作ります。Linuxカーネルは2.4系を使います。
 
-DragonOneとuCsimmはメモリマップに違いがあるので、uClinux-dist/linux-2.4.x/arch/m68knommu/platform/68EZ328/ucsimm/rom.ldのメモリアドレス定義を変更します。uCsimmはFlash 2MB, DRAM 8MBなので、Flashの部分をDragonOne SBC用に修正しました。また、uCsimmは専用のブートローダがあり、そこで68EZ328 CPUの制御レジスタを設定しているようなのですが、DragonOneは直接起動するため、リセット直後に68EZ328 CPUの初期設定をおこなう必要があります。そのため、ucsimm/crt0\_fixed.Sにboot.bで行っているものと同様のレジスタ設定を加えました。
+DragonOneとuCsimmはメモリマップに違いがあるので、uClinux-dist/linux-2.4.x/arch/m68knommu/platform/68EZ328/ucsimm/rom.ldのメモリアドレス定義を変更します。uCsimmはFlash 2MB, DRAM 8MBなので、Flashの部分をDragonOne SBC用に修正しました。また、uCsimmは専用のブートローダがあり、そこで68EZ328 CPUの制御レジスタを設定しているようなのですが、DragonOneは直接起動するため、リセット直後に68EZ328 CPUの初期設定をおこなう必要があります。そのため、ucsimm/crt0_fixed.Sにboot.bで行っているものと同様のレジスタ設定を加えました。
 
 変更パッチは後程Github.comに登録しておきます。
 
@@ -40,7 +40,7 @@ DragonOneとuCsimmはメモリマップに違いがあるので、uClinux-dist/l
 
 リセット時も同じアドレスからの実行なので、これと同じ状態になるべきですが、モニタからの実行とリセット直後の違いを考えてみると、モニタはブートローダーから起動しているので、ブートローダーが動いている時点ですでに終わっているUARTの初期設定が必要なことに気が付きました。
 
-レジスタの設定を行っているucsimm/crt0\_fixed.SにUART設定も追記して、image.bをビルドして再びFlashに書き込み、リセットをしたところ今度は起動メッセージが表示されました。
+レジスタの設定を行っているucsimm/crt0_fixed.SにUART設定も追記して、image.bをビルドして再びFlashに書き込み、リセットをしたところ今度は起動メッセージが表示されました。
 
 ![mc68ez328_dragonone_sbc_uclinux_startup1.png](images/mc68ez328_dragonone_sbc_uclinux_startup1.png)
 

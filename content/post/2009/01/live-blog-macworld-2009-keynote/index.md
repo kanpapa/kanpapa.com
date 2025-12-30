@@ -10,7 +10,7 @@ categories:
 
   
 
-[http://news.cnet.com/8301-13579\_3-10131491-37.html](http://news.cnet.com/8301-13579_3-10131491-37.html)
+[http://news.cnet.com/8301-13579_3-10131491-37.html](http://news.cnet.com/8301-13579_3-10131491-37.html)
 
   
 

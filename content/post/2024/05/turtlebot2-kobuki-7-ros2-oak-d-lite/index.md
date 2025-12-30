@@ -26,9 +26,9 @@ OAK-D-LITEカメラは一般的な物体検出機能を持っており、MobileN
 
 Mini Pupperと同じようにpythonで書きました。GitHubに登録しておきましたが、あくまでも実験用なので参考に留めてください。
 
-https://github.com/kanpapa/oak\_detect/blob/main/oak\_detect/oak\_detect.py
+https://github.com/kanpapa/oak_detect/blob/main/oak_detect/oak_detect.py
 
-プログラムで行っていることは、OAK-D-LITEカメラから/color/mobilenet\_detectionsという物体検知情報のトピックを受信し、ボトルが検知されていたらボトルの位置が画面の中央からどのぐらい離れているのかを計算し、その結果をtwist.angular.zに入れて/commands/velocityをpublishします。それをkobuki-nodeが受信して指示された方向に回転します。回転するとカメラが検知する物体の位置が変わりますから同様の動きを繰り返すことで最終的には物体の中央に向くことになります。
+プログラムで行っていることは、OAK-D-LITEカメラから/color/mobilenet_detectionsという物体検知情報のトピックを受信し、ボトルが検知されていたらボトルの位置が画面の中央からどのぐらい離れているのかを計算し、その結果をtwist.angular.zに入れて/commands/velocityをpublishします。それをkobuki-nodeが受信して指示された方向に回転します。回転するとカメラが検知する物体の位置が変わりますから同様の動きを繰り返すことで最終的には物体の中央に向くことになります。
 
 ## OAK-D-LITEを搭載したkobukiを動かしてみる
 
@@ -40,7 +40,7 @@ kobukiにはRaspberry Pi 4を載せてUSB端子にkobukiとOAK-D-LITEカメラ�
 
 GitHubのREADME.mdに載せた手順に従ってプログラムを起動し、カメラの前でボトルをゆっくり動かしてみました。
 
-https://github.com/kanpapa/oak\_detect
+https://github.com/kanpapa/oak_detect
 
 {{< youtube lOuqtJsKPuA >}}
 

@@ -69,13 +69,13 @@ ESP32-DEVKITCとmicroSDカードスロット変換基板の接続は以下のよ
 
 ### サンプルプログラムの書き込み
 
-Arduino IDEでmicroSD用のサンプルプログラムがSD\_Test.inoが用意されているのでこれを使います。プログラムは以下の場所にあります。
+Arduino IDEでmicroSD用のサンプルプログラムがSD_Test.inoが用意されているのでこれを使います。プログラムは以下の場所にあります。
 
-ファイル→スケッチ例→ESP32 Dev Module用のスケッチ例→SD→SD\_Test.ino
+ファイル→スケッチ例→ESP32 Dev Module用のスケッチ例→SD→SD_Test.ino
 
 以下の手順で確認します。
 
-1. [SD\_Test.ino](https://github.com/espressif/arduino-esp32/blob/master/libraries/SD/examples/SD_Test/SD_Test.ino "SD_Test.ino")を開いたらそのままコンパイルしてESP32 DevKit-Cに書き込みます。
+1. [SD_Test.ino](https://github.com/espressif/arduino-esp32/blob/master/libraries/SD/examples/SD_Test/SD_Test.ino "SD_Test.ino")を開いたらそのままコンパイルしてESP32 DevKit-Cに書き込みます。
 
 3. microSDカードをセットしてリセットボタンを押し、シリアルモニタの表示を確認します。通信速度は115200baudにしてください。
 
@@ -127,4 +127,4 @@ Used space: 1MB
 
 ### まとめ
 
-microSDのライブラリを使うことで簡単なプログラムでmicroSDカードの読み書きを行うことができました。サンプルプログラムの[SD\_Test.ino](https://github.com/espressif/arduino-esp32/blob/master/libraries/SD/examples/SD_Test/SD_Test.ino "SD_Test.ino")には基本的なmicroSDカードに対する操作が含まれていますので参考になると思います。
+microSDのライブラリを使うことで簡単なプログラムでmicroSDカードの読み書きを行うことができました。サンプルプログラムの[SD_Test.ino](https://github.com/espressif/arduino-esp32/blob/master/libraries/SD/examples/SD_Test/SD_Test.ino "SD_Test.ino")には基本的なmicroSDカードに対する操作が含まれていますので参考になると思います。

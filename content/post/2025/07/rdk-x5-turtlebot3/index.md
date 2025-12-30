@@ -21,15 +21,15 @@ image: images/rdk-x5-turtlebot3-setup4.jpg
 
 TurtleBot3にRDK X5を取り付ける前にRDK X5のソフトウェアをセットアップしました。今回は以下のイメージファイルをダウンロードし、32GBのmicroSDカードに書き込みました。
 
-/downloads/os\_images/rdk\_x5/rdk\_os\_3.2.3-2025-7-9/rdk-x5-ubuntu22-preinstalled-desktop-3.2.3-arm64.img.xz
+/downloads/os_images/rdk_x5/rdk_os_3.2.3-2025-7-9/rdk-x5-ubuntu22-preinstalled-desktop-3.2.3-arm64.img.xz
 
 RDK X5が起動するまでの手順は以下のページを参照してください。
 
-https://d-robotics.github.io/rdk\_doc/Quick\_start/install\_os/rdk\_x5
+https://d-robotics.github.io/rdk_doc/Quick_start/install_os/rdk_x5
 
 次にTurtleBot3用のソフトウェアをセットアップしていきます。これはTurtleBot3 公式マニュアルのQuick Start Guideにまとまっています。ROS2 humbleを使います。
 
-https://emanual.robotis.com/docs/en/platform/turtlebot3/sbc\_setup/#install-packages-on-raspberry-pi
+https://emanual.robotis.com/docs/en/platform/turtlebot3/sbc_setup/#install-packages-on-raspberry-pi
 
 RDK X5のセットアップは、[3.2 SBC Setup](https://emanual.robotis.com/docs/en/platform/turtlebot3/sbc_setup/#sbc-setup)に従って作業を進めます。RDK X5ではUbuntu 22.04のイメージが配布されていますので、3.2.5 Install packages on Raspberry PI の 1. Install ROS2 Humble Hawksbill までの手順はスキップできます。このため、2. Install and Build ROS Packages から作業を進めていきます。変更すべき点は[ルンバを動かしたとき](https://kanpapa.com/2024/09/rdk-x3-roomba-controlled-ros2.html)と同様にrosをtrosにします。
 
@@ -125,9 +125,9 @@ TurtleBot3公式マニュアルと同じtopicが表示されることが確認�
 
 TurtleBot3公式マニュアルの 3.6.1 Teleoperation にしたがって手動操作を行ってみます。
 
-https://emanual.robotis.com/docs/en/platform/turtlebot3/basic\_operation/#teleoperation
+https://emanual.robotis.com/docs/en/platform/turtlebot3/basic_operation/#teleoperation
 
-turtlebot3\_teleopを起動します。
+turtlebot3_teleopを起動します。
 
 ```
 ocha@ocha-ubuntu:~$ export TURTLEBOT3_MODEL=${TB3_MODEL}
@@ -159,9 +159,9 @@ CTRL-C to quit
 
 次にTurtleBot3に搭載したRDK X5カメラ IMX219カメラの確認をします。ROS2 humbleを使用している例がRDK X5ドキュメントの5.2.1 Image Captureにありますのでこれにしたがって操作します。
 
-https://d-robotics.github.io/rdk\_doc/Robot\_development/quick\_demo/demo\_sensor#mipi%E5%9B%BE%E5%83%8F%E9%87%87%E9%9B%86
+https://d-robotics.github.io/rdk_doc/Robot_development/quick_demo/demo_sensor#mipi%E5%9B%BE%E5%83%8F%E9%87%87%E9%9B%86
 
-新しいターミナルでRDK X5にログインし、以下のコマンドを入力します。このmipi\_camノードはMIPIカメラのデータを/mbmem\_imgというトピックで配信するものです。
+新しいターミナルでRDK X5にログインし、以下のコマンドを入力します。このmipi_camノードはMIPIカメラのデータを/mbmem_imgというトピックで配信するものです。
 
 ```
 sunrise@ubuntu:/opt/tros/humble/lib/mipi_cam/config$ ros2 launch mipi_cam mipi_cam.launch.py
@@ -172,7 +172,7 @@ Hobot shm pkg enables zero-copy with fastrtps profiles file: /opt/tros/humble/li
   :
 ```
 
-この状態でもう一つ新しいターミナルからRDK X5にログインし、以下のコマンドを入力します。hobot\_codec\_encodeノードは/mbmem\_imgトピックを/image\_jpegトピックにエンコードしてくれます。
+この状態でもう一つ新しいターミナルからRDK X5にログインし、以下のコマンドを入力します。hobot_codec_encodeノードは/mbmem_imgトピックを/image_jpegトピックにエンコードしてくれます。
 
 ```
 sunrise@ubuntu:~$ ros2 launch hobot_codec hobot_codec_encode.launch.py
@@ -185,7 +185,7 @@ env of RMW_FASTRTPS_USE_QOS_FROM_XML is  1 , ignore env setting
    :
 ```
 
-最後にもう一つ新しいターミナルからRDK X5にログインし、次のコマンドを入力します。このwebsocketノードは/image\_jpegを購読して、RDK X5のWebサーバで画像を表示するものです。
+最後にもう一つ新しいターミナルからRDK X5にログインし、次のコマンドを入力します。このwebsocketノードは/image_jpegを購読して、RDK X5のWebサーバで画像を表示するものです。
 
 ```
 sunrise@ubuntu:~$ ros2 launch websocket websocket.launch.py websocket_image_topic:=/image_jpeg websocket_only_show_image:=true
@@ -223,9 +223,9 @@ Rviz2のウインドウの左下にあるAddのボタンをクリックし、Laz
 
 ## IMUの確認
 
-最後にTurtleBot3の重要なセンサーであるIMUと地磁気センサーの確認をします。これは/imuと/magnetic\_fieldの２つのトピックが配信されているのでこれをRviz2で可視化します。
+最後にTurtleBot3の重要なセンサーであるIMUと地磁気センサーの確認をします。これは/imuと/magnetic_fieldの２つのトピックが配信されているのでこれをRviz2で可視化します。
 
-Rviz2のウインドウの左下にあるAddのボタンをクリックし、Imuプラグインをクリックし、Topicに/imuを指定します。さらに、Magプラグインをクリックし、Topicに/magnetic\_fieldを指定するとロボット本体の向きと傾きと地磁気の方向が表示されます。これによりロボット自身がどのような姿勢でどちらに向いているのかを知ることができます。
+Rviz2のウインドウの左下にあるAddのボタンをクリックし、Imuプラグインをクリックし、Topicに/imuを指定します。さらに、Magプラグインをクリックし、Topicに/magnetic_fieldを指定するとロボット本体の向きと傾きと地磁気の方向が表示されます。これによりロボット自身がどのような姿勢でどちらに向いているのかを知ることができます。
 
 ![](images/rdk-x5-turtlebot3-imu1-1024x557.png)
 
@@ -235,7 +235,7 @@ Rviz2のウインドウの左下にあるAddのボタンをクリックし、Imu
 
 ## ノードとトピックの関連図を作る
 
-たくさんのノードやトピックがでてきたので複雑になってきました。rqt\_graphコマンドでノードとトピックの関連図ができます。
+たくさんのノードやトピックがでてきたので複雑になってきました。rqt_graphコマンドでノードとトピックの関連図ができます。
 
 ```
 rqt_graph

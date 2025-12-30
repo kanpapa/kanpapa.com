@@ -19,7 +19,9 @@ image: "images/wio_node.jpg"
 
 ７セグメントLEDに数値を表示するAPIはこんな感じで簡単に使えます。
 
-> $ curl -k -X POST https://us.wio.seeed.io/v1/node/Grove4DigitUART0/display\_digits/表示開始桁位置/表示したい数字4桁?access\_token=登録したWio NODEにアクセスするための文字列
+```
+> $ curl -k -X POST https://us.wio.seeed.io/v1/node/Grove4DigitUART0/display_digits/表示開始桁位置/表示したい数字4桁?access_token=登録したWio NODEにアクセスするための文字列
+```
 
 例えば、このAPIを私のVPSで動かして、VPSのロードアベレージの数値を自宅の７セグメントLEDに表示するということもできてしまいます。
 

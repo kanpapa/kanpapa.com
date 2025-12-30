@@ -16,7 +16,7 @@ Firefox OS Flameを手に入れました。でも、購入時点だとFirefox OS
 
 - b2g-34.0a1.en-US.android-arm.tar.gz　（ファイル名はその都度変わります）
 - gaia.zip
-- shallow\_flash.sh
+- shallow_flash.sh
 
 作業の前にFlameの環境設定でリモートデバッグを有効にしておくことと、途中で端末ロックがかからないように画面ロックを無効にしておきます。
 

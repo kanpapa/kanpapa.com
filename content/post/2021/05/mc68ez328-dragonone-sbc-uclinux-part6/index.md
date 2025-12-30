@@ -64,11 +64,11 @@ static int init(void * unused)
 }
 ```
 
-今回問題となっているNo init foundやinitial consoleの文字が見えます。まずはdo\_basic\_setup()をみておきます。
+今回問題となっているNo init foundやinitial consoleの文字が見えます。まずはdo_basic_setup()をみておきます。
 
-### do\_basic\_setup
+### do_basic_setup
 
-do\_basic\_setupではソケットの初期化と必要なスレッドの初期化を行います。mountに関するものは無さそうです。
+do_basic_setupではソケットの初期化と必要なスレッドの初期化を行います。mountに関するものは無さそうです。
 
 ```
 static void __init do_basic_setup(void)
@@ -81,4 +81,4 @@ static void __init do_basic_setup(void)
 }
 ```
 
-すでに何度も確認しているのでわかっているのですが、ルートファイルシステムをmountしているのは、prepare\_namespace()です。ここを中心にみていきます。（続く）
+すでに何度も確認しているのでわかっているのですが、ルートファイルシステムをmountしているのは、prepare_namespace()です。ここを中心にみていきます。（続く）

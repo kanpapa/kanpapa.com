@@ -117,7 +117,7 @@ Reverseit: data
 
 これらの結果から各バイトの上位桁と下位桁を入れ替えたあとに、データの最後から最初に向けて並べ替えるプログラムをPythonでかきました。
 
-https://github.com/kanpapa/ctf/blob/master/reverse\_it.py
+https://github.com/kanpapa/ctf/blob/master/reverse_it.py
 
 変換後のファイルをバイナリエディタで覗いたところ、JFIFという文字が見えました。
 
@@ -199,7 +199,7 @@ $
 
 自動的に回答するプログラムをPythonで作成しました。
 
-https://github.com/kanpapa/ctf/blob/master/choose\_the\_number.py
+https://github.com/kanpapa/ctf/blob/master/choose_the_number.py
 
 試してみると100回めでフラグが取れました。
 
@@ -334,7 +334,7 @@ $
 
 作りかけのプログラムは以下におきました。これは不完全なものですのでご注意ください。
 
-https://github.com/kanpapa/ctf/blob/master/lets\_disassemble.py
+https://github.com/kanpapa/ctf/blob/master/lets_disassemble.py
 
 途中まで実行を試した結果は以下のようになりました。いいところまでできたのですが。残念です。
 

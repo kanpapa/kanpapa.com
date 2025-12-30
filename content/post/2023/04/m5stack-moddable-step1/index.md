@@ -84,11 +84,11 @@ M5Stack FIREはこれまで何度かアップデートがあり、その都度�
 |  | **ビルド方法**  | **M5Stack FIRE** | **M5GO** |
 | --- | --- | --- | --- |
 | **counter** | esp32/m5stack  | 画面向きOK、色反転 | 画面向きOK、色反転 |
-| esp32/m5stack\_fire | 画面横向き、色OK | 画面横向き、色OK |
+| esp32/m5stack_fire | 画面横向き、色OK | 画面横向き、色OK |
 | **bongo** | esp32/m5stack  | 画面向きOK、色反転 | 画面向きOK、色反転 |
-| esp32/m5stack\_fire | 画面横向き、色OK | 画面横向き、色OK |
+| esp32/m5stack_fire | 画面横向き、色OK | 画面横向き、色OK |
 | **unit/neopixel** | esp32/m5stack  | 正常に光が流れる。 | 正常に光が流れる。 |
-| esp32/m5stack\_fire | 途中まで光るが、光が流れず、再起動 | 途中まで光るが、光が流れず、再起動 |
+| esp32/m5stack_fire | 途中まで光るが、光が流れず、再起動 | 途中まで光るが、光が流れず、再起動 |
 
 ### 今後について
 

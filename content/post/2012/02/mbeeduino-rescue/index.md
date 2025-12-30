@@ -8,7 +8,7 @@ categories:
 image: "images/rescue_crawler5.jpg"
 ---
 
-@naka\_at\_kureさんが、[MBeeDuino](http://www38.atpages.jp/~nakakure/pukiwikiplus/index.php?MBeeDuino)というArduino互換で3chモータードライバとXBeeが搭載できる生基板を配布されていたので分けていただきました。  
+@naka_at_kureさんが、[MBeeDuino](http://www38.atpages.jp/~nakakure/pukiwikiplus/index.php?MBeeDuino)というArduino互換で3chモータードライバとXBeeが搭載できる生基板を配布されていたので分けていただきました。  
 タミヤの模型に実装できるように穴の位置やサイズなどよく考えられており、我が家にあるタミヤの[レスキュークローラー](http://www.tamiya.com/japan/products/70169rescue/)に載せられないかなと思ったのです。  
 部品を集めて完成したMBeeDuinoはこんな感じです。サイズも小さいです。
 

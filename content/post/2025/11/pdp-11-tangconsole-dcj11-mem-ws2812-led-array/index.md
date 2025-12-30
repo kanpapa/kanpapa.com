@@ -44,20 +44,20 @@ WS2812 LED Arrayに情報の表示はできているのですが、表示方向�
 
 まずLEDの個数が60個になるように変数や配列を調整し、10桁6行で表示されるようにbitmap2stream配列の要素を変更しました。
 
-なお、LEDには以下の内容が表示されています。なお、39～32のLEDはこの内容で固定ですが、31～0のLEDはsw1\_count(SW1を押す）の内容で変化するので、これがすべてではありません。
+なお、LEDには以下の内容が表示されています。なお、39～32のLEDはこの内容で固定ですが、31～0のLEDはsw1_count(SW1を押す）の内容で変化するので、これがすべてではありません。
 
 | LED No. | Red | Green | Blue |
 | --- | --- | --- | --- |
-| 39 | diag\_test\_failed | rx\_data\_ready | CLK\_monitor |
-| 38 | HALT | ~tx\_ready | ALE\_monitor |
-| 37 | ~INIT\_n | BUS\_RESET | event\_monitor |
-| 36 | (sd\_error !=0) \| ~sd\_mosi | 未使用 | ~sd\_miso |
-| 35 | (mt\_error !=0 ) \| ~mt\_mosi | 未使用 | ~mt\_miso & (sd2\_dev == DEV\_MT) |
-| 34 | (pt\_error !=0 ) \| ~pt\_mosi | 未使用 | ~pt\_miso & (sd2\_dev == DEV\_PT) |
+| 39 | diag_test_failed | rx_data_ready | CLK_monitor |
+| 38 | HALT | ~tx_ready | ALE_monitor |
+| 37 | ~INIT_n | BUS_RESET | event_monitor |
+| 36 | (sd_error !=0) \| ~sd_mosi | 未使用 | ~sd_miso |
+| 35 | (mt_error !=0 ) \| ~mt_mosi | 未使用 | ~mt_miso & (sd2_dev == DEV_MT) |
+| 34 | (pt_error !=0 ) \| ~pt_mosi | 未使用 | ~pt_miso & (sd2_dev == DEV_PT) |
 | 33 | IRQ2 | IRQ1 | IRQ0 |
-| 32 | sw1\_count (3bit counter) |  |  |
+| 32 | sw1_count (3bit counter) |  |  |
 | 31〜16 | address\[15:0\] |  |  |
-| 15〜0 | d\_cpu\_to\_ram |  |  |
+| 15〜0 | d_cpu_to_ram |  |  |
 
 top.vを変更したあとにRerun Allを実行し、生成されたbitstreamをTangConsoleに書き込みました。電源を投入したところ予定通りに8桁×5行のビットマップとして表示できました。
 

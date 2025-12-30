@@ -48,7 +48,7 @@ ROS1の場合はroscoreというプロセスがシステムのどこかに存在
 
 ROS2の実行環境はUbuntu 20.04 LTSになります。ROS1 Melodicの場合はUbuntu 18.04 LTSだったため、M1 MacのParallel Desktopは使えなかったのですが、Ubuntu 20.04 LTSなら使えます。これでM1の高速性が活かせそうです。Raspberry PiもUbuntu 20.04 Serverが使えますので、当面OSサポートの心配は不要です。
 
-ルンバのドライバはROS1の時は[RoboticaUtnFrba/create\_autonomy](https://github.com/RoboticaUtnFrba/create_autonomy "RoboticaUtnFrba/create_autonomy")を使用しましたが、こちらはROS2には対応していないようなので、Foxyをサポートしている [AutonomyLab/create\_robot](https://github.com/AutonomyLab/create_robot "AutonomyLab/create_robot") を使用してみます。このfoxyブランチを使用すれば良さそうです。
+ルンバのドライバはROS1の時は[RoboticaUtnFrba/create_autonomy](https://github.com/RoboticaUtnFrba/create_autonomy "RoboticaUtnFrba/create_autonomy")を使用しましたが、こちらはROS2には対応していないようなので、Foxyをサポートしている [AutonomyLab/create_robot](https://github.com/AutonomyLab/create_robot "AutonomyLab/create_robot") を使用してみます。このfoxyブランチを使用すれば良さそうです。
 
 ### ROS2の環境構築
 
@@ -162,7 +162,7 @@ ranges:
 　　　　　:
 ```
 
-もう一つターミナルを立ち上げて/cmd\_velのトピックを投げてみます。
+もう一つターミナルを立ち上げて/cmd_velのトピックを投げてみます。
 
 ```
 ros2 topic pub /cmd_vel geometry_msgs/Twist '{linear: {x: 0.1}, angular: {z: 0.3}}'

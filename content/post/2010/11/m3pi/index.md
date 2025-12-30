@@ -42,7 +42,7 @@ OLYMPUS DIGITAL CAMERA
 
 </figure>
 
-MTM06に間に合わせるために急いで拡張基板のハンダ付けを行い、3piのATmega328Pに[serial slaveプログラム](http://www.pololu.com/docs/0J21/10.a)を書き込み、[m3pi\_HelloWorld](http://mbed.org/users/chris/programs/m3pi_HelloWorld/lhnzxb/docs/main_8cpp_source.html)のサンプルプログラムをコンパイルしてmbedに転送すると、あっさり動いてしまいました。
+MTM06に間に合わせるために急いで拡張基板のハンダ付けを行い、3piのATmega328Pに[serial slaveプログラム](http://www.pololu.com/docs/0J21/10.a)を書き込み、[m3pi_HelloWorld](http://mbed.org/users/chris/programs/m3pi_HelloWorld/lhnzxb/docs/main_8cpp_source.html)のサンプルプログラムをコンパイルしてmbedに転送すると、あっさり動いてしまいました。
 
 {{< youtube Q0xCMMv0uKM >}}
 

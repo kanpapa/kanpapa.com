@@ -28,8 +28,8 @@ image: "images/HC-SR04_test.jpeg"
 
 今回作成したテストプログラムとfritzingで作成した実体配線図もGitHubに登録しています。
 
-- [HC-SR04\_test.ino](https://github.com/docofab/mechanumWheelRobot/blob/main/Arduino/Samples/HC-SR04_test/HC-SR04_test.ino "HC-SR04_test.ino")
-- [HC-SR04\_fritzing.jpg](https://github.com/docofab/mechanumWheelRobot/blob/main/Arduino/Samples/HC-SR04_test/HC-SR04_fritzing.jpg "HC-SR04_fritzing.jpg")
+- [HC-SR04_test.ino](https://github.com/docofab/mechanumWheelRobot/blob/main/Arduino/Samples/HC-SR04_test/HC-SR04_test.ino "HC-SR04_test.ino")
+- [HC-SR04_fritzing.jpg](https://github.com/docofab/mechanumWheelRobot/blob/main/Arduino/Samples/HC-SR04_test/HC-SR04_fritzing.jpg "HC-SR04_fritzing.jpg")
 
 ### Thinkercadでシミュレートしてみる
 

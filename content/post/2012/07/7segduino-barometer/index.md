@@ -11,7 +11,7 @@ image: "images/7segduino_pressure_front.jpg"
 
 ![](images/stamp_board.jpg)
 
-7segduinoに丁度良いサイズだなと思ったので、秋月電子のMPL115A2モジュールとこの基板を使って7segduinoの気圧計拡張ボードを作ってみました。回路図とファームウェアは[@morecat\_labさんのサイト](http://morecatlab.akiba.coocan.jp/lab/index.php/aruino/7segduino/7segduino-application-3/)にアップされているもののままです。
+7segduinoに丁度良いサイズだなと思ったので、秋月電子のMPL115A2モジュールとこの基板を使って7segduinoの気圧計拡張ボードを作ってみました。回路図とファームウェアは[@morecat_labさんのサイト](http://morecatlab.akiba.coocan.jp/lab/index.php/aruino/7segduino/7segduino-application-3/)にアップされているもののままです。
 
 作ってみたところ、こんな感じになりました。
 

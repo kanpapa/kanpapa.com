@@ -43,22 +43,22 @@ SLAMの説明はマクニカさんのサイトがよくまとまっています�
 - ROS Melodic
 - [libfreenect](https://github.com/OpenKinect/libfreenect "libfreenect")  
     libfreenect is a userspace driver for the Microsoft Kinect. It runs on Linux, OSX, and Windows and supports. （RGB and Depth Images、Motors、Accelerometer、LED、Audio）
-- [rgbd\_launch](http://wiki.ros.org/action/fullsearch/rgbd_launch "rgbd_launch")  
+- [rgbd_launch](http://wiki.ros.org/action/fullsearch/rgbd_launch "rgbd_launch")  
     This package contains launch files for using RGB-D devices such as the Microsoft Kinect in ROS.
-- [freenect\_stack](http://wiki.ros.org/action/fullsearch/freenect_stack)  
+- [freenect_stack](http://wiki.ros.org/action/fullsearch/freenect_stack)  
     This stack provides a ROS interface to the Microsoft Kinect using the libfreenect library.
 - [rtabmap](https://github.com/introlab/rtabmap "rtabmap")  
     RTAB-Map library and standalone application.
-- [rtabmap\_ros](http://wiki.ros.org/action/fullsearch/rtabmap_ros "rtabmap_ros")  
+- [rtabmap_ros](http://wiki.ros.org/action/fullsearch/rtabmap_ros "rtabmap_ros")  
     RTAB-Map's ros-pkg. RTAB-Map is a RGB-D SLAM approach with real-time constraints.
 
 ### Raspberry Pi 4のセットアップ
 
-1\. catkin\_wsを作成
+1\. catkin_wsを作成
 
-mkdir -p ~/catkin\_ws/src  
-cd catkin\_ws  
-catkin\_make  
+mkdir -p ~/catkin_ws/src  
+cd catkin_ws  
+catkin_make  
 source devel/setup.bash
 
 2\. libfreenectのインストール
@@ -74,13 +74,13 @@ cd ../..
 sudo cp libfreenect/platform/linux/udev/51-kinect.rules /etc/udev/rules.d  
 sudo udevadm trigger
 
-3\. rgbd\_launchとfreenect\_stackパッケージのインストール
+3\. rgbd_launchとfreenect_stackパッケージのインストール
 
-cd ~/catkin\_ws/src  
-git clone https://github.com/ros-drivers/rgbd\_launch.git  
-git clone https://github.com/ros-drivers/freenect\_stack.git  
-cd ~/catkin\_ws  
-catkin\_make  
+cd ~/catkin_ws/src  
+git clone https://github.com/ros-drivers/rgbd_launch.git  
+git clone https://github.com/ros-drivers/freenect_stack.git  
+cd ~/catkin_ws  
+catkin_make  
 source ~/.bashrc
 
 4\. RTAB-Mapのスタンドアロンライブラリのインストール
@@ -94,10 +94,10 @@ sudo make install
 
 5\. RTAB-Map rosパッケージのインストール
 
-cd catkin\_ws/src  
-git clone https://github.com/introlab/rtabmap\_ros.git  
+cd catkin_ws/src  
+git clone https://github.com/introlab/rtabmap_ros.git  
 cd ..  
-catkin\_make -j4
+catkin_make -j4
 
 ### RGB-Depth SLAMを動かしてみる
 
@@ -105,17 +105,17 @@ catkin\_make -j4
 
 2\. 1番めのターミナルでkinectデータ取得ノードを起動する
 
-roslaunch freenect\_launch freenect.launch depth\_registration:=true
+roslaunch freenect_launch freenect.launch depth_registration:=true
 
-3\. 2番めのターミナルでimage\_viewを立ち上げて画像トピックが流れているか確認する。
+3\. 2番めのターミナルでimage_viewを立ち上げて画像トピックが流れているか確認する。
 
-rosrun rqt\_image\_view rqt\_image\_view
+rosrun rqt_image_view rqt_image_view
 
-GUIで表示したい画像トピックを選択すると画像が移ります。カラー画像は/camera/rgb/image\_color，距離画像は/camera/depth\_registered/imageです。
+GUIで表示したい画像トピックを選択すると画像が移ります。カラー画像は/camera/rgb/image_color，距離画像は/camera/depth_registered/imageです。
 
 4\. 3番目のターミナルでRTAB-Mapのノードを起動する
 
-roslaunch rtabmap\_ros rgbd\_mapping.launch
+roslaunch rtabmap_ros rgbd_mapping.launch
 
 5\. Kinectを持ってゆっくり動いてみる。
 

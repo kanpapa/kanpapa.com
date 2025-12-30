@@ -50,7 +50,7 @@ Rviz2が起動したら以下のように表示項目を追加します。
 1. 左側のDisplaysのメニューでAddをクリックする。
 2. By display typeからLaserScanを選んでOKをクリックし、追加されたLaserScanのTopicを選び、Topicに/scanを設定する。TopicのReliabilty PolicyをBest Effortにする。Size(m)を0.03にする。
 3. By display typeからTFを選んでOKをクリックする。
-4. Global OptionsのFixed Frameをbase\_linkにする。
+4. Global OptionsのFixed Frameをbase_linkにする。
 
 この状態でルンバの位置にTFの情報が表示され、レーザースキャナの状態も見えるはずです。
 

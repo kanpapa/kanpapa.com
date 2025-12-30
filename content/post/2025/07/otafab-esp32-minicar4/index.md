@@ -42,7 +42,7 @@ Arduino IDEのライブラリマネージャーでssd1306を検索するとい�
 
 ![](images/adafruit-ssd1306-library1.png)
 
-スケッチ例にssd1306を使用したデモプログラムが用意されていますので、ファイルのスケッチ例からssd1306\_128x64\_i2cを選択します。今回は秋月電子さんの[OLED 128x64](https://akizukidenshi.com/catalog/g/g112031/)を使用しましたが、I2Cアドレスが0x3cでしたので35行目だけを修正しました。
+スケッチ例にssd1306を使用したデモプログラムが用意されていますので、ファイルのスケッチ例からssd1306_128x64_i2cを選択します。今回は秋月電子さんの[OLED 128x64](https://akizukidenshi.com/catalog/g/g112031/)を使用しましたが、I2Cアドレスが0x3cでしたので35行目だけを修正しました。
 
 修正前
 
@@ -64,7 +64,7 @@ Arduino IDEのライブラリマネージャーでssd1306を検索するとい�
 
 超音波センサーは秋月電子で販売している[超音波距離センサー HC-SR04](https://akizukidenshi.com/catalog/g/g111009/)を使用しました。これを選択した理由は電源電圧が3.3vに対応しているからです。HC-SR04のプログラムはSparkfunのサンプルコードを参照しました。
 
-https://github.com/sparkfun/HC-SR04\_UltrasonicSensor
+https://github.com/sparkfun/HC-SR04_UltrasonicSensor
 
 先ほどの回路図のようにTRIGをGPIO18に、ECHOをGPIO20に接続していますので、サンプルコードのGPIO番号を以下のように修正しました。
 
@@ -94,7 +94,7 @@ const int ECHO_PIN = 20;
 
 前回までに作成したミニカーのプログラムにこれまでのOLEDや超音波センサーのデモプログラムを取り込んでみました。超音波センサーの距離を測る部分は関数にしています。テスト目的ですので、ミニカーのプログラムのloop関数内で距離をOLEDに表示するように組み込みました。
 
-ソースコードはこちら（esp32\_mouse2-dest.ino）
+ソースコードはこちら（esp32_mouse2-dest.ino）
 
 ```
 //-----------------------------------------------------

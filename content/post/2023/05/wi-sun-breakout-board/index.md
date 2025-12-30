@@ -25,7 +25,7 @@ KiCADでガーバーデータを作成し、JLCPCBさんに発注しました。
 
 KiCADデータはGitHubにまとめておきました。こちらは実際に製作した基板をさらに改良しv0.3としています。
 
-- [https://github.com/kanpapa/wisun\_prototype\_pcb](https://github.com/kanpapa/wisun_prototype_pcb "wisun_prototype_pcb")
+- [https://github.com/kanpapa/wisun_prototype_pcb](https://github.com/kanpapa/wisun_prototype_pcb "wisun_prototype_pcb")
 
 ### Wi-SUNブレークアウト基板の組み立て
 

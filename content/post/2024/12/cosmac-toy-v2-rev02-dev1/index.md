@@ -39,7 +39,7 @@ image: images/cosmac-toy-v2-rev02-dev1-photo1.jpg
 
 COSMAC TOY V2の詳細はGitHubにまとめましたのでそちらをご覧ください。サンプルプログラムも大幅に整理して命令コードの説明や動作中の写真や動画リンクも追加しました。COSMAC TOY V1を利用のかたも参考になるかもしれません。
 
-https://github.com/kanpapa/cosmac\_toy\_v2
+https://github.com/kanpapa/cosmac_toy_v2
 
 ## Rev.0.2基板が完成
 

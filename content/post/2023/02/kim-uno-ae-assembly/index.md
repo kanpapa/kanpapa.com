@@ -22,7 +22,7 @@ KIM Unoという名前からある程度想像できますが、KIM-1の機能�
 
 KIM Unoの製作に必要なパーツは秋月電子で揃えました。KIM Unoで使用しているArduino Pro Miniと7セグメントLEDは秋月電子で入手できる同等品（ [AE-ATMEGA328-MINI \[K-10347\]](https://akizukidenshi.com/ "AE-ATMEGA-328 MINI"), [OSL40363-IRYG \[I-15998\]](https://akizukidenshi.com/ "OSL40363-IRYG") ）を使っています。回路図はGitHubに載せておきました。
 
-- [kanpapa/kim\_uno\_ae/schematics/kimuno4\_ae\_sch.pdf](https://github.com/kanpapa/kim_uno_ae/blob/main/schematics/kimuno4_ae_sch.pdf)
+- [kanpapa/kim_uno_ae/schematics/kimuno4_ae_sch.pdf](https://github.com/kanpapa/kim_uno_ae/blob/main/schematics/kimuno4_ae_sch.pdf)
 
 Arduino Pro MiniにはKIM-1のスケッチを書き込みます。最新のファームウェアを書き込もうとしたのですが、スケッチのサイズが大きすぎるというエラーがでてしまったので、一つ前のファームウェアを書き込みました。もしかするとArduinoライブラリの更新でメモリに収まらなくなってしまったのかもしれません。この点はあとで調べてみたいと思います。
 

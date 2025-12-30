@@ -62,7 +62,7 @@ sudo python3 setup.py install
 
 Jupyter NotebookでPythonコードを動かすにはコードが書かれている部分をマウスで選択し、Playアイコンを押すだけです。コードの修正もJupyter Notebook上で直接行うことができます。
 
-左側のNotebooksのフォルダをクリックし、フォルダの中にある[basic\_motion.ipynb](https://github.com/NVIDIA-AI-IOT/jetbot/blob/master/notebooks/basic_motion/basic_motion.ipynb "basic_motion.ipynb")をクリックすると次のような画面になります。
+左側のNotebooksのフォルダをクリックし、フォルダの中にある[basic_motion.ipynb](https://github.com/NVIDIA-AI-IOT/jetbot/blob/master/notebooks/basic_motion/basic_motion.ipynb "basic_motion.ipynb")をクリックすると次のような画面になります。
 
 ![](images/JetBot_Jupyter_Notebook1-1024x589.png)
 

@@ -38,7 +38,7 @@ I2Cで接続できる表示デバイスをつければ、温度、湿度、気�
 ![microbit_mbed_compiler.png](images/microbit_mbed_compiler.png)  
 [micro:bitのDALライブラリ](https://os.mbed.com/platforms/Microbit/#micro-bit-device-abstraction-layer-dal "micro:bit DAL")に加え、OLEDとBME280のライブラリは以下のものをつかいました。
 
-- Wim Huiskampさんの[SSD1308\_128x64\_I2C](https://os.mbed.com/users/wim/code/SSD1308_128x64_I2C/ "SSD1308_128x64_I2C")
+- Wim Huiskampさんの[SSD1308_128x64_I2C](https://os.mbed.com/users/wim/code/SSD1308_128x64_I2C/ "SSD1308_128x64_I2C")
 
 - Toyomasa Wataraiさんの[BME280](https://os.mbed.com/users/MACRUM/code/BME280/ "BME280")
 
@@ -99,6 +99,6 @@ int main() {
 
 今回作成したプログラムはmbedのサイトに公開しておきました。
 
-https://os.mbed.com/users/kanpapa/code/microbit\_weatherbit\_oled
+https://os.mbed.com/users/kanpapa/code/microbit_weatherbit_oled
 
 まだJavascript Block Editorは多少の不具合が残っているのかもしれませんが、手軽に使えるので今後の改良を期待します。

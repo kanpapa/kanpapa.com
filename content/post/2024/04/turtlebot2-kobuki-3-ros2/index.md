@@ -17,7 +17,7 @@ image: images/turtlebot2-kobuki-testing1.jpg
 
 kobukiのROS2環境のセットアップは以下のGitHubリポジトリのドキュメントに従って行いました。
 
-https://github.com/idorobotics/turtlebot2\_ros2
+https://github.com/idorobotics/turtlebot2_ros2
 
 特に問題なくkobuki用のworkspaceができました。
 
@@ -31,7 +31,7 @@ PCはデスクトップ機を使いましたが、動作確認ができたとこ
 
 ## バージョン確認とファームウェアのアップデート
 
-ROS2を動かす前に、kobuki\_coreに含まれているkobuki-version-infoというツールを使って各種バージョン情報の確認を行いました。
+ROS2を動かす前に、kobuki_coreに含まれているkobuki-version-infoというツールを使って各種バージョン情報の確認を行いました。
 
 ![](images/turtlebot2-kobuki-version-info1.png)
 
@@ -51,13 +51,13 @@ https://kobuki.readthedocs.io/en/devel/firmware.html
 
 ## ROS2ドライバを動かしてみる
 
-最新のファームウェアになったところで、kobukiのROS2ドライバを動かしてみます。kobuki\_nodeを動かすと起動音がしたあとにたくさんのメッセージが流れましたが、特にエラーはなさそうです。
+最新のファームウェアになったところで、kobukiのROS2ドライバを動かしてみます。kobuki_nodeを動かすと起動音がしたあとにたくさんのメッセージが流れましたが、特にエラーはなさそうです。
 
 ![](images/turtlebot2-kobuki-node-startup1.png)
 
 ## キーボードで車輪を動かしてみる。
 
-この状態で別のターミナルを立ち上げて、teleop\_twist\_keyboardを動かしてみます。
+この状態で別のターミナルを立ち上げて、teleop_twist_keyboardを動かしてみます。
 
 ![](images/turtlebot2-kobuki-teleop-keyboard1.png)
 

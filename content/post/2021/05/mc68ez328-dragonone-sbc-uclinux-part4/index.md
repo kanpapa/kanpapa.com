@@ -10,13 +10,13 @@ tags:
 image: "images/mc68ez328_dragonone_sbc_uclinux_part4_vscode.png"
 ---
 
-start\_kernelでようやくLinux kernelに入ってきました。細かいところはざっとながしてフィーリングでカーネルのソースを眺めます。
+start_kernelでようやくLinux kernelに入ってきました。細かいところはざっとながしてフィーリングでカーネルのソースを眺めます。
 
 ![](images/mc68ez328_dragonone_sbc_uclinux_part4_vscode-1024x603.png)
 
-### start\_kernelを紐解く
+### start_kernelを紐解く
 
-start\_kernelはinit/main.cにあります。printkでLinuxのバナーを表示しています。
+start_kernelはinit/main.cにあります。printkでLinuxのバナーを表示しています。
 
 ```
 asmlinkage void __init start_kernel(void)
@@ -46,9 +46,9 @@ Linux version 2.4.34.5-uc0 (ocha@M715Q-TINY) (gcc version 4.7.2 (GCC) ) #49 Sat 
 
 ```
 
-### setup\_archを紐解く
+### setup_archを紐解く
 
-setup\_arch()をみてみます。この関数はarch/m68knommu/kernel/setup.cにあります。このあたりはコードとデータのアドレスを変数に設定しているようです。
+setup_arch()をみてみます。この関数はarch/m68knommu/kernel/setup.cにあります。このあたりはコードとデータのアドレスを変数に設定しているようです。
 
 ```
 void setup_arch(char **cmdline_p)
@@ -62,14 +62,14 @@ init_mm.brk = (unsigned long) 0;
 
 ```
 
-次のconfig\_BSP()はarch/m68knommu/platform/68EZ328/config.cにあります。
+次のconfig_BSP()はarch/m68knommu/platform/68EZ328/config.cにあります。
 
 ```
 	config_BSP(&command_line[0], sizeof(command_line));
 
 ```
 
-config\_BSP()ではprintkで68EZ328のバナーを表示したあとにUCSIMMの情報を取得して、コマンドラインに載せていますが、ここは自作ボードですのでコメントにして、コマンドラインには文字列の終端の0だけ入れました。その後各種エントリポイントを設定しているようですが、mountには関係ないので飛ばします。
+config_BSP()ではprintkで68EZ328のバナーを表示したあとにUCSIMMの情報を取得して、コマンドラインに載せていますが、ここは自作ボードですのでコメントにして、コマンドラインには文字列の終端の0だけ入れました。その後各種エントリポイントを設定しているようですが、mountには関係ないので飛ばします。
 
 ```
 void config_BSP(char *command, int len)
@@ -107,7 +107,7 @@ config_M68EZ328_irq();
 
 ```
 
-再びsetup\_arch()にもどります。このあたりはバナーですね。
+再びsetup_arch()にもどります。このあたりはバナーですね。
 
 ```
 	printk("\r\nuClinux/" CPU "\n");
@@ -130,7 +130,7 @@ Flat model support (C) 1998,1999 Kenneth Albanowski, D. Jeff Dionne
 
 ```
 
-BLKMEM\_MAJORはdrivers/block/blkmem.cで定義されていて、31です。
+BLKMEM_MAJORはdrivers/block/blkmem.cで定義されていて、31です。
 
 ```
 #define	BLKMEM_MAJOR 31
@@ -146,7 +146,7 @@ Documentation/devices.txtには以下の記述があります。これで/dev/ro
 
 ```
 
-さて、setup\_archのソースに戻ります。ここはコマンドラインを保存していますね。
+さて、setup_archのソースに戻ります。ここはコマンドラインを保存していますね。
 
 ```
 	/* Keep a copy of command line */
@@ -182,6 +182,6 @@ paging_init();
 
 ```
 
-これでsetup\_arch()は終わりです。romfsに関連した部分が見つかったのは収穫です。
+これでsetup_arch()は終わりです。romfsに関連した部分が見つかったのは収穫です。
 
-ふたたび、start\_kernelにもどります。（続く）
+ふたたび、start_kernelにもどります。（続く）

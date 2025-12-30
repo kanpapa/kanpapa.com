@@ -7,7 +7,7 @@ categories:
 image: "images/ledmatrix12.jpg"
 ---
 
-Maker Faire Tokyo 2013で配布されていた @kimio\_kosakaさんの[空中配線LEDマトリクスキット](http://make.kosakalab.com/make/obaka-project/led_matrix/ "空中配線LEDマトリクスの作り方")を組み立ててみました。
+Maker Faire Tokyo 2013で配布されていた @kimio_kosakaさんの[空中配線LEDマトリクスキット](http://make.kosakalab.com/make/obaka-project/led_matrix/ "空中配線LEDマトリクスの作り方")を組み立ててみました。
 
 キットの外観です。
 

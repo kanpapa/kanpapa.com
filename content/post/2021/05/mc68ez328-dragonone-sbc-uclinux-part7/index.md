@@ -10,9 +10,9 @@ tags:
 image: "images/mc68ez328_dragonone_sbc_uclinux_part7_mount_root_msg2.png"
 ---
 
-前回に続いて[initから呼び出されるprepare\_namespace()](https://kanpapa.com/2021/05/mc68ez328-dragonone-sbc-uclinux-part6.html "MC68EZ328 DragonOne SBCでuClinuxを動かす(6) ～initスレッドを追う～")を探ってみます。
+前回に続いて[initから呼び出されるprepare_namespace()](https://kanpapa.com/2021/05/mc68ez328-dragonone-sbc-uclinux-part6.html "MC68EZ328 DragonOne SBCでuClinuxを動かす(6) ～initスレッドを追う～")を探ってみます。
 
-### prepare\_namespace()
+### prepare_namespace()
 
 ここから先は慎重にみていきます。 ソースはそんなに長くありません。（不要な部分は削っています）
 
@@ -44,16 +44,16 @@ mount_devfs_fs ();
 
 ```
 
-最初に/dev, /rootのディレクトリを作ります。その次は/dev/consoleのデバイスファイルを作ります。TTYAUX\_MAJORは5なので、MAJOR=5, MINOR=1のデバイスファイルです。
+最初に/dev, /rootのディレクトリを作ります。その次は/dev/consoleのデバイスファイルを作ります。TTYAUX_MAJORは5なので、MAJOR=5, MINOR=1のデバイスファイルです。
 
 ここでUbuntuで試しにmountしたromfsの/dev/consoleをみてみると、MAJOR=5, MINOR=1となっていたので一致しています。
 
 ![mc68ez328_dragonone_sbc_uclinux_part7_dev_console.png](images/mc68ez328_dragonone_sbc_uclinux_part7_dev_console.png)
 <!--more-->
 
-### create\_dev()
+### create_dev()
 
-次にcreate\_dev()で/dev/rootのデバイスファイルを作ります。この関数はinit/do\_mount.cにあります。
+次にcreate_dev()で/dev/rootのデバイスファイルを作ります。この関数はinit/do_mount.cにあります。
 
 ```
 static int __init create_dev(char *name, kdev_t dev, char *devfs_name)
@@ -68,11 +68,11 @@ return sys_mknod(name, S_IFBLK|0600, kdev_t_to_nr(dev));
 }
 ```
 
-ここでは、DEVFSは使用しない設定になっているので、do\_devfsはFALSEです。そのため、sys\_mknodで/dev/rootのデバイスファイルを作るだけで、prepare\_namespace()にもどります。
+ここでは、DEVFSは使用しない設定になっているので、do_devfsはFALSEです。そのため、sys_mknodで/dev/rootのデバイスファイルを作るだけで、prepare_namespace()にもどります。
 
-prepare\_namespace()にもどったあと、mount\_initrdの部分やフロッピィディスクの部分は該当しないので素通りして、続いての関数はmount\_root()になります。
+prepare_namespace()にもどったあと、mount_initrdの部分やフロッピィディスクの部分は該当しないので素通りして、続いての関数はmount_root()になります。
 
-### mount\_root()
+### mount_root()
 
 まさにここでrootディレクトリがmountされるのでしょうか。関数をみてみます。
 
@@ -85,11 +85,11 @@ mount_block_root("/dev/root", root_mountflags);
 }
 ```
 
-たった３行しかありません。しかもdevfsは使わないので、devfs\_make\_root()はそのままリターンで戻ってきます。次に再びcreate\_dev()です。さっきも実行したのですが、今度はroot\_device\_nameに値が入っています。しかし、devfsは使わないのでこの情報は特に使われず、/dev/rootをunlinkしたあとにsys\_mknod()が行われ、再び/dev/rootのデバイスファイルができます。
+たった３行しかありません。しかもdevfsは使わないので、devfs_make_root()はそのままリターンで戻ってきます。次に再びcreate_dev()です。さっきも実行したのですが、今度はroot_device_nameに値が入っています。しかし、devfsは使わないのでこの情報は特に使われず、/dev/rootをunlinkしたあとにsys_mknod()が行われ、再び/dev/rootのデバイスファイルができます。
 
-### mount\_block\_root()
+### mount_block_root()
 
-次の関数はmount\_block\_root()です。この関数をみてみます。
+次の関数はmount_block_root()です。この関数をみてみます。
 
 ```
 static void __init mount_block_root(char *name, int flags)
@@ -132,7 +132,7 @@ current->fs->pwdmnt->mnt_sb->s_type->name,
 
 ```
 
-sys\_mount()で/dev/rootデバイスを/rootファイルシステムにmountしているように見えます。fs\_namesでループしていますが、これはどのファイルシステムを使うかを試しているようです。私が仕込んだデバックログでは以下のように表示されました。
+sys_mount()で/dev/rootデバイスを/rootファイルシステムにmountしているように見えます。fs_namesでループしていますが、これはどのファイルシステムを使うかを試しているようです。私が仕込んだデバックログでは以下のように表示されました。
 
 ```
 mount_root:mount_block_root(/dev/root) root_mountflags=32769
@@ -151,7 +151,7 @@ mount_root:mount_block_root(/dev/root) errno=0
 
 ```
 
-putname()でext2を指定していますが、この実体はkmem\_cache\_free()なので使わないキャッシュを開放しているようです。そのあとにsys\_chdir()で/rootにカレントディレクトリを移動しています。
+putname()でext2を指定していますが、この実体はkmem_cache_free()なので使わないキャッシュを開放しているようです。そのあとにsys_chdir()で/rootにカレントディレクトリを移動しています。
 
 その後rootにマウントが完了したというメッセージが表示されます。
 
@@ -161,11 +161,11 @@ VFS: Mounted root (romfs filesystem) readonly.
 
 ### 最後の仕上げ
 
-mount\_root()から戻ってきた後は、最後の仕上げとしてカレントディレクトリを/にします。
+mount_root()から戻ってきた後は、最後の仕上げとしてカレントディレクトリを/にします。
 
-まずは、sys\_umount("/dev", 0);で、/devをumountします。その後カレントディレクトリを/にmountします。
+まずは、sys_umount("/dev", 0);で、/devをumountします。その後カレントディレクトリを/にmountします。
 
-そのあと、sys\_chroot(".");でカレントディレクトリをルートディレクトリに変更します。これでromfsがルートにmountされます。その後、mount\_devfs\_fs()がありますが、devfsは使っていないのですぐリターンしてきます。
+そのあと、sys_chroot(".");でカレントディレクトリをルートディレクトリに変更します。これでromfsがルートにmountされます。その後、mount_devfs_fs()がありますが、devfsは使っていないのですぐリターンしてきます。
 
 ```
            :
@@ -179,7 +179,7 @@ mount_devfs_fs ();
 
 ```
 
-以上で、prepare\_namespace()は終わりです。再びinitに戻ります。
+以上で、prepare_namespace()は終わりです。再びinitに戻ります。
 
 ### おかしなところが見当たらない
 
@@ -187,4 +187,4 @@ mount_devfs_fs ();
 
 ![mc68ez328_dragonone_sbc_uclinux_part7_mount_root_msg2.png](images/mc68ez328_dragonone_sbc_uclinux_part7_mount_root_msg2.png)
 
-mount\_root()が終わった時点でromfsが/rootにmountできているように見え、その後ルートディレクトリにmountされているように見えるのですが。（続く）
+mount_root()が終わった時点でromfsが/rootにmountできているように見え、その後ルートディレクトリにmountされているように見えるのですが。（続く）

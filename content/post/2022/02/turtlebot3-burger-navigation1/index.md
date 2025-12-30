@@ -70,7 +70,7 @@ $ roslaunch teleop_twist_joy teleop.launch
 
 ![turtlebot3-burger-navigation-rviz5.png](images/turtlebot3-burger-navigation-rviz5.png)
 
-7\. 初期位置の設定作業が終わったら、DualShock4のコントローラノードのターミナルでCtrl + Cを入力してノードを終了し、Navigator以外のcmd\_velのトピックが発生しないようにします。
+7\. 初期位置の設定作業が終わったら、DualShock4のコントローラノードのターミナルでCtrl + Cを入力してノードを終了し、Navigator以外のcmd_velのトピックが発生しないようにします。
 
 ### 目的地の設定と移動
 

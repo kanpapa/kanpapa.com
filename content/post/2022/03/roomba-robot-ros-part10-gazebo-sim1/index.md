@@ -18,7 +18,7 @@ image: "images/roomba_slam_otafab_gazebo_sim1.png"
 
 ルンバのROSパッケージは以下のものを使用しています。
 
-- [https://github.com/RoboticaUtnFrba/create\_autonomy](https://github.com/RoboticaUtnFrba/create_autonomy "RoboticaUtnFrba/create_autonomy")
+- [https://github.com/RoboticaUtnFrba/create_autonomy](https://github.com/RoboticaUtnFrba/create_autonomy "RoboticaUtnFrba/create_autonomy")
 - [https://github.com/RoboticaUtnFrba/libcreate](https://github.com/RoboticaUtnFrba/libcreate "RoboticaUtnFrba/libcreate")
 
 <!--more-->
@@ -64,7 +64,7 @@ roslaunch ca_gazebo create_otafab1.launch
 
 これで取り込んだWorldモデルでSLAMができる状態になります。
 
-SLAM実行中のrqt\_graphです。
+SLAM実行中のrqt_graphです。
 
 ![rosgraph20220316-slam1.png](images/rosgraph20220316-slam1.png)
 
@@ -89,7 +89,7 @@ roslaunch ca_gazebo create_otafab1.launch
 
 Navigationを行っている様子をYouTubeにアップしておきました。
 
-Navigation実行中のrqt\_graphです。
+Navigation実行中のrqt_graphです。
 
 ![rosgraph20220316-navigation1.png](images/rosgraph20220316-navigation1.png)
 

@@ -31,6 +31,6 @@ image: "images/cosmac_mbc_serial_fix.jpg"
 
 インバーターの追加は偶然にも1ゲート未使用のところがありましたので、そちらにジャンパー線で接続することにします。もちろん基板も修正しますが、もう少し動作確認を行ってからとなります。
 
-追記：ジャンパー線で修正を行い、ここまでの回路図([cdp18s020\_cpu\_rev02\_sch.pdf](https://github.com/kanpapa/cosmac_mbc/blob/main/schematics/cdp18s020_cpu_rev02_sch.pdf))を作成しました。
+追記：ジャンパー線で修正を行い、ここまでの回路図([cdp18s020_cpu_rev02_sch.pdf](https://github.com/kanpapa/cosmac_mbc/blob/main/schematics/cdp18s020_cpu_rev02_sch.pdf))を作成しました。
 
 ![cosmac_mbc_serial_fix.jpg](images/cosmac_mbc_serial_fix.jpg)

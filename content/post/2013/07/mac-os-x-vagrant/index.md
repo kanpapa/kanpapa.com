@@ -20,7 +20,7 @@ categories:
 　今回は1.2.2を使いました。  
 (3) VMの本体は以下にあります。  
 　[http://www.vagrantbox.es](http://www.vagrantbox.es "http://www.vagrantbox.es")  
-　今回はCentOS 6.4 x86\_64 Minimal (VirtualBox Guest Additions 4.2.12, Chef 11.4.4, Puppet 3.1.1)を使うことにしました。  
+　今回はCentOS 6.4 x86_64 Minimal (VirtualBox Guest Additions 4.2.12, Chef 11.4.4, Puppet 3.1.1)を使うことにしました。  
 (4) あとはターミナルを立ち上げて以下のように操作しました。
 
 ```

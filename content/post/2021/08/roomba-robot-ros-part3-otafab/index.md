@@ -72,7 +72,7 @@ Gazeboでシミュレートしてみると、きれいな円を描きます。
 
 Gazeboでシミュレートしながらプログラムを書いてみました。
 
-- [move\_bumper1.py](https://github.com/docofab/RoombaControlls/blob/main/ROS/move_tutorial/move_bumper1.py "move_bumper1.py")
+- [move_bumper1.py](https://github.com/docofab/RoombaControlls/blob/main/ROS/move_tutorial/move_bumper1.py "move_bumper1.py")
 
 しかし実機ではスムーズな動きにはなりませんでした。
 

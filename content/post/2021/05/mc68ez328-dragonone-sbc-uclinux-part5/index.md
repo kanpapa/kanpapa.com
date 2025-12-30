@@ -10,13 +10,13 @@ tags:
 image: "images/mc68ez328_dragonone_sbc_uclinux_part5_kernel_book.jpg"
 ---
 
-start\_kernelの続きです。ちょうどフリマで購入した参考書が届きました。kernel 2.4対応の詳解LINUXカーネル 第2版です。旧版なので格安というメリットはあります。ただシステムの起動の部分は付録の章となっていてあまり詳しく書かれていませんでした。コードを追うしかなさそうです。
+start_kernelの続きです。ちょうどフリマで購入した参考書が届きました。kernel 2.4対応の詳解LINUXカーネル 第2版です。旧版なので格安というメリットはあります。ただシステムの起動の部分は付録の章となっていてあまり詳しく書かれていませんでした。コードを追うしかなさそうです。
 
 ![mc68ez328_dragonone_sbc_uclinux_part5_kernel_book.jpg](images/mc68ez328_dragonone_sbc_uclinux_part5_kernel_book.jpg) <!--more-->
 
-### 再びstart\_kernelの続きから
+### 再びstart_kernelの続きから
 
-前回追ったsetup\_arch()から戻ってくると、次はコマンドラインを表示します。今回は0を入れたのでコマンドラインには何も表示されません。parse\_options()もコマンドラインに何もないので飛ばします。
+前回追ったsetup_arch()から戻ってくると、次はコマンドラインを表示します。今回は0を入れたのでコマンドラインには何も表示されません。parse_options()もコマンドラインに何もないので飛ばします。
 
 ```
 	setup_arch(&command_line);
@@ -25,7 +25,7 @@ parse_options(command_line);
 
 ```
 
-その後、初期化プロセスがつづきます。console\_init()は関連ありそうなので見てみましょう。
+その後、初期化プロセスがつづきます。console_init()は関連ありそうなので見てみましょう。
 
 ```
     trap_init();
@@ -39,7 +39,7 @@ console_init();
 
 ### コンソールの初期化
 
-console\_init()は、drivers/char/tty\_io.cにありました。ttyのでディスクリプタを登録したあとに、termioを設定しています。その後にm68328\_console\_init()を呼びます。
+console_init()は、drivers/char/tty_io.cにありました。ttyのでディスクリプタを登録したあとに、termioを設定しています。その後にm68328_console_init()を呼びます。
 
 ```
 void __init console_init(void)
@@ -67,7 +67,7 @@ m68328_console_init();
 
 ```
 
-m68328\_console\_init()はコンソールにドライバを登録しているようです。コンソールを追うのはこのあたりまでとしておきます。
+m68328_console_init()はコンソールにドライバを登録しているようです。コンソールを追うのはこのあたりまでとしておきます。
 
 ```
 static struct console m68328_driver = {
@@ -91,7 +91,7 @@ register_console(&m68328_driver);
 
 ### カーネルの初期化
 
-start\_kernelに戻ります。以降も初期化が続きますが、mountとは直接関係ないので飛ばします。
+start_kernelに戻ります。以降も初期化が続きますが、mountとは直接関係ないので飛ばします。
 
 ```
 	if (prof_shift) {
@@ -124,7 +124,7 @@ smp_init();
 
 ```
 
-最後に実行されるrest\_init()は重要な部分なので見てみます。
+最後に実行されるrest_init()は重要な部分なので見てみます。
 
 ```
 	rest_init();
@@ -134,7 +134,7 @@ smp_init();
 
 ### initスレッドの生成
 
-rest\_init()はinit/main.cにあります。ここでinitスレッドを起動し、cpu\_idle()に入ります。
+rest_init()はinit/main.cにあります。ここでinitスレッドを起動し、cpu_idle()に入ります。
 
 ```
 static void rest_init(void)

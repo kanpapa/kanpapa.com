@@ -52,7 +52,7 @@ TangNanoDCJ11MEMをRev.2.にアップデートするのは以下のステップ�
 
 ### ファームウェアのアップデート
 
-Rev.2のファームウェアはGitHubのapplications.rev2のツリーに[TangNanoDCJ11MEM\_project.fs](https://github.com/ryomuk/TangNanoDCJ11MEM/blob/main/applications.rev2/unix/TangNanoDCJ11MEM_project.20250904.pcbrev2/impl/pnr/TangNanoDCJ11MEM_project.fs)というファイル名で登録されていますので、前回の記事と同じ手順でTangNano 20Kに書き込みます。
+Rev.2のファームウェアはGitHubのapplications.rev2のツリーに[TangNanoDCJ11MEM_project.fs](https://github.com/ryomuk/TangNanoDCJ11MEM/blob/main/applications.rev2/unix/TangNanoDCJ11MEM_project.20250904.pcbrev2/impl/pnr/TangNanoDCJ11MEM_project.fs)というファイル名で登録されていますので、前回の記事と同じ手順でTangNano 20Kに書き込みます。
 
 ```
 $ cd

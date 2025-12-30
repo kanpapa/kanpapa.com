@@ -43,9 +43,9 @@ CM4の代わりにRaspberry Pi 4 Model Bを先ほどのスタッキングコネ�
 
 ![MP2_3_cm4_7.jpg](images/MP2_3_cm4_7.jpg)
 
-GitHubのmini\_pupper\_2\_bspのリポジトリの手順に従いRaspberry Pi用のmicroSDを作成します。
+GitHubのmini_pupper_2_bspのリポジトリの手順に従いRaspberry Pi用のmicroSDを作成します。
 
-- [https://github.com/mangdangroboticsclub/mini\_pupper\_2\_bsp](https://github.com/mangdangroboticsclub/mini_pupper_2_bsp "mini_pupper_2_bsp")
+- [https://github.com/mangdangroboticsclub/mini_pupper_2_bsp](https://github.com/mangdangroboticsclub/mini_pupper_2_bsp "mini_pupper_2_bsp")
 
 Raspberry Pi にmicroSDをセットして電源を投入し、HDMIディスプレイとキーボードを使用してセットアップを行いました。
 

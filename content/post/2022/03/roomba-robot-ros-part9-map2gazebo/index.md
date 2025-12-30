@@ -31,7 +31,7 @@ pip install --user trimesh
 pip install --user numpy
 ```
 
-2\. catkin\_wsにcloneする。
+2\. catkin_wsにcloneする。
 
 ```
 cd ~/catkin_ws/src
@@ -53,7 +53,7 @@ source ~/.bashrc
 roscore
 ```
 
-2\. 先日取得した2D MAPをmap\_serverで配信します。
+2\. 先日取得した2D MAPをmap_serverで配信します。
 
 ```
 rosrun map_server map_server my_map3.yaml

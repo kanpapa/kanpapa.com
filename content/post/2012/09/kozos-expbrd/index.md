@@ -37,68 +37,74 @@ image: "images/kozos_expbrd6.jpg"
 
 午後はもくもくとソースを読んでいろんなことを試そうとしましたが、なかなか構造を理解するのが大変でちょっとした修正しかできませんでした。
 
-まずはmicroSDカードに複数ファイルが入っていたときにファイル名の末尾の文字が消えていないバグを直しました。具体的には２枚目の写真でファイル名がSAMPLE.MP3PPとなっていますが、本当ならSAMPLE.MP3が正しいのです。これは最初にスペース文字列を表示してから、ファイル名を表示すれば良いので、task\_fileio.cを以下のように修正しました。
+まずはmicroSDカードに複数ファイルが入っていたときにファイル名の末尾の文字が消えていないバグを直しました。具体的には２枚目の写真でファイル名がSAMPLE.MP3PPとなっていますが、本当ならSAMPLE.MP3が正しいのです。これは最初にスペース文字列を表示してから、ファイル名を表示すれば良いので、task_fileio.cを以下のように修正しました。
 
-$ diff -rc task\_fileio.c.org task\_fileio.c  
-\*\*\* task\_fileio.c.org   2012-09-29 14:40:35.000000000 +0900  
-\--- task\_fileio.c       2012-09-29 14:43:02.000000000 +0900  
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*  
-\*\*\* 109,114 \*\*\*\*  
-\--- 109,115 ---- 
+```
+$ diff -rc task_fileio.c.org task_fileio.c  
+*** task_fileio.c.org   2012-09-29 14:40:35.000000000 +0900  
+--- task_fileio.c       2012-09-29 14:43:02.000000000 +0900  
+***************  
+*** 109,114 ****  
+--- 109,115 ---- 
                 break;  
             }  
-            while (!pf\_readdir(&dir, &filinfo) && filinfo.fname\[0\]) {  
-+               ipc\_menu\_set\_filename("               ");  
-                ipc\_menu\_set\_filename(filinfo.fname);  
-                if (!(filinfo.fattrib & (AM\_DIR | AM\_HID))) {  
-                    if (is\_music\_file(filinfo.fname)) {  
+            while (!pf_readdir(&dir, &filinfo) && filinfo.fname\[0\]) {  
++               ipc_menu_set_filename("               ");  
+                ipc_menu_set_filename(filinfo.fname);  
+                if (!(filinfo.fattrib & (AM_DIR | AM_HID))) {  
+                    if (is_music_file(filinfo.fname)) {  
+```
 
-あとはロータリースイッチを回す方向でLCDに"＋＋＋"や"ーーー"と表示するようにしました。task\_menu.cを以下のように変更しました。
+あとはロータリースイッチを回す方向でLCDに"＋＋＋"や"ーーー"と表示するようにしました。task_menu.cを以下のように変更しました。
 
-$ diff -rc task\_menu.c.org task\_menu.c  
-\*\*\* task\_menu.c.org     2012-09-29 14:52:40.000000000 +0900  
-\--- task\_menu.c 2012-09-29 16:18:04.000000000 +0900  
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*  
-\*\*\* 78,83 \*\*\*\*  
-\--- 78,84 ---- 
-              \_volume--;  
-              LED\_LEFT();  
-              DISP\_VOLUME(\_volume);  
-+           ipc\_display\_draw\_text(24, 20, "---");  
+```
+$ diff -rc task_menu.c.org task_menu.c  
+*** task_menu.c.org     2012-09-29 14:52:40.000000000 +0900  
+--- task_menu.c 2012-09-29 16:18:04.000000000 +0900  
+***************  
+*** 78,83 ****  
+--- 78,84 ---- 
+              _volume--;  
+              LED_LEFT();  
+              DISP_VOLUME(_volume);  
++           ipc_display_draw_text(24, 20, "---");  
           }  
       }  
       if (p\[2\]) {  
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*  
-\*\*\* 85,90 \*\*\*\*  
-\--- 86,92 ---- 
-              \_volume++;  
-              LED\_RIGHT();  
-              DISP\_VOLUME(\_volume);  
-+           ipc\_display\_draw\_text(24, 20, "+++");  
+***************  
+*** 85,90 ****  
+--- 86,92 ---- 
+              _volume++;  
+              LED_RIGHT();  
+              DISP_VOLUME(_volume);  
++           ipc_display_draw_text(24, 20, "+++");  
           }  
       }  
-      NTLEVT\_END(NTLUSR\_TRACK\_MENU, NTLUSR\_EVENT\_MENU\_ROTARY);
+      NTLEVT_END(NTLUSR_TRACK_MENU, NTLUSR_EVENT_MENU_ROTARY);
+```
 
 パラメタを変えるとニジマス君の大きさが変えられるようになっていたので、そのあたりをいじったり、別のBMPファイルをロゴにして表示しようとしましたが、残念ながら途中で時間切れとなってしまいました。
 
-\*\*\* 164,170 \*\*\*\*
+```
+*** 164,170 ****
 
   {  
-    ipc\_display\_clear();  
-    ipc\_display\_draw\_box(0, 0, 121, 31, 1);  
-!   ipc\_display\_draw\_logo(2, 2, 0);  
-    DISP\_VOLUME(\_volume);  
+    ipc_display_clear();  
+    ipc_display_draw_box(0, 0, 121, 31, 1);  
+!   ipc_display_draw_logo(2, 2, 0);  
+    DISP_VOLUME(_volume);  
   
     while (1) {  
-\--- 167,175 ---- 
+--- 167,175 ---- 
   {  
-    ipc\_display\_clear();  
-    ipc\_display\_draw\_box(0, 0, 121, 31, 1);  
-!   //ipc\_display\_draw\_logo(2, 2, 0);  
-!   ipc\_display\_draw\_logo(2, 2, 1);  
-    DISP\_VOLUME(\_volume);  
+    ipc_display_clear();  
+    ipc_display_draw_box(0, 0, 121, 31, 1);  
+!   //ipc_display_draw_logo(2, 2, 0);  
+!   ipc_display_draw_logo(2, 2, 1);  
+    DISP_VOLUME(_volume);  
   
     while (1) {  
+```
 
 最終的なもくもくの結果です。ニジマス君が大きくなってはみでています。ロータリースイッチを回すと＋＋＋やーーーと表示されました。ファイル名も正しくSAMPLE.MP3と表示されるようになりました。
 
