@@ -9,7 +9,7 @@ tags:
 image: "images/MCard1802_eeprom1.jpg"
 ---
 
-1802 Membership Cardは動作していますが、[EEPROMでモニタが動かなかった](https://kanpapa.com/cosmac/blog/2020/10/1802-membership-card-part2.html "1802 Membership Cardを作ってみました（モニタ動作編）")のが気になります。なぜ動かないのかを調べてみました。
+1802 Membership Cardは動作していますが、[EEPROMでモニタが動かなかった](https://kanpapa.com/2020/10/1802-membership-card-part2.html "1802 Membership Cardを作ってみました（モニタ動作編）")のが気になります。なぜ動かないのかを調べてみました。
 
 ![MCard1802_eeprom1.jpg](images/MCard1802_eeprom1.jpg)
 

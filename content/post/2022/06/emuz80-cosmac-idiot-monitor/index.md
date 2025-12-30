@@ -11,7 +11,7 @@ tags:
 image: images/emuz80_cosmac_serial_usb1.jpg
 ---
 
-[前回までの実験](https://kanpapa.com/cosmac/blog/2022/06/emuz80-cosmac-high-address.html "EMUZ80でCOSMACを動かしてみました 3（アドレス拡張編）")でHIGHアドレスも使えるようになったので、EMUZ80のCOSMAC環境でモニタプログラムを動かしてみます。以降は紛らわしくならないようにEMU1802と呼ぶことにします。
+[前回までの実験](https://kanpapa.com/2022/06/emuz80-cosmac-high-address.html "EMUZ80でCOSMACを動かしてみました 3（アドレス拡張編）")でHIGHアドレスも使えるようになったので、EMUZ80のCOSMAC環境でモニタプログラムを動かしてみます。以降は紛らわしくならないようにEMU1802と呼ぶことにします。
 
 ### IDIOTモニタをファームウェアに組み込む
 
@@ -75,4 +75,4 @@ SB-Assemblerで生成されたHEXファイルを使い、モニタプログラ�
 
 機能的には正しく動いてはいますが、シリアル通信速度の300bpsが遅く感じます。EMUZ80ではPICのUARTを使用できますので、これをIDIOTモニタでサポートできるようにプログラムを修正してみます。
 
-[仕上げ編](https://kanpapa.com/cosmac/blog/2022/06/emuz80-cosmac-emu1802-fixed.html "EMUZ80でCOSMACを動かしてみました 5（仕上げ編）")に続く
+[仕上げ編](https://kanpapa.com/2022/06/emuz80-cosmac-emu1802-fixed.html "EMUZ80でCOSMACを動かしてみました 5（仕上げ編）")に続く

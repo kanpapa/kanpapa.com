@@ -9,7 +9,7 @@ tags:
 image: "images/cosmac_tv_test_pattern1.jpg"
 ---
 
-[製作したCOSMAC TVディスプレイボード](https://kanpapa.com/cosmac/blog/2020/01/cosmac-mbc-tv-rev02-finished.html "COSMAC MBC用 TVディスプレイボード Rev. 0.2が完成しました。")で書籍に掲載されているサンプルプログラムを使っていろんなパターンを表示してみました。プログラムとUT4モニタで流し込めるバイナリデータはGithubに置きました。
+[製作したCOSMAC TVディスプレイボード](https://kanpapa.com/2020/01/cosmac-mbc-tv-rev02-finished.html "COSMAC MBC用 TVディスプレイボード Rev. 0.2が完成しました。")で書籍に掲載されているサンプルプログラムを使っていろんなパターンを表示してみました。プログラムとUT4モニタで流し込めるバイナリデータはGithubに置きました。
 
 ### パターン１：あらかじめ作成した表示用データをそのまま表示
 

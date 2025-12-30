@@ -11,7 +11,7 @@ tags:
 image: images/emu1802-fixed5.jpg
 ---
 
-[EMU1802でIDIOTモニタまで動作](https://kanpapa.com/cosmac/blog/2022/06/emuz80-cosmac-idiot-monitor.html "EMUZ80でCOSMACを動かしてみました 4（モニタ動作編）")するようになりましたので、ハードウェアはこれでFIXとし、ジャンパー線をはずして基板上で配線することにします。今日は[おおたfab](https://ot-fb.com/ "おおたfab")さんで作業しました。
+[EMU1802でIDIOTモニタまで動作](https://kanpapa.com/2022/06/emuz80-cosmac-idiot-monitor.html "EMUZ80でCOSMACを動かしてみました 4（モニタ動作編）")するようになりましたので、ハードウェアはこれでFIXとし、ジャンパー線をはずして基板上で配線することにします。今日は[おおたfab](https://ot-fb.com/ "おおたfab")さんで作業しました。
 
 ![emu1802-fixed1.jpg](images/emu1802-fixed1.jpg)
 

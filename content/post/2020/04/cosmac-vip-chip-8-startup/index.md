@@ -9,7 +9,7 @@ tags:
 image: "images/cosmac_vip_chip_8_1strun.jpg"
 ---
 
-[COSMAC VIP OSがRAMで動く](https://kanpapa.com/cosmac/blog/2020/04/cosmac-vip-os-ram1.html "COSMAC VIP OSをRAMエリアで起動させてみました")ようになりましたので、次はCHIP-8インタプリタを動かしてみます。
+[COSMAC VIP OSがRAMで動く](https://kanpapa.com/2020/04/cosmac-vip-os-ram1.html "COSMAC VIP OSをRAMエリアで起動させてみました")ようになりましたので、次はCHIP-8インタプリタを動かしてみます。
 
 ## CHIP-8とは
 
@@ -19,7 +19,7 @@ image: "images/cosmac_vip_chip_8_1strun.jpg"
 
 ## CHIP-8インタプリタの改造
 
-CHIP-8インタプリタはCOSMAC VIP OSのサブルーチンやデータをいくつか使用していることが分かっていますので、呼び出し先アドレスをRAM版のCOSMAC VIP OSに変更する必要があります。キーボードもEF4にしているのでそちらも同様に変更です。[COSMAC VIP OSをRAMで動かした](https://kanpapa.com/cosmac/blog/2020/04/cosmac-vip-os-ram1.html "COSMAC VIP OSをRAMエリアで起動させてみました")ときと同様に、CHIP-8インタプリタのダンプリストを解析して、バイナリパッチを当てることにしました。
+CHIP-8インタプリタはCOSMAC VIP OSのサブルーチンやデータをいくつか使用していることが分かっていますので、呼び出し先アドレスをRAM版のCOSMAC VIP OSに変更する必要があります。キーボードもEF4にしているのでそちらも同様に変更です。[COSMAC VIP OSをRAMで動かした](https://kanpapa.com/2020/04/cosmac-vip-os-ram1.html "COSMAC VIP OSをRAMエリアで起動させてみました")ときと同様に、CHIP-8インタプリタのダンプリストを解析して、バイナリパッチを当てることにしました。
 
 解析の結果、CHIP-8インタプリタの修正箇所は以下の部分になります。
 

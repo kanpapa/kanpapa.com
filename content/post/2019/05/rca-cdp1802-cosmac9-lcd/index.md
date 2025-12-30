@@ -10,7 +10,7 @@ tags:
 image: images/cosmac_lcd_proto.jpg
 ---
 
-[前回の記事](https://kanpapa.com/cosmac/blog/2019/02/rca-cdp1802-cosmac8.html "RCA CDP1802 COSMACを動かしてみた(8) 電子オルガンを作ってみる")ではCOSMACで音をだしてみましたが、次はCOSMACで文字を表示してみます。
+[前回の記事](https://kanpapa.com/2019/02/rca-cdp1802-cosmac8.html "RCA CDP1802 COSMACを動かしてみた(8) 電子オルガンを作ってみる")ではCOSMACで音をだしてみましたが、次はCOSMACで文字を表示してみます。
 
 今回製作したCPU基板には4bitのバスがでていますので、これをHD44780インターフェース準拠のLCDに接続してみました。
 

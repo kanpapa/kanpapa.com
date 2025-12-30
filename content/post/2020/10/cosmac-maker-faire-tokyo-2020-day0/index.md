@@ -56,4 +56,4 @@ image: images/mft2020_1002_51.jpg
 
 ![mft2020_1002_8.jpg](images/mft2020_1002_8.jpg)
 
-[１日目のレポート](https://kanpapa.com/cosmac/blog/2020/10/cosmac-maker-faire-tokyo-2020-day1.html "COSMAC研究会でMaker Faire Tokyo 2020に出展しました（1日目）")に続きます。
+[１日目のレポート](https://kanpapa.com/2020/10/cosmac-maker-faire-tokyo-2020-day1.html "COSMAC研究会でMaker Faire Tokyo 2020に出展しました（1日目）")に続きます。

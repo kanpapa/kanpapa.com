@@ -9,7 +9,7 @@ tags:
 image: "images/cosmac_tv_rev02_connect_cpu1.jpg"
 ---
 
-到着した[COSMAC MBC用 TVディスプレイボード Rev. 0.2の基板](https://kanpapa.com/cosmac/blog/2020/01/cosmac-mbc-tv-rev-02-pcb-delivery.html "COSMAC MBC用 TVディスプレイボード Rev. 0.2の基板")を組み立てる前に、実験環境を見直しを行いました。これまではNTSCビデオ信号を表示する機器として通常のテレビを使っていましたが、なかなか使えるタイミングがないため、[秋月電子のNTSCモニタ](http://akizukidenshi.com/catalog/g/gM-11053/ "4.3インチTFT液晶カラーモニター")を購入しました。これならいつでも机の上で動作確認を行うことができます。また、[MachiKania](http://www.ze.em-net.ne.jp/~kenken/machikania/ "MachiKania")や[IchigoJam](https://ichigojam.net/ "IchigoJam")でも使えるので一石三鳥です。
+到着した[COSMAC MBC用 TVディスプレイボード Rev. 0.2の基板](https://kanpapa.com/2020/01/cosmac-mbc-tv-rev-02-pcb-delivery.html "COSMAC MBC用 TVディスプレイボード Rev. 0.2の基板")を組み立てる前に、実験環境を見直しを行いました。これまではNTSCビデオ信号を表示する機器として通常のテレビを使っていましたが、なかなか使えるタイミングがないため、[秋月電子のNTSCモニタ](http://akizukidenshi.com/catalog/g/gM-11053/ "4.3インチTFT液晶カラーモニター")を購入しました。これならいつでも机の上で動作確認を行うことができます。また、[MachiKania](http://www.ze.em-net.ne.jp/~kenken/machikania/ "MachiKania")や[IchigoJam](https://ichigojam.net/ "IchigoJam")でも使えるので一石三鳥です。
 
 ブレッドボードに組んでいるTVディスプレイ回路に接続したところ、同期が合わず不安定だったのですが、表示データの最初のあたりにあるNULLの範囲を広げ、非表示の部分を広くしたところ安定して表示するようになりました。このあたりは表示データでの調整が必要のようです。
 

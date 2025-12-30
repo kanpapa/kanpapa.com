@@ -9,7 +9,7 @@ tags:
 image: "images/vip_os_sample_display1.jpg"
 ---
 
-[STG1861+HEX KEYの基板](https://kanpapa.com/cosmac/blog/2020/04/cosmac-mbc-stg1861-keyboard-rev01.html "COSMAC MBC STG1861 DISPLAY/HEX KEYBOARD Rev.0.1の基板を発注しました")が無事発送され、すでにTOKYO SKYGATEに届いているものの、手元にまったく届かないので、[COSMAC VIP](http://oldcomputers.net/rca-cosmac-vip.html "RCA COSMAC VIP") OS（モニタに相当するもの）のバイナリを解析してみました。COSMAC VIP OSはダンプリストで公開されていますので、バイナリを逆アセンブルをしてコードとデータを分けなから動きを追ってみます。
+[STG1861+HEX KEYの基板](https://kanpapa.com/2020/04/cosmac-mbc-stg1861-keyboard-rev01.html "COSMAC MBC STG1861 DISPLAY/HEX KEYBOARD Rev.0.1の基板を発注しました")が無事発送され、すでにTOKYO SKYGATEに届いているものの、手元にまったく届かないので、[COSMAC VIP](http://oldcomputers.net/rca-cosmac-vip.html "RCA COSMAC VIP") OS（モニタに相当するもの）のバイナリを解析してみました。COSMAC VIP OSはダンプリストで公開されていますので、バイナリを逆アセンブルをしてコードとデータを分けなから動きを追ってみます。
 
 COSMACは命令が簡単すぎるので、何をやるにもステップが多くなりがちです。COSMAC VIP OSは$8000～$81FFまでの512byteとコンパクトですが、画面表示やキー入力、カセットテープへの入出力など多機能なものになっています。これを512byteにどうやって納めているのでしょうか。こういう解析を行うことで、プロのコーディングテクニックが分かるので非常に勉強になります。
 

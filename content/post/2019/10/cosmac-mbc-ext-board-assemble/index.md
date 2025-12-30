@@ -9,7 +9,7 @@ tags:
 image: "images/cosmac_mbc_ex_make3.jpg"
 ---
 
-[到着した拡張ボードのプリント基板](https://kanpapa.com/cosmac/blog/2019/10/cosmac-mbc-ex-pcb2.html "到着した拡張ボードのプリント基板")にパーツを実装しました。いつものように[おおたFab](https://ot-fb.com/ "おおたFab")さんではんだ付けです。
+[到着した拡張ボードのプリント基板](https://kanpapa.com/2019/10/cosmac-mbc-ex-pcb2.html "到着した拡張ボードのプリント基板")にパーツを実装しました。いつものように[おおたFab](https://ot-fb.com/ "おおたFab")さんではんだ付けです。
 
 ![cosmac_mbc_ex_make1.jpg](images/cosmac_mbc_ex_make1.jpg)
 <!--more-->

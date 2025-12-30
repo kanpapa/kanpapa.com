@@ -41,11 +41,11 @@ Pixieのテストプログラムを動かすと、問題なくいつもの画像
 
 ![teensy32_pixie_lcd1.jpg](images/teensy32_pixie_lcd1.jpg)
 
-[COSMAC MBC CPUボード](https://kanpapa.com/cosmac/blog/2020/03/cosmac-mbc-cpu-rev-03-final.html "COSMAC MBC CPUボードRev. 0.3を製作しました。")との接続はデータバスや制御信号と接続しているのでワイヤーだらけですが、こんな感じです。
+[COSMAC MBC CPUボード](https://kanpapa.com/2020/03/cosmac-mbc-cpu-rev-03-final.html "COSMAC MBC CPUボードRev. 0.3を製作しました。")との接続はデータバスや制御信号と接続しているのでワイヤーだらけですが、こんな感じです。
 
 ![teensy32_pixie_cpu1.jpg](images/teensy32_pixie_cpu1.jpg)
 
-さすがにこの状態では使いにくいですし、HEXキーボードもない状態ですので、[STG1861 DISPLAY/HEX KEYBOARD](https://kanpapa.com/cosmac/blog/2020/05/cosmac-stg1861-hexkey-rev02-final.html "COSMAC STG1861 DISPLAY/HEX KEYBOARD Rev. 0.2の基板を製作しました")基板をこの回路に置き換えた基板も作ってみようかなと思います。ついでに[COSMAC VIPのサウンド回路](https://kanpapa.com/cosmac/blog/2020/07/cosmac-vip-555-sound.html "COSMAC VIPのサウンド回路を実装しました")も載せてみましょう。
+さすがにこの状態では使いにくいですし、HEXキーボードもない状態ですので、[STG1861 DISPLAY/HEX KEYBOARD](https://kanpapa.com/2020/05/cosmac-stg1861-hexkey-rev02-final.html "COSMAC STG1861 DISPLAY/HEX KEYBOARD Rev. 0.2の基板を製作しました")基板をこの回路に置き換えた基板も作ってみようかなと思います。ついでに[COSMAC VIPのサウンド回路](https://kanpapa.com/2020/07/cosmac-vip-555-sound.html "COSMAC VIPのサウンド回路を実装しました")も載せてみましょう。
 
 また、このプロジェクトはTeensy 3.2以外のマイコンボードにも応用できるように思います。[mbed](https://os.mbed.com/ "mbed")とかにも移植できそうに思いますので、時間があればチャレンジしてみようかと思います。
 

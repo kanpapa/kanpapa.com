@@ -10,7 +10,7 @@ tags:
 image: images/cosmac_speaker1.jpg
 ---
 
-[前回の記事](https://kanpapa.com/cosmac/blog/2019/01/rca-cdp1802-cosmac6.html "RCA CDP1802 COSMACを動かしてみた(6) 基板動作編")でCPUボードが完成してプログラムローダーから入力したプログラムを実行できるところまで確認しました。
+[前回の記事](https://kanpapa.com/2019/01/rca-cdp1802-cosmac6.html "RCA CDP1802 COSMACを動かしてみた(6) 基板動作編")でCPUボードが完成してプログラムローダーから入力したプログラムを実行できるところまで確認しました。
 
 このあと書籍では入門用アプリケーションとして電子オルガンが紹介されていますので、これも試してみます。
 
@@ -44,4 +44,4 @@ image: images/cosmac_speaker1.jpg
 
 {{< youtube lT78AJuX3FE >}}
 
-これでプログラムで音がでることはわかりましたので、オルガンの鍵盤にあたる入力回路をCPUボードに接続すれば、電子オルガンができます。そちらは[次回の記事](https://kanpapa.com/cosmac/blog/2019/02/rca-cdp1802-cosmac8.html "RCA CDP1802 COSMACを動かしてみた(8) 電子オルガンを作ってみる")で。
+これでプログラムで音がでることはわかりましたので、オルガンの鍵盤にあたる入力回路をCPUボードに接続すれば、電子オルガンができます。そちらは[次回の記事](https://kanpapa.com/2019/02/rca-cdp1802-cosmac8.html "RCA CDP1802 COSMACを動かしてみた(8) 電子オルガンを作ってみる")で。

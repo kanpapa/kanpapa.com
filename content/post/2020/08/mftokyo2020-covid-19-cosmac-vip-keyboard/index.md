@@ -13,7 +13,7 @@ tags:
 image: images/cosmac_vip_web_keyboard1.png
 ---
 
-10月に行われる[Maker Faire Tokyo 2020の出展](https://kanpapa.com/cosmac/blog/2020/07/cosmac-lab-maker-faire-tokyo-2020.html "COSMAC研究会はMaker Faire Tokyo 2020へ出展いたします")に向けてCOVID-19の対策を考えています。来場者の皆様が作品を直接触らなくても試せるように今回の展示の中心となるCOSMAC MBC（COSMAC VIP相当）の16進キーボードをスマホで操作できるように試作中です。
+10月に行われる[Maker Faire Tokyo 2020の出展](https://kanpapa.com/2020/07/cosmac-lab-maker-faire-tokyo-2020.html "COSMAC研究会はMaker Faire Tokyo 2020へ出展いたします")に向けてCOVID-19の対策を考えています。来場者の皆様が作品を直接触らなくても試せるように今回の展示の中心となるCOSMAC MBC（COSMAC VIP相当）の16進キーボードをスマホで操作できるように試作中です。
 
 ![cosmac_vip_web_keyboard1.png](images/cosmac_vip_web_keyboard1.png)
 

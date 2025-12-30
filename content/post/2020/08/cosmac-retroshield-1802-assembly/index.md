@@ -11,7 +11,7 @@ image: "images/retrosheild1602_mega_connect.jpg"
 
 [オレンジピコショップ](https://store.shopping.yahoo.co.jp/orangepicoshop/ "オレンジピコショップ")さんにいただいた[RetroShield 1802](https://store.shopping.yahoo.co.jp/orangepicoshop/pico-a-034.html "RetroShield専用プリント基板")を組み立ててみました。
 
-まずは[事前に調べた部品表](https://kanpapa.com/cosmac/blog/2020/08/cosmac-retroshield-1802.html "COSMAC RetroShield 1802基板をいただきました")に沿ってパーツを集めてみました。
+まずは[事前に調べた部品表](https://kanpapa.com/2020/08/cosmac-retroshield-1802.html "COSMAC RetroShield 1802基板をいただきました")に沿ってパーツを集めてみました。
 
 ![retroshield1602_parts.jpg](images/retroshield1602_parts.jpg)
 

@@ -9,7 +9,7 @@ tags:
 image: "images/cosmac_stg1861_vipos.jpg"
 ---
 
-先日発注した[COSMAC STG1861 DISPLAY/HEX KEYBOARD Rev.0.1](https://kanpapa.com/cosmac/blog/2020/04/cosmac-mbc-stg1861-keyboard-rev01.html "COSMAC MBC STG1861 DISPLAY/HEX KEYBOARD Rev.0.1の基板を発注しました")のプリント基板が到着しました。国際輸送に時間がかかってしまい、いつもよりは一週間以上遅かったのですが、無事到着しました。
+先日発注した[COSMAC STG1861 DISPLAY/HEX KEYBOARD Rev.0.1](https://kanpapa.com/2020/04/cosmac-mbc-stg1861-keyboard-rev01.html "COSMAC MBC STG1861 DISPLAY/HEX KEYBOARD Rev.0.1の基板を発注しました")のプリント基板が到着しました。国際輸送に時間がかかってしまい、いつもよりは一週間以上遅かったのですが、無事到着しました。
 
 ![coamac_stg1861_pcb1.jpg](images/coamac_stg1861_pcb1.jpg)
 

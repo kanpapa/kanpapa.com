@@ -9,7 +9,7 @@ tags:
 image: "images/Mcard1802_27C256_1.jpg"
 ---
 
-[RAMだけを実装した1802 Membership Cardは問題なく動きました](https://kanpapa.com/cosmac/blog/2020/10/1802-membership-card-part1.html "1802 Membership Cardを作ってみました（トグルスイッチ編）")が、さすがにトグルスイッチだけではプログラム入力が大変です。そこで[Membership Card用のモニタプログラム](http://www.sunrise-ev.com/MembershipCard/Readme.txt "Membership Card用のモニタプログラム")をROMに書いて実装します。このモニタプログラムはCOSMAC MBCでも使用しているものです。
+[RAMだけを実装した1802 Membership Cardは問題なく動きました](https://kanpapa.com/2020/10/1802-membership-card-part1.html "1802 Membership Cardを作ってみました（トグルスイッチ編）")が、さすがにトグルスイッチだけではプログラム入力が大変です。そこで[Membership Card用のモニタプログラム](http://www.sunrise-ev.com/MembershipCard/Readme.txt "Membership Card用のモニタプログラム")をROMに書いて実装します。このモニタプログラムはCOSMAC MBCでも使用しているものです。
 
 公式ページに掲載されているモニタプログラムをメモリ配置に合わせて書き込みますが、２つの選択肢があります。
 

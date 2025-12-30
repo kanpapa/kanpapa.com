@@ -13,7 +13,7 @@ COSMAC MBC 拡張ボード Rev.0.3の基板を発注しました。
 
 今回の拡張ボード Rev.0.3では以下の点を改良しています。
 
-- CPUバスの配置を左側に変更し、フラットケーブル接続で[CPUボード](https://kanpapa.com/cosmac/blog/2019/11/cosmac-mbc-cpu-rev02-finished.html "CPUボード")、[拡張ボード](https://kanpapa.com/cosmac/blog/2019/10/cosmac-mbc-ext-board-rev02.html "拡張ボード")、[TVボード](https://kanpapa.com/cosmac/blog/2020/01/cosmac-mbc-tv-rev02-finished.html)の３枚重ねができるようにしました。
+- CPUバスの配置を左側に変更し、フラットケーブル接続で[CPUボード](https://kanpapa.com/2019/11/cosmac-mbc-cpu-rev02-finished.html "CPUボード")、[拡張ボード](https://kanpapa.com/2019/10/cosmac-mbc-ext-board-rev02.html "拡張ボード")、[TVボード](https://kanpapa.com/2020/01/cosmac-mbc-tv-rev02-finished.html)の３枚重ねができるようにしました。
 - ICの配置を縦向きに変更しました。（好みの問題）
 - LEDがまぶしい問題があったので、現代の高輝度LED向けに集合抵抗をはさみました。
 - LEDの配置間隔を狭くしました。

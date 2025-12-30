@@ -61,4 +61,4 @@ Dump Memory/Load MemoryではXMODEMを使ってメモリ上のデータの入出
 
 また、メモリマップやハードウェアは一般的な構成なので、私の[COSMAC MBC](https://kanpapa.com/tag/cosmac-mbc)ボードでもこのDiskless ROMを動かすことができました。次にCOSMAC MBCを改版することがあれば、シリアル入力にEF2を選択できるようにしてPico/Elf V2 Diskless ROMも動くようにしたいと思います。
 
-IDE-CF変換基板が到着したらいよいよ[Elf/OSを動かしてみます](https://kanpapa.com/cosmac/blog/2020/11/cosmac-elfos-picoelfv2-part2.html "COSMACでElf/OSを動かしてみました（Elf/OS起動編）")。
+IDE-CF変換基板が到着したらいよいよ[Elf/OSを動かしてみます](https://kanpapa.com/2020/11/cosmac-elfos-picoelfv2-part2.html "COSMACでElf/OSを動かしてみました（Elf/OS起動編）")。

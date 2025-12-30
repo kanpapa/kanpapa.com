@@ -11,7 +11,7 @@ tags:
 image: images/emuz80_cosmac_prog4_out1.png
 ---
 
-[これまでの実験](https://kanpapa.com/cosmac/blog/2022/06/emuz80-cosmac-modified-pcb.html "EMUZ80でCOSMACを動かしてみました（基板改造編）")ではTPB信号だけを使い、HIGHアドレスのラッチタイミングを示すTPA信号は使っていません。このためLOWアドレスしか使えずアドレス空間は$00-$FFの256byteだけでした。今回はTPA信号も使いアドレス空間を$0000-$FFFFに拡張します。
+[これまでの実験](https://kanpapa.com/2022/06/emuz80-cosmac-modified-pcb.html "EMUZ80でCOSMACを動かしてみました（基板改造編）")ではTPB信号だけを使い、HIGHアドレスのラッチタイミングを示すTPA信号は使っていません。このためLOWアドレスしか使えずアドレス空間は$00-$FFの256byteだけでした。今回はTPA信号も使いアドレス空間を$0000-$FFFFに拡張します。
 
 ### EMUZ80のソースを確認
 
@@ -69,4 +69,4 @@ RAMエリアから読み出しの様子です。N0がHIGHでTPBの立下り時�
 
 これで一通りの動作確認がおわりましたので、いよいよモニタプログラムをこの環境で動かしてみます。
 
-[モニタ動作編](https://kanpapa.com/cosmac/blog/2022/06/emuz80-cosmac-idiot-monitor.html "EMUZ80でCOSMACを動かしてみました 4（モニタ動作編）")に続く
+[モニタ動作編](https://kanpapa.com/2022/06/emuz80-cosmac-idiot-monitor.html "EMUZ80でCOSMACを動かしてみました 4（モニタ動作編）")に続く

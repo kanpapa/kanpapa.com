@@ -9,7 +9,7 @@ tags:
 image: "images/tinybasic_checklist.jpg"
 ---
 
-なんとか[COSMAC MBC](https://kanpapa.com/cosmac/blog/2019/10/cosmac-mbc-sample1-run.html "COSMAC MBC")が動き出したところで[Evaluation Kit Manual for the RCA CDP1802 COSMAC Microprocessor](http://bitsavers.trailing-edge.com/components/rca/cosmac/MPM-203_CDP1802_Evaluation_Kit_Manual_Sep76.pdf "Evaluation Kit Manual for the RCA CDP1802 COSMAC Microprocessor")に掲載されているCOSMAC TINY BASICを動かしてみました。マニュアルには16進数がならんでいるダンプリストが提供されています。
+なんとか[COSMAC MBC](https://kanpapa.com/2019/10/cosmac-mbc-sample1-run.html "COSMAC MBC")が動き出したところで[Evaluation Kit Manual for the RCA CDP1802 COSMAC Microprocessor](http://bitsavers.trailing-edge.com/components/rca/cosmac/MPM-203_CDP1802_Evaluation_Kit_Manual_Sep76.pdf "Evaluation Kit Manual for the RCA CDP1802 COSMAC Microprocessor")に掲載されているCOSMAC TINY BASICを動かしてみました。マニュアルには16進数がならんでいるダンプリストが提供されています。
 
 ![](images/cosmac_tiny_basic_dumplist.jpg)
 

@@ -9,7 +9,7 @@ tags:
 image: "images/VIP_Space_-Intercept.jpg"
 ---
 
-[COSMAC VIPマニュアル](http://bitsavers.trailing-edge.com/components/rca/cosmac/COSMAC_VIP_Instruction_Manual_1978.pdf "http://bitsavers.trailing-edge.com/components/rca/cosmac/COSMAC_VIP_Instruction_Manual_1978")のAppendix DにはVideo Gameが20本も掲載されています。[CHIP-8インタプリタが動き出した](https://kanpapa.com/cosmac/blog/2020/04/cosmac-vip-chip-8-startup.html "COSMACでCHIP-8インタプリタを動かしてみました")ので、いくつかのプログラムで遊んでみました。
+[COSMAC VIPマニュアル](http://bitsavers.trailing-edge.com/components/rca/cosmac/COSMAC_VIP_Instruction_Manual_1978.pdf "http://bitsavers.trailing-edge.com/components/rca/cosmac/COSMAC_VIP_Instruction_Manual_1978")のAppendix DにはVideo Gameが20本も掲載されています。[CHIP-8インタプリタが動き出した](https://kanpapa.com/2020/04/cosmac-vip-chip-8-startup.html "COSMACでCHIP-8インタプリタを動かしてみました")ので、いくつかのプログラムで遊んでみました。
 
 ### VIP Kaleidoscope
 

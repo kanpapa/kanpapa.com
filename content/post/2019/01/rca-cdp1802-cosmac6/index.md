@@ -10,7 +10,7 @@ tags:
 image: images/cosmac_system2.jpg
 ---
 
-[前回の記事](https://kanpapa.com/cosmac/blog/2018/12/rca-cdp1802-cosmac5.html "RCA CDP1802 COSMACを動かしてみた(5) 基板発注編")で基板を発注してから３週間がたちました。まずはCPU基板が到着しました。
+[前回の記事](https://kanpapa.com/2018/12/rca-cdp1802-cosmac5.html "RCA CDP1802 COSMACを動かしてみた(5) 基板発注編")で基板を発注してから３週間がたちました。まずはCPU基板が到着しました。
 
 注文通り５枚入っていました。見た目はガーバーデータと同じにできているようです。
 

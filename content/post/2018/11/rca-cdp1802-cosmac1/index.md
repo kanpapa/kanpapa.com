@@ -58,4 +58,4 @@ CPUはAliexpressで容易に購入することができました。最近まで�
 
 ![](images/cosmac_breadboard1.jpg)
 
-さて動くかどうか。電源投入は[次の記事](https://kanpapa.com/cosmac/blog/2018/11/rca-cdp1802-cosmac2.html "COSMAC 動作確認編")で。
+さて動くかどうか。電源投入は[次の記事](https://kanpapa.com/2018/11/rca-cdp1802-cosmac2.html "COSMAC 動作確認編")で。

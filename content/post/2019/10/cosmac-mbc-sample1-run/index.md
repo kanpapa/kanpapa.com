@@ -9,7 +9,7 @@ tags:
 image: "images/ut4_teraterm_setting.png"
 ---
 
-[COSMAC MicroBoard Computer](https://kanpapa.com/cosmac/blog/2019/10/cosmac-mbc-new-pages.html "COSMAC MicroBoard Computer")でサンプルプログラムを動かしてみます。
+[COSMAC MicroBoard Computer](https://kanpapa.com/2019/10/cosmac-mbc-new-pages.html "COSMAC MicroBoard Computer")でサンプルプログラムを動かしてみます。
 
 サンプルプログラムは[github.com](https://github.com/kanpapa/cosmac/tree/master/ut4 "github.com")に置きましたので参照してください。オリジナルは評価ボードのマニュアルに載っていますが、SB-Assemblerのソースに書き換えてアセンブルしています。
 

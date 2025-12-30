@@ -10,7 +10,7 @@ tags:
 image: images/cosmac_mbc_bus_rev01_2.jpg
 ---
 
-先日発注していた[COSMAC MBC BUSボード Rev. 0.1](https://kanpapa.com/cosmac/blog/2020/06/cosmac-mbc-busboard.html "COSMAC MBCでバス基板を使ってみました")が届きました。
+先日発注していた[COSMAC MBC BUSボード Rev. 0.1](https://kanpapa.com/2020/06/cosmac-mbc-busboard.html "COSMAC MBCでバス基板を使ってみました")が届きました。
 
 ![cosmac_mbc_bus_rev01_1.jpg](images/cosmac_mbc_bus_rev01_1.jpg)
 

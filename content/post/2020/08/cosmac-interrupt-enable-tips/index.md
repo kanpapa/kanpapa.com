@@ -11,7 +11,7 @@ image: "images/cosmac_cdp1802ace.jpg"
 
 Maker Faire Tokyo 2020の準備でお試しデモのシナリオを考えています。
 
-最終的には[COSMAC VIP OS](https://kanpapa.com/cosmac/blog/2020/05/cosmac-vip-os-rom-reloc.html "COSMAC VIP OSをROMの空きエリアに移動しました")を起動し、16進キーボードで[CHIP-8](https://en.wikipedia.org/wiki/CHIP-8 "CHIP-8 - Wikipedia")の小さいプログラムを入力するわけですが、その前に[CHIP-8インタプリタを先にロード](https://kanpapa.com/cosmac/blog/2020/06/CHIP-8-with-VIP-ROM-D000.html "リロケートしたVIP OS ROMでCHIP-8が動くようにしました")しておく必要があります。
+最終的には[COSMAC VIP OS](https://kanpapa.com/2020/05/cosmac-vip-os-rom-reloc.html "COSMAC VIP OSをROMの空きエリアに移動しました")を起動し、16進キーボードで[CHIP-8](https://en.wikipedia.org/wiki/CHIP-8 "CHIP-8 - Wikipedia")の小さいプログラムを入力するわけですが、その前に[CHIP-8インタプリタを先にロード](https://kanpapa.com/2020/06/CHIP-8-with-VIP-ROM-D000.html "リロケートしたVIP OS ROMでCHIP-8が動くようにしました")しておく必要があります。
 
 手順としては以下のようになります。
 

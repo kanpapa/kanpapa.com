@@ -9,7 +9,7 @@ tags:
 image: "images/cosmac_tv_pcb1_0110.jpg"
 ---
 
-先日[発注したCOSMAC MBC用 TVディスプレイボード Rev. 0.2](https://kanpapa.com/cosmac/blog/2020/01/cosmac-tv-pcb-order.html "COSMAC TVディスプレイボードを発注しました")のプリント基板が到着しました。
+先日[発注したCOSMAC MBC用 TVディスプレイボード Rev. 0.2](https://kanpapa.com/2020/01/cosmac-tv-pcb-order.html "COSMAC TVディスプレイボードを発注しました")のプリント基板が到着しました。
 
 ![cosmac_tv_pcb1_0110.jpg](images/cosmac_tv_pcb1_0110.jpg)
 
@@ -21,4 +21,4 @@ image: "images/cosmac_tv_pcb1_0110.jpg"
 
 ![cosmac_tv_pcb2_0110.jpg](images/cosmac_tv_pcb2_0110.jpg)
 
-明日[パーツを実装して動作確認](https://kanpapa.com/cosmac/blog/2020/01/cosmac-mbc-tv-rev02-finished.html "COSMAC MBC用 TVディスプレイボード Rev. 0.2が完成しました。")をしてみようと思います。
+明日[パーツを実装して動作確認](https://kanpapa.com/2020/01/cosmac-mbc-tv-rev02-finished.html "COSMAC MBC用 TVディスプレイボード Rev. 0.2が完成しました。")をしてみようと思います。

@@ -9,7 +9,7 @@ tags:
 image: "images/cosmac_vip_rom.jpg"
 ---
 
-[COSMAC MBC](https://kanpapa.com/cosmac/blog/2020/03/cosmac-mbc-cpu-rev-03-final.html "COSMAC MBC")を使って[COSMAC VIP](http://oldcomputers.net/rca-cosmac-vip.html "COSMAC VIP")を動かしてみることにしました。16進キーボードの回路とCDP1861の表示ON/OFF回路の部分を追加すれば、COSMAC VIPと同等な動作ができるだろうと思ったからです。COSMAC VIPの回路図やモニタプログラムは[RCA COSMAC VIP CDP18S711 Instruction Manual](http://bitsavers.trailing-edge.com/components/rca/cosmac/COSMAC_VIP_Instruction_Manual_1978.pdf "RCA COSMAC VIP CDP188711 Instruction Manual ")に載っています。
+[COSMAC MBC](https://kanpapa.com/2020/03/cosmac-mbc-cpu-rev-03-final.html "COSMAC MBC")を使って[COSMAC VIP](http://oldcomputers.net/rca-cosmac-vip.html "COSMAC VIP")を動かしてみることにしました。16進キーボードの回路とCDP1861の表示ON/OFF回路の部分を追加すれば、COSMAC VIPと同等な動作ができるだろうと思ったからです。COSMAC VIPの回路図やモニタプログラムは[RCA COSMAC VIP CDP18S711 Instruction Manual](http://bitsavers.trailing-edge.com/components/rca/cosmac/COSMAC_VIP_Instruction_Manual_1978.pdf "RCA COSMAC VIP CDP188711 Instruction Manual ")に載っています。
 
 また、キーボード入力に使われているCMOSロジックIC 4515が入手できたことも理由です。4515は24P DIPの大きさで私も見たことがありませんでした。
 
@@ -19,7 +19,7 @@ COSMAC VIPの回路図を参考にブレッドボードに組み上げました�
 
 ![](images/cosmac_vip_bb1.jpg)
 
-また、[STG1861](https://kanpapa.com/cosmac/blog/2020/02/cdp1861-pixie-stg1861.html "STG1861")側もDISP ON/OFFを引き出すために若干改造しています。
+また、[STG1861](https://kanpapa.com/2020/02/cdp1861-pixie-stg1861.html "STG1861")側もDISP ON/OFFを引き出すために若干改造しています。
 
 ![](images/cosmac_vip_disponoff.jpg)
 

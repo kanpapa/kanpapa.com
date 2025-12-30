@@ -9,7 +9,7 @@ tags:
 image: "images/cosmac_stg1861_rev0_2_3dimage.jpg"
 ---
 
-COSMAC MBC STG1861 DISPLAY/HEX KEYBOARD Rev.0.2の基板を発注しました。[Rev. 0.1基板](https://kanpapa.com/cosmac/blog/2020/04/cosmac-stg1861-hexkey-rev01-pcb1.html "COSMAC STG1861 DISPLAY/HEX KEYBOARD Rev.0.1")で動作は問題なさそうなので、回路図からゲートが漏れていた点を修正しています。また、せっかくなので、空きエリアにユニバーサル領域も付けました。（何かに役立つかも）
+COSMAC MBC STG1861 DISPLAY/HEX KEYBOARD Rev.0.2の基板を発注しました。[Rev. 0.1基板](https://kanpapa.com/2020/04/cosmac-stg1861-hexkey-rev01-pcb1.html "COSMAC STG1861 DISPLAY/HEX KEYBOARD Rev.0.1")で動作は問題なさそうなので、回路図からゲートが漏れていた点を修正しています。また、せっかくなので、空きエリアにユニバーサル領域も付けました。（何かに役立つかも）
 
 完成イメージは以下のようになります。
 

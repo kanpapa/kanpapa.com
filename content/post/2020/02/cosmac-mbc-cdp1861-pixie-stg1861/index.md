@@ -31,7 +31,7 @@ GALの書き込みは[TL866IIPlus](http://www.aitendo.com/product/17038 "TL866II
 
 ![stg1861_bb.jpg](images/stg1861_bb.jpg)
 
-完成したSTG1861をCOSMAC MBC CPUボードに接続しました。[前回製作したTVディスプレイボード](https://kanpapa.com/cosmac/blog/2020/01/cosmac-mbc-tv-rev02-finished.html "前回製作したTVディスプレイボード")と同様にUT4モニタを使っている間はDMA OUTを切り離す必要があります。
+完成したSTG1861をCOSMAC MBC CPUボードに接続しました。[前回製作したTVディスプレイボード](https://kanpapa.com/2020/01/cosmac-mbc-tv-rev02-finished.html "前回製作したTVディスプレイボード")と同様にUT4モニタを使っている間はDMA OUTを切り離す必要があります。
 
 ![stg1861_mbc.jpg](images/stg1861_mbc.jpg)
 

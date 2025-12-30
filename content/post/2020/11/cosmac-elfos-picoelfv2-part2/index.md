@@ -9,7 +9,7 @@ tags:
 image: "images/picoelfv2_idecf.jpg"
 ---
 
-前回は[Pico/Elf V2の動作確認](https://kanpapa.com/cosmac/blog/2020/11/cosmac-elfos-picoelfv2-part1.html "COSMACでElf/OSを動かしてみました（Pico/Elf V2製作編）")までおこないましたが、[Elf/OS](http://www.elf-emulation.com/elfos.html "Elf/OS")を動かすために注文していたIDE-CF変換基板が到着しました。IDE側は40Pコネクタです。
+前回は[Pico/Elf V2の動作確認](https://kanpapa.com/2020/11/cosmac-elfos-picoelfv2-part1.html "COSMACでElf/OSを動かしてみました（Pico/Elf V2製作編）")までおこないましたが、[Elf/OS](http://www.elf-emulation.com/elfos.html "Elf/OS")を動かすために注文していたIDE-CF変換基板が到着しました。IDE側は40Pコネクタです。
 
 ![icd_cf_pcb.jpg](images/icd_cf_pcb.jpg)
 

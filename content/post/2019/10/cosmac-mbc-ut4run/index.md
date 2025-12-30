@@ -9,7 +9,7 @@ tags:
 image: "images/cosmac_mbc_serial_fix.jpg"
 ---
 
-[UT4モニタがうまく動かないCOSMAC MicroBoard Computer](https://kanpapa.com/cosmac/blog/2019/10/cosmac-mbc-started.html "UT4モニタがうまく動かないCOSMAC MicroBoard Computer")のトラブルシューティングを始めました。ターミナル出力にプロンプトが出ているので、まずはこの信号をロジアナで確認してシリアル信号の形式を確認します。ロジアナをシリアル出力に接続し、RESETしてRUN Uボタンを押して、ターミナルからCRを入力してみました。
+[UT4モニタがうまく動かないCOSMAC MicroBoard Computer](https://kanpapa.com/2019/10/cosmac-mbc-started.html "UT4モニタがうまく動かないCOSMAC MicroBoard Computer")のトラブルシューティングを始めました。ターミナル出力にプロンプトが出ているので、まずはこの信号をロジアナで確認してシリアル信号の形式を確認します。ロジアナをシリアル出力に接続し、RESETしてRUN Uボタンを押して、ターミナルからCRを入力してみました。
 
 ![](images/cosmac_serial_out1.png)
 

@@ -11,7 +11,7 @@ tags:
 image: images/esp32_remote_acrylic7.jpg
 ---
 
-先日[COSMAC VIP OSをスマートフォンで操作](https://kanpapa.com/cosmac/blog/2020/09/cosmac-vip-os-ESP32-remote-keypad.html "     ホーム ブログ COSMAC VIP OSをスマートフォンで操作してみました   COSMAC VIP OSをスマートフォンで操作してみました")できるかを確認しましたが、リレーモジュールに接続するESP32の部分を基板にしてすっきりさせました。
+先日[COSMAC VIP OSをスマートフォンで操作](https://kanpapa.com/2020/09/cosmac-vip-os-ESP32-remote-keypad.html "     ホーム ブログ COSMAC VIP OSをスマートフォンで操作してみました   COSMAC VIP OSをスマートフォンで操作してみました")できるかを確認しましたが、リレーモジュールに接続するESP32の部分を基板にしてすっきりさせました。
 
 ![esp32_remote_controller1.jpg](images/esp32_remote_controller1.jpg)
 

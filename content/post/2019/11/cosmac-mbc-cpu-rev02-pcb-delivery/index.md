@@ -9,7 +9,7 @@ tags:
 image: "images/cosmac_mbc_cpu_rev02_pcb1.jpg"
 ---
 
-[先日発注したCOSMAC MBC CPUボード Rev. 0.2のプリント基板](https://kanpapa.com/cosmac/blog/2019/11/cosmac-mbc-cpu-rev02-pcborder.html "COSMAC MBC CPUボード Rev.0.2発注")が到着しました。
+[先日発注したCOSMAC MBC CPUボード Rev. 0.2のプリント基板](https://kanpapa.com/2019/11/cosmac-mbc-cpu-rev02-pcborder.html "COSMAC MBC CPUボード Rev.0.2発注")が到着しました。
 
 ![cosmac_mbc_cpu_rev02_pcb1.jpg](images/cosmac_mbc_cpu_rev02_pcb1.jpg)
 

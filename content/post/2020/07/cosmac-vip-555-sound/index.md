@@ -20,7 +20,7 @@ COSMAC MBCにも同じサウンド回路を接続してみようと、ブレッ�
 
 ![cosmac_vip_sound2.jpg](images/cosmac_vip_sound2.jpg)
 
-この回路をQ出力とスピーカー、電源に接続します。[先日製作したバス基板](https://kanpapa.com/cosmac/blog/2020/07/cosmac-mbc-bus-rev-02-assembly.html "COSMAC MBC BUSボード Rev. 0.2が届きました")に[スルーホール用テストワイヤー](http://akizukidenshi.com/catalog/g/gC-09830/ "スルホール用テストワイヤ　ＴＰ－２００")で接続しました。
+この回路をQ出力とスピーカー、電源に接続します。[先日製作したバス基板](https://kanpapa.com/2020/07/cosmac-mbc-bus-rev-02-assembly.html "COSMAC MBC BUSボード Rev. 0.2が届きました")に[スルーホール用テストワイヤー](http://akizukidenshi.com/catalog/g/gC-09830/ "スルホール用テストワイヤ　ＴＰ－２００")で接続しました。
 
 ![cosmac_vip_sound3.jpg](images/cosmac_vip_sound3.jpg)
 

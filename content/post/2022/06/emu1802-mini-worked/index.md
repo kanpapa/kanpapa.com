@@ -10,7 +10,7 @@ tags:
 image: images/emu1802-mini_final.jpg
 ---
 
-[EMUZ80](https://vintagechips.wordpress.com/2022/03/05/emuz80_reference/ "EMUZ80が完成")のCPUを[COSMAC](https://kanpapa.com/cosmac/cosmac-cpu.html "COSMAC CPUとは")に置き換えた[EMU1802](https://kanpapa.com/cosmac/blog/2022/06/emuz80-cosmac-emu1802-fixed.html "EMUZ80でCOSMACを動かしてみました 5（仕上げ編）")を製作しましたが、心臓部である[PIC18F47Q43](https://akizukidenshi.com/catalog/g/gI-16591/ "PIC18F47Q43")が品薄となり入手が困難になってしまいました。我が家ではPIC18F47Q43は1個しかなく、EMUZ80の基板とEMU1802の基板をPICが行ったり来たりの状態です。
+[EMUZ80](https://vintagechips.wordpress.com/2022/03/05/emuz80_reference/ "EMUZ80が完成")のCPUを[COSMAC](https://kanpapa.com/cosmac/cosmac-cpu.html "COSMAC CPUとは")に置き換えた[EMU1802](https://kanpapa.com/2022/06/emuz80-cosmac-emu1802-fixed.html "EMUZ80でCOSMACを動かしてみました 5（仕上げ編）")を製作しましたが、心臓部である[PIC18F47Q43](https://akizukidenshi.com/catalog/g/gI-16591/ "PIC18F47Q43")が品薄となり入手が困難になってしまいました。我が家ではPIC18F47Q43は1個しかなく、EMUZ80の基板とEMU1802の基板をPICが行ったり来たりの状態です。
 
 これでは困るので代替手段がないかと確認したところ、ピン数の少ない[PIC18F27Q43](https://akizukidenshi.com/catalog/g/gI-16593/ "PIC18F27Q43")がわずかながら在庫があるようです。
 

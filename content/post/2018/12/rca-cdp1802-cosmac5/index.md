@@ -10,7 +10,7 @@ tags:
 image: images/cosmac_cpu_board_3dview.png
 ---
 
-今回[ブレッドボードで作成した回路](https://kanpapa.com/cosmac/blog/2018/12/rca-cdp1802-cosmac4.html "RCA CDP1802 COSMACを動かしてみた(4) プログラミング編")をユニバーサル基板に移してもよいのですが、何枚か作ってみたいのでプリント基板を作ってみます。
+今回[ブレッドボードで作成した回路](https://kanpapa.com/2018/12/rca-cdp1802-cosmac4.html "RCA CDP1802 COSMACを動かしてみた(4) プログラミング編")をユニバーサル基板に移してもよいのですが、何枚か作ってみたいのでプリント基板を作ってみます。
 
 参考にしている「トラ技別冊　つくるシリーズ７　手作りコンピュータ入門」でも、感光基板のマスクが付いていて、なるべく簡単に試せるように工夫されています。
 
@@ -40,4 +40,4 @@ COSMAC CPUボードはこんな感じです。秋月電子のB基板とサイズ
 
 配送に少し時間がかかりますが、楽しみに待ちたいと思います。
 
-基板到着後の製作過程は[次の記事](https://kanpapa.com/cosmac/blog/2019/01/rca-cdp1802-cosmac6.html "RCA CDP1802 COSMACを動かしてみた(6) 基板動作編")で。
+基板到着後の製作過程は[次の記事](https://kanpapa.com/2019/01/rca-cdp1802-cosmac6.html "RCA CDP1802 COSMACを動かしてみた(6) 基板動作編")で。

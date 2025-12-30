@@ -11,7 +11,7 @@ tags:
 image: images/emuz80_cosmac_modpcb7.jpg
 ---
 
-[前回の実験でLチカ](https://kanpapa.com/cosmac/blog/2022/05/emuz80-cosmac-blink-led.html "EMUZ80でCOSMACを動かしてみました（Lチカ編）")まで動かすことができたので、今後の実験を行いやすくするためにEMUZ80の基板を[COSMAC CDP1802 CPU](https://kanpapa.com/cosmac/cosmac-cpu.html "COSMAC CPUとは")を実装できるように改造してみます。もちろんZ80もEMUZ80で動かしたいので、COSMAC専用に追加で基板を注文しました。
+[前回の実験でLチカ](https://kanpapa.com/2022/05/emuz80-cosmac-blink-led.html "EMUZ80でCOSMACを動かしてみました（Lチカ編）")まで動かすことができたので、今後の実験を行いやすくするためにEMUZ80の基板を[COSMAC CDP1802 CPU](https://kanpapa.com/cosmac/cosmac-cpu.html "COSMAC CPUとは")を実装できるように改造してみます。もちろんZ80もEMUZ80で動かしたいので、COSMAC専用に追加で基板を注文しました。
 
 ![emuz80_cosmac_modpcb1.jpg](images/emuz80_cosmac_modpcb1.jpg)
 
@@ -45,4 +45,4 @@ EMUZ80の基板を傷付けるのは申し訳ないですが、パターンを�
 
 このCOSMAC専用EMUZ80基板をベースとして今後の実験を進めます。
 
-[アドレス拡張編](https://kanpapa.com/cosmac/blog/2022/06/emuz80-cosmac-high-address.html "EMUZ80でCOSMACを動かしてみました 3（アドレス拡張編）")に続く
+[アドレス拡張編](https://kanpapa.com/2022/06/emuz80-cosmac-high-address.html "EMUZ80でCOSMACを動かしてみました 3（アドレス拡張編）")に続く

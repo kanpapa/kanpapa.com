@@ -16,8 +16,8 @@ Maker Faire Tokyo 2020用にCOSMAC MBCに載せているROMをチューニング
 
 変更点は以下の通りです。
 
-- [MCSMP20からCOSMAC VIP OSを起動する](https://kanpapa.com/cosmac/blog/2020/08/cosmac-interrupt-enable-tips.html "COSMACで割り込み許可にしたい場合はどうするか？")ために割り込みを許可する命令をD200に置きました。
-- [CHIP-8のイメージデータ](https://kanpapa.com/cosmac/blog/2020/06/CHIP-8-with-VIP-ROM-D000.html "リロケートしたVIP OS ROMでCHIP-8が動くようにしました")を$E000-$E1FFにおきました。このデータをモニタで$0000のRAMエリアに転送すればCHIP-8インタプリタの配置が終わります。
+- [MCSMP20からCOSMAC VIP OSを起動する](https://kanpapa.com/2020/08/cosmac-interrupt-enable-tips.html "COSMACで割り込み許可にしたい場合はどうするか？")ために割り込みを許可する命令をD200に置きました。
+- [CHIP-8のイメージデータ](https://kanpapa.com/2020/06/CHIP-8-with-VIP-ROM-D000.html "リロケートしたVIP OS ROMでCHIP-8が動くようにしました")を$E000-$E1FFにおきました。このデータをモニタで$0000のRAMエリアに転送すればCHIP-8インタプリタの配置が終わります。
 
 チューニングしたメモリマップは以下のようになりました。
 

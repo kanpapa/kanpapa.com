@@ -9,7 +9,7 @@ tags:
 image: "images/cosmac_mbc1.jpg"
 ---
 
-新たなプロジェクトである[COSMAC MicroBoard Computer](https://kanpapa.com/cosmac/blog/2019/09/cosmac-mbc-1.html "COSMAC MicroBoard Computer")のプリント基板が届きました。
+新たなプロジェクトである[COSMAC MicroBoard Computer](https://kanpapa.com/2019/09/cosmac-mbc-1.html "COSMAC MicroBoard Computer")のプリント基板が届きました。
 
 ![cosmac_mbc_pcb1.jpg](images/cosmac_mbc_pcb1.jpg)
 

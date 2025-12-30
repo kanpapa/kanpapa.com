@@ -46,4 +46,4 @@ COSMAC研究会のブースにはスタンド看板の材料が置いてあり�
 
 この日はこれでおしまいです。
 
-いよいよ明日は[1日目](https://kanpapa.com/cosmac/blog/2019/08/cosmac-maker-faire-tokyo-2019-4.html "1日目")です。
+いよいよ明日は[1日目](https://kanpapa.com/2019/08/cosmac-maker-faire-tokyo-2019-4.html "1日目")です。

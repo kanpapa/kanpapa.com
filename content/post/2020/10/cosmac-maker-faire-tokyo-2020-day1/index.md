@@ -36,7 +36,7 @@ image: "images/mft2020_1003_2.jpg"
 
 ![mft2020_1003_7.jpg](images/mft2020_1003_7.jpg)
 
-左側には作業場所としてお世話になっている[おおたFab](https://ot-fb.com/ "おおたFab")さんのフライヤーと今年製作した[COSMAC研究会のフライヤー](https://kanpapa.com/cosmac/blog/2020/09/maker-faire-tokyo-2020-flyer-complete.html "Maker Faire Tokyo 2020用のフライヤーが到着しました")。中央には[スマホ接続対応のCOSMAC VIP相当のマイコンボード](https://kanpapa.com/cosmac/blog/2020/09/cosmac-vip-autowrite2vram.html "COSMAC VIPのVRAMに自動キー入力で書き込んでみました")で、右側には昨年のフライヤーと[トグルスイッチマイコンボード](https://github.com/kanpapa/cosmac_toy "トグルスイッチでCOSMACプログラミング")でLチカです。
+左側には作業場所としてお世話になっている[おおたFab](https://ot-fb.com/ "おおたFab")さんのフライヤーと今年製作した[COSMAC研究会のフライヤー](https://kanpapa.com/2020/09/maker-faire-tokyo-2020-flyer-complete.html "Maker Faire Tokyo 2020用のフライヤーが到着しました")。中央には[スマホ接続対応のCOSMAC VIP相当のマイコンボード](https://kanpapa.com/2020/09/cosmac-vip-autowrite2vram.html "COSMAC VIPのVRAMに自動キー入力で書き込んでみました")で、右側には昨年のフライヤーと[トグルスイッチマイコンボード](https://github.com/kanpapa/cosmac_toy "トグルスイッチでCOSMACプログラミング")でLチカです。
 
 私のブースの左隣は山宮さんの[からくり計算機](https://makezine.jp/event/makers-mft2020/m0099/ "からくり計算機")です。様々なからくり機構で計算ができます。何度も拝見していますが、おもしろいですね～。
 
@@ -70,4 +70,4 @@ image: "images/mft2020_1003_2.jpg"
 
 ![mft2020_1003_16.jpg](images/mft2020_1003_16.jpg)
 
-[２日目のレポート](https://kanpapa.com/cosmac/blog/2020/10/cosmacmaker-faire-tokyo-2020-day2.html "COSMAC研究会でMaker Faire Tokyo 2020に出展しました（2日目）")に続きます。
+[２日目のレポート](https://kanpapa.com/2020/10/cosmacmaker-faire-tokyo-2020-day2.html "COSMAC研究会でMaker Faire Tokyo 2020に出展しました（2日目）")に続きます。

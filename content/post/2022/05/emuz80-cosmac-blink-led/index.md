@@ -71,4 +71,4 @@ COSMACのプログラムも最低限の４バイトとします。Q出力のHI-L
 
 これで256バイトの範囲内であればプログラムを動かすことはできそうです。ただし、COSMACのモニタプログラムは256バイトでは収まりませんので、次はHIGH Addressのメモリ空間にアクセスできるようにTPAの処理を加えていきます。
 
-[基板改造編](https://kanpapa.com/cosmac/blog/2022/06/emuz80-cosmac-modified-pcb.html "EMUZ80でCOSMACを動かしてみました 2（基板改造編）")に続く
+[基板改造編](https://kanpapa.com/2022/06/emuz80-cosmac-modified-pcb.html "EMUZ80でCOSMACを動かしてみました 2（基板改造編）")に続く

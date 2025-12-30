@@ -10,13 +10,13 @@ tags:
 image: images/teensy_pixie_pcb01_3.jpg
 ---
 
-8月4日に発注した[Teensy Pixie Video/HEX Keyboard/Soundボード Rev. 0.1の基板](https://kanpapa.com/cosmac/blog/2020/08/teensy-pixie-hexkey-sound-board01.html "Teensy Pixie Video/HEX Keyboard/Soundボード Rev. 0.1を発注しました")が8月13日に到着しました。
+8月4日に発注した[Teensy Pixie Video/HEX Keyboard/Soundボード Rev. 0.1の基板](https://kanpapa.com/2020/08/teensy-pixie-hexkey-sound-board01.html "Teensy Pixie Video/HEX Keyboard/Soundボード Rev. 0.1を発注しました")が8月13日に到着しました。
 
 ![teensy_pixie_pcb01_1.jpg](images/teensy_pixie_pcb01_1.jpg)
 
 <!--more-->
 
-早速[試作したブレッドボード](https://kanpapa.com/cosmac/blog/2020/08/teensy32-cdp1861-pixie-simulator.html "Teensy 3.2でのCDP1861 Pixie Simulatorを試してみました")からパーツを移して実装しました。別に[試作していたサウンド回路](https://kanpapa.com/cosmac/blog/2020/07/cosmac-vip-555-sound.html "COSMAC VIPのサウンド回路を実装しました")も合わせて実装です。
+早速[試作したブレッドボード](https://kanpapa.com/2020/08/teensy32-cdp1861-pixie-simulator.html "Teensy 3.2でのCDP1861 Pixie Simulatorを試してみました")からパーツを移して実装しました。別に[試作していたサウンド回路](https://kanpapa.com/2020/07/cosmac-vip-555-sound.html "COSMAC VIPのサウンド回路を実装しました")も合わせて実装です。
 
 ![teensy_pixie_pcb01_2.jpg](images/teensy_pixie_pcb01_2.jpg)
 

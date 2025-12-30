@@ -10,7 +10,7 @@ tags:
 image: "images/cosmac_mft2019_day1_11.jpg"
 ---
 
-[COSMAC研究会](https://makezine.jp/event/makers-mft2019/m0098/ "COSMAC研究会")で[Maker Faire Tokyo 2019](https://makezine.jp/event/mft2019/ "Maker Faire Tokyo 2019")に出展しました。[前日のレポート](https://kanpapa.com/cosmac/blog/2019/08/cosmac-maker-faire-tokyo-2019-3.html "前日のレポート")に引き続き1日めの様子のまとめです。
+[COSMAC研究会](https://makezine.jp/event/makers-mft2019/m0098/ "COSMAC研究会")で[Maker Faire Tokyo 2019](https://makezine.jp/event/mft2019/ "Maker Faire Tokyo 2019")に出展しました。[前日のレポート](https://kanpapa.com/2019/08/cosmac-maker-faire-tokyo-2019-3.html "前日のレポート")に引き続き1日めの様子のまとめです。
 
 ![](images/cosmac_mft2019_day1.jpg)
 <!--more-->
@@ -33,9 +33,9 @@ image: "images/cosmac_mft2019_day1_11.jpg"
 テーブルのスペースを考えて、最終的なレイアウトは右側から次のように並べました。
 
 - キツネさん
-- [モーターシールド](https://kanpapa.com/cosmac/blog/2019/06/rca-cdp1802-cosmac11-1.html "モーターシールド")
+- [モーターシールド](https://kanpapa.com/2019/06/rca-cdp1802-cosmac11-1.html "モーターシールド")
 - 音声出力シールド
-- [ミニ電子オルガンシールド](https://kanpapa.com/cosmac/blog/2019/02/rca-cdp1802-cosmac8.html "ミニ電子オルガンシールド")
+- [ミニ電子オルガンシールド](https://kanpapa.com/2019/02/rca-cdp1802-cosmac8.html "ミニ電子オルガンシールド")
 - Lチカのタッチ＆トライ用２台
 - [動かないR2D2](https://youtu.be/LgxPKIGbSCo "動かないR2D2")
 - フライヤー一式
@@ -78,4 +78,4 @@ image: "images/cosmac_mft2019_day1_11.jpg"
 
 ![](images/cosmac_mft2019_day1_12.jpg)
 
-[2日目のレポート](https://kanpapa.com/cosmac/blog/2019/08/cosmac-maker-faire-tokyo-2019-5.html "2日目のレポート")に続きます。
+[2日目のレポート](https://kanpapa.com/2019/08/cosmac-maker-faire-tokyo-2019-5.html "2日目のレポート")に続きます。

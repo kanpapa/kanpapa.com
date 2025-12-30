@@ -9,7 +9,7 @@ tags:
 image: "images/cosmac_stg1861_pcb3.jpg"
 ---
 
-[ブレッドボードでSTG1861を製作](https://kanpapa.com/cosmac/blog/2020/02/cosmac-mbc-cdp1861-pixie-stg1861.html "ブレッドボードでSTG1861を製作")しましたが、やはり基板に実装しないと使い勝手がよくありません。そこで、先日作成した[TVディスプレイボード](https://kanpapa.com/cosmac/blog/2020/01/cosmac-mbc-tv-rev02-finished.html "TVディスプレイボード")のユニバーサル領域に実装してみることにしました。
+[ブレッドボードでSTG1861を製作](https://kanpapa.com/2020/02/cosmac-mbc-cdp1861-pixie-stg1861.html "ブレッドボードでSTG1861を製作")しましたが、やはり基板に実装しないと使い勝手がよくありません。そこで、先日作成した[TVディスプレイボード](https://kanpapa.com/2020/01/cosmac-mbc-tv-rev02-finished.html "TVディスプレイボード")のユニバーサル領域に実装してみることにしました。
 
 レイアウトはこのような感じで考えました。ビデオ出力周りは基板上のパターンをそのまま使います。
 
@@ -24,7 +24,7 @@ image: "images/cosmac_stg1861_pcb3.jpg"
 
 ![cosmac_stg1861_pcb2.jpg](images/cosmac_stg1861_pcb2.jpg)
 
-配線チェックを行い問題なさそうなので[COSMAC MBC CPU基板](https://kanpapa.com/cosmac/blog/2019/11/cosmac-mbc-cpu-rev02-finished.html "COSMAC MBC CPU基板")とフラットケーブルで接続しました。
+配線チェックを行い問題なさそうなので[COSMAC MBC CPU基板](https://kanpapa.com/2019/11/cosmac-mbc-cpu-rev02-finished.html "COSMAC MBC CPU基板")とフラットケーブルで接続しました。
 
 ![cosmac_stg1861_pcb3.jpg](images/cosmac_stg1861_pcb3.jpg)
 
@@ -40,6 +40,6 @@ image: "images/cosmac_stg1861_pcb3.jpg"
 
 エンタープライズ号が横スクロールで動くことが確認できました。表示されているプログラム本体のスタック領域が点滅して値が変化しているのもわかります。
 
-STG1861は前回製作した[TVディスプレイボード](https://kanpapa.com/cosmac/blog/2020/01/cosmac-mbc-tv-rev02-finished.html "TVディスプレイボード")とは異なり、割り込み処理により他の処理をしながら表示することができます。これにより応用範囲が広がります。
+STG1861は前回製作した[TVディスプレイボード](https://kanpapa.com/2020/01/cosmac-mbc-tv-rev02-finished.html "TVディスプレイボード")とは異なり、割り込み処理により他の処理をしながら表示することができます。これにより応用範囲が広がります。
 
 このSTG1861も機会があれば基板化してみようと思います。

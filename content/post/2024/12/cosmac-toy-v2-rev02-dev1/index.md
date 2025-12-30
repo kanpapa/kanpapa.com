@@ -10,7 +10,7 @@ tags:
 image: images/cosmac-toy-v2-rev02-dev1-photo1.jpg
 ---
 
-部屋の整理をしていたら[COSMAC TOY](https://github.com/kanpapa/cosmac_toy)の実機が何個かでてきました。いずれも[Maker Faire出展](https://kanpapa.com/cosmac/blog/2019/07/cosmac-maker-faire-tokyo-2019-1.html)向けに製作したものです。このまま寝かせておくよりは[COSMAC](https://kanpapa.com/cosmac/cosmac-cpu)を体験したいかたにお譲りするのが良いかなとXで聞いてみたところ、何名かご希望をいただきましたのでBOOTHにて頒布したところすべて引き取り先がきまりました。ありがとうございました。
+部屋の整理をしていたら[COSMAC TOY](https://github.com/kanpapa/cosmac_toy)の実機が何個かでてきました。いずれも[Maker Faire出展](https://kanpapa.com/2019/07/cosmac-maker-faire-tokyo-2019-1.html)向けに製作したものです。このまま寝かせておくよりは[COSMAC](https://kanpapa.com/cosmac/cosmac-cpu)を体験したいかたにお譲りするのが良いかなとXで聞いてみたところ、何名かご希望をいただきましたのでBOOTHにて頒布したところすべて引き取り先がきまりました。ありがとうございました。
 
 ## COSMAC TOY Version 2の開発
 

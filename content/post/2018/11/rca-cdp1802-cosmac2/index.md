@@ -10,7 +10,7 @@ tags:
 image: images/cosmac_osc1.jpg
 ---
 
-前回、[ブレッドボードに組み上げたCOSMACの回路](https://kanpapa.com/cosmac/blog/2018/11/rca-cdp1802-cosmac1.html "COSMAC(1)　組み立て編")を動かしてみます。
+前回、[ブレッドボードに組み上げたCOSMACの回路](https://kanpapa.com/2018/11/rca-cdp1802-cosmac1.html "COSMAC(1)　組み立て編")を動かしてみます。
 
 メモリへのプログラムの書き込みは
 
@@ -53,4 +53,4 @@ CPUモードをRUNモードにして、Q端子にオシロスコープを接続�
 
 ![](images/cosmac_osc1.jpg)
 
-正常に動作しているようですので、[次回は他のプログラムも試してみます。](https://kanpapa.com/cosmac/blog/2018/11/rca-cdp1802-cosmac3.html "RCA CDP1802 COSMACを動かしてみた(3) アセンブラ編")
+正常に動作しているようですので、[次回は他のプログラムも試してみます。](https://kanpapa.com/2018/11/rca-cdp1802-cosmac3.html "RCA CDP1802 COSMACを動かしてみた(3) アセンブラ編")

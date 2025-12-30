@@ -10,9 +10,9 @@ tags:
 image: images/cosmac_cdp1802ace.jpg
 ---
 
-[VIP OSをROMの空きエリア$D000にリロケートし、VIP OSが動くところまで](https://kanpapa.com/cosmac/blog/2020/05/cosmac-vip-os-rom-reloc.html "       COSMAC VIP OSをROMの空きエリアに移動しました")は確認しました。次はこのリロケートしたVIP OSのROMで動くようにCHIP-8のパッチを作ります。
+[VIP OSをROMの空きエリア$D000にリロケートし、VIP OSが動くところまで](https://kanpapa.com/2020/05/cosmac-vip-os-rom-reloc.html "       COSMAC VIP OSをROMの空きエリアに移動しました")は確認しました。次はこのリロケートしたVIP OSのROMで動くようにCHIP-8のパッチを作ります。
 
-[前回](https://kanpapa.com/cosmac/blog/2020/04/cosmac-vip-chip-8-startup.html "COSMACでCHIP-8インタプリタを動かしてみました")はCHIP-8の起動時にレジスタの値を設定するために小さなプログラムをRAMの$6000に書き込む必要がありましたが、今回はこのプログラムはCHIP-8本体の空きエリアに収まるようにしてみました。
+[前回](https://kanpapa.com/2020/04/cosmac-vip-chip-8-startup.html "COSMACでCHIP-8インタプリタを動かしてみました")はCHIP-8の起動時にレジスタの値を設定するために小さなプログラムをRAMの$6000に書き込む必要がありましたが、今回はこのプログラムはCHIP-8本体の空きエリアに収まるようにしてみました。
 
 ## CHIP-8インタプリタの改造
 

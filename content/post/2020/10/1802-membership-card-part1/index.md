@@ -55,4 +55,4 @@ RAMしかないので、プログラムのロードはフロントパネルの�
 
 カウントアップLチカのプログラムは[GitHub](https://github.com/kanpapa/MCard1802/blob/main/countup.lst "countup.lst")にあげておきました。
 
-次は[モニタプログラムを載せてシリアルコンソールから制御](https://kanpapa.com/cosmac/blog/2020/10/1802-membership-card-part2.html "1802 Membership Cardを作ってみました（モニタ動作編）")できるようにします。
+次は[モニタプログラムを載せてシリアルコンソールから制御](https://kanpapa.com/2020/10/1802-membership-card-part2.html "1802 Membership Cardを作ってみました（モニタ動作編）")できるようにします。

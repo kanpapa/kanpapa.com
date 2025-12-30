@@ -11,7 +11,7 @@ tags:
 image: "images/akizuki_b_board_bottomcover1-1.jpg"
 ---
 
-[COSMAC研究会](https://kanpapa.com/cosmac/)で[COSMAC TOY V2](https://kanpapa.com/cosmac/blog/2024/12/cosmac-toy-v2-rev02-dev1.html)を開発中ですが、トグルスイッチをパチパチする場合は基板を手に持って操作しています。こうすると基板の裏側に手の汚れが付いてサビを招いたり、部品の足で手に怪我をする可能性もあります。その点が気になっていたのですが、Xで以下の記事を見かけました。
+[COSMAC研究会](https://kanpapa.com/cosmac/)で[COSMAC TOY V2](https://kanpapa.com/2024/12/cosmac-toy-v2-rev02-dev1.html)を開発中ですが、トグルスイッチをパチパチする場合は基板を手に持って操作しています。こうすると基板の裏側に手の汚れが付いてサビを招いたり、部品の足で手に怪我をする可能性もあります。その点が気になっていたのですが、Xで以下の記事を見かけました。
 
 {{< x user="n602_NA" id="1873041289585016960" >}}
 

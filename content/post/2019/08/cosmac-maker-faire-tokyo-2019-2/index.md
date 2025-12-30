@@ -101,4 +101,4 @@ image: "images/cosmac_mft2019_tag1.jpg"
 
 ![](images/cosmac_mft2019_todo1.png)
 
-[前日編](https://kanpapa.com/cosmac/blog/2019/08/cosmac-maker-faire-tokyo-2019-3.html "前日編")に続きます。
+[前日編](https://kanpapa.com/2019/08/cosmac-maker-faire-tokyo-2019-3.html "前日編")に続きます。

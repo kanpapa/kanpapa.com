@@ -9,7 +9,7 @@ tags:
 image: "images/cosmac_vip_hexkey3.jpg"
 ---
 
-[ブレッドボードでDIPスイッチを使ったCOSMAC VIPの16進キーボードを製作](https://kanpapa.com/cosmac/blog/2020/04/cosmac-mbc-vip-proto1.html "COSMAC VIPをCOSMAC MBCで動かしてみました")しましたが、やはりプッシュスイッチでないと使い勝手がよくありません。そこで、先日作成した[TVディスプレイボード](https://kanpapa.com/cosmac/blog/2020/01/cosmac-mbc-tv-rev02-finished.html "TVディスプレイボード")のユニバーサル領域に実装してみることにしました。
+[ブレッドボードでDIPスイッチを使ったCOSMAC VIPの16進キーボードを製作](https://kanpapa.com/2020/04/cosmac-mbc-vip-proto1.html "COSMAC VIPをCOSMAC MBCで動かしてみました")しましたが、やはりプッシュスイッチでないと使い勝手がよくありません。そこで、先日作成した[TVディスプレイボード](https://kanpapa.com/2020/01/cosmac-mbc-tv-rev02-finished.html "TVディスプレイボード")のユニバーサル領域に実装してみることにしました。
 
 はんだ付けが完了したCOSMAC VIPの16進キーボードはこのようになりました。
 

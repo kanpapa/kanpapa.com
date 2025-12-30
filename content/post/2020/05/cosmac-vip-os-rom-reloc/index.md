@@ -9,7 +9,7 @@ tags:
 image: "images/cosmac_vip_os_rom_replace.jpg"
 ---
 
-[CHIP-8インタプリタを動かす](https://kanpapa.com/cosmac/blog/2020/04/cosmac-vip-chip-8-startup.html "COSMACでCHIP-8インタプリタを動かしてみました")際にはあらかじめCOSMAC VIP OSをRAMにロードしなければなりませんが、それだと不便なのでモニタROMの空きエリアで動かすようにしてみました。
+[CHIP-8インタプリタを動かす](https://kanpapa.com/2020/04/cosmac-vip-chip-8-startup.html "COSMACでCHIP-8インタプリタを動かしてみました")際にはあらかじめCOSMAC VIP OSをRAMにロードしなければなりませんが、それだと不便なのでモニタROMの空きエリアで動かすようにしてみました。
 
 ## 書き込み先ROMアドレスの検討
 
