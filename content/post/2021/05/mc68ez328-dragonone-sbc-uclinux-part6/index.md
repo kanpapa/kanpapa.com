@@ -33,7 +33,7 @@ POSIX conformance testing by UNIFIX
 
 以降はinitスレッドでの処理になります。この中でルートディレクトリのmount処理も行われます。
 
-### initスレッド
+## initスレッド
 
 実はinitスレッドはシンプルです。カーネルの初期化を進め最終的にはinitプロセスを起動します。今回はromfsのルートファイルシステムがmountできていないのが問題なのでそこを中心に追います。
 
@@ -66,7 +66,7 @@ static int init(void * unused)
 
 今回問題となっているNo init foundやinitial consoleの文字が見えます。まずはdo_basic_setup()をみておきます。
 
-### do_basic_setup
+## do_basic_setup
 
 do_basic_setupではソケットの初期化と必要なスレッドの初期化を行います。mountに関するものは無さそうです。
 

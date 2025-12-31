@@ -17,7 +17,7 @@ image: images/turtlebot3_burger_battery_charge1.jpg
 
 詳しい手順が書かれているのでその通りにすすめます。ROSのバージョンが選べますが今回は慣れているMelodicを使うことにしました。
 
-### Linux PCにROSをセットアップ
+## Linux PCにROSをセットアップ
 
 まずはUbuntu 18.04 LTS Desktopの環境を準備します。手元にはVMware workstation PlayerにUbuntu 18.04 LTSをインストールしたROS Melodic環境があるのでそのまま使いました。ネットワークはブリッジモードにしているのでTurtleBot3のRaspberry Piから接続できます。
 
@@ -33,7 +33,7 @@ ROSのmasterはこのLinux PCで動かします。
 
 
 
-### Raspberry PiにROSをセットアップ
+## Raspberry PiにROSをセットアップ
 
 このTurtleBot3にはRaspberry Pi 3B+が付属していました。TurtleBotの公式サイトからRaspberry Pi 3B+用のイメージファイルをダウンロードしてRaspberry Pi imagerで付属の16GB SDカードに書き込みます。
 
@@ -45,17 +45,17 @@ export ROS_MASTER_URI=http://192.168.100.60:11311
 export ROS_HOSTNAME=192.168.100.59
 ```
 
-### OpenCRボードのセットアップ
+## OpenCRボードのセットアップ
 
 これもマニュアル通りにすすめます。OpenCRボードはRaspberry PiのUSBに接続されています。Raspberry PiにログインしてOpenCRボードのファームウェアを更新します。
 
-### TurtleBot3 Burgerの起動
+## TurtleBot3 Burgerの起動
 
 ソフトウェアの設定も完了したので、TurtleBot3の電源を入れたところ、ピーピーというアラーム音が鳴ったため、急いで電源を切りました。どうやらバッテリー電圧が低下していたようです。バッテリーを外して充電器に接続して充電開始です。満充電までは２時間程度かかるようです。
 
 ![turtlebot3_burger_battery_charge1.jpg](images/turtlebot3_burger_battery_charge1.jpg)
 
-### TurtleBot3のシミュレーターを試す
+## TurtleBot3のシミュレーターを試す
 
 Li-Poバッテリーの充電が終わらないので、この間にシミュレータのGazeboと可視化ツールのRvizを動かしてみました。
 
@@ -85,7 +85,7 @@ $ roslaunch turtlebot3_slam turtlebot3_slam.launch slam_methods:=gmapping
 
 ![turtlebot3_burger_simulation_slam1.png](images/turtlebot3_burger_simulation_slam1.png)
 
-### TurtleBot3 Burgerの動作確認
+## TurtleBot3 Burgerの動作確認
 
 充電器の緑LEDが点灯し充電が完了しました。
 

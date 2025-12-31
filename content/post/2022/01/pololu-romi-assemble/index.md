@@ -10,13 +10,13 @@ tags:
 image: "images/Romi_raspberrypi_test1.jpg"
 ---
 
-### Pololu Romiとの出会い
+## Pololu Romiとの出会い
 
 PololuのサイトでPololu 3piについて調べていたところ、[Romi](https://www.pololu.com/category/202/romi-chassis-and-accessories "Romi")というロボットカーのキットを見つけました。3piに比べて、ゆとりのある設計になっていて、制御ボードはATmega32U MCU、モータードライバ（DRV8838）、6軸IMU（LSM6DS33）を搭載しています。エンコーダ付きのモーターも使用でき、バッテリも単4×4から単3×6となり、Raspberry Pi 3 B+を搭載できます。メーカーはROSのサポートは行っていませんが、GitHubには[RomiPi](https://github.com/ftPeter/RomiPi "RomiPi")というROSライブラリのリポジトリもあるようです。
 
 国内の販売店を探したところ、[スイッチサイエンス](https://www.switch-science.com/ "スイッチサイエンス")さんで取り扱っていたので、[Romiシャーシキット](https://www.switch-science.com/catalog/2970/ "Romiシャーシキット")、[Romi用32U4搭載制御基板](https://www.switch-science.com/catalog/3169/ "Romi用32U4搭載制御基板")、[Romi用エンコーダ（2個入り）](https://www.switch-science.com/catalog/2971/ "Romi用エンコーダ（2個入り）")を購入してみました。
 
-### 各パーツの確認
+## 各パーツの確認
 
 到着したRomiのシャーシです。スピードを優先して軽量小型の3piとは大きさがかなり違います。
 
@@ -34,7 +34,7 @@ Romi32U4ボードです。Raspberry Piを接続するコネクタがあります
 
 ![romi_parts1.jpg](images/romi_parts1.jpg)
 
-### Romiの組み立て
+## Romiの組み立て
 
 Romiの組み立ては公式サイトに丁寧なマニュアルがあるので、それを見ながら容易に組み立てられます。また図面や回路図なども公式サイトに掲載されていて活用できます。
 
@@ -72,7 +72,7 @@ LEDの制御、バッテリー電圧、エンコーダ情報、モーター制�
 
 Raspberry PiとRomi32U4ボードはI2Cでの接続になります。バス速度は最初は100000Hzだったですが、やや不安定な時があったので400000Hzに変更したところ安定しました。
 
-### まとめ
+## まとめ
 
 実験用としては良いロボットカーではないかと思います。コンパクトですし、ArduinoからRaspberry Piまでステップアップできる点や、32U4ボードには拡張用に各種ピンが引き出されています。ここに新たなセンサーを追加することもできますし、別売の[プレート](https://www.pololu.com/product/3560 "Romi Chassis Expansion Plate")を使えば、積み重ねて機器を搭載することもできそうです。
 

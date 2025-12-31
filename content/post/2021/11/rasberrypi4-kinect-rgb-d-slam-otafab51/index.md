@@ -18,7 +18,7 @@ image: "images/kinect_slam4_2021-11-28-190057_pp.png"
 
 
 
-### RGB-D SLAMとは
+## RGB-D SLAMとは
 
 SLAMの説明はマクニカさんのサイトがよくまとまっています。
 
@@ -32,12 +32,12 @@ SLAMの説明はマクニカさんのサイトがよくまとまっています�
 - [RTABMAPの使い方](https://qiita.com/k65c1/items/7a4df58b50a587fad3e2)
 - [ROSによる画像処理(Kinect版)](https://robot.isc.chubu.ac.jp/?p=1336)
 
-### HARDWARE
+## HARDWARE
 
 - Raspberry Pi 4 4GB
 - [Kinect for Windows](https://ja.wikipedia.org/wiki/Kinect "Kinect for Windows")
 
-### SOFTWARE
+## SOFTWARE
 
 - Ubuntu 18.04
 - ROS Melodic
@@ -52,7 +52,7 @@ SLAMの説明はマクニカさんのサイトがよくまとまっています�
 - [rtabmap_ros](http://wiki.ros.org/action/fullsearch/rtabmap_ros "rtabmap_ros")  
     RTAB-Map's ros-pkg. RTAB-Map is a RGB-D SLAM approach with real-time constraints.
 
-### Raspberry Pi 4のセットアップ
+## Raspberry Pi 4のセットアップ
 
 1\. catkin_wsを作成
 
@@ -99,7 +99,7 @@ git clone https://github.com/introlab/rtabmap_ros.git
 cd ..  
 catkin_make -j4
 
-### RGB-Depth SLAMを動かしてみる
+## RGB-Depth SLAMを動かしてみる
 
 1\. KinnectをRaspberry Pi 4に接続する
 
@@ -125,7 +125,7 @@ roslaunch rtabmap_ros rgbd_mapping.launch
 
 /usr/local/bin/rtabmap-databaseViewer ~/.ros/rtabmap.db
 
-### 実験結果
+## 実験結果
 
 残念ながらおおたFabの勉強会では時間切れで良い結果が得られませんでした。
 
@@ -141,6 +141,6 @@ roslaunch rtabmap_ros rgbd_mapping.launch
 
 rtabmap-databaseViewerの結果はもっと良い画質に仕上がっているのですが、部屋が丸見えになってしまうので掲載は遠慮しておきます。
 
-### 次回
+## 次回
 
 次回はおおたFabさんでもう一度実験をして、Rvizでも結果を表示したいと考えています。

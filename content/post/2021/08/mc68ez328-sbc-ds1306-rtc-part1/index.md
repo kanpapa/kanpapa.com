@@ -20,11 +20,11 @@ image: "images/ds1306_cs_probe.jpg"
 
 
 
-### SPIを使うには
+## SPIを使うには
 
 [MC68EZ328のユーザマニュアル](https://www.nxp.com/docs/en/reference-manual/MC68EZ328UM.pdf "MC68EZ328UM")にはSPIで使用する内部レジスタの仕様とサンプルプログラムが載っています。まずはこのサンプルプログラムを参考にDS1306とSPI通信を試みましたが、全く動く気配がありません。実際の信号を見ながら確認していきます。
 
-### CE信号の確認
+## CE信号の確認
 
 DS1306のCE信号はMC68EZ328のPORTB bit1(PB1)に接続されています。Enable=High, Disable=Lowです。PORTBはメモリの機能でほぼ使っているのですが、このPB1だけGPIOとして使います。
 
@@ -38,7 +38,7 @@ DS1306のCE信号にミニオシロスコープを接続して、High-Lowが繰�
 
 この結果、DS1306のCE信号の制御は問題なく行えていることが確認できました。
 
-### SPI信号の確認
+## SPI信号の確認
 
 次はSPI信号の確認になりますが、複数の信号をみる必要があるので、格安ロジアナを接続します。
 
@@ -60,7 +60,7 @@ CS信号のタイミングはタイミングチャート的にも問題なさそ
 
 この状態からみると、DS1306とは正常にSPI通信ができていないと考えられます。
 
-### Write/Readができた
+## Write/Readができた
 
 MC68EZ328のSPI初期化時にPHA=1, POL=0と指定したところ、受信データが正しくなりました。  
 ![ds1306_spi_analyze_write_read.png](images/ds1306_spi_analyze_write_read.png)  
@@ -69,7 +69,7 @@ MC68EZ328のSPI初期化時にPHA=1, POL=0と指定したところ、受信デ�
 
 - [https://github.com/kanpapa/MC68EZ328/blob/main/src/ds1306_test.X68](https://github.com/kanpapa/MC68EZ328/blob/main/src/ds1306_test.X68 "ds1306_test.X68")
 
-### RTCのレジスタとメモリをダンプしてみる
+## RTCのレジスタとメモリをダンプしてみる
 
 応用としてRTC DS1306の全レジスタとメモリ(0x00-0x7F)の内容をダンプしてみました。
 
@@ -81,6 +81,6 @@ MC68EZ328のSPI初期化時にPHA=1, POL=0と指定したところ、受信デ�
 
 - [https://github.com/kanpapa/MC68EZ328/blob/main/src/ds1306_readrtc.X68](https://github.com/kanpapa/MC68EZ328/blob/main/src/ds1306_readrtc.X68 "ds1306_readrtc.X68")
 
-### 次はuClinuxのコマンド開発
+## 次はuClinuxのコマンド開発
 
 今回はアセンブラで動作確認を行いましたが、これをuClinuxの開発環境で時刻設定と時刻読み出しのコマンドを実装し、boot時の/etc/rcでRTCから時刻を読み出して、uClinuxに設定すれば、常に正しい時刻が保持できるはずです。これは次回に試してみます。

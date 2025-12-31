@@ -11,7 +11,7 @@ image: "images/ubuntu_desktop_ros1_env.jpg"
 
 これまでROSをVMWare上のUbuntu 18.04 LTSで動かしてきましたが、動作が重いので改善したいと考えていました。最近使っていなかった[ThinkCentre M73 Tiny](https://www.lenovo.com/jp/ja/desktops/thinkcentre/m-series-tiny/10AY1/p/11TC1TMM73010AY "ThinkCentre M73 Tiny") (Core i3-4130T, 8GB RAM, 250GB SSD）を引っ張りだして、Windows10を削除し、ROS専用のUbuntuデスクトップ環境にしてみました。
 
-### Ubuntuデスクトップ専用環境でROS＋Gazeboを動かす
+## Ubuntuデスクトップ専用環境でROS＋Gazeboを動かす
 
 定番の[Rufus](https://rufus.ie/ja/ "Rufus")で[Ubuntu Desktop 18.04 LTS 日本語RemixのISOイメージ](https://www.ubuntulinux.jp/products/JA-Localized/download "Ubuntu Desktop 日本語 Remixのダウンロード")をUSBメモリ(やや古めの4GB)に書き込み、ブートしましたが、なぜか途中で止まってしまいます。
 
@@ -27,7 +27,7 @@ ROSとGazeboを動かしてみると、なんとヌルヌル快適に動きま�
 
 
 
-### Ubuntuデスクトップ環境を本気で整備してみる
+## Ubuntuデスクトップ環境を本気で整備してみる
 
 せっかくなのでこのUbuntuデスクトップ環境を本気で整備してみることにしました。日本語Remix版をインストールしているので、すぐ日本語入力が使えるのも嬉しいところです。
 
@@ -50,7 +50,7 @@ ROSとGazeboを動かしてみると、なんとヌルヌル快適に動きま�
 
 ![](images/ubuntu_desktop_ros1_env.jpg)
 
-### Ubuntuデスクトップ環境良いかも！
+## Ubuntuデスクトップ環境良いかも！
 
 これまでは気軽に仮想環境が作れるので、VMを作っては壊しということを繰り返していました。このため今回のようにじっくりとUbuntuのデスクトップ環境に取り組む機会がなかったのですが、最近はクラウドサービスやLinux版アプリが充実し、必ずしもWindowsやmacOSを使う必要はなくなってきたのかもしれません。今後はノートPCでもUbuntuデスクトップ環境を作ってみたいと思います。
 

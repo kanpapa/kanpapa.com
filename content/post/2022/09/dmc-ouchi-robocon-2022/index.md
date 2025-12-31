@@ -9,7 +9,7 @@ tags:
 image: "images/dmc_robocon_fin0.jpg"
 ---
 
-### DMCおうちロボコンとは
+## DMCおうちロボコンとは
 
 先日行われたMaker Faire Tokyo 2022で展示されていた[DMCおうちロボコン](https://makezine.jp/event/makers-mft2022/m0120/ "D's Maker College")に興味をもちました。
 
@@ -24,7 +24,7 @@ image: "images/dmc_robocon_fin0.jpg"
 
 ![dmc_robocon_pcb1.jpg](images/dmc_robocon_pcb1.jpg)
 
-### 公式トレーサーロボットの組み立て
+## 公式トレーサーロボットの組み立て
 
 早速パーツ集めです。個体差をなくすために使用するパーツが指定されていますが、親切なことにパーツリストをそのまま秋月電子の通販コード一括入力フォームにコピペできたり、Amazonのリンクが案内されていたりして、指定のパーツの入手がしやすくなっています。
 
@@ -50,7 +50,7 @@ image: "images/dmc_robocon_fin0.jpg"
 
 ![dmc_robocon_fin0.jpg](images/dmc_robocon_fin0.jpg)
 
-### トレーサーロボットの試走
+## トレーサーロボットの試走
 
 Raspberry Pi PicoをPCに接続し、Thonnyでサンプルプログラムを書き込むとOLEDにロボットの状態が表示されました。
 
@@ -64,7 +64,7 @@ Raspberry Pi PicoをPCに接続し、Thonnyでサンプルプログラムを書�
 
 まだ何も調整していないのに問題なくラインをトレースして走行しています。
 
-### 今後のとりくみ
+## 今後のとりくみ
 
 ここからはDMCおうちロボコンの公式コースをコンビニのコピー機で入手して、ソフトウェアでチューニングしていくことになります。
 

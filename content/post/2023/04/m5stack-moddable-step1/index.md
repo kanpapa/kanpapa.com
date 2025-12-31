@@ -11,7 +11,7 @@ image: images/moddable_bongo_color_ng1.jpg
 
 M5StackでModdable SDKを試してみましたので、ファースト・インプレッションを書いてみました。
 
-### Moddable SDKとは
+## Moddable SDKとは
 
 Moddable SDKはJavaScriptでIoTアプリケーションを作成できるSDKです。通常ですと、CやC++、Pythonといった言語をSDKで使うのが一般的ですが、やや専門的で敷居が高く感じるかたもいると思います。Webエンジニアなら良く知っているJavaScriptであれば、IoTアプリケーションを作成する敷居が低くなると思われます。
 
@@ -27,7 +27,7 @@ Moddableの公式サイトは以下にあります。
 
 - [https://github.com/meganetaaan/moddable-examples](https://github.com/meganetaaan/moddable-examples "https://github.com/meganetaaan/moddable-examples")
 
-### Moddable SDKをインストールする
+## Moddable SDKをインストールする
 
 Moddable SDKはGitHubで公開されていますので、公式ドキュメントの通りにインストールすれば動きます。
 
@@ -36,7 +36,7 @@ Moddable SDKはGitHubで公開されていますので、公式ドキュメン�
 
 私はUbuntu 20.04 LTSとｍacOS 13.2.1 Venturaで試して問題なくサンプルプログラムまで動かすことができました。
 
-### M5Stackで動かしてみる
+## M5Stackで動かしてみる
 
 私が持っているM5Stackは以下の２つです。
 
@@ -45,7 +45,7 @@ Moddable SDKはGitHubで公開されていますので、公式ドキュメン�
 
 標準的なM5Stackなので問題なく動くと思っていたのですが、参考書籍のサンプルプログラムの[counter](https://github.com/meganetaaan/moddable-examples/tree/master/counter "counter")をM5Stack FIREで試したところ、いろいろ発見がありました。
 
-#### 画面が横向きに表示される
+### 画面が横向きに表示される
 
 画面表示の向きが90度ずれていました。
 
@@ -59,7 +59,7 @@ moddableのSDKを確認したところ、rotation: 90と指定すると良さそ
   "platforms": {     "esp32": {        "config": {            "rotation": 90        }     }  }
 ```
 
-#### 起動音を止める
+### 起動音を止める
 
 ビルドしたプログラムをアップロードして起動する際に大きな音がなります。これを止めるにはstartupSoundをfalseにすれば良さそうです。counter/manifest.jsonを以下のように修正しました。
 
@@ -67,7 +67,7 @@ moddableのSDKを確認したところ、rotation: 90と指定すると良さそ
   "platforms": {       "esp32": {           "config": {               "rotation": 90,               "startupSound": false           }       }   }
 ```
 
-#### Neopixelが動かない
+### Neopixelが動かない
 
 次にunit/neopixelを試しましたが、デバッガで確認すると途中でエラーになって止まっているようです。
 
@@ -90,7 +90,7 @@ M5Stack FIREはこれまで何度かアップデートがあり、その都度�
 | **unit/neopixel** | esp32/m5stack  | 正常に光が流れる。 | 正常に光が流れる。 |
 | esp32/m5stack_fire | 途中まで光るが、光が流れず、再起動 | 途中まで光るが、光が流れず、再起動 |
 
-### 今後について
+## 今後について
 
 私の手持ちのM5Stackは初期のものばかりで最近のものだと問題ないのかもしれません。まずは安定して動く環境を整えたいと考えていますが、次々とリリースされるM5StackにSDKが追従するのは難易度が高いのかもしれません。
 

@@ -20,7 +20,7 @@ image: images/sbc4004_fpga_board1.jpg
 
 SBC4004はFPGAとArduinoを使用していますので、まずはこれらにファームウェアを書き込む必要があります。
 
-### FPGAボードの準備
+## FPGAボードの準備
 
 最初にFPGAボードの改造を行います。
 
@@ -60,7 +60,7 @@ FPGAにファームウェアを書き込むために専用の書き込み機USB 
 
 ![sbc4004_fpga_program1.jpg](images/sbc4004_fpga_program1.jpg)
 
-### Arduino Pro Microの準備
+## Arduino Pro Microの準備
 
 購入したArduino Pro Micro互換機です。
 
@@ -70,7 +70,7 @@ FPGAにファームウェアを書き込むために専用の書き込み機USB 
 
 ![sbc4004_arduino_2.jpg](images/sbc4004_arduino_2.jpg)
 
-### パーツの取り付け
+## パーツの取り付け
 
 専用基板にパーツをはんだ付けをしていきます。
 

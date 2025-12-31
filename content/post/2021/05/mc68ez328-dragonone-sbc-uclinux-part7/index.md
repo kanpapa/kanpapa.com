@@ -12,7 +12,7 @@ image: "images/mc68ez328_dragonone_sbc_uclinux_part7_mount_root_msg2.png"
 
 前回に続いて[initから呼び出されるprepare_namespace()](https://kanpapa.com/2021/05/mc68ez328-dragonone-sbc-uclinux-part6.html "MC68EZ328 DragonOne SBCでuClinuxを動かす(6) ～initスレッドを追う～")を探ってみます。
 
-### prepare_namespace()
+## prepare_namespace()
 
 ここから先は慎重にみていきます。 ソースはそんなに長くありません。（不要な部分は削っています）
 
@@ -51,7 +51,7 @@ mount_devfs_fs ();
 ![mc68ez328_dragonone_sbc_uclinux_part7_dev_console.png](images/mc68ez328_dragonone_sbc_uclinux_part7_dev_console.png)
 
 
-### create_dev()
+## create_dev()
 
 次にcreate_dev()で/dev/rootのデバイスファイルを作ります。この関数はinit/do_mount.cにあります。
 
@@ -72,7 +72,7 @@ return sys_mknod(name, S_IFBLK|0600, kdev_t_to_nr(dev));
 
 prepare_namespace()にもどったあと、mount_initrdの部分やフロッピィディスクの部分は該当しないので素通りして、続いての関数はmount_root()になります。
 
-### mount_root()
+## mount_root()
 
 まさにここでrootディレクトリがmountされるのでしょうか。関数をみてみます。
 
@@ -87,7 +87,7 @@ mount_block_root("/dev/root", root_mountflags);
 
 たった３行しかありません。しかもdevfsは使わないので、devfs_make_root()はそのままリターンで戻ってきます。次に再びcreate_dev()です。さっきも実行したのですが、今度はroot_device_nameに値が入っています。しかし、devfsは使わないのでこの情報は特に使われず、/dev/rootをunlinkしたあとにsys_mknod()が行われ、再び/dev/rootのデバイスファイルができます。
 
-### mount_block_root()
+## mount_block_root()
 
 次の関数はmount_block_root()です。この関数をみてみます。
 
@@ -159,7 +159,7 @@ putname()でext2を指定していますが、この実体はkmem_cache_free()�
 VFS: Mounted root (romfs filesystem) readonly.
 ```
 
-### 最後の仕上げ
+## 最後の仕上げ
 
 mount_root()から戻ってきた後は、最後の仕上げとしてカレントディレクトリを/にします。
 
@@ -181,7 +181,7 @@ mount_devfs_fs ();
 
 以上で、prepare_namespace()は終わりです。再びinitに戻ります。
 
-### おかしなところが見当たらない
+## おかしなところが見当たらない
 
 ここまでのステップでは私が組み込んだデバックログにエラーはみあたりません。
 

@@ -12,7 +12,7 @@ image: "images/ros2-foxy-roomba-nav2-goal1.jpg"
 
 [前回はSLAMで環境地図を作成](https://kanpapa.com/2022/07/ros2-foxy-roomba-slam.html "ROS2 Foxyでルンバを動かしてみました(2) SLAM編")しました。今回はこの環境地図の情報を使って自律走行を行います。ROS2ではNavigation 2と呼んでいます。今回はTurtlebot3用のNavigation 2パッケージを使用します。
 
-### 環境地図を用意する
+## 環境地図を用意する
 
 前回SLAMで作成した地図です。
 
@@ -22,7 +22,7 @@ image: "images/ros2-foxy-roomba-nav2-goal1.jpg"
 
 
 
-### 自律走行を行ってみる
+## 自律走行を行ってみる
 
 自律走行（ナビゲーション）は以下の手順で行います。
 
@@ -62,7 +62,7 @@ ros2 run turtlebot3_teleop teleop_keyboard
 
 ![ros2-foxy-roomba-nav2-goal3.jpg](images/ros2-foxy-roomba-nav2-goal3.jpg)
 
-### 自律走行の様子
+## 自律走行の様子
 
 実際の自律走行の様子をYouTubeにアップしておきました。
 

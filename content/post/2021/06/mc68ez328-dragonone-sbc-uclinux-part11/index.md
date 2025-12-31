@@ -16,7 +16,7 @@ uClinuxではRAMディスクがあり、それが/varにmountされています�
 
 XMODEMとかZMODEMとかがあると、かっこいいのですが、ここはbusyboxに実装されているuuencode/uudecodeを活用することにしバイナリをテキストにしてシリアルコンソールからアップロードすることにしました。
 
-### ビルド環境でのコンパイル
+## ビルド環境でのコンパイル
 
 ビルド環境であるubuntuでの作業手順は以下のようになります。
 
@@ -53,7 +53,7 @@ ocha@ubuntu:~/asciiart$
 
 uuencodeでバイナリファイルをテキストファイルに変換します。念のためcatでファイルの内容を確認しました。
 
-### uClinuxにアップロード
+## uClinuxにアップロード
 
 asciiart.uuをuClinuxのコンソールからアップロードします。アップロードの前に以下のように受信準備をします。
 
@@ -77,7 +77,7 @@ asciiart.uuをuClinuxのコンソールからアップロードします。ア�
 
 あとはchmodで実行権限をつけることで、asciiartの実行プログラムの準備ができました。
 
-### ASCIIARTベンチマークを実行
+## ASCIIARTベンチマークを実行
 
 uClinux上でasciiartを実行してみます。
 

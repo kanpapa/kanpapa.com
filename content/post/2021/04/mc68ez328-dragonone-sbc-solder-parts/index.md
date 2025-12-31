@@ -12,7 +12,7 @@ image: "images/dragonone_sbc_solder_pcb4.jpg"
 
 先日到着した[MC68EZ328 DragonOne SBC基板](https://kanpapa.com/2021/04/mc68ez328-dragonone-sbc-pcb-rev01.html "MC68EZ328 DragonOne SBCの基板が到着しました")の実装を行いました。これだけしっかりしたSMDパーツの基板実装は初めてです。（[クソマゾLEDマトリクス](https://kanpapa.com/2018/12/16x16led-matrix-kit.html "クソマゾLEDマトリックス バッヂ を作ってみた")よりはかなり簡単ですが。）
 
-### DragonOne SBC基板の実装
+## DragonOne SBC基板の実装
 
 慎重にCPU、メモリなどを実装しました。まだRTCのバッテリーは取り付けていません。
 
@@ -22,7 +22,7 @@ image: "images/dragonone_sbc_solder_pcb4.jpg"
 
 ![dragonone_sbc_solder_pcb4.jpg](images/dragonone_sbc_solder_pcb4.jpg) 
 
-### トラブルシューティング
+## トラブルシューティング
 
 そう簡単には動かないと思っていましたので、回路図を見直したところ２か所間違いを見つけました。何とかパターンカットとジャンパー線で修正できたので、再度電源を投入しましたが、状況は変わりませんでした。
 
@@ -32,7 +32,7 @@ image: "images/dragonone_sbc_solder_pcb4.jpg"
 
 ![dragonone_sbc_solder_analyze1_adrs.png](images/dragonone_sbc_solder_analyze1_adrs.png)
 
-### シンプルな回路で動作を比較してみる
+## シンプルな回路で動作を比較してみる
 
 やむなく比較用にCPUのみを実装した基板を製作しました。CPUのみなので確実に動作するはずです。
 
@@ -46,7 +46,7 @@ image: "images/dragonone_sbc_solder_pcb4.jpg"
 
 ![dragonone_sbc_solder_analyze3_bsm.png](images/dragonone_sbc_solder_analyze3_bsm.png)
 
-### ブートローダーが動かなかった理由
+## ブートローダーが動かなかった理由
 
 メモリを実装した基板でEMUBRKスイッチをLOWにし、リセットをしても通常のリセット時と同じような動きにみえました。
 
@@ -58,7 +58,7 @@ image: "images/dragonone_sbc_solder_pcb4.jpg"
 
 ![dragonone_sbc_solder_bootloader2.png](images/dragonone_sbc_solder_bootloader2.png)
 
-### ブートローダーで簡単なプログラムを動かしてみる
+## ブートローダーで簡単なプログラムを動かしてみる
 
 ブートローダーからプログラムを動かしてみたいところですが、まだ外部メモリが正常に使えるかわからないので、確実に利用できるCPU内部にあるIBUFFと呼ばれる８バイトの命令実行用メモリを使います。
 

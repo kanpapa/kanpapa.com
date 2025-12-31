@@ -17,7 +17,7 @@ image: "images/orange_python_rasppi_pico5.jpg"
 
 
 
-### ORANGE-Pythonの組み立て
+## ORANGE-Pythonの組み立て
 
 さてさっそく組み立てです。親切な組み立てマニュアルがついているので、慣れている人であれば30分ぐらいで完成するでしょう。
 
@@ -43,7 +43,7 @@ image: "images/orange_python_rasppi_pico5.jpg"
 
 ![orange_python_rasppi_pico5.jpg](images/orange_python_rasppi_pico5.jpg)
 
-### 電源を投入
+## 電源を投入
 
 USBコネクタにキーボードを、VGAコネクタにモニタを接続し、Raspberry Pi PicoにマイクロUSBケーブルを取り付けて、USB電源を供給します。
 
@@ -55,7 +55,7 @@ USBコネクタにキーボードを、VGAコネクタにモニタを接続し�
 
 ![orange_python_rasppi_pico7.jpg](images/orange_python_rasppi_pico7.jpg)
 
-### Pythonのプログラムを動かしてみる
+## Pythonのプログラムを動かしてみる
 
 問題なく動いているようなので、いつものプログラムを動かしてみます。なんとスクリーンエディタも装備しているのでプログラムの入力も容易です。（PC-8001のような画面がまた良い・・）
 
@@ -67,7 +67,7 @@ RUNのファンクションキーを押すと、いつもの画面が表示さ�
 
 今回はベンチマークを動かしましたが、Raspberry Pi PicoのI/Oにいろいろ接続してMicroPythonで制御するのが本来の使い方だと思うので、そちらも試してみたいと思います。
 
-### おまけ
+## おまけ
 
 今回使用したPythonのプログラムは以下の通りです。ASCIIART.BASをそのままPythonに移植しています。すでに修正済ですが、最初に掲載したソースに一部バグがありましたので、[Github](https://github.com/kanpapa/benchmark/blob/main/asciiart.py "asciiart.py")にもあげておきました。
 

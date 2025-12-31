@@ -14,7 +14,7 @@ image: "images/roomba_all_led_on.jpg"
 ![roomba_sub_test1.jpg](images/roomba_sub_test1.jpg)
 
 
-### ルンバのSubscribers
+## ルンバのSubscribers
 
 ルンバで扱えるtopicはcreate_robotの[README.md](https://github.com/AutonomyLab/create_robot/blob/foxy/README.md "README.md")にまとまっています。これを試していきます。
 
@@ -26,7 +26,7 @@ $ ros2 launch create_bringup create_2.launch
 
 この状態で、[ros2 topic pub](https://docs.ros.org/en/foxy/Tutorials/Beginner-CLI-Tools/Understanding-ROS2-Topics/Understanding-ROS2-Topics.html#ros2-topic-pub "ros2 topic pub") コマンドを使ってtopicを発行してみます。
 
-### ルンバのLEDを点灯させる
+## ルンバのLEDを点灯させる
 
 以下のコマンドでCHECK LED（少し大きめの赤い！マーク）を点灯できます。
 
@@ -44,7 +44,7 @@ $ ros2 topic pub --once /check_led std_msgs/Bool "data: false"
 
 ![roomba_all_led_on.jpg](images/roomba_all_led_on.jpg)
 
-### ルンバで音をだしてみる
+## ルンバで音をだしてみる
 
 ルンバでは4種類の曲をあらかじめ登録できます。1曲は最大16個の音階と音長で構成されます。
 
@@ -64,7 +64,7 @@ $ ros2 topic pub --once  /play_song create_msgs/PlaySong "song: 0"
 
 {{< youtube zADp_K8gzoM >}}
 
-### まとめ
+## まとめ
 
 これらの機能をうまく使うと楽しいルンバロボットにできるのではないかと思います。
 

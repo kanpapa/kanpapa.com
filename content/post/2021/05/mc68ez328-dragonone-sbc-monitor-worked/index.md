@@ -12,7 +12,7 @@ image: "images/dragonone_monitor_command1.png"
 
 [DRAMのおかげで8MByteという広いメモリ空間](https://kanpapa.com/2021/05/mc68ez328-dragonone-sbc-dram-worked.html "MC68EZ328 DragonOne SBCでDRAMが動きました")ができました。まずはモニタプログラムを載せて自由自在にコントロールできるようにしてみますが、その前にシリアル入出力の確認を進めます。
 
-### Hello Worldを表示してみる
+## Hello Worldを表示してみる
 
 MC68EZ328のUART送信レジスタに文字コードを書き込むことで、シリアルターミナルに文字を表示することができます。テストプログラムをアセンブルし生成されたSレコードからBレコードに変換したあとに、ブートローダーで読み込ませて実行します。ソースは[GitHub](https://github.com/kanpapa/MC68EZ328 "kanpapa / MC68EZ328")にコミットしておきました。
 
@@ -20,7 +20,7 @@ MC68EZ328のUART送信レジスタに文字コードを書き込むことで、�
 
 ![](images/dragonone_helloworld1.png)
 
-### エコーバックをしてみる
+## エコーバックをしてみる
 
 次は入力の確認です。UART受信レジスタに読み込んだ文字をそのままUART送信レジスタに出力します。キーボードから入力した文字がそのままターミナルに表示されるはずです。
 
@@ -28,7 +28,7 @@ MC68EZ328のUART送信レジスタに文字コードを書き込むことで、�
 
 ![](images/dragonone_echoback.png)
 
-### モニタプログラムを移植してみる
+## モニタプログラムを移植してみる
 
 シンプルで移植が容易な68000用のモニタプログラムをGitHubで探したところ手頃なものが見つかりました。2015年にHayden Kroepfl (ChartreuseK)さんが自作の68Kブレッドボードコンピュータ用に作成したもののようです。
 

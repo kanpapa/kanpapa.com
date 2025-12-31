@@ -16,7 +16,7 @@ image: "images/HC-SR04_test.jpeg"
 
 - [https://github.com/docofab/mechanumWheelRobot/blob/main/Hardware/lesson2.md](https://github.com/docofab/mechanumWheelRobot/blob/main/Hardware/lesson2.md "lesson2.md")
 
-### 超音波センサーを試してみる
+## 超音波センサーを試してみる
 
 ちょうど同じ超音波センサーを持っていたので、Lesson2のソースコードを参考にしてArduinoに接続してみました。
 
@@ -31,7 +31,7 @@ image: "images/HC-SR04_test.jpeg"
 - [HC-SR04_test.ino](https://github.com/docofab/mechanumWheelRobot/blob/main/Arduino/Samples/HC-SR04_test/HC-SR04_test.ino "HC-SR04_test.ino")
 - [HC-SR04_fritzing.jpg](https://github.com/docofab/mechanumWheelRobot/blob/main/Arduino/Samples/HC-SR04_test/HC-SR04_fritzing.jpg "HC-SR04_fritzing.jpg")
 
-### Thinkercadでシミュレートしてみる
+## Thinkercadでシミュレートしてみる
 
 [Thinkercad](https://www.tinkercad.com/ "Thinkercad")でも同様に実体配線図が書けると聞いたので、こちらでも試してみました。
 

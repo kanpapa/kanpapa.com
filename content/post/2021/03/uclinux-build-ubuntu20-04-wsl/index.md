@@ -22,14 +22,14 @@ image: "images/uClinux_build_tftperror.png"
 
 
 
-### uClinuxの入手
+## uClinuxの入手
 
 今回使用したアーカイブはこの２つです。uClinuxのソースとToolchainの実行環境（クロスコンパイラ）です。
 
 - [uClinux-dist-20140504.tar.bz2](https://sourceforge.net/projects/uclinux/files/uClinux%20Stable/dist-20140504/uClinux-dist-20140504.tar.bz2 "uClinux-dist-20140504.tar.bz2") (SOURCEFORGE)
 - [m68k-uclinux-tools-20121115.tar.bz2](https://code.google.com/archive/p/m68k/downloads "m68k-uclinux-tools-20121115.tar.bz2") (Google Code Archive）
 
-### クロスコンパイル環境の準備
+## クロスコンパイル環境の準備
 
 まず、Toolchainを展開します。/usr/local 配下にインストールします。
 
@@ -43,7 +43,7 @@ $ sudo tar xf ~/m68k-uclinux-tools-20121115.tar.bz2
 
 これでm68kのクロスコンパイル環境ができました。
 
-### uClinuxのビルド
+## uClinuxのビルド
 
 次にuClinuxのソースを作業用ディレクトリに展開します。
 
@@ -107,7 +107,7 @@ $ make
 
 残念ながら途中でエラーになりました。
 
-### ビルドエラーの対応
+## ビルドエラーの対応
 
 このビルドエラーは参考にしているサイトでも取り上げられています。
 
@@ -146,6 +146,6 @@ $ sudo ln -s libmpfr.so.6 libmpfr.so.4
 
 ![uClinux_build_images.png](images/uClinux_build_images.png)
 
-### まとめ
+## まとめ
 
 2021年のOSでもuClinuxのビルドはできました。今回製作中のMC68EZ328 SBC用にカスタマイズが必要になるでしょうが、ひとまず動かせるものはできそうです。

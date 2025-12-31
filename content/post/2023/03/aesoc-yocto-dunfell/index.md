@@ -23,7 +23,7 @@ image: "images/aesoc-case1.jpg"
 
 Yoctoは全く使ったことはないのですが、試行錯誤の結果、Yocto バージョン3系のdunfell 3.1.23で試したところ比較的簡単にkernelが動きましたのでまとめておきます。なお、Yocto バージョン4系になるとdtsiファイルにパッチを当ててデバイスツリーを作り直さないといけません。このあたりは実験中なので後ほどまとめたいと思います。
 
-### Yocto Projectとは
+## Yocto Projectとは
 
 Yocto Project（YP）は、組み込み用Linuxディストリビューションの一種ではなく、ハードウェアアーキテクチャに依存せずに、開発者がカスタムLinuxベースのシステムを作成するためのオープンソースのコラボレーションプロジェクトです。
 
@@ -34,7 +34,7 @@ Yocto Projectの説明や基本的な手順はYocto Projectの公式ページに
 
 手持ちのハードウェアに対応した自分だけのカスタムLinuxを作ることができるものと思えば良いでしょう。
 
-### 秋月SoC基板を動かすための準備
+## 秋月SoC基板を動かすための準備
 
 まずは電源ケーブルを作りました。プラグサイズは[Φ4.0×1.7mm](https://akizukidenshi.com/catalog/g/gC-15725/ "極性統一ＤＣプラグ　電圧区分２　ＭＰ－２０２")で、電源電圧は5Vです。
 
@@ -58,7 +58,7 @@ PCのターミナルソフト（私はUbuntuなのでGTKTermを使っていま�
 
 これはシリアルブートのためのXMODEMプロトコルが見えているのですが、ここまで動けばSoC基板は正常に動作し、シリアルコンソールの接続ができています。
 
-### Yoctoでビルド環境を作成する
+## Yoctoでビルド環境を作成する
 
 [Yocto Project Quick Build](https://docs.yoctoproject.org/current/brief-yoctoprojectqs/index.html "Yocto Project Quick Build")に従って、ビルド環境の構築をしていきます。今回の開発環境はUbuntu 20.04 LTSを使っています。
 
@@ -106,7 +106,7 @@ build/tmp/deploy/images/beaglebone-yocto/core-image-minimal-beaglebone-yocto.wic
 
 ![aesoc-yocto-image-sdcard.png](images/aesoc-yocto-image-sdcard.png)
 
-### microSDカードからbootする
+## microSDカードからbootする
 
 イメージを書き込んだmicroSDカードを秋月SoC基板にセットして、電源を投入するとyocto-linuxが起動します。
 
@@ -116,7 +116,7 @@ build/tmp/deploy/images/beaglebone-yocto/core-image-minimal-beaglebone-yocto.wic
 
 組み込み用のLinuxなのでリソースが最小限になるように非常にコンパクトにできています。逆に最小限の構成でビルドをしているので、必要なコマンドやパッケージが入っていないこともあります。このままの環境ですと、sshdも無く/dev/ttyS1も使えない状態です。そのため、Yoctoをつかって自分好みに必要なコマンドやパッケージを追加してカスタマイズしたものでビルドすることで解決します。
 
-### 電力メーターにしてみたい
+## 電力メーターにしてみたい
 
 秋月SoC基板にはスマートメーター（家庭の電力計）と通信ができるモジュール基板が搭載されています。
 

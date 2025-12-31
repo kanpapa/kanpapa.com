@@ -17,7 +17,7 @@ image: "images/CUDA_FFT_Ocean_Simulation_1.png"
 - [PyTorch](https://pytorch.org/ "PyTorch") (Stable 1.13.1)
 - [JupyterLab](https://jupyter.org/ "JupyterLab")
 
-### CUDAのインストール
+## CUDAのインストール
 
 CUDAはDownloadのページにあった[最新版のCUDA 12をインストール](https://developer.nvidia.com/cuda-downloads "CUDA Toolkit 12.0 Downloads")してしまいました。インストールは公式ページの通りに行いました。
 
@@ -25,7 +25,7 @@ Download Installer for Linux Ubuntu 20.04 x86_64
 
 `$ wget https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/cuda-ubuntu2004.pin   $` `sudo mv cuda-ubuntu2004.pin /etc/apt/preferences.d/cuda-repository-pin-600   $` `wget https://developer.download.nvidia.com/compute/cuda/12.0.0/local_installers/cuda-repo-ubuntu2004-12-0-local_12.0.0-525.60.13-1_amd64.deb   $` `sudo dpkg -i cuda-repo-ubuntu2004-12-0-local_12.0.0-525.60.13-1_amd64.deb   $` `sudo cp /var/cuda-repo-ubuntu2004-12-0-local/cuda-*-keyring.gpg /usr/share/keyrings/   $` `sudo apt-get update   $` `sudo apt-get -y install cuda      `実はCUDA 12は最近リリースされたばかりで、本来なら実績のあるCUDA 11系にすべきでしたがあとの祭りです。
 
-### CUDAの動作確認
+## CUDAの動作確認
 
 せっかくなのでCUDA 12でサンプルプログラムを動かしてみます。
 
@@ -51,7 +51,7 @@ Jetson Nanoでみたことがあるシミュレーション結果が表示され
 
 ![nvidia-smi-oceanfft_1.png](images/nvidia-smi-oceanfft_1.png)
 
-### PyTorchのインストール
+## PyTorchのインストール
 
 PyTorchのドキュメントには最近リリースされたCUDA 12については情報がなかったのですが、ダメもとでインストールしてみました。
 
@@ -81,7 +81,7 @@ $ python3Python 3.8.10 (default, Nov 14 2022, 12:59:47) [GCC 9.4.0] on linuxTyp
 
 一応動いているように見えます。
 
-### JupyterLabのインストール
+## JupyterLabのインストール
 
 使い勝手がよくなるようにJupyterLabをインストールします。うまくいけばGoogle Colaboと同様の環境ができあがります。
 
@@ -103,6 +103,6 @@ $ jupyter lab
 
 ![jupyterLab_quickstart_2.png](images/jupyterLab_quickstart_2.png)
 
-### まとめ
+## まとめ
 
 今のところ、Google Colaboと同等に動いているように見えます。とはいえCUDA 12はPyTorchで正式サポートとはなっていないので何が起こるかわかりません。あくまでも実験的な記録として扱ってください。まだ機械学習は初心者なのでこの環境でチュートリアルを進めてみたいと思います。

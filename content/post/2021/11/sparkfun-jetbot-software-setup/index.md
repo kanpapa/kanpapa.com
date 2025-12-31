@@ -16,7 +16,7 @@ Sparkfun版JetBotを実際に動かすためにはmicroSDカードにソフト�
 
 ![](images/jetbot_assembly11.jpg)
 
-### microSDの準備から起動まで
+## microSDの準備から起動まで
 
 詳細な手順はJetBotのGithubに掲載されています。この手順のStep 4までを行います。
 
@@ -38,7 +38,7 @@ Sparkfun版JetBotを実際に動かすためにはmicroSDカードにソフト�
 
 この画面は、JetBotのブラウザベースのプログラミングインターフェイス Jupyter Notebookと呼ばれるもので、テキスト、pythonコード、グラフィック表示が統合されたものです。これをつかってPythonのコードを動かします。
 
-### Sparkfun版JetBotファイルの組み込み
+## Sparkfun版JetBotファイルの組み込み
 
 NVIDIAから公開されているイメージファイルをそのまま使うとJetsonNanoやOLEDの制御はできますが、Sparkfunのモータードライバの制御はできないので、修正版のファイルを組み込む必要があります。
 
@@ -58,7 +58,7 @@ unzip jetbot.zip
 sudo python3 setup.py install
 ```
 
-### 基本動作のテスト
+## 基本動作のテスト
 
 Jupyter NotebookでPythonコードを動かすにはコードが書かれている部分をマウスで選択し、Playアイコンを押すだけです。コードの修正もJupyter Notebook上で直接行うことができます。
 
@@ -96,7 +96,7 @@ Jupyter Notebookの面白いところは、同じ画面上にスライダーや�
 
 このような形でPythonでロボットの動作を確認しながらチュートリアルを進めることでJetBotの知識を身につけることができます。
 
-### 電源を落とす前に
+## 電源を落とす前に
 
 JetBotの電源を切る前には必ずターミナルから
 

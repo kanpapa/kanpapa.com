@@ -15,7 +15,7 @@ image: images/turtlebot3_burger_assembley_all_complete.jpg
 
 ![](images/turtlebot3_burger_assembley_start1.jpg)
 
-### プレートの組み立て
+## プレートの組み立て
 
 まずはベースとなるプレートを４枚作ります。大量のネジがあるので間違えないように注意します。
 
@@ -27,7 +27,7 @@ image: images/turtlebot3_burger_assembley_all_complete.jpg
 
 完成したプレートにパーツを取り付けていきます。
 
-### 1st Layerの組み立て
+## 1st Layerの組み立て
 
 1st Layerではまずバッテリーを固定するパーツを取り付けます。
 
@@ -41,7 +41,7 @@ image: images/turtlebot3_burger_assembley_all_complete.jpg
 
 ![](images/turtlebot3_burger_assembley_1st_layer_complete.jpg)
 
-### 2nd Layerの組み立て
+## 2nd Layerの組み立て
 
 2nd LayerはOpenCRボードを取り付けるために基板固定用のパーツを使いますが、この構造だといろんな基板に対応できそうです。
 
@@ -51,13 +51,13 @@ image: images/turtlebot3_burger_assembley_all_complete.jpg
 
 ![](images/turtlebot3_burger_assembley_2nd_layer_complete.jpg)
 
-### 3rd Layerの組み立て
+## 3rd Layerの組み立て
 
 3rd LayerにRaspberry Pi 3B+を載せて合体します。
 
 ![](images/turtlebot3_burger_assembley_3nd_layer_complete.jpg)
 
-### 4th Layerの組み立て
+## 4th Layerの組み立て
 
 最後にLiDARを載せて完成です。（手前のネジを締め忘れていますが、あとで締めました）
 

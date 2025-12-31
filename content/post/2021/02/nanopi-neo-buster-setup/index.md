@@ -10,7 +10,7 @@ tags:
 image: "images/nanopi_neo_buster_server_case.jpg"
 ---
 
-### Nano Pi NEO自宅サーバがクラッシュ
+## Nano Pi NEO自宅サーバがクラッシュ
 
 4cm角のマイコン[Nano Pi NEO \[M-12301\]](https://akizukidenshi.com/ "Nano Pi NEO")を使った[自宅Linuxサーバ](https://kanpapa.com/2018/09/armbian-nano-pi-neo-nas-ssd.html "armbianでNano Pi NEO NASをSSDベースのサーバにしてみた")を2018年9月から稼働しています。これまで全くトラブルもなく連続稼働していたのですが、昨日rebootしたところ起動しなくなってしまいました。
 
@@ -18,7 +18,7 @@ image: "images/nanopi_neo_buster_server_case.jpg"
 
 ![nanopi_neo_buster_server1.jpg](images/nanopi_neo_buster_server1.jpg)
 
-### Armbianの再インストール
+## Armbianの再インストール
 
 やむをえずArmbianの再インストールを行うことにしました。[Armbianの公式サイト](https://www.armbian.com/ "Armbian")をみたところ、今はLinuxカーネルV5.10を使用した[Armbian Buster](https://www.armbian.com/nanopi-neo/ "Armbian Nano Pi Neo / Core")(Debian 10.8)が最新のようですので、これを新規インストールすることにします。
 
@@ -32,7 +32,7 @@ image: "images/nanopi_neo_buster_server_case.jpg"
 
 このあとrootのパスワード設定とユーザ登録が自動的に行われます。親切な設計だと思います。
 
-### 起動ディスクをSSDに変更
+## 起動ディスクをSSDに変更
 
 SDカードからArmbianを起動すると、ルートディレクトリはmicroSDカード上に作られます。この状態で連続稼働させるのはやや不安がのこります。Armbianでは外付けのSSDやHDDにシステムファイルをインストールすることができます。
 
@@ -60,7 +60,7 @@ Rebootの指示がでるのでRebootします。
 
 これでmicroSDカードはBootの時しか使われなくなります。
 
-### Armbianの設定
+## Armbianの設定
 
 ネットワークやTIMEZONEなど主要な設定は
 
@@ -77,7 +77,7 @@ apt update
 apt upgrade
 ```
 
-### Mackerelの設定
+## Mackerelの設定
 
 私はこの自宅サーバの監視に[Mackerel](https://mackerel.io/ "Mackerel")の無料枠を利用しています。
 
@@ -91,11 +91,11 @@ Monitorsが無事グリーンになって監視が始まりました。
 
 またサーバ監視以外にも自宅ネットワークがおかしくなったときもMackerelからアラートが飛んでくるので気がつきます。
 
-### アプリケーションの起動確認
+## アプリケーションの起動確認
 
 あとはこのサーバで動かしているアプリケーションをバックアップからリストアします。なお、ログは同じネットワーク上のNAS（QNAP）のsyslogサーバに転送しているので保全されています。
 
-### 無事完了
+## 無事完了
 
 一通りの作業が完了したら、一度シャットダウンして、もとのケースに戻します。
 

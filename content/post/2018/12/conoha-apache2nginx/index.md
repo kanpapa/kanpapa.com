@@ -12,7 +12,7 @@ image: "images/conoha_cpu_monitor.png"
 
 この記事は[ConoHa Advent Calendar 2018](https://qiita.com/advent-calendar/2018/conoha "ConoHa Advent Calendar 2018")の19日目の記事になります。
 
-### はじめに
+## はじめに
 
 2013年の[ConoHa](https://www.conoha.jp/ "ConoHa")のサービス開始直後から、これまでずーとApache＋MovableTypeを使用してきました。
 
@@ -22,13 +22,13 @@ image: "images/conoha_cpu_monitor.png"
 
 
 
-### MySQLがいつの間にか止まっている？
+## MySQLがいつの間にか止まっている？
 
 これまで特に問題なく運用してきたのですが、最近なぜかMySQLサーバーが落ちていることがあるのに気が付きました。
 
 MySQLが止まってもWebサーバの検索機能が使えない程度で閲覧には支障がないので、気づいたらMySQLサーバを再起動するようにしていました。
 
-### 誰がMySQLを止めているのか？
+## 誰がMySQLを止めているのか？
 
 ちゃんと調べてみようかとサーバ監視状況を確認したところ、どうやらメモリが枯渇しているように見えました。
 
@@ -38,7 +38,7 @@ MySQLが止まってもWebサーバの検索機能が使えない程度で閲覧
 
 ![conoha_system_metric_error.PNG](images/conoha_system_metric_error.png)
 
-### まずはsyslogをチェック！
+## まずはsyslogをチェック！
 
 syslogにはこのようなものが残っていました。
 
@@ -114,7 +114,7 @@ Oct 13 22:05:39 133-130-xxx-xx kernel: [] dump_header+0x90/0x229
 
 検索CGIへのアクセスはどうやらクローラーらしきものようで。クローラーからのアクセスが来ないようにrobot.txtを書いてはいるのですが、完全ではないようです。クローラーからのアクセスでなくても悪意ある攻撃者がDoS攻撃としてCGIに集中してアクセスする可能性もあります。
 
-### Nginxへの移行開始
+## Nginxへの移行開始
 
 ApacheはCGIで大量にリソースを消費することは知っていたので、CGIが大量に起動しないようにApacheのパラメタ調整やIP制限など試してみたのですが、最終的には同じ状況になってしまいました。このためこのタイミングでNginx+PSGI(Perl Web Server Gateway Interface)に移行してみることにしました。
 
@@ -127,7 +127,7 @@ NginxではCGIには対応していないため、MovableTypeがサポートし�
 
 またいきなりNginxに切り替えるのは不安もありましたので、ConoHa VPSをもう一つ立ち上げてそちらで試して問題がないことを確認しながら移行を進めました。こういう時に**ConoHaは従量課金なので、気軽にVPSを立ち上げて短時間利用できるのは魅力**ですね。
 
-### Nginxに移行してよかったこと
+## Nginxに移行してよかったこと
 
 Nginxに切り替えて思ったことですが、とにかく軽いですね。MovableTypeでのコンテンツの再構築も速くなったように感じます。
 
@@ -143,7 +143,7 @@ Nginxに切り替えて思ったことですが、とにかく軽いですね。
 
 ![conoha_system_metric_normal.PNG](images/conoha_system_metric_normal.png)
 
-### まとめ
+## まとめ
 
 というわけで、ConoHa VPSでApacheからNginxに移行してパフォーマンスが良くなったというお話でした！
 

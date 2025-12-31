@@ -19,7 +19,7 @@ image: images/kim_uno_prototype_1.jpg
 
 
 
-### Ubuntuソフトウェアを揃える
+## Ubuntuソフトウェアを揃える
 
 これまでWindowsデスクトップで使っていたソフトウェアがUbuntuで動作するかを確認してみます。
 
@@ -43,11 +43,11 @@ image: images/kim_uno_prototype_1.jpg
 
 このように開発環境もほぼ揃っていますし、クラウド系のツールはブラウザで問題なく使えます。
 
-### Ubuntuデスクトップ環境でKIM Unoを作ってみる
+## Ubuntuデスクトップ環境でKIM Unoを作ってみる
 
 実際にこのUbuntuデスクトップ環境で[KIM Uno](https://obsolescence.wixsite.com/obsolescence/kim-uno-summary-c1uuh "KIM Uno: a DIY clone of the KIM-1")というKIM-1シミュレーターを作ってみました。配布されているやや古いKiCadデータをベースに、秋月電子で入手できるパーツに置き換えた形でKiCad6で製作してみます。
 
-#### 基板設計
+### 基板設計
 
 KiCad6で行い特に問題なくガーバーデータまでできました。これまで省電力CPUを使った小型のデスクトップPCだったので自動配線や3Dビューアーにかなり時間がかかっていたのですが、今回はデスクトップ用のCPU＋GPUですのでサクサク作業が進みます。
 
@@ -67,7 +67,7 @@ KiCad6で行い特に問題なくガーバーデータまでできました。�
 
 ガーバーデータの最終確認を行い、基板の製造メーカーに発注しました。
 
-#### Arduinoへの書き込み
+### Arduinoへの書き込み
 
 次にKIM UnoのスケッチをArduino Pro mini（秋月電子 [AE-ATMEGA328-MINI](https://akizukidenshi.com/catalog/g/gK-10347/ "AE-ATMEGA328-MINI")）に書き込みます。
 
@@ -77,13 +77,13 @@ KiCad6で行い特に問題なくガーバーデータまでできました。�
 
 ![kim_uno_prototype_1.jpg](images/kim_uno_prototype_1.jpg)
 
-#### シリアルターミナル
+### シリアルターミナル
 
 KIM Unoはシリアルターミナルで制御することができますが、Ctrl-Aなど制御文字を多用します。Arduino IDEでのシリアルターミナルではこの制御文字の扱いができないので、GTKTermを使うことで解決しました。
 
 ![kim_uno_gtkterm_1.png](images/kim_uno_gtkterm_1.png)
 
-#### ケースの出力
+### ケースの出力
 
 KIM Unoのサイトではケースの3Dプリンタ用データも配布されていたので、これをCuraに読み込ませてスライスデータの作成も行いました。実際の3Dプリントアウトは基板到着後となります。
 
@@ -91,7 +91,7 @@ KIM Unoのサイトではケースの3Dプリンタ用データも配布され�
 
 このように一通りの作業はUbuntuデスクトップで完結することができました。
 
-### Windows/Macとの使い分け
+## Windows/Macとの使い分け
 
 Fusion360とIllustratorはやはり使い勝手がよく、これはWindows/Macで使い続けることになりそうです。
 

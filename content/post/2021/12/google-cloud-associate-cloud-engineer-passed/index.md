@@ -13,7 +13,7 @@ Google Cloud認定資格の[Associate Cloud Engineer (ACE)](https://cloud.google
 
 Google Cloud Platform (GCP) の経験は、仮想マシンのCompute EngineやBigQueryを無料枠で少し触った程度ですが、もう少し知識を広げたいなと考えていたところでした。
 
-### ACEの試験概要
+## ACEの試験概要
 
 ACEの試験の概要です。
 
@@ -28,7 +28,7 @@ ACEの試験の概要です。
 
 
 
-### 模擬問題を試してみる
+## 模擬問題を試してみる
 
 最初に[公式サイトの模擬問題](https://cloud.google.com/certification/cloud-engineer "Associate Cloud Engineer 模擬試験")をやってみました。どんな問題がでるのか感触をつかむためです。
 
@@ -39,7 +39,7 @@ ACEの試験の概要です。
 - [Associate Cloud Engineer 認定試験 模擬試験 解説 前編](https://cloud-ace.jp/tech_blog/associate-cloud-engineer-practice-exam-vol1 "Associate Cloud Engineer 認定試験 模擬試験 解説 前編")
 - [Associate Cloud Engineer 認定試験 模擬試験 解説 後編](https://cloud-ace.jp/tech_blog/associate-cloud-engineer-practice-exam-vol2 "Associate Cloud Engineer 認定試験 模擬試験 解説 後編")
 
-### 学習方法
+## 学習方法
 
 学習方法は以下の３つです。平日は時間が取れないので、土日祝日に集中してトレーニングしました。
 
@@ -55,7 +55,7 @@ ACEの試験の概要です。
 
 ![GCP_ACE_official_guide.jpg](images/GCP_ACE_official_guide.jpg)
 
-### 試験当日
+## 試験当日
 
 テストセンターでの試験とリモートでの試験があるのですが、私の場合はテストセンターに出かけました。
 
@@ -71,6 +71,6 @@ ACEの試験の概要です。
 
 正式な結果は７～１０営業日後にメールで来るとのことでした。
 
-### 終わりに
+## 終わりに
 
 これまではGCPの一部の機能しか使っていなかったのですが、まだ使ったことのないApp Engine、GKE、VPC、Pub/Sub・・など多種多様なGCPの機能に触れることができ、理解を深めることができました。無料トライアルが終わったあとも、使い続けてみようと思います。

@@ -14,7 +14,7 @@ start_kernelでようやくLinux kernelに入ってきました。細かいと�
 
 ![](images/mc68ez328_dragonone_sbc_uclinux_part4_vscode-1024x603.png)
 
-### start_kernelを紐解く
+## start_kernelを紐解く
 
 start_kernelはinit/main.cにあります。printkでLinuxのバナーを表示しています。
 
@@ -46,7 +46,7 @@ Linux version 2.4.34.5-uc0 (ocha@M715Q-TINY) (gcc version 4.7.2 (GCC) ) #49 Sat 
 
 ```
 
-### setup_archを紐解く
+## setup_archを紐解く
 
 setup_arch()をみてみます。この関数はarch/m68knommu/kernel/setup.cにあります。このあたりはコードとデータのアドレスを変数に設定しているようです。
 

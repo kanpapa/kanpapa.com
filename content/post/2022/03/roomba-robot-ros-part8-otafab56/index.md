@@ -15,19 +15,19 @@ image: "images/Roomba_slam_2022-03-06_15-01-35.png"
 
 [おおたfab](https://ot-fb.com/ "おおたfab")さんでは、「[素人でもロボットをつくりたい](https://ot-fb.com/iot/6353/ "素人でもロボットをつくりたい")」という勉強会を定期的に行っています。[前回](https://kanpapa.com/2021/11/Roomba-robot-ros-part7-otafab50.html "ルンバで地図をつくってみました　その２ （おおたfab 第50回 素人でもロボットをつくりたい）")は[LiDAR](https://ja.wikipedia.org/wiki/LIDAR "LiDAR")を使って地図の作成を行いましたが、はっきりとした地図はできませんでした。もう一度地図作成にチャレンジします。
 
-### ルンバにLiDARを固定
+## ルンバにLiDARを固定
 
 前回はLiDARをルンバに載せただけだったので、動いているうちに位置がずれてしまっていました。今回は図面から穴をあけた段ボールにLiDARをねじ止めし、それをビニールテープで固定しました。これで位置がずれることはなくなりました。
 
 ![Roomba_slam_2022_03_06-1.jpg](images/Roomba_slam_2022_03_06-1.jpg)
 
-### ROSノードの構成を変更
+## ROSノードの構成を変更
 
 これまではRaspberry Pi 4ですべてのノードを動かしていましたが、turtlebot3と同様にRaspberry Piでは最低限のドライバだけ動かして、データの収集や可視化はPCで行うように変更しました。
 
 ![](images/roomba_slam_1_mermaid-diagram-20220308083512.png)
 
-### Roombaドライバを変更
+## Roombaドライバを変更
 
 これまではGazeboも動作する[RoboticaUtnFrba/create_autonomy](https://github.com/RoboticaUtnFrba/create_autonomy)を使用していましたが、以下の記事で実機動作が確認されているgoodfield55さん改良版のRoombaドライバを使用してみました。
 
@@ -35,14 +35,14 @@ image: "images/Roomba_slam_2022-03-06_15-01-35.png"
 - [GoodField55/libcreate](https://github.com/GoodField55/libcreate/tree/goodfield "GoodField55/libcreate")
 - [GoodField55/create_autonomy](https://github.com/GoodField55/create_autonomy/tree/goodfield "GoodField55/create_autonomy")
 
-### 地図を取得してみる
+## 地図を取得してみる
 
 テスト環境のIPアドレスは以下のようになっています。
 
 - Ubuntu PC　192.168.0.34
 - Raspberry Pi 192.168.0.63
 
-#### 準備
+### 準備
 
 1\. Ubuntu PCにログイン
 
@@ -68,7 +68,7 @@ export ROS_MASTER_URI=http://192.168.0.34:11311
 export ROS_HOSTNAME=192.168.0.63
 ```
 
-#### トピックの記録
+### トピックの記録
 
 1\. Raspberry Piの設定
 
@@ -108,7 +108,7 @@ roslaunch ca_tools keyboard_teleop2.launch
 
 8\. Ubuntu PCでbagデータを記録しているターミナルでCtrl-Cを入力し記録を停止する。
 
-#### 取得したbagデータでのSLAMの確認
+### 取得したbagデータでのSLAMの確認
 
 1\. すべてのROSのノードを停止（roscoreも）し、不要なtopicが流れない状態にする。
 
@@ -147,13 +147,13 @@ rosrun map_server map_saver -f my_map3
 
 7\. gmappingをctrl-cで停止する。
 
-### 今回生成できた地図
+## 今回生成できた地図
 
 まずまずの出来ではないかと思います。
 
 ![Roomba_slam_2022-03-06_15-01-35.png](images/Roomba_slam_2022-03-06_15-01-35.png)
 
-### 生成した地図の確認
+## 生成した地図の確認
 
 地図のデータをmap_serverで配信します。
 

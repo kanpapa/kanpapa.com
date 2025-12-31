@@ -20,13 +20,13 @@ ROSをつかってルンバを動かすという記事はインターネット�
 
 
 
-### Raspberry Pi 4にUbuntu 18.04 LTSをインストールする
+## Raspberry Pi 4にUbuntu 18.04 LTSをインストールする
 
 今回はRaspberry Pi 4(4GB)を使用します。ROS Melodicの動作OSとしてはUbuntu 18.04 LTSが必要になります。しかし、Raspberry Pi 4ではUbuntu 18.04 LTSはサーバー版しかサポートされておらず、後からデスクトップ環境を追加する必要があります。この作業はdemura.netさんの記事を参考にしました。
 
 - [Raspberry Pi4 (メモリ4GB): Ubuntu18.04 + Xubuntu Desktopのインストールと設定](https://demura.net/education/17957.html "Raspberry Pi4 (メモリ4GB): Ubuntu18.04 + Xubuntu Desktopのインストールと設定") (demura.net)
 
-### ROS Melodicをインストールする
+## ROS Melodicをインストールする
 
 Ubuntu18.04のデスクトップ環境にROS Melodicをインストールします。こちらもdemura.netさんの記事を参考にしました。
 
@@ -38,7 +38,7 @@ Ubuntu18.04のデスクトップ環境にROS Melodicをインストールしま�
 
 この状態でROSが動作するようになり、サンプルプログラムであるturtlesimが動くことを確認しました。
 
-### Gazeboシミュレータをインストールする
+## Gazeboシミュレータをインストールする
 
 GazeboシミュレータをインストールしてRaspberry Pi 4の中でルンバを動かしてみます。こちらもdemura.netさんも記事を参考にしました。
 
@@ -52,7 +52,7 @@ GazeboシミュレータをインストールしてRaspberry Pi 4の中でルン
 
 ルンバをRaspberry Pi 4に接続すればこのシミュレータと同じように動くはずです。
 
-### ルンバの実機を動かしてみる
+## ルンバの実機を動かしてみる
 
 いよいよRaspberry Pi 4にルンバを接続して動かしてみます。こちらもdemura.netさんも記事を参考にしましたが、前提がノートPCとなっていますので、Raspberry Pi 4用に少し手順を変えています。
 
@@ -81,6 +81,6 @@ Ready状態になっていますし、バッテリーの残量も表示されて
 - [Roombaのシミュレータ環境のセットアップ(Raspberry Pi 4)](https://github.com/docofab/RoombaControlls/blob/main/ROS/instructions/setup-gazebo-rasppi.md "Roombaのシミュレーション環境のセットアップ(Raspberry Pi 4)")
 - [Roomba実機を動かす環境のセットアップ(Raspberry Pi 4)](https://github.com/docofab/RoombaControlls/blob/main/ROS/instructions/setup-real-roomba-rasppi.md "Roomba実機を動かす環境のセットアップ(Raspberry Pi 4)")
 
-### 次のステップへ
+## 次のステップへ
 
 これでルンバがROS制御のロボットになりました。今後はROSプログラミングを試していくことになります。事例をみながらROSとロボット制御についての理解を深めたいです。

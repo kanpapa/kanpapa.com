@@ -14,7 +14,7 @@ image: images/stackchan_complete.jpg
 
 - [meganetaaan/stack-chan: A JavaScript-driven M5Stack-embedded super-kawaii robot.](https://github.com/meganetaaan/stack-chan/ "meganetaaan/stack-chan: A JavaScript-driven M5Stack-embedded super-kawaii robot.")
 
-### 3Dプリンタでのケース出力
+## 3Dプリンタでのケース出力
 
 GitHubのデータをスライサでGcodeに変換し、まずはShellからプリント開始です。
 
@@ -36,7 +36,7 @@ GitHubのデータをスライサでGcodeに変換し、まずはShellからプ�
 
 ![stackchan_case_all.jpg](images/stackchan_case_all.jpg)
 
-### ケースの仮組み
+## ケースの仮組み
 
 ケースにモーターを取り付けて仮組みをしてみました。今回は安価な[SG92](https://akizukidenshi.com/catalog/g/gM-08914/ "マイクロサーボ　ＳＧ９２Ｒ")を使っています。
 
@@ -54,7 +54,7 @@ GitHubのデータをスライサでGcodeに変換し、まずはShellからプ�
 
 スタックチャンの形になってきました。
 
-### プリント基板の入手とはんだ付け
+## プリント基板の入手とはんだ付け
 
 ケースができたところで次はM5Stackを取り付けるプリント基板の製作です。
 
@@ -80,7 +80,7 @@ nyaru labさんが[Boothで基板を配布](https://booth.pm/ja/items/4094998)�
 
 これを仮組みしているスタックチャンのケースに取り付けます。
 
-### テストプログラムでの動作確認
+## テストプログラムでの動作確認
 
 M5Stackを製作した基板に取り付けてテストプログラムによる動作確認を行うため、モーターと基板を仮接続します。
 
@@ -98,7 +98,7 @@ M5Stackを製作した基板に取り付けてテストプログラムによる�
 
 USBケーブルで給電しているため、本体が固定されてしまい足だけが動いていますが、ハードウェアは問題なさそうです。
 
-### 公式ファームウェアの書き込みと動作確認
+## 公式ファームウェアの書き込みと動作確認
 
 最後に公式ファームウェアを書き込みます。Arduino IDEとかで書かれているのかと思っていたのですが、Moddable SDKをつかってJavaScriptで書かれていました。このあたりは初めて使うのでまずはソースを眺めてみました。
 
@@ -110,7 +110,7 @@ USBケーブルで給電しているため、本体が固定されてしまい�
 
 ![](images/stackchan_complete.jpg)
 
-### まとめ
+## まとめ
 
 最初にプリントしたシェルケースがややガタガタでかっこ悪かったので、サポートの取り付けを見直してもう一度プリントしたものに交換し、見栄えが良くなりました。
 

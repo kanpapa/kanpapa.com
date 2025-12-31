@@ -17,7 +17,7 @@ image: images/CH32V003J4M6_SOP8-DIP8.jpg
 
 ![](images/CH32V003J4M6_WCHLinkE.jpg)
 
-### マイコンで簡単な回路を作ってみる
+## マイコンで簡単な回路を作ってみる
 
 CH32V003J4M6はSOP8なのでピン間隔も1.27mmと広く表面実装部品の中でもはんだ付けはしやすいと思います。まずはブレッドボードで実験ができるように[SOP8変換基板 \[販売コード:105154\]](https://akizukidenshi.com/catalog/g/g105154/)にはんだ付けしました。
 
@@ -35,7 +35,7 @@ WCH-LinkEとはダウンロードに必要なSWDIOと3.3V、GNDを接続しま�
 
 ![](images/CH32V003J4M6_protoboard2.jpg)
 
-### WCH-LinkEのモード設定をする
+## WCH-LinkEのモード設定をする
 
 最初にWCH-LinkEでCH32V003が書き込めるように設定する必要があるので、以下のサイトからWCH-LinkUtility.ZIPをダウンロードして展開します。Windowsのみのサポートです。
 
@@ -47,7 +47,7 @@ https://www.wch.cn/downloads/WCH-LinkUtility_ZIP.html
 
 この状態でQuery Chip Infoボタンを押して、接続しているマイコンの情報が表示されれば正常に動作しています。これでターゲットとなるマイコンとWCH-LinkEの接続は完了です。
 
-### Arduino IDEの環境設定
+## Arduino IDEの環境設定
 
 Arduino IDEにCH32V用のボード設定を組み込む必要がありますが、以下のGitHubで公開されています。
 
@@ -67,7 +67,7 @@ https://github.com/openwch/board_manager_files/raw/main/package_ch32v_index.json
 
 ![](images/ch32v00x_board_port.jpg)
 
-### Lチカプログラムを書きこんでみる
+## Lチカプログラムを書きこんでみる
 
 サンプルプログラムのBlinkに少し手を加えて以下のスケッチを作成しました。
 
@@ -95,13 +95,13 @@ void loop() {
 
 ![](images/CH32V003J4M6_blink1.jpg)
 
-### まとめ
+## まとめ
 
 今回はGPIOを１つ使っただけですが、他にもADC、UART、タイマが使えます。I2Cのサポートはまだのようですが、簡単なものであればこのマイコンで様々なことができそうです。
 
 Arduino IDEにもサンプルスケッチが多数ありますので、ピン数が多いCH32V003F4P6を使えばさらに応用ができそうです。
 
-### おまけ
+## おまけ
 
 LEDを3つ使ってみました。PC1,PC2,PC4にLEDを接続しています。
 

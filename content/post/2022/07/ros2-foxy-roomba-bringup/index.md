@@ -14,7 +14,7 @@ image: "images/roomba600_rasppi_ydlidar.jpg"
 
 ROS1でルンバを動かしたという記事は見かけますが、ROS2はあまり見かけませんので、調査から始めることにしました。
 
-### ハードウェアの準備
+## ハードウェアの準備
 
 以下のハードウェアを使用します。
 
@@ -28,7 +28,7 @@ ROS1でルンバを動かしたという記事は見かけますが、ROS2はあ
 
 ![roomba600_rasppi_ydlidar.jpg](images/roomba600_rasppi_ydlidar.jpg) 
 
-### どのROS2を使うか
+## どのROS2を使うか
 
 ROS2で現在サポートされているのは以下の３つです。
 
@@ -40,17 +40,17 @@ ROS2で現在サポートされているのは以下の３つです。
 
 [Humble](https://docs.ros.org/en/humble/)は登場したばかりでもう少し様子を見たいことと、[Galactic](https://docs.ros.org/en/galactic/ "Galactic")は[Foxy](https://docs.ros.org/en/foxy/ "Foxy")よりもEOLが早いので、今回はFoxyを選択しました。
 
-### ROS2の何が良いのか
+## ROS2の何が良いのか
 
 ROS1の場合はroscoreというプロセスがシステムのどこかに存在している必要がありましたが、ROS2はお互いのノードが通信できるためroscoreのようなものは不要です。またセキュリティ的にも改善されているそうです。今後新しいOSに対応していくので保守面でも安心です。
 
-### ROS2の実行環境
+## ROS2の実行環境
 
 ROS2の実行環境はUbuntu 20.04 LTSになります。ROS1 Melodicの場合はUbuntu 18.04 LTSだったため、M1 MacのParallel Desktopは使えなかったのですが、Ubuntu 20.04 LTSなら使えます。これでM1の高速性が活かせそうです。Raspberry PiもUbuntu 20.04 Serverが使えますので、当面OSサポートの心配は不要です。
 
 ルンバのドライバはROS1の時は[RoboticaUtnFrba/create_autonomy](https://github.com/RoboticaUtnFrba/create_autonomy "RoboticaUtnFrba/create_autonomy")を使用しましたが、こちらはROS2には対応していないようなので、Foxyをサポートしている [AutonomyLab/create_robot](https://github.com/AutonomyLab/create_robot "AutonomyLab/create_robot") を使用してみます。このfoxyブランチを使用すれば良さそうです。
 
-### ROS2の環境構築
+## ROS2の環境構築
 
 まずは、Ubuntu 20.04 LTSをインストールします。PCにはデスクトップ版を、Raspberry Piにはサーバー版をインストールしました。
 
@@ -58,13 +58,13 @@ ROS2の実行環境はUbuntu 20.04 LTSになります。ROS1 Melodicの場合は
 
 さらに[ルンバのドライバ](https://github.com/AutonomyLab/create_robot "AutonomyLab/create_robot")と[LiDARのドライバ](https://github.com/YDLIDAR/ydlidar_ros2_driver " YDLIDAR/ydlidar_ros2_driver")をRaspberry PiのROS2 Foxy環境にインストールします。こちらはROS1の時と同様にGitHubからクローンしてビルドすることになります。手順は各ドライバのGitHubにありますが、ROS1のときはcatkin buildでしたが、ROS2ではcolcon buildになります。
 
-### Raspberry PiとルンバとLIDARを接続
+## Raspberry PiとルンバとLIDARを接続
 
 ここはROS1の時と同じです。Raspberry PiのUSBポートにUSBシリアルを介してルンバ本体に接続します。udevの設定ファイルを作成し、ルンバのUSBシリアルが接続されたら/dev/roombaのデバイスが割り当てられるようにします。
 
 LiDARもRaspberry PiのUSBポートに接続します。販売元から提供されているLiDARドライバをインストールすることで、LiDARが接続されたら/dev/ydlidarに割り当てられます。
 
-### ルンバの動作確認
+## ルンバの動作確認
 
 ルンバに接続しているRaspberry Piにログインします。
 

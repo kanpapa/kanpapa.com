@@ -9,7 +9,7 @@ tags:
 image: "images/romi_ros_romipi1.jpg"
 ---
 
-### Pololu RomiでROSにチャレンジ
+## Pololu RomiでROSにチャレンジ
 
 [Pololu Romi](https://kanpapa.com/2022/01/pololu-romi-assemble.html "Pololu Romi ロボットカーを組み立ててみました")をROSで動かしてみます。以下の記事を参考にしました。
 
@@ -23,7 +23,7 @@ image: "images/romi_ros_romipi1.jpg"
 
 ![romi_ros_romipi1.jpg](images/romi_ros_romipi1.jpg) 
 
-### ROS Melodicのインストール
+## ROS Melodicのインストール
 
 Raspberry Pi 3B+にROS Melodicをインストールします。これまでRaspberry OSで動いているのでこの環境にROS Melodicをインストールしてみました。
 
@@ -46,19 +46,19 @@ dtparam=i2c_baudrate=400000
 
 これで400000Hzになります。
 
-### RomiPiのインストール
+## RomiPiのインストール
 
 作成したcatkin_ws/srcにRomiPiのソースを展開します。私の場合はcatkin buildでまとめてビルドを行い、特に問題はなくビルドが完了しました。
 
 ![romi_ros_catkin_build_screenshot.png](images/romi_ros_catkin_build_screenshot.png)
 
-### Romi32U4にスレーブプログラムを書き込む
+## Romi32U4にスレーブプログラムを書き込む
 
 RomiPiのArduinoのディレクトリにRomi32U4用のスレーブプログラムがあります。これをRomi32U4にArduino IDEで書き込みます。
 
 ![romi_ros_i2cslave_arduino_ide1.png](images/romi_ros_i2cslave_arduino_ide1.png)
 
-### RomiでROSを動かす
+## RomiでROSを動かす
 
 RomiPiにはたくさんのROSパッケージがありますが、以下のように動かせば良さそうです。
 
@@ -106,7 +106,7 @@ romipi_teleopのターミナルでキーボードを操作すると、車輪が�
 
 こちらの動画をYouTubeに入れておきました。
 
-### ROSトピックを確認する
+## ROSトピックを確認する
 
 ここでどのようなROSトピックが出ているのかを確認してみます。
 
@@ -219,7 +219,7 @@ transforms:
 
 これらの情報をRvizで可視化してみます。
 
-### Rvizで可視化する
+## Rvizで可視化する
 
 RvizはROS MelodicがインストールされているノートPC(192.168.100.34)で動かすことにします。Raspberry Pi(192.168.100.110)で動いているROSのmasterに接続することで、ノートPCにも同じトピックが流れてきます。
 

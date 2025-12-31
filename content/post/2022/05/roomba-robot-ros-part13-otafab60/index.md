@@ -19,7 +19,7 @@ image: "images/roomba_otafab60_roomba_frame_plan_a.jpg"
 
 
 
-### TYPE Aの実装
+## TYPE Aの実装
 
 まずはLiDARを中央に置く方式です。
 
@@ -29,7 +29,7 @@ image: "images/roomba_otafab60_roomba_frame_plan_a.jpg"
 
 LiDARが高くなったため、足元の障害物に注意が必要です。動画で写っている斜めの看板などは近づきすぎると足元がぶつかってしまいます。
 
-### TYPE Bの実装
+## TYPE Bの実装
 
 次は少し端にLiDARを取り付ける方式です。こうすると中央にモノが置けるのではないかと考えています。
 
@@ -41,6 +41,6 @@ LiDARが高くなったため、足元の障害物に注意が必要です。動
 
 ![oomba_otafab60_roomba_laser_link_rviz.png](images/oomba_otafab60_roomba_laser_link_rviz.png)
 
-### フレームを取り付けた結果
+## フレームを取り付けた結果
 
 いずれも自律走行は行える状態ではありますが、ルンバにLiDARを置いていたときよりもやや不安定になったように思えます。自分の位置を見失ってグルグル回ることが多くなりましたが、今後フレームを固定することで安定するのでは考えています。

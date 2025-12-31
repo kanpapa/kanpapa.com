@@ -27,11 +27,11 @@ image: images/reiwa_ctf_cat.jpg
 
 
 
-### フラグの例は (Misc)
+## フラグの例は (Misc)
 
 いつものサービス問題です。
 
-### bREInWAck (Misc)
+## bREInWAck (Misc)
 
 flag.bwというファイルが提供されました。バイナリエディタでみたところ
 
@@ -78,7 +78,7 @@ flag.bwというファイルが提供されました。バイナリエディタ�
 
 ![reiwa_ctf_js.jpg](images/reiwa_ctf_js.jpg)
 
-### 零は？ (Misc)
+## 零は？ (Misc)
 
 問題にはサーバ名とポート番号が書かれていました。早速接続してみると
 
@@ -108,7 +108,7 @@ Wrong!
 
 いつものように汚いプログラムですが、[github](https://github.com/kanpapa/ctf/blob/master/reiwa_zero.py)に載せておきます。
 
-### 総評
+## 総評
 
 今回は実質１問ということで残念な結果に終わりましたが、時間切れになってしまっても最後まで取り組んでなんとか解けたのが良かったです。
 

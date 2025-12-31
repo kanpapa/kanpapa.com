@@ -14,7 +14,7 @@ image: "images/rviz_sample3_20211106.png"
 
 [おおたfab](https://ot-fb.com/ "おおたfab")さんでは、「[素人でもロボットをつくりたい](https://ot-fb.com/iot/6353/ "素人でもロボットをつくりたい")」という勉強会を定期的に行っています。[前回](https://kanpapa.com/2021/10/Roomba-robot-ros-part6-otafab49.html "ルンバで地図をつくってみました （おおたfab 第49回 素人でもロボットをつくりたい）")は[LiDAR](https://ja.wikipedia.org/wiki/LIDAR "LiDAR")を使って地図の作成を行いましたが、はっきりとした地図はできませんでした。もう一度地図作成にチャレンジする前にRVIZでロボットの状態を可視化してみます。
 
-### Rvizでロボットの状態を可視化してみる
+## Rvizでロボットの状態を可視化してみる
 
 Gazeboを動かし、Rvizを動かします。
 
@@ -75,7 +75,7 @@ $ roslaunch ca_tools keyboard_teleop.launch
 - create1/wheel_left_link　 左車輪の位置
 - create1/wheel_right_link　右車輪の位置
 
-### URDFをRvizで見てみる
+## URDFをRvizで見てみる
 
 URDF (Unified Robot Description Format)は、ロボットの構造を記述するためのXMLのフォーマットです。いろいろなURDFをRvizで表示してみました。
 
@@ -83,11 +83,11 @@ URDF (Unified Robot Description Format)は、ロボットの構造を記述す�
 
 - [ROS講座 可視化編(Rvizモデル表示)](https://qiita.com/srs/items/5f44440afea0eb616b4a#%E5%8F%AF%E8%A6%96%E5%8C%96%E7%B7%A8rviz%E3%83%A2%E3%83%87%E3%83%AB%E8%A1%A8%E7%A4%BA "ROS講座  可視化編(Rvizモデル表示)")
 
-### ルンバ実機で地図を作ってみよう
+## ルンバ実機で地図を作ってみよう
 
 もう一度ルンバで地図を作成してみます。
 
-#### 初期設定
+### 初期設定
 
 １．ca_driverのconfigファイルで/tfをpublishするように設定する。
 
@@ -117,7 +117,7 @@ URDF (Unified Robot Description Format)は、ロボットの構造を記述す�
 
 ```
 
-#### ルンバを動かす
+### ルンバを動かす
 
 １．bagデータを取得
 
@@ -147,7 +147,7 @@ $ roslaunch ca_tools keyboard_teleop.launch
 
 ![roomba_getlog_20211106.jpg](images/roomba_getlog_20211106.jpg)
 
-#### 地図を作成する
+### 地図を作成する
 
 １．gmappingを起動する。
 
@@ -167,20 +167,20 @@ $ rosbag play 2021-11-03-15-32-21.bag --clock
 $ rosrun map_server map_saver -f my_map_log
 ```
 
-### 作成できた地図
+## 作成できた地図
 
-#### 1回目（2021-11-03取得）
+### 1回目（2021-11-03取得）
 
 途中でバッテリーが切れたため中途半端な地図になりました。しかし通路がはっきりわかります。
 
 ![map_2021-11-03-19-56-39.png](images/map_2021-11-03-19-56-39.png)
 
-#### 2回目（2021-11-06取得）
+### 2回目（2021-11-06取得）
 
 データをしっかりとろうと細かく動かしすぎたせいか通路や壁もわからなくなってしまいました。これは失敗です。
 
 ![map_2021-11-06-15-22.png](images/map_2021-11-06-15-22.png)
 
-### 次回の予定
+## 次回の予定
 
 データの取得はコツが必要のようです。もう少し試したあとに自律走行に向けて準備をしてみます。

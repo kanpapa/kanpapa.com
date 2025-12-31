@@ -15,7 +15,7 @@ image: "images/z8kcpm_pcb3.jpg"
 
 ![z8kcpm_pcb1.jpg](images/z8kcpm_pcb1.jpg) 
 
-### Z8K CP/M基板の組み立て
+## Z8K CP/M基板の組み立て
 
 早速パーツ集めです。Z8530以外は揃えることができました。Z8530はeBayで発注済です。
 
@@ -25,7 +25,7 @@ image: "images/z8kcpm_pcb3.jpg"
 
 ![z8kcpm_pcb3.jpg](images/z8kcpm_pcb3.jpg)
 
-### Z8000クロス開発環境のセットアップ
+## Z8000クロス開発環境のセットアップ
 
 まずはATmega164Pにファームウェアを書き込まなければいけません。
 
@@ -39,7 +39,7 @@ image: "images/z8kcpm_pcb3.jpg"
 
 これでVMware Workstation Playerでも最新版のDebian i386の上でZ8000クロス開発環境ができました。
 
-### ATmega164Pのファームウェア作成
+## ATmega164Pのファームウェア作成
 
 次にATmega164Pに書き込むファームウェアを作ります。こちらは[Z8001MB](https://github.com/4sun5bu/Z8001MB "Github 4sun5bu / Z8001MB") にある [z8kboot](https://github.com/4sun5bu/Z8001MB/tree/master/z8kboot "z8kboot") を使います。リセット時にZ8001のモニタプログラムをSRAMにコピーし、Z8001で実行するものです。
 
@@ -56,7 +56,7 @@ $ sudo apt install gcc-avr binutils-avr avr-libc make
 
 このように問題なくz8kbooter.hexができました。これをATmega164Pに書き込みます。
 
-### AVRISPが見当たらない
+## AVRISPが見当たらない
 
 いつものようにAtmel AVRISP mkIIを使ってATmega164Pに書き込もうとしたのですが、AVRISPがみつかりません。汎用ROMライターもみつかりません。どこかにしまい込んでしまったようです。
 

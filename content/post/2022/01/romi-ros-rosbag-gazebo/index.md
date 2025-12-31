@@ -9,7 +9,7 @@ tags:
 image: "images/romi_ros_gazebo.png"
 ---
 
-### ROSトピックを記録する
+## ROSトピックを記録する
 
 [Rvizが異常終了してしまうという問題](https://kanpapa.com/2022/01/pololu-romi-ros-romipi1.html "Pololu Romi ロボットカーをROSで動かしてみました")を解決するためにデバック情報が必要です。ROSでは流れているトピックを保存する機能があります。これを使って全トピックを記録して、問題となるトピックを調べてみます。
 
@@ -47,7 +47,7 @@ topics:      /battery_state   1006 msgs    : sensor_msgs/BatteryState
              /tf              1004 msgs    : tf2_msgs/TFMessage
 ```
 
-### ROSトピックを再生する
+## ROSトピックを再生する
 
 取得したROSトピックを再生することで、トピックを繰り返し再現することもできます。その場合はrosbug playをつかいます。
 
@@ -67,7 +67,7 @@ Gazeboはこのような画面です。RomiのモデルもRomiPiに登録され�
 
 Rvizも同様に可視化してくれるのですが、やはり途中で異常終了してしまいました。
 
-### トピックの詳細を調べる
+## トピックの詳細を調べる
 
 記録したトピックはCSVファイルとして出力することもできます。
 

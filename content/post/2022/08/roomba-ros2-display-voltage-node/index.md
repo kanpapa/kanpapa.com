@@ -21,7 +21,7 @@ image: "images/roomba_dispvolv_led.jpg"
 
 
 
-### ROS2のノードを書いてみる
+## ROS2のノードを書いてみる
 
 今回は[demura.net](https://demura.net/ "demura.net")さんの以下の記事を参考にしています。
 
@@ -33,7 +33,7 @@ image: "images/roomba_dispvolv_led.jpg"
 
 - [https://github.com/kanpapa/roomba/tree/main/dispvolt](https://github.com/kanpapa/roomba/tree/main/dispvolt "dispvolt")
 
-### ノードを動かしてみる
+## ノードを動かしてみる
 
 ルンバのROS2ドライバを動かしておき、今回作成したノード(dispvolt_node)を動かしてみます。
 
@@ -49,7 +49,7 @@ rqt_graphでも確認してみました。意図した構造になっていま�
 
 ![roomba_dispvolv_rqtgraph1.png](images/roomba_dispvolv_rqtgraph1.png)
 
-### まとめ
+## まとめ
 
 ルンバから配信される情報を受信して、それに応じた結果をルンバに返すという簡単なノードを作ることができました。
 

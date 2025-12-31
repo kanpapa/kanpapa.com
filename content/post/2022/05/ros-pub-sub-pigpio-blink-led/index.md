@@ -11,7 +11,7 @@ ROS MelodicをインストールしたRaspberry PiのGPIOを使ってLチカを�
 
 ![ros_blink_led.jpg](images/ros_blink_led.jpg)
 
-### pigpioのインストール
+## pigpioのインストール
 
 GPIOを制御するライブラリとしてpigpioを使用します。このRaspberry Piはubuntu 18.04 LTSで動いているので、ソースからbuildを行います。
 
@@ -31,7 +31,7 @@ sudo make install
 
 
 
-### pigpioの動作確認
+## pigpioの動作確認
 
 GPIO17（ピン11）をHighにしてみます。
 
@@ -41,7 +41,7 @@ GPIO17（ピン11）をHighにしてみます。
 
 掲載されているサンプルプログラムを動かしてピン11がHighになることを確認しました。
 
-### ROSのPublisher/Subscriberの実装
+## ROSのPublisher/Subscriberの実装
 
 ROS MelodicのPublisher/Subscriberの仕組みを使ってLチカを実装してみます。ここはツクレルさんの記事を参考にしています。
 
@@ -116,7 +116,7 @@ if __name__ == '__main__':
 
 このPublisher/SubscriberによりGPIOが1Hzの周期でHigh/Lowが設定されます。
 
-### ROSパッケージの作成
+## ROSパッケージの作成
 
 今回のパッケージはgpio_testという名前にして以下の手順で作成しました。Publisherはpub.py、Subscriberはsub.pyとしました。
 
@@ -133,7 +133,7 @@ chmod +x pub.py sub.py
 source ~/.bashrc
 ```
 
-### Lチカの動作確認
+## Lチカの動作確認
 
 このサンプルを動作させてみます。
 

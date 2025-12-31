@@ -14,7 +14,7 @@ image: images/turtlebot3-burger-navigation-rviz3.png
 
 [SLAMで作成した地図データ](https://kanpapa.com/2022/02/turtlebot3-burger-slam1.html "TurtleBot3がやってきた（SLAMで地図を作る編）")を使って自律走行を行います。
 
-### Navigationノードの実行
+## Navigationノードの実行
 
 以下の手順でNavigationノードを実行します。Ubuntu PCで新しくターミナルを開き、ROSマスターを動かします。
 
@@ -40,7 +40,7 @@ $ roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:=$HOME/m
 
 ![turtlebot3-burger-navigation-rviz1.png](images/turtlebot3-burger-navigation-rviz1.png) 
 
-### 初期位置の設定
+## 初期位置の設定
 
 Navigationを実行する前にTurtleBot3の初期位置を設定する必要があります。地図の位置と同じになるように正しく位置決めをしないといけません。これは以下の手順で行います。
 
@@ -72,7 +72,7 @@ $ roslaunch teleop_twist_joy teleop.launch
 
 7\. 初期位置の設定作業が終わったら、DualShock4のコントローラノードのターミナルでCtrl + Cを入力してノードを終了し、Navigator以外のcmd_velのトピックが発生しないようにします。
 
-### 目的地の設定と移動
+## 目的地の設定と移動
 
 地図上のどの地点に移動するかを以下の手順で指定します。
 

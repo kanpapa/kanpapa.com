@@ -13,7 +13,7 @@ image: "images/wisun_prototype_v02_pcb_image.png"
 
 そのためにはWi-SUNモジュールを手軽に使えるようにブレークアウト基板を作ることにしました。
 
-### Wi-SUNブレークアウト基板の設計と発注
+## Wi-SUNブレークアウト基板の設計と発注
 
 KiCADで設計した基板の3Dイメージです。
 
@@ -27,7 +27,7 @@ KiCADデータはGitHubにまとめておきました。こちらは実際に製
 
 - [https://github.com/kanpapa/wisun_prototype_pcb](https://github.com/kanpapa/wisun_prototype_pcb "wisun_prototype_pcb")
 
-### Wi-SUNブレークアウト基板の組み立て
+## Wi-SUNブレークアウト基板の組み立て
 
 JLCPCBさんに発注した基板が到着しました。
 
@@ -41,7 +41,7 @@ JLCPCBさんに発注した基板が到着しました。
 
 こうなってしまうとWi-SUNモジュールのネジ穴が合わなくなります。このまま使うことも可能ですが、コネクタが外れたり、接触不良となる可能性もあるのでやはりネジ止めしたいところです。
 
-### Wi-SUNブレークアウト基板の実装に再挑戦
+## Wi-SUNブレークアウト基板の実装に再挑戦
 
 やむなくもう１枚を使って、基板とコネクタをメンディングテープでしっかり固定し、もう一度慎重にはんだ付けを行います。
 
@@ -55,13 +55,13 @@ USBシリアル変換基板を接続するとこのようになります。今�
 
 ![wisun_prototype_board2_make3.jpg](images/wisun_prototype_board2_make3.jpg)
 
-### Wi-SUNブレークアウト基板の動作確認
+## Wi-SUNブレークアウト基板の動作確認
 
 USBシリアル変換基板にPCを接続し、シリアルターミナルで115200bpsで通信したところ問題なく応答が返って来ました。
 
 ![wisun_prototype_board_terminal1.jpg](images/wisun_prototype_board_terminal1.jpg)
 
-### Wi-SUNブレークアウト基板の応用例
+## Wi-SUNブレークアウト基板の応用例
 
 これでPC上のプログラムでWi-SUNモジュールの制御を行い、瞬間電力量などが取得できるようになります。
 

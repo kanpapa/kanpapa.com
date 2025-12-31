@@ -13,7 +13,7 @@ image: images/MP2_4_body_fin2.jpg
 
 ![](images/MP2_4_arrive_parts1.jpg)
 
-### Raspberry Pi CM4の取り付け
+## Raspberry Pi CM4の取り付け
 
 送っていただいたCM4の箱には確かに技適マークが入っていました。
 
@@ -23,7 +23,7 @@ image: images/MP2_4_body_fin2.jpg
 
 ![](images/MP2_4_install_cm4_1.jpg)
 
-### 腰のサーボモーターユニットの組み立て
+## 腰のサーボモーターユニットの組み立て
 
 中断していた腰の部分の組み立てに入ります。この４個が不足していたパーツです。
 
@@ -53,7 +53,7 @@ image: images/MP2_4_body_fin2.jpg
 
 ![MP2_4_motor_id_set_fin1.png](images/MP2_4_motor_id_set_fin1.png)
 
-### ボディの組み立て
+## ボディの組み立て
 
 次に全面の表示パネルをカスタム基板に接続して、フレームにネジ止めし取り付けます。
 
@@ -77,7 +77,7 @@ image: images/MP2_4_body_fin2.jpg
 
 これでボディは完成です。
 
-### ボディの動作確認
+## ボディの動作確認
 
 この状態で電源を投入してみます。microSDカードはRaspebrry Pi 4で使用していたものをそのまま差し替えました。
 

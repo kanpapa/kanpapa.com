@@ -10,7 +10,7 @@ tags:
 image: "images/mc68ez328_sbc_rev03_prod3.jpg"
 ---
 
-### SBC基板が到着
+## SBC基板が到着
 
 ALLPCBさんに基板を発注してからなんとその週のうちに到着しました。これまでの最短記録ではないでしょうか。
 
@@ -20,7 +20,7 @@ ALLPCBさんに基板を発注してからなんとその週のうちに到着�
 
 ![mc68ez328_sbc_rev03_prod2.jpg](images/mc68ez328_sbc_rev03_prod2.jpg) 
 
-### SBC基板の動作確認
+## SBC基板の動作確認
 
 この状態でSBC単体での動作確認を行います。電源を投入してUSBシリアルを接続し、Entrerキーを押して、ブートストラップモードに入ることを確認しました。
 
@@ -36,19 +36,19 @@ ALLPCBさんに基板を発注してからなんとその週のうちに到着�
 
 フラッシュメモリのEraseとCFI情報も正常に見えます。
 
-### LAN拡張ボードの取り付け
+## LAN拡張ボードの取り付け
 
 残りのパーツを実装してLAN拡張ボードを取り付けます。LANケーブルを接続して、電源を投入し、LAN LEDがチカチカ点滅することまで確認しました。
 
 ![mc68ez328_sbc_rev03_prod3.jpg](images/mc68ez328_sbc_rev03_prod3.jpg)
 
-### uClinuxが動かない
+## uClinuxが動かない
 
 次にブートストラップモードで、[uClinux](https://github.com/kanpapa/MC68EZ328/blob/main/b/uclinux_3_22_Aug_2021_040522.b "uclinux_3_22_Aug_2021_040522.b")をロードしてFlashメモリに書き込んで起動しました。uClinuxは起動できるのですが途中で止まってしまいます。この現象はネットワークが動作していないのが原因ではと思われます。
 
 ![mc68ez328_sbc_rev03_prod_cap4.png](images/mc68ez328_sbc_rev03_prod_cap4.png)
 
-### CS8900Aの接続確認
+## CS8900Aの接続確認
 
 一旦モニタを起動して、CS8900AのProduct Identification Codeを表示する[テストプログラム](https://github.com/kanpapa/MC68EZ328/blob/main/d/cs8900a_check_id.d "cs8900a_check_id.d")を実行したところ、異なるIDが返ってきます。ここでは0E600008となっていますが、正常であれば0E63000Aとなります。
 
@@ -62,7 +62,7 @@ LANボードは接続前にピンヘッダを取り外し、ピンソケット�
 
 ![mc68ez328_sbc_rev03_prod4.jpg](images/mc68ez328_sbc_rev03_prod4.jpg)
 
-### ネットワークの動作確認
+## ネットワークの動作確認
 
 LANボードとの信号も念入りに確認したところ、なぜかIRQ5(負論理）がずっとLOWのままになっているのを見つけました。これはLANボードに問題がありそうだと、CS8900Aのはんだ付けを再確認して無事動くようになりました。これまではかろうじて動いていたところが、コネクタを外す作業で接触不良になってしまったのかもしれません。
 
@@ -72,7 +72,7 @@ CS8900Aテストプログラムでも正しい値が返ってくることも確�
 
 ![mc68ez328_sbc_rev03_prod_cap8.png](images/mc68ez328_sbc_rev03_prod_cap8.png)
 
-### ハードウェアはこれで完成
+## ハードウェアはこれで完成
 
 これでMC68EZ328 SBC + LAN拡張カードのハードウェアは完成です。KiCadデータはGithub.comのmainブランチにマージしておきました。
 

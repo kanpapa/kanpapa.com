@@ -24,7 +24,7 @@ image: "images/aesoc_mackerel_power1.png"
 
 
 
-### スマートメーターから瞬時電力値を取得する
+## スマートメーターから瞬時電力値を取得する
 
 秋月SoC基板にはWi-SUNのモジュールが搭載されています。これを使うと[電力メーター情報発信サービス（Bルートサービス）](https://www.tepco.co.jp/pg/consignment/liberalization/smartmeter-broute.html)が利用できるようです。
 
@@ -48,7 +48,7 @@ Wi-SUNを使用してスマートメーターの情報を取得するまでの�
 
 ![aesoc_smartmeter1.png](images/aesoc_smartmeter1.png)
 
-### サーバ監視を組み込む
+## サーバ監視を組み込む
 
 秋月SoC基板も立派なサーバですのでサーバ監視を行うことにしました。私は[Mackerel](https://mackerel.io/ "Mackerel")というはてなの監視サービスの無料版を使っています。無料版はサーバが5台まで、ログ保持期間が1日などの機能制限はありますが、このブログを立ち上げている[ConoHa VPSサーバ](https://www.conoha.jp/ "ConoHa")や[自宅NanoPiサーバ](https://kanpapa.com/2018/09/armbian-nano-pi-neo-nas-ssd.html "armbianでNano Pi NEO NASをSSDベースのサーバにしてみた")もMackerelで監視していて、障害が起こった場合はアラートが届きます。Raspberry Piなどでも使えるarmのパッケージも公開されています。
 
@@ -62,7 +62,7 @@ Raspberry Piの監視設定の事例はいくつかありますが、今回は�
 
 ![aesoc_mackerel_server1.png](images/aesoc_mackerel_server1.png)
 
-### 瞬時電力値をメトリクスとして監視グラフに追加する
+## 瞬時電力値をメトリクスとして監視グラフに追加する
 
 Mackerelの機能として独自で設定したメトリクスを監視することもできます。瞬時電力量の情報をメトリクスとして取り込むことで、グラフが表示できます。無料版では１日分しか表示できませんが、実験では十分です。
 
@@ -80,7 +80,7 @@ Mackerelの機能として独自で設定したメトリクスを監視するこ
 
 ![aesoc_mackerel_power1.png](images/aesoc_mackerel_power1.png)
 
-### 今後の応用
+## 今後の応用
 
 思わぬところからYoctoによる組み込みLinuxのカスタマイズ方法とＢルートという新たな知見を得ることができました。
 

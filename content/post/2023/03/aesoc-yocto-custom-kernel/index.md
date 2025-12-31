@@ -31,7 +31,7 @@ image: "images/fe738d2dc010c9fac171ea4412c5b8357a7d2bf8.jpg"
 
 
 
-### カスタムレイヤーを追加する
+## カスタムレイヤーを追加する
 
 まずは環境設定をします。
 
@@ -91,7 +91,7 @@ BBLAYERS ?= " \
 "
 ```
 
-### パッチファイルを作成する
+## パッチファイルを作成する
 
 SoCの固有情報が書かれているオリジナルのdtsiファイルをカスタマイズするためのパッチファイルを作成します。作業用にオリジナルのdtsiファイルをホームディレクトリにコピーします。
 
@@ -137,7 +137,7 @@ $ vi 0001-add-uart1-dtsi.patch
 
 作成したパッチファイルは[github](https://github.com/kanpapa/ae-am335x-wisun-3g-board/blob/main/yocto/poky/meta-custom/recipes-kernel/linux/linux-yocto/0001-add-uart1-dtsi.patch "0001-add-uart1-dtsi.patch")に置いておきました。
 
-### パッチを適用するレシピを作成する
+## パッチを適用するレシピを作成する
 
 先ほど作成したパッチファイルをレシピに組み込みます。
 
@@ -163,7 +163,7 @@ $ cp ~/0001-add-uart1-dtsi.patch ~/yocto/poky/meta-custom/recipes-kernel/linux/l
 
 これでレシピの準備ができました。
 
-### カスタムカーネルのビルド
+## カスタムカーネルのビルド
 
 カーネルをビルドします。新しく作成したcustom-imageのレシピを使います。
 
@@ -172,7 +172,7 @@ $ `bitbake` custom-image
 
 ビルドが成功すれば、~/yocto/poky/build/tmp/deploy/images/beaglebone-yocto/custom-image-beaglebone-yocto.wicが生成されます。このwicファイルをmicroSDへの書き込む方法は前回の[秋月電子のSoC基板でyocto-linuxを動かしてみました（その１ 環境構築編）](https://kanpapa.com/2023/03/aesoc-yocto-dunfell.html "秋月電子のSoC基板でyocto-linuxを動かしてみました（その１ 環境構築編）")の手順と同じです。
 
-### 動作確認
+## 動作確認
 
 /dev/ttyS1ができているかをdmesgで確認します。
 
@@ -219,7 +219,7 @@ LEDを消灯する場合はHighにすれば消えます。
 $ echo 1 > /sys/class/gpio/gpio66/value
 ```
 
-### まとめ
+## まとめ
 
 Yoctoやdtsは初心者のためカスタマイズが不十分なところがあるかもしれません。Wi-SUNとも通信できたりできなかったりで不安定です。
 

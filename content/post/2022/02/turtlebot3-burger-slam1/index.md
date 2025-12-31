@@ -14,7 +14,7 @@ image: images/turtlebot3-burger-slam-map1.png
 
 [TurtleBot3のROS環境が整いました](https://kanpapa.com/2022/02/turtlebot3-burger-assembly3.html "TurtleBot3がやってきた（ROSセットアップ編）")ので実際に走行させてみることにします。
 
-### PS4のDualShock4でTurtleBot3を動かす
+## PS4のDualShock4でTurtleBot3を動かす
 
 これまではキーボードでTurtleBot3の移動方向や速度を指示していましたが、これだと少し扱いにくいです。そこでPS4のワイヤレスコントローラー DualShock4で操縦するように設定します。
 
@@ -42,7 +42,7 @@ $ roslaunch teleop_twist_joy teleop.launch
 
 少し慣れが必要ですが、これでTurttleBot3の操縦がしやすくなりました。
 
-### SLAMで地図を作る
+## SLAMで地図を作る
 
 SLAM（Simultaneous Localization and Mapping）は現在の位置を推定して地図を作る技術です。TurtleBot3にはLiDARやエンコーダーといったセンサーが搭載されており、これらの情報を使って地図が作れます。この地図を使って、目的の場所まで自律走行が実現できます。
 
@@ -78,7 +78,7 @@ SLAMノードを動かすと、Rvizが表示されます。
 $ rosrun map_server map_saver -f ~/map
 ```
 
-### 生成された地図の確認
+## 生成された地図の確認
 
 ホームディレクトリを見ると以下の２つのファイルが生成されています。
 

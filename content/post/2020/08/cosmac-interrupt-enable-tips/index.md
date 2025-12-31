@@ -1,6 +1,7 @@
 ---
 title: "COSMACで割り込み許可にしたい場合はどうするか？"
-date: 2020-08-23
+date: 
+2020-08-23
 slug: "cosmac-interrupt-enable-tips"
 categories: 
   - "cosmac"
@@ -19,7 +20,8 @@ Maker Faire Tokyo 2020の準備でお試しデモのシナリオを考えてい�
 
 3. RUN-UでMCSMP20を動かす
 
-5. USBシリアルからCHIP-8インタプリタ($0000-)をロードする。
+5. USBシリアルからCHIP-8インタプリタ($
+0000-)をロードする。
 
 7. MCSMP20からCOSMAC VIP OSを起動する。
 
@@ -64,7 +66,19 @@ RET命令の機能は、M(R(X))→ (X, P); R(X) + 1→R(X), 1→lE です。70, 
 アセンブルすると以下のようになります。とりあえずテストなので$7000に置きました。
 
 ```
-0000- 2             .TF   ie_enable.hex,int0000- 3     *0000- 4     * COSMAC IE enable program0000- 5     * SB-Assembler0000- 6     *0000- 7             .CR   18027000- 8             .OR   $70007000- 9     *7000-70         10 ( 2) START: RET         ; M(R(X))->(X,P); R(X)+1->R(X); 1->IE7001-00         11             .DB   07002-C0 D0 00   12 ( 3)        LBR   $d000 ; Jump to COSMAC VIP OS7005- 13     *7005- 14             .EN
+0000- 2             .TF   ie_enable.hex,int
+0000- 3     *
+0000- 4     * COSMAC IE enable program
+0000- 5     * SB-Assembler
+0000- 6     *
+0000- 7             .CR   1802
+7000- 8             .OR   $7000
+7000- 9     *
+7000-70         10 ( 2) START: RET         ; M(R(X))->(X,P); R(X)+1->R(X); 1->IE
+7001-00         11             .DB   0
+7002-C0 D0 00   12 ( 3)        LBR   $d000 ; Jump to COSMAC VIP OS
+7005- 13     *
+7005- 14             .EN
 ```
 
 このプログラムをMCSMP20のRコマンドで実行したところ、VIP OSが正常に起動できるようになりました。

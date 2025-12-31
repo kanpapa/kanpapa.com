@@ -13,7 +13,7 @@ image: "images/ch552e_prototype1_sch.png"
 
 「[CH55xでどうでしょう](https://shop.rutles.net/?pid=173172319 "CH55xでどうでしょう")」という書籍も持っていて機会があれば使ってみたいと思っていたところです。
 
-### ブレッドボードで組んでみる
+## ブレッドボードで組んでみる
 
 [ピッチ変換基板 \[P-06863\]](https://akizukidenshi.com/ "ＭＳＯＰ（１０ピン　０．５ｍｍピッチ）－ＤＩＰ化変換基板　金フラッシュ　（５枚入）")にCH552Eをハンダ付けして、ブレッドボードで動かしてみます。PCとの接続には[USB-CコネクタDIP化キット \[K-15426\]](https://akizukidenshi.com/ "ＵＳＢｔｙｐｅ－ＣコネクタＤＩＰ化キット（シンプル版エコノミータイプ）")を使いました。
 
@@ -29,7 +29,7 @@ USB-Cの仕様については以下の記事を参考にしています。この
 
 ![ch552e_prototype1_breadboard.jpg](images/ch552e_prototype1_breadboard.jpg)
 
-### CH552Eに書き込めない
+## CH552Eに書き込めない
 
 次にArduino IDEに[ch55xduino](https://github.com/DeqingSun/ch55xduino "ch55xduino")をインストールしました。README.mdにあるようにDFUモードになるようにプッシュスイッチを押しながらPCをUSB-Cコネクタで接続して、blinkスケッチを書き込もうとしましたが、どうしてもCH552Eを認識してくれません。
 
@@ -37,7 +37,7 @@ USB-Cの仕様については以下の記事を参考にしています。この
 
 Twitterで状況をつぶやいたところ、電源ラインにパスコンを入れるといいかもというアドバイスをいただきました。
 
-### パスコン追加で問題解決
+## パスコン追加で問題解決
 
 早速0.1μFのパスコンを電源ラインにいれたところ、何もなかったかのようにあっさりとCH552Eに書き込めました。LEDを接続してLチカが動作することも確認できました。
 
@@ -47,7 +47,7 @@ Twitterで状況をつぶやいたところ、電源ラインにパスコンを�
 
 ![ch552e_prototype2_sch.png](images/ch552e_prototype2_sch.png)
 
-### まとめ
+## まとめ
 
 [ch55xduino](https://github.com/DeqingSun/ch55xduino "ch55xduino")にはさまざまなスケッチ例が入っていて、シンプルな機能が手軽に使えそうです。もう少しブレッドボード上でいろいろ試してみようと思います。
 

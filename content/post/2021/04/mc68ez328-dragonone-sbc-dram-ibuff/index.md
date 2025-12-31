@@ -14,7 +14,7 @@ DRAMへのアクセスの様子をロジアナで確認できるように8バイ
 
 ここでは$00000000番地にD0レジスタの内容を連続してREAD/WRITEするようにしました。繰り返すことでロジアナでも状態が確認しやすくなります。本来なら固定値を書き込みたいところですが、8バイトに納めるためにこのようにしています。
 
-### WRITEプログラム
+## WRITEプログラム
 
 ```
 FFFFFFAA              7          ORG     $FFFFFFAA    ; instruction buffer locationFFFFFFAA              8  START:FFFFFFAA  11C0 0000   9          move.b  d0,$000000FFFFFFAE  60FA       10          bra     STARTFFFFFFB0             11  FFFFFFB0             12          END     START        ; last line of source
@@ -30,7 +30,7 @@ bレコードを読み込ませたあとにロジアナで見てみます。DWE�
 
 ![dragonone_dram_analyze_writerep1.png](images/dragonone_dram_analyze_writerep1.png)
 
-### READプログラム
+## READプログラム
 
 ```
 FFFFFFAA              7          ORG     $FFFFFFAA    ; instruction buffer locationFFFFFFAA              8  START:FFFFFFAA  1038 0000   9          move.b  $000000,d0FFFFFFAE  60FA       10          bra     STARTFFFFFFB0             11  FFFFFFB0             12          END     START        ; last line of source

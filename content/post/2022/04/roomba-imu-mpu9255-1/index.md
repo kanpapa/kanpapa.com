@@ -18,7 +18,7 @@ IMUとしてMPU9255が使えるようですので、以下のドキュメント�
 
 - [https://github.com/RoboticaUtnFrba/create_autonomy/blob/kinetic-devel/sensors/ca_imu/README.md](https://github.com/RoboticaUtnFrba/create_autonomy/blob/kinetic-devel/sensors/ca_imu/README.md "https://github.com/RoboticaUtnFrba/create_autonomy/blob/kinetic-devel/sensors/ca_imu/README.md")
 
-### MPU-9255を入手
+## MPU-9255を入手
 
 今回入手したIMUのモジュールです。
 
@@ -28,7 +28,7 @@ IMUとしてMPU9255が使えるようですので、以下のドキュメント�
 
 
 
-### i2cでIMUを接続
+## i2cでIMUを接続
 
 Raspberry PiとIMUはi2cで接続します。
 
@@ -48,7 +48,7 @@ Raspberry Pi とIMU(MPU9255)の結線図です。
 
 ![roomba_imu2.jpg](images/roomba_imu2.jpg)
 
-### IMUの接続確認
+## IMUの接続確認
 
 i2cdetectを使って接続確認を行います。
 
@@ -60,7 +60,7 @@ i2cdetectを使って接続確認を行います。
 
 まだキャリブレーションを行っていませんが、ある程度の値は取れているようです。ルンバの向きや角度を変えると値が大きく変化します。
 
-### ROSドライバで動かしてみる
+## ROSドライバで動かしてみる
 
 ca_bringup のlaunchファイルにIMUの有効・無効のパラメタがあります。これまではfalseにしていましたが、trueに変更します。
 
@@ -95,7 +95,7 @@ MPU-9255 init complete
 
 ```
 
-### RVizで表示してみる
+## RVizで表示してみる
 
 RVizでIMUを表示すると大きな矢印が真上に表示されます。矢印は細かく振動していてどうやらLiDARの振動が伝わっているようです。
 

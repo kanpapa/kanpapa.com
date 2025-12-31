@@ -15,7 +15,7 @@ image: "images/sbasm2.png"
 
 私の場合は、Windows10の環境で、WSLを使っていますので、そちらにインストールしました。
 
-### WSLでの環境構築の手順
+## WSLでの環境構築の手順
 
 1. まずブラウザでダウンロードします。
 2. ダウンロードしたファイルをWSLのホームディレクトリにコピーします。
@@ -28,7 +28,7 @@ image: "images/sbasm2.png"
 
 
 
-### SB-Assemblerを使ってみる
+## SB-Assemblerを使ってみる
 
 サンプルソースとして先日製作したSBC6809 + SBC-I/OのLチカプログラムを使います。オリジナルのソースは[github](https://github.com/kanpapa/sbc6809/blob/master/sbc-io/TESTLED.ASM "TESTLED.ASM")にありますので参照してください。
 
@@ -86,7 +86,7 @@ WAIT2   INCB
 
 このソースプログラムをSB-Assemblerでアセンブルしてみます。
 
-### SB-Assemblerでアセンブルする
+## SB-Assemblerでアセンブルする
 
 アセンブルは簡単です。ファイル名を指定するだけです。出力ファイルなどはディレクティブで指定しているので他のパラメタはありません。
 

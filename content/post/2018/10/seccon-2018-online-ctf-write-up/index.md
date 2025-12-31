@@ -23,7 +23,7 @@ SECCON 2018 オンラインCTFに参加しました。
 
 
 
-### Unzip (Forensics)
+## Unzip (Forensics)
 
 unzip.zipというファイルが提供されました。Unzip flag.zip.とのことです。
 
@@ -43,7 +43,7 @@ $ date +%s --date "2018-10-27 00:10:42"
 
 この数字の前後の値を試してみるとパスワードが一致しました。
 
-### Special Instructions (Reversing)
+## Special Instructions (Reversing)
 
 問題ではrunmeというファイルが添付されていました。
 
@@ -227,7 +227,7 @@ SECCON{MakeSpecialInstructions}
 
 無事フラグがでてきました。
 
-### 総評
+## 総評
 
 今回は２問ということでたいしたことはできませんでしたが、大好きな「大熱血！アセンブラ入門」本に関係する問題がでたので、これだけは必ず解くぞという感じで取り組んでみました。仮想CPUに触れるよい機会になりましたし、久しぶりに大規模なビルドをすることもできました。
 

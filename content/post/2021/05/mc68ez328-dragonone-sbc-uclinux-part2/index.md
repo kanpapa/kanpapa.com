@@ -10,7 +10,7 @@ tags:
 image: "images/mc68ez328_dragonone_sbc_uclinux_romfs_etc.png"
 ---
 
-### initがみつからない？
+## initがみつからない？
 
 [起動中のメッセージが表示されるようになったDragonOneのuClinux](https://kanpapa.com/2021/05/mc68ez328-dragonone-sbc-uclinux-part1.html "MC68EZ328 DragonOne SBCでuClinuxが起動しました（その１）")ですが、次のような画面で止まってしまいました。
 
@@ -20,7 +20,7 @@ image: "images/mc68ez328_dragonone_sbc_uclinux_romfs_etc.png"
 
 
 
-### エラーが出ている箇所のソースを探す
+## エラーが出ている箇所のソースを探す
 
 カーネルの起動時に表示されているメッセージですから、linux-2.4.xのディレクトリ配下のソースを検索してみました。該当の箇所は以下の部分でした。
 
@@ -44,7 +44,7 @@ initプロセスを立ち上げる部分です。romfsには/bin/initと/bin/sh�
 Blkmem copyright 1998,1999 D. Jeff DionneBlkmem copyright 1998 Kenneth AlbanowskiBlkmem 1 disk images:0: 1006BEE0-100F02DF [VIRTUAL 1006BEE0-100F02DF] (RO) RAMDISK driver initialized: 16 RAM disks of 4096K size 1024 blocksizeVFS: Mounted root (romfs filesystem) readonly.
 ```
 
-### romfsをmountしてみる
+## romfsをmountしてみる
 
 何らかの原因でromfsが正常に読めないのではと、実際のromfs.imgの中身をのぞいてみることにしました。romfsをmountするには以下のようにループバックを指定します。
 
@@ -74,7 +74,7 @@ initが参照する/etc/inittabも存在します。ramfs.imgがありますが�
 
 このような状態で環境としては問題無いようにみえます。
 
-### カーネルからデバック情報を出力してみる
+## カーネルからデバック情報を出力してみる
 
 試しにkernelから情報を表示してみました。uClinux-dist/linux-2.4.x/init/main.cに以下の修正を加えてビルドします。
 
@@ -86,6 +86,6 @@ static void run_init_process(char *init_filename){        argv_init[0] = init_fi
 
 ![mc68ez328_dragonone_sbc_uclinux_init_debug1.png](images/mc68ez328_dragonone_sbc_uclinux_init_debug1.png)
 
-### 動かない原因は何？
+## 動かない原因は何？
 
 以上の結果から、romfsの内容は正しいのですが、正常にmountできておらずkernelからromfsのファイルが読めていない可能性が高そうです。romfsをmountしている箇所を確認してみます。（続く）

@@ -20,7 +20,7 @@ image: "images/mecanum_lesson4_5_run2.jpg"
 
 
 
-### Bluetoothで制御する
+## Bluetoothで制御する
 
 まずはBluetoothでの接続です。OSOYOOさんは[スマートフォン用のアプリ](https://apps.apple.com/jp/app/osoyoo-imitation-driving-car/id1459550861 "Osoyoo Imitation Driving Ca‪r")も提供していて、Apple StoreもしくはGoogle Playからダウンロードできます。これを使って制御を行います。
 
@@ -32,7 +32,7 @@ image: "images/mecanum_lesson4_5_run2.jpg"
 
 実際に動かしてみた動画です。
 
-### WiFiで制御する
+## WiFiで制御する
 
 WiFiもBluetoothと同様の仕組みで、WiFiモジュールをシリアル接続して利用します。このWiFiモジュールはESP系のモジュールのようで、OSOYOOさんから提供されている専用のArduinoライブラリを読み込んでおく必要があります。ESP系のモジュールはすでにArduino Megaに実装した基板にありますので、配線を行うだけです。
 
@@ -50,7 +50,7 @@ APモードもSTAモードもプログラムとしてはそんなに複雑では
 
 BluetoothもWiFiも人間が制御しているわけですが、これまで実験してきた自律的に動くロボットとはことなり、かなり細かい動きができることがわかりました。メカナムホイールロボットの駆動部のポテンシャルが見えたように思います。
 
-### 今後について
+## 今後について
 
 今後はこのメカナムホイールロボットをどのように応用していくかを考えなければなりません。このロボットの目的を明確にした上で、このメカナムホイールロボットを拡張するか、それともこれは実験用と位置付けて、さらに実用的なロボットプラットフォームを模索するなどを考えていくことになります。
 

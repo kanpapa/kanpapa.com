@@ -15,7 +15,7 @@ DualShock4はBluetoothをサポートしているのですが、今回は有線�
 
 ![ros2_joy_ps4_usb1.jpg](images/ros2_joy_ps4_usb1.jpg) 
 
-### DualShock4をLinuxに認識させる
+## DualShock4をLinuxに認識させる
 
 ホストPC(Windows10)のUSBにDualShock4を接続し、VMWareの取り外し可能デバイスのメニューでゲストOS(Ubuntu 20.04)に接続します。
 
@@ -45,7 +45,7 @@ jstest-gtk
 
 ![jstest-gtk-capture1.png](images/jstest-gtk-capture1.png) ![jstest-gtk-capture2.png](images/jstest-gtk-capture2.png)
 
-### ROS2の環境設定を行う
+## ROS2の環境設定を行う
 
 ROS2 foxyではジョイスティックのパッケージが準備されていますので、インストールします。
 
@@ -123,7 +123,7 @@ ros2 topic echo /cmd_vel
 
 ![ros2_joy_ps4_rqtgraph1.png](images/ros2_joy_ps4_rqtgraph1.png)
 
-### ジョイスティックでルンバを動かす
+## ジョイスティックでルンバを動かす
 
 ここまで動作すればあとはルンバと接続するだけです。ルンバのRaspberry Pi 4にログインしてbringupします。
 

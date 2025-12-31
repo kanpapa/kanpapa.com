@@ -12,7 +12,7 @@ image: "images/mc68ez328_dragonone_sbc_uclinux_startup2.png"
 
 以前、[uClinuxのビルド環境までは構築](https://kanpapa.com/2021/03/uclinux-build-ubuntu20-04-wsl.html "68000用のuClinuxをUbuntu 20.04 LTS (WSL環境) でビルドしてみました")しましたが、実際にMC68EZ328の実機上で動かしてみます。DragonOneと同様にシンプルなArcturus社のuCsimmボードのコンフィグレーションを基本として、今回のDragonOne SBC用に修正していきます。
 
-### uClinuxのイメージファイルの作成
+## uClinuxのイメージファイルの作成
 
 まずは、uCsimmボード用のイメージファイルを作ります。Linuxカーネルは2.4系を使います。
 
@@ -20,7 +20,7 @@ DragonOneとuCsimmはメモリマップに違いがあるので、uClinux-dist/l
 
 変更パッチは後程Github.comに登録しておきます。
 
-### モニタにフラッシュ書き込み機能を追加
+## モニタにフラッシュ書き込み機能を追加
 
 ビルドして生成されるimage.binはフラッシュメモリに書き込むためのバイナリデータですので、Bレコードに変換して、ブートローダーに読み込ませ、その後フラッシュ書き込みツールで書き込みます。
 
@@ -28,7 +28,7 @@ DragonOneとuCsimmはメモリマップに違いがあるので、uClinux-dist/l
 
 ![mc68ez328_dragonone_sbc_monitor_flashtool.png](images/mc68ez328_dragonone_sbc_monitor_flashtool.png)
 
-### uClinuxの起動
+## uClinuxの起動
 
 ビルドで生成したimage.bをフラッシュメモリに書き込み、リセットをしたところ何も反応がありません。
 

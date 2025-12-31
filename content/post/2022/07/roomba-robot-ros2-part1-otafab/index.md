@@ -13,7 +13,7 @@ image: "images/otafab_new_lidar1.jpg"
 
 [おおたfab](https://ot-fb.com/ "おおたfab")さんでは、「[素人でもロボットをつくりたい](https://ot-fb.com/iot/6353/ "素人でもロボットをつくりたい")」という勉強会を定期的に行っています。おおたfabさんのルンバロボットの[LiDARが壊れてしまった](https://kanpapa.com/2022/07/slamtec-rplidar-stopped.html "LiDARが壊れました")ので、その交換とROS2化を行いました。
 
-### ROS2のセットアップ
+## ROS2のセットアップ
 
 おおたfabの勉強会ではROS1 Melodicで実験を行ってきました。ROS2 Foxyでも問題なくルンバが動くことがわかったので、ROS2環境で再セットアップを行います。
 
@@ -27,7 +27,7 @@ image: "images/otafab_new_lidar1.jpg"
 
 ![otafab_new_lidar1.jpg](images/otafab_new_lidar1.jpg)
 
-### SLAMを試してみる
+## SLAMを試してみる
 
 おおたfabさんの事務所は広いので実験環境としては最適です。まずはSLAMを行ってみました。
 
@@ -41,7 +41,7 @@ SLAM中の動画をYouTubeにアップしておきました。
 
 {{< youtube 4iNM4a9ow-k >}}
 
-### Nav2を試してみる
+## Nav2を試してみる
 
 SLAMで作成したmapをつかってナビゲーションを行ってみました。これもうまく動きます。ROS1にくらべて精度が良くなっているように思えます。
 
@@ -57,6 +57,6 @@ SLAMで作成したmapをつかってナビゲーションを行ってみまし�
 
 {{< youtube 8sHeUIRt8Z4 >}}
 
-### 今後の取り組み
+## 今後の取り組み
 
 LiDARが変更になったのでベースのLiDAR取り付け部の修正が必要です。これまで製作していた受付システムや可動部のモーター制御などをROS2で動くようにしていきます。

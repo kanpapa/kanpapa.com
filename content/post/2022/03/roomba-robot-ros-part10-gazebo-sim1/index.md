@@ -23,7 +23,7 @@ image: "images/roomba_slam_otafab_gazebo_sim1.png"
 
 
 
-### 作成したworldモデルでgmapping-SLAMを行う
+## 作成したworldモデルでgmapping-SLAMを行う
 
 １．map2worldで生成されたWorldモデルをgazebo環境にコピーする。
 
@@ -68,7 +68,7 @@ SLAM実行中のrqt_graphです。
 
 ![rosgraph20220316-slam1.png](images/rosgraph20220316-slam1.png)
 
-### 作成したworldモデルでNavigation（自律走行）を行う
+## 作成したworldモデルでNavigation（自律走行）を行う
 
 1\. Navigationを行う場合は以下のディレクトリにmap.pgm、map.yamlをコピーします。
 
@@ -85,7 +85,7 @@ export LASER=rplidar
 roslaunch ca_gazebo create_otafab1.launch
 ```
 
-### Navigationの様子
+## Navigationの様子
 
 Navigationを行っている様子をYouTubeにアップしておきました。
 

@@ -16,7 +16,7 @@ image: images/esp32-otafab-study-microsd_sparkfun1.jpg
 
 今回はESP32でmicroSDを読み書きしてみます。これを利用して収集したデータをmicroSDに蓄積したり、あらかじめ作成したデータを読み込んで利用することもできるようになります。
 
-### 材料
+## 材料
 
 - [ブレッドボード 6穴版 \[112366\]](https://akizukidenshi.com/catalog/g/g112366/)
 
@@ -32,7 +32,7 @@ image: images/esp32-otafab-study-microsd_sparkfun1.jpg
 
 - [Arduino IDE ESP32がインストールされたPC](https://kanpapa.com/2022/12/esp32-otafab-study-arduino.html "ESP32のArduino開発環境をつくりました（おおたfab 電子工作初心者勉強会）")
 
-### microSDカードスロットの接続
+## microSDカードスロットの接続
 
 ESP32-DEVKITCとmicroSDカードスロット変換基板の接続は以下のようにしました。microSDカードスロット基板は各社でピン名称が異なるようですので注意してください。
 
@@ -67,7 +67,7 @@ ESP32-DEVKITCとmicroSDカードスロット変換基板の接続は以下のよ
 | 9 SWB | 未使用 |
 | 10 SWA | 未使用 |
 
-### サンプルプログラムの書き込み
+## サンプルプログラムの書き込み
 
 Arduino IDEでmicroSD用のサンプルプログラムがSD_Test.inoが用意されているのでこれを使います。プログラムは以下の場所にあります。
 
@@ -125,6 +125,6 @@ Used space: 1MB
 
 詳細はプログラムを参照してください。
 
-### まとめ
+## まとめ
 
 microSDのライブラリを使うことで簡単なプログラムでmicroSDカードの読み書きを行うことができました。サンプルプログラムの[SD_Test.ino](https://github.com/espressif/arduino-esp32/blob/master/libraries/SD/examples/SD_Test/SD_Test.ino "SD_Test.ino")には基本的なmicroSDカードに対する操作が含まれていますので参考になると思います。

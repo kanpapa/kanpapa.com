@@ -9,7 +9,7 @@ image: "images/willcomD4_20080528233044.jpg"
 
 六本木でやっているWILLCOMの新製品のタッチ＆トライに出かけてきました。
 
-### WILLCOM 03の印象
+## WILLCOM 03の印象
 
 - Advanced\[es\]より小さく軽い。（比較写真参照）
 - 閉じた状態だと思ったほど使いやすくない。私自身はXcrawlのほうが好み。
@@ -19,7 +19,7 @@ image: "images/willcomD4_20080528233044.jpg"
 
 ![](images/willcom03_20080528132848.jpg)
 
-### WILLCOM D4の印象
+## WILLCOM D4の印象
 
 - 速度はそこそこで使えそう。
 - ちゃんとVistaが動いていた。

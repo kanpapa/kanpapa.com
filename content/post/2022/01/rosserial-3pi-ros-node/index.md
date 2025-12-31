@@ -20,7 +20,7 @@ rosserialのクライアントライブラリで小さなマイコンでもROS�
 
 
 
-### 3pi robotの開発環境をArduino IDEに設定する
+## 3pi robotの開発環境をArduino IDEに設定する
 
 Arduino IDEの3pi用のライブラリやサンプルソースが準備されていますので、以下のドキュメント通りにインストールします。
 
@@ -28,7 +28,7 @@ Arduino IDEの3pi用のライブラリやサンプルソースが準備されて
 
 3piへの書き込みは以前は純正のATMEL AVRISP mkIIを使っていたのですが、見つからなかったので新たに[Pololu USB AVRプログラマ v2.1](https://www.switch-science.com/catalog/3870/ "Pololu USB AVRプログラマ v2.1")を購入しました。[スイッチサイエンス](https://www.switch-science.com/ "スイッチサイエンス")さんで取り扱っているので入手は容易ですし、小型でLEDがカッコよく光ります。
 
-### XBeeの設定
+## XBeeの設定
 
 XBeeの設定を行うためには、専用のユーティリティ[XCTU](https://www.digi.com/products/embedded-systems/digi-xbee/digi-xbee-tools/xctu "XCTU")を使います。また、手持ちのXBeeをUSBシリアルに接続できる基板（秋月電子の[XBee USBインターフェースボードキット](https://akizukidenshi.com/catalog/g/gK-06188/ "XBee USBインターフェースボードキット")相当）にXBeeを取り付けてPCのUSBに接続します。この状態でXCTUを立ち上げたところXBeeを認識できました。
 
@@ -52,7 +52,7 @@ XBeeをUSBシリアルに接続できる基板に親機となるXBeeを載せて
 
 ![rosserial_xbee_serial_test.jpg](images/rosserial_xbee_serial_test.jpg)
 
-### XBeeを3piに接続する
+## XBeeを3piに接続する
 
 子機のXBeeを3piのATmega328Pのシリアルポートに接続します。ちょうど[3piの拡張用基板](https://www.pololu.com/product/979 "3pi Expansion Kit with Cutouts")があったので、これに秋月電子の[XBee用2.54mmピッチ変換基板](https://akizukidenshi.com/catalog/g/gP-05060/ "XBee用2.54mmピッチ変換基板")を半田付けします。5V電源は3piのコネクタから供給され、XBee変換基板に搭載されている3.3VレギュレーターでXBeeに3.3V電源が供給されます。しかし、3piのシリアル信号は5Vのままですので、途中に[4ビット双方向ロジックレベル変換モジュール(BSS138使用)](https://akizukidenshi.com/catalog/g/gK-13837/ "4ビット双方向ロジックレベル変換モジュール(BSS138使用)")を入れることでシリアル信号の電圧レベルを合わせました。これで3piとXBeeの接続は完了です。
 
@@ -60,7 +60,7 @@ m3piで使っていたSlaveプログラムのままで、この基板を接続�
 
 ![rosserial_3pi_xbee_comtest1.jpg](images/rosserial_3pi_xbee_comtest1.jpg)
 
-### rosserialをインストールする
+## rosserialをインストールする
 
 インストールはROSのチュートリアルに従って進めました。
 
@@ -68,7 +68,7 @@ m3piで使っていたSlaveプログラムのままで、この基板を接続�
 
 今回はubuntu18.04のROS Melodicにインストールしました。このあとにインストールされたArduino用のrosライブラリをWindowsのDocuments\\Arduino\\libraries\\ros_libにコピーしています。
 
-### rosserialのチュートリアルを3piで動かす
+## rosserialのチュートリアルを3piで動かす
 
 チュートリアルのソースコードを参考に、3pi robotで動作確認ができるように修正しました。
 
@@ -77,7 +77,7 @@ m3piで使っていたSlaveプログラムのままで、この基板を接続�
 - [rosserial_3pi_helloworld.ino](https://github.com/kanpapa/rosserial_arduino_3pi/blob/main/Arduino/rosserial_3pi_helloworld/rosserial_3pi_helloworld.ino "rosserial_3pi_helloworld.ino")
 - [rosserial_3pi_blink.ino](https://github.com/kanpapa/rosserial_arduino_3pi/blob/main/Arduino/rosserial_3pi_blink/rosserial_3pi_blink.ino "rosserial_3pi_blink.ino")
 
-### 3piのモーターを動かすトピックを実装する
+## 3piのモーターを動かすトピックを実装する
 
 モーターを動かすためのsubscriberを書いてみました。/cmd_vel のトピックに従ってモーターが動くシンプルなものです。
 
@@ -121,7 +121,7 @@ $ rostopic pub -1 /cmd_vel geometry_msgs/Twist -- '[0.0, 0.0, 0.0]' '[0.0, 0.0, 
 
 ROSのトピックでモーターの制御ができました。
 
-### キーボードで3pi robotを動かしてみる
+## キーボードで3pi robotを動かしてみる
 
 これまでルンバをキーボードを動かしてきましたが同じことができるはずです。
 
@@ -146,6 +146,6 @@ $ sudo apt install ros-melodic-teleop-twist-keyboard$ rosrun teleop_twist_keyboa
 
 {{< youtube f1ylQWFJX2M >}}
 
-### 今後の計画
+## 今後の計画
 
 3piにはセンサーやプッシュスイッチがついているので、これらの状態をpublishすることもできると思いますが、それはまた次回で。

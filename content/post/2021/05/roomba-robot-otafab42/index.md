@@ -15,7 +15,7 @@ image: "images/Roomba-robot-otafab42_enorder2.jpg"
 
 [第41回（4月3日)](https://kanpapa.com/2021/04/Roomba-robot-1.html "ルンバをArduinoで制御してみました。（おおたfab 第41回 素人でもロボットをつくりたい）")ではArduinoからルンバに対してコマンドを送ってモーターを動かしました。第42回（4月17日）はルンバのセンサーデータをArduinoで読み取ることを試してみます。
 
-### ルンバから読み取れるデータ
+## ルンバから読み取れるデータ
 
 ルンバにはいろいろなセンサーが取り付けられています。障害物に接触したことを検知するバンパーやモーターの回転数を読み取るエンコーダー、各種スイッチが押されたかを読み取るなどが考えられます。
 
@@ -24,7 +24,7 @@ image: "images/Roomba-robot-otafab42_enorder2.jpg"
 ![Roomba-robot-otafab42_encorder1.jpg](images/Roomba-robot-otafab42_encorder1.jpg)
 
 
-### エンコーダーの仕様を確認
+## エンコーダーの仕様を確認
 
 仕様を確認しようと、仕様書を探したところ、500系のルンバ用のマニュアルと、600系のマニュアルがありました。今回入手したルンバは600系なので600系の仕様書を使うことにします。細かくは確認していませんが、若干異なる部分がありそうです。
 
@@ -55,13 +55,13 @@ Packet IDの仕様によると、左側と右側で別々に値がとれるよ�
 - [ArduinoからRoombaをSoftware Serialで動かす](https://qiita.com/legokichi/items/36a13e68722c51c72927 "ArduinoからRoombaをSoftware Serialで動かす")
 - [iRobot create2 (Arduino-Roomba) create 2を動かす方法とエンコーダーの値を取得する方法についてまとめる](https://www.media.lab.uec.ac.jp/?page_id=697 "iRobot create2 (Arduino-Roomba) create 2を動かす方法とエンコーダーの値を取得する方法についてまとめる")
 
-### Arduinoのプログラム
+## Arduinoのプログラム
 
 ルンバ600の仕様書やWebサイトの情報からArduinoのプログラムをつくりました。ソースはGitHub.comに置きました。
 
 - [docofab/RoombaControlls/Sample/Roomba0417/Roomba0417.ino](https://github.com/docofab/RoombaControlls/blob/main/Sample/Roomba0417/Roomba0417.ino "Roomba0417.ino")
 
-### エンコーダーの値を読み取ってみる
+## エンコーダーの値を読み取ってみる
 
 ルンバに接続したArduinoでプログラムを動かして、モーターの軸を手で回転させてみます。
 

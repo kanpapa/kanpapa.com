@@ -13,7 +13,7 @@ image: "images/ros2-foxy-roomba-slam-rviz.jpg"
 
 ![ros2-foxy-roomba-base1.jpg](images/ros2-foxy-roomba-base1.jpg) 
 
-### ネットワーク経由でトピックを受信する
+## ネットワーク経由でトピックを受信する
 
 すでにルンバからTopicが送信されることは確認しています。複数のコンピュータを接続して使用する場合はDOMAINを設定する必要があります。同じドメインのものだけが通信できます。
 
@@ -37,7 +37,7 @@ ros2 topic list
 
 問題がなければこの状態でルンバから流れてくるtopicが見えます。ただし私の場合はしばらくするとtopicが急に消えたりして安定してtopicを確認することができませんでした。いろいろ調べたところどうもWiFiルーターの問題のようで、WiFiルーターを別のものに変えたら全く問題がなくなりました。この機会に新しいWiFiルーターに交換することで対応しました。
 
-### Rvizで可視化してみる
+## Rvizで可視化してみる
 
 topicが流れる状態になったら、Rvizで可視化してみます。まずはRviz2を起動します。
 
@@ -58,7 +58,7 @@ Rviz2が起動したら以下のように表示項目を追加します。
 
 これらの情報を使ってSLAMで環境地図を作っていきます。
 
-### SLAMを動かす
+## SLAMを動かす
 
 ルンバのドライバがRaspberry Piで動いていることを確認したあとに、以下のコマンドを入力します。
 
@@ -77,7 +77,7 @@ ros2 run turtlebot3_teleop teleop_keyboard
 
 ![ros2-foxy-roomba-slam-rviz.jpg](images/ros2-foxy-roomba-slam-rviz.jpg)
 
-### 環境地図を保存する
+## 環境地図を保存する
 
 mapができたら以下のコマンドで保存します。
 

@@ -14,7 +14,7 @@ start_kernelの続きです。ちょうどフリマで購入した参考書が�
 
 ![mc68ez328_dragonone_sbc_uclinux_part5_kernel_book.jpg](images/mc68ez328_dragonone_sbc_uclinux_part5_kernel_book.jpg) 
 
-### 再びstart_kernelの続きから
+## 再びstart_kernelの続きから
 
 前回追ったsetup_arch()から戻ってくると、次はコマンドラインを表示します。今回は0を入れたのでコマンドラインには何も表示されません。parse_options()もコマンドラインに何もないので飛ばします。
 
@@ -37,7 +37,7 @@ console_init();
 
 ```
 
-### コンソールの初期化
+## コンソールの初期化
 
 console_init()は、drivers/char/tty_io.cにありました。ttyのでディスクリプタを登録したあとに、termioを設定しています。その後にm68328_console_init()を呼びます。
 
@@ -89,7 +89,7 @@ register_console(&m68328_driver);
 
 ```
 
-### カーネルの初期化
+## カーネルの初期化
 
 start_kernelに戻ります。以降も初期化が続きますが、mountとは直接関係ないので飛ばします。
 
@@ -132,7 +132,7 @@ smp_init();
 
 ```
 
-### initスレッドの生成
+## initスレッドの生成
 
 rest_init()はinit/main.cにあります。ここでinitスレッドを起動し、cpu_idle()に入ります。
 

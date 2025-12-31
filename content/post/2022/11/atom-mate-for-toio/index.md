@@ -17,7 +17,7 @@ image: images/AtomMate_and_toio_20221119.jpg
 
 toioって何というかたは[Sonyのtoioを買ってみました](https://kanpapa.com/2022/06/toio-helloworld.html "Sonyのtoioを買ってみました")の記事をご覧ください。
 
-### Atom Mate For toioとは
+## Atom Mate For toioとは
 
 SONYの[toioコアキューブ](https://www.switch-science.com/products/6300 "toioコアキューブ")とM5StackのATOMシリーズを組み合わせて、Atom Mate for toio内蔵の距離センサーを使うことで自律走行などができるようです。
 
@@ -27,7 +27,7 @@ SONYの[toioコアキューブ](https://www.switch-science.com/products/6300 "to
 
 ![AtomMateFor_toio_20221117.jpg](images/AtomMateFor_toio_20221117.jpg) 
 
-### ATOM Mate for toioを観察する
+## ATOM Mate for toioを観察する
 
 ATOM Mate for toioはtoioの上に載せているだけです。
 
@@ -41,7 +41,7 @@ ATOM Mate for toioはtoioの上に載せているだけです。
 
 左側にスライドすると電源OFFとなり、この状態でATOMにUSBケーブルを接続すると、ATOM Mate for toioに充電ができます。満充電になると赤いLEDが消え、緑のLEDが点灯します。右側にスライドすると電源ONとなりtoioの電源が入っていれば無線で接続されます。
 
-### サンプルプログラムを動かしてみる
+## サンプルプログラムを動かしてみる
 
 サンプルプログラムはUiFlowで動くとのことなので、早速ATOM MatrixでUiFlowを動かしたところtoioの機能が追加されていました。
 
@@ -53,7 +53,7 @@ toioとの接続が切れている場合はATOM Matrixのボタン（マトリ�
 
 実にシンプルなUiFlowプログラムですが、これだけで動画のような動きができます。
 
-### まとめ
+## まとめ
 
 [ATOM](https://www.switch-science.com/products/8500 "Atom Mate For toio") [Mate for toio](https://www.switch-science.com/products/8500 "Atom Mate For toio")はtoioの上に載っているだけです。何かの電線やコネクタでATOM matrixとつながっているわけではありません。
 
