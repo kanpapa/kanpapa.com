@@ -22,8 +22,6 @@ image: "images/aesoc_mackerel_power1.png"
 
 今回はこのハードウェアを活かしたアプリケーションを載せてみます。
 
-
-
 ## スマートメーターから瞬時電力値を取得する
 
 秋月SoC基板にはWi-SUNのモジュールが搭載されています。これを使うと[電力メーター情報発信サービス（Bルートサービス）](https://www.tepco.co.jp/pg/consignment/liberalization/smartmeter-broute.html)が利用できるようです。
@@ -41,7 +39,19 @@ Wi-SUNを使用してスマートメーターの情報を取得するまでの�
 他にも含めたいものがあったので、build/conf/local.confに以下の記述を追加してbitbake core-image-minimalでビルドしました。
 
 ```
-# Permit root login without a passwordEXTRA_IMAGE_FEATURES += " debug-tweaks"# Enable SSH accessEXTRA_IMAGE_FEATURES += " ssh-server-dropbear"# Python3CORE_IMAGE_EXTRA_INSTALL += " python3 python3-pip"# ntpCORE_IMAGE_EXTRA_INSTALL += " ntp ntpdate"# systemdDISTRO_FEATURES += " systemd"DISTRO_FEATURES_BACKFILL_CONSIDERED += "sysvinit"VIRTUAL-RUNTIME_init_manager = "systemd"VIRTUAL-RUNTIME_initscripts = "systemd-compat-units"
+# Permit root login without a password
+EXTRA_IMAGE_FEATURES += " debug-tweaks"
+# Enable SSH access
+EXTRA_IMAGE_FEATURES += " ssh-server-dropbear"
+# Python3
+CORE_IMAGE_EXTRA_INSTALL += " python3 python3-pip"
+# ntp
+CORE_IMAGE_EXTRA_INSTALL += " ntp ntpdate"
+# systemd
+DISTRO_FEATURES += " systemd"
+DISTRO_FEATURES_BACKFILL_CONSIDERED += "sysvinit"
+VIRTUAL-RUNTIME_init_manager = "systemd"
+VIRTUAL-RUNTIME_initscripts = "systemd-compat-units"
 ```
 
 すでに同様に試されたかたの情報があり、その修正を行った上でPythonプログラムを動かしたところ電力量が表示されました。

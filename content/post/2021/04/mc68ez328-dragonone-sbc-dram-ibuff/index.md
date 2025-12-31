@@ -17,7 +17,12 @@ DRAMへのアクセスの様子をロジアナで確認できるように8バイ
 ## WRITEプログラム
 
 ```
-FFFFFFAA              7          ORG     $FFFFFFAA    ; instruction buffer locationFFFFFFAA              8  START:FFFFFFAA  11C0 0000   9          move.b  d0,$000000FFFFFFAE  60FA       10          bra     STARTFFFFFFB0             11  FFFFFFB0             12          END     START        ; last line of source
+FFFFFFAA              7          ORG     $FFFFFFAA    ; instruction buffer location
+FFFFFFAA              8  START:
+FFFFFFAA  11C0 0000   9          move.b  d0,$000000
+FFFFFFAE  60FA       10          bra     START
+FFFFFFB0             11  
+FFFFFFB0             12          END     START        ; last line of source
 ```
 
 これをbレコードにすると次のようになります。
@@ -33,7 +38,12 @@ bレコードを読み込ませたあとにロジアナで見てみます。DWE�
 ## READプログラム
 
 ```
-FFFFFFAA              7          ORG     $FFFFFFAA    ; instruction buffer locationFFFFFFAA              8  START:FFFFFFAA  1038 0000   9          move.b  $000000,d0FFFFFFAE  60FA       10          bra     STARTFFFFFFB0             11  FFFFFFB0             12          END     START        ; last line of source
+FFFFFFAA              7          ORG     $FFFFFFAA    ; instruction buffer location
+FFFFFFAA              8  START:
+FFFFFFAA  1038 0000   9          move.b  $000000,d0
+FFFFFFAE  60FA       10          bra     START
+FFFFFFB0             11  
+FFFFFFB0             12          END     START        ; last line of source
 ```
 
 これをbレコードにすると次のようになります。

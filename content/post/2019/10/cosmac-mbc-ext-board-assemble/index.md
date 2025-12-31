@@ -37,13 +37,24 @@ image: "images/cosmac_mbc_ex_make3.jpg"
 適当なメモリの内容を出力ポートに出力するシンプルなもの
 
 ```
-0000-E3     START SEX 30001-65     LOOP1 OUT 50002-30 01        BR LOOP1!M0 E3 65 30 01$P0
+0000-E3     START SEX 3
+0001-65     LOOP1 OUT 5
+0002-30 01        BR LOOP1
+
+!M0 E3 65 30 01
+$P0
 ```
 
 カウンタの内容を出力ポートに出力するもの
 
 ```
-0000-E3     START SEX 30001 F8 00        LDI 00003-B3           PHI 30004-F8 31        LDI #$310006-A3           PLO 30007-84     LOOP1 GLO 40008-53           STR 30009-65           OUT 5000A-23           DEC 3000B-14           INC 4000C-30 07        BR LOOP1!M0 E3 F8 00 B3 F8 31 A3 84 53 65 23 14 30 07$P0
+0000-E3     START SEX 30001 F8 00        LDI 0
+0003-B3           PHI 3
+0004-F8 31        LDI #$31
+0006-A3           PLO 3
+0007-84     LOOP1 GLO 4
+0008-53           STR 3
+0009-65           OUT 5000A-23           DEC 3000B-14           INC 4000C-30 07        BR LOOP1!M0 E3 F8 00 B3 F8 31 A3 84 53 65 23 14 30 07$P0
 ```
 
 入力ポートの確認プログラム
@@ -51,7 +62,18 @@ image: "images/cosmac_mbc_ex_make3.jpg"
 入力ポートの状態をそのまま出力ポートに出力するプログラム
 
 ```
-0000-F8 0D  START LDI #$0D0002-A5           PLO 50003 F8 00        LDI 00005 B5           PHI 50006-E5           SEX 50007-6E     LOOP1 INP 60008-65           OUT 50009-25           DEC 5000A-30 07        BR LOOP1 !M0 F8 0D A5 F8 00 B5 E5 6E 65 25 30 07$P0
+0000-F8 0D  START LDI #$0D
+0002-A5           PLO 5
+0003 F8 00        LDI 0
+0005 B5           PHI 5
+0006-E5           SEX 5
+0007-6E     LOOP1 INP 6
+0008-65           OUT 5
+0009-25           DEC 5
+000A-30 07        BR LOOP1
+
+!M0 F8 0D A5 F8 00 B5 E5 6E 65 25 30 07
+$P0
 ```
 
 これですべての動作確認が完了しました。今の状態でも正常に動作はするのですが、正しい情報を回路図に反映して修正版の基板のガーバーデータを作成しました。合わせて電源ラインの見直し、コネクタの方向の修正、シルクの追加なども行っています。

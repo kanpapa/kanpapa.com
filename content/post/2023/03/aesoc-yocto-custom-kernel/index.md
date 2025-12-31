@@ -66,7 +66,13 @@ $ vi recipes-core/images/custom-image.bb
 修正後のcustom-image.bbは以下のようになります。今回はSUMMARYの行だけ少し手を入れ、他の行は変更していません。ROOTFSのサイズもここで変更できそうですね。
 
 ```
-SUMMARY = "My custom Linux image for Akizuki AM3352 SoC board."IMAGE_INSTALL = "packagegroup-core-boot ${CORE_IMAGE_EXTRA_INSTALL}"IMAGE_LINGUAS = " "LICENSE = "MIT"inherit core-imageIMAGE_ROOTFS_SIZE ?= "8192"IMAGE_ROOTFS_EXTRA_SPACE_append = "${@bb.utils.contains("DISTRO_FEATURES",  \"systemd", " + 4096", "" ,d)}"
+SUMMARY = "My custom Linux image for Akizuki AM3352 SoC board."
+IMAGE_INSTALL = "packagegroup-core-boot ${CORE_IMAGE_EXTRA_INSTALL}"
+IMAGE_LINGUAS = " "
+LICENSE = "MIT"
+inherit core-image
+IMAGE_ROOTFS_SIZE ?= "8192"
+IMAGE_ROOTFS_EXTRA_SPACE_append = "${@bb.utils.contains("DISTRO_FEATURES",  \"systemd", " + 4096", "" ,d)}"
 ```
 
 次にこのカスタムレイヤーを認識するようにbblayers.confを修正してパスを追加します。
@@ -96,13 +102,16 @@ BBLAYERS ?= " \
 SoCの固有情報が書かれているオリジナルのdtsiファイルをカスタマイズするためのパッチファイルを作成します。作業用にオリジナルのdtsiファイルをホームディレクトリにコピーします。
 
 ```
-$ cd ~/yocto/poky/build/tmp/work-shared/beaglebone-yocto/kernel-source/arch/arm/boot/dts$ cp am335x-bone-common.dtsi ~/am335x-bone-common.dtsi.orig
+$ cd ~/yocto/poky/build/tmp/work-shared/beaglebone-yocto/kernel-source/arch/arm/boot/dts
+$ cp am335x-bone-common.dtsi ~/am335x-bone-common.dtsi.orig
 ```
 
 ホームディレクトリにコピーしたオリジナルファイルをさらにコピーして修正します。
 
 ```
-$ cd $ cp am335x-bone-common.dtsi.orig am335x-bone-common.dtsi$ vi am335x-bone-common.dtsi
+$ cd 
+$ cp am335x-bone-common.dtsi.orig am335x-bone-common.dtsi
+$ vi am335x-bone-common.dtsi
 ```
 
 修正したdtsiファイルは長くなるので[github](https://github.com/kanpapa/ae-am335x-wisun-3g-board/blob/main/dts/am335x-bone-common.dtsi "am335x-bone-common.dtsi")にいれておきました。なお、すでにdtsファイルを作成されていたかたもいましたのでこちらの情報も参考にさせていただきました。

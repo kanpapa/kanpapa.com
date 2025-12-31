@@ -26,26 +26,37 @@ $ sudo usermod -G dialout ユーザ名$ sudo usermod -G uucp ユーザ名$ group
 ここで、PepperをKURO-SHEEVAに接続してみます。syslogを確認します。
 
 ```
-$ sudo tail /var/log/messagesMar 20 08:13:40 debian kernel: usb 1-1: new low speed USB device using orion-ehci and address 2Mar 20 08:13:40 debian kernel: usb 1-1: config 1 interface 1 altsetting 0 endpoint 0x1 is Bulk; changing to InterruptMar 20 08:13:40 debian kernel: usb 1-1: config 1 interface 1 altsetting 0 endpoint 0x81 is Bulk; changing to InterruptMar 20 08:13:40 debian kernel: usb 1-1: configuration #1 chosen from 1 choiceMar 20 08:13:40 debian kernel: cdc_acm 1-1:1.0: ttyACM0: USB ACM deviceMar 20 08:13:40 debian kernel: usbcore: registered new interface driver cdc_acmMar 20 08:13:40 debian kernel: cdc_acm: v0.26:USB Abstract Control Model driver for USB modems and ISDN adapters
+$ sudo tail /var/log/messages
+Mar 20 08:13:40 debian kernel: usb 1-1: new low speed USB device using orion-ehci and address 2
+Mar 20 08:13:40 debian kernel: usb 1-1: config 1 interface 1 altsetting 0 endpoint 0x1 is Bulk; changing to Interrupt
+Mar 20 08:13:40 debian kernel: usb 1-1: config 1 interface 1 altsetting 0 endpoint 0x81 is Bulk; changing to Interrupt
+Mar 20 08:13:40 debian kernel: usb 1-1: configuration #1 chosen from 1 choice
+Mar 20 08:13:40 debian kernel: cdc_acm 1-1:1.0: ttyACM0: USB ACM device
+Mar 20 08:13:40 debian kernel: usbcore: registered new interface driver cdc_acm
+Mar 20 08:13:40 debian kernel: cdc_acm: v0.26:USB Abstract Control Model driver for USB modems and ISDN adapters
 ```
 
 認識されているようです。  
 デバイス名はttyACM0とのことなので、パーミッションを確認します。
 
 ```
-$ ls -l /dev/ttyACM0crw-rw---- 1 root dialout 166, 0 Mar 20 08:13 /dev/ttyACM0$
+$ ls -l /dev/ttyACM0
+crw-rw---- 1 root dialout 166, 0 Mar 20 08:13 /dev/ttyACM0
+$
 ```
 
 dialoutグループに登録しているので、アクセスできるはずです。
 
 ```
-$ cu -l /dev/ttyACM0Connected.
+$ cu -l /dev/ttyACM0
+Connected.
 ```
 
 接続しました。ここで ?\* と入力すると、
 
 ```
-$ cu -l /dev/ttyACM0Connected.?1.0.0.0,pepper,20090621*
+$ cu -l /dev/ttyACM0
+Connected.?1.0.0.0,pepper,20090621*
 ```
 
 こんな感じでバージョン情報が表示されます。cuから抜ける場合は ~. です。  
@@ -53,7 +64,8 @@ $ cu -l /dev/ttyACM0Connected.?1.0.0.0,pepper,20090621*
 次にPepperを制御するためにRubyをセットアップします。
 
 ```
-$ sudo apt-get install ruby $ sudo apt-get install rubygems1.8
+$ sudo apt-get install ruby
+$ sudo apt-get install rubygems1.8
 ```
 
 gainerのパッケージがあるのでしょうか？
@@ -68,7 +80,13 @@ $
 エレキジャックのページにおいてあるパッケージを持ってきます。
 
 ```
-$ wget http://www.eleki-jack.com/FC/2009/12/30/gainer-0.0.2.gem$ ls -l total 7-rw-r--r-- 1 ocha ochanet 7168 Dec 30 09:21 gainer-0.0.2.gem$ sudo gem install gainer-0.0.2.gemSuccessfully installed gainer-0.0.21 gem installed
+$ wget http://www.eleki-jack.com/FC/2009/12/30/gainer-0.0.2.gem
+$ ls -l
+total 7
+-rw-r--r-- 1 ocha ochanet 7168 Dec 30 09:21 gainer-0.0.2.gem
+$ sudo gem install gainer-0.0.2.gem
+Successfully installed gainer-0.0.21
+gem installed
 ```
 
 シリアルポートを制御するパッケージも持ってきます。
@@ -89,13 +107,13 @@ mkmfが無いとおこられてしまいました。
 makeをインストールします。
 
 ```
-$ sudo apt-get install make$
+$ sudo apt-get install make
 ```
 
 もういちどシリアルポートをインストール
 
 ```
-$ sudo gem install ruby-serialportsudo: unable to resolve host debianBuilding native extensions. This could take a while...Successfully installed ruby-serialport-0.7.01 gem installedInstalling ri documentation for ruby-serialport-0.7.0...Installing RDoc documentation for ruby-serialport-0.7.0...$
+$ sudo gem install ruby-serialport
 ```
 
 今度は大丈夫です。確認してみます。

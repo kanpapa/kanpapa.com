@@ -22,9 +22,11 @@ image: "images/mc68ez328_dragonone_sbc_ehbasic_asciiart.png"
 
 ブートローダーでメモリにロードする場合はBレコードを準備すればよいのですが、モニタのコマンドにはSレコードやBレコードの読み込み機能はなく、アドレスとデータを指定してメモリに書き込む機能「（D)eposit」しかありません。今回はこの機能を使って手入力と同じになるようなファイルを作成して、アップロードすることでメモリにデータを書き込むことにしました。具体的には以下のようなデータになります。
 
+```
 D ADDRESS DATA DATA DATA DATA.....
 
 (例）D 00003020 E5 D4 67 32 B0 3C 00 2C
+```
 
 何バイトまで書き込みができるのかを確認してみました。
 
@@ -34,14 +36,41 @@ D ADDRESS DATA DATA DATA DATA.....
 
 モニタを起動した状態で、Sレコードから変換したDレコードをアップロードすると、次々とメモリに書き込むことができます。
 
-
-
 ## Enhanced 68K BASICをMC68EZ328用に修正
 
 EhBASICはEASy68Kで動作するようになっているので、入出力ルーチンをMC68EZ328で動作するように以下のルーチンに入れ替えました。LOAD/SAVEは今は使えないためダミーにしています。
 
 ```
-* output character to the console from register d0VEC_OUT     MOVE.L  D0,-(sp)   * save d0     MOVE.B  D0,$fffff907.LoutChar1:     MOVE.B  $fffff906.L,D0     AND.B   #$20,D0     BEQ     outChar1     MOVE.L  (SP)+,D0   * else restore d1     RTS* input a character from the console into register d0* else return Cb=0 if there's no character availableVEC_IN    MOVE.B  $FFFFF904.L,D0    AND.B   #$20,D0    BNE     RETCHR    TST.B   D0          * set z flag*   ANDI.B  #$FE,CCR    * clear carry, flag we not got byte (done by ORI.b)    RTSRETCHR    MOVE.B  $fffff905.L,D0    TST.B   D0       * set z flag on received byte    ORI.B   #1,CCR   * set carry, flag we got a byte    RTS* LOAD routine (dummy)VEC_LD    RTS* SAVE routine (dummy)VEC_SV    RTS
+* output character to the console from register d0
+VEC_OUT     MOVE.L  D0,-(sp)
+* save d0
+    MOVE.B  D0,$fffff907.L
+outChar1:
+    MOVE.B  $fffff906.L,D0
+    AND.B   #$20,D0
+    BEQ     outChar1
+    MOVE.L  (SP)+,D0
+* else restore d1     RTS
+* input a character from the console into register d0
+* else return Cb=0 if there's no character available
+VEC_IN    MOVE.B  $FFFFF904.L,D0
+    AND.B   #$20,D0
+    BNE     RETCHR
+    TST.B   D0
+* set z flag
+*   ANDI.B  #$FE,CCR
+* clear carry, flag we not got byte (done by ORI.b)
+    RTS
+RETCHR    MOVE.B  $fffff905.L,D0
+    TST.B   D0
+* set z flag on received byte
+    ORI.B   #1,CCR
+* set carry, flag we got a byte
+    RTS
+* LOAD routine (dummy)
+VEC_LD    RTS
+* SAVE routine (dummy)
+VEC_SV    RTS
 ```
 
 今回の修正はコンソールで動作するための最低限の修正なので、EASy68Kに依存した機能を使うとハングアップするかもです。そのうちSBCに特化した機能のみにしてコンパクト版を作ってみようかと思います。
