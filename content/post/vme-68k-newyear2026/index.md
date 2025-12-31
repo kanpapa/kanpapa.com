@@ -5,7 +5,6 @@ slug = 'vme-68k-newyear2026'
 image = 'vme-68k-newyear2026.jpg'
 tags = ["vme","68000","dvmecpu2","書き初め"]
 categories = ["retrocomputing"]
-draft = true
 +++
 
 あけましておめでとうございます。
