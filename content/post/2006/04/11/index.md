@@ -16,8 +16,6 @@ categories:
 
 まずはお月様を見ることになるのではと思います。
 
-[![大人の科学マガジン Vol.11 ( ニュートンの反射望遠鏡 ) (Gakken Mook)](images/61TSCS09ASL._SL160_.jpg "大人の科学マガジン Vol.11 ( ニュートンの反射望遠鏡 ) (Gakken Mook)")](http://d.hatena.ne.jp/asin/4056043396)
-
 [大人の科学マガジン Vol.11 ( ニュートンの反射望遠鏡 ) (Gakken Mook)](http://d.hatena.ne.jp/asin/4056043396)
 
 - 作者: [大人の科学マガジン編集部](http://d.hatena.ne.jp/keyword/%c2%e7%bf%cd%a4%ce%b2%ca%b3%d8%a5%de%a5%ac%a5%b8%a5%f3%ca%d4%bd%b8%c9%f4)

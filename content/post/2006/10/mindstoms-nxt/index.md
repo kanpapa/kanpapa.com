@@ -10,8 +10,6 @@ categories:
 
 ちょっと本屋で眺めてみましょう。
 
-[![LEGO MINDSTORMS NXTオレンジブック―アイデアノタマテバコ](images/51Z95N9DSCL._SL160_.jpg "LEGO MINDSTORMS NXTオレンジブック―アイデアノタマテバコ")](http://d.hatena.ne.jp/asin/4839921865)
-
 [LEGO MINDSTORMS NXTオレンジブック―アイデアノタマテバコ](http://d.hatena.ne.jp/asin/4839921865)
 
 - 作者: [五十川芳仁](http://d.hatena.ne.jp/keyword/%b8%de%bd%bd%c0%ee%cb%a7%bf%ce), [レゴジャパン](http://d.hatena.ne.jp/keyword/%a5%ec%a5%b4%a5%b8%a5%e3%a5%d1%a5%f3)

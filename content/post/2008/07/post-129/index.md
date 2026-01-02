@@ -14,8 +14,6 @@ categories:
 
 これではいかんと、W-ZERO3の時代から愛用している保護シートを注文しました。
 
-[![iPhone 3G専用液晶保護シート 【3枚セット】『Crystal Shield for iPhone 3G』(透明度が高い光沢タイプ)](images/41XqDgCtokL._SL160_.jpg "iPhone 3G専用液晶保護シート 【3枚セット】『Crystal Shield for iPhone 3G』(透明度が高い光沢タイプ)")](http://d.hatena.ne.jp/asin/B001C4YJNC)
-
 [iPhone 3G専用液晶保護シート 【3枚セット】『Crystal Shield for iPhone 3G』(透明度が高い光沢タイプ)](http://d.hatena.ne.jp/asin/B001C4YJNC)
 
 - 出版社/メーカー: [PDA工房](http://d.hatena.ne.jp/keyword/PDA%b9%a9%cb%bc)

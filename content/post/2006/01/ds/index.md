@@ -12,8 +12,6 @@ categories:
 
 まずはアルファベットの書き方から練習しないとだめみたいです。Graffitiにも対応できないかなぁ。
 
-[![英語が苦手な大人のDSトレーニング えいご漬け](images/514NKX4Q9EL._SL75_.jpg "英語が苦手な大人のDSトレーニング えいご漬け")](http://d.hatena.ne.jp/asin/B000BQT6XK)
-
 [英語が苦手な大人のDSトレーニング えいご漬け](http://d.hatena.ne.jp/asin/B000BQT6XK)
 
 - 出版社/メーカー: [任天堂](http://d.hatena.ne.jp/keyword/%c7%a4%c5%b7%c6%b2)

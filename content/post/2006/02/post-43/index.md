@@ -12,8 +12,6 @@ categories:
 
 Mac miniを購入したときもbluetoothオプションをつけてワイヤレスキーボードにしておけばよかったなぁと思いました。
 
-[![Logicool EX-110 Cordless Desktop EX110](images/41YQ789PNDL._SL160_.jpg "Logicool EX-110 Cordless Desktop EX110")](http://d.hatena.ne.jp/asin/B000BNNKF8)
-
 [Logicool EX-110 Cordless Desktop EX110](http://d.hatena.ne.jp/asin/B000BNNKF8)
 
 - 出版社/メーカー: [ロジクール](http://d.hatena.ne.jp/keyword/%a5%ed%a5%b8%a5%af%a1%bc%a5%eb)

@@ -8,8 +8,6 @@ categories:
 
 昨日いきつけの書店に寄ったところ、京ぽん２系の本を何冊か見かけましたので軽くレビュー。
 
-[![京ぽん2 WILLCOM活用ガイド](images/51cCaKwKAHL._SL75_.jpg "京ぽん2 WILLCOM活用ガイド")](http://d.hatena.ne.jp/asin/4757212151)
-
 [京ぽん2 WILLCOM活用ガイド](http://d.hatena.ne.jp/asin/4757212151)
 
 - 作者: [久保内信行](http://d.hatena.ne.jp/keyword/%b5%d7%ca%dd%c6%e2%bf%ae%b9%d4), [タブロイド](http://d.hatena.ne.jp/keyword/%a5%bf%a5%d6%a5%ed%a5%a4%a5%c9)
@@ -18,10 +16,6 @@ categories:
 - メディア: 単行本
 
 ☆初心者向けという感じ。一通りの使いかたが画面写真を豊富に使って説明。でも、ブックマークレットには触れていない。
-
-  
-
-[![京ぽん2 WX310K PERFECT GUIDE (PERFECT GUIDEシリーズ (2))](images/51FCSPT1GXL._SL75_.jpg "京ぽん2 WX310K PERFECT GUIDE (PERFECT GUIDEシリーズ (2))")](http://d.hatena.ne.jp/asin/4797334088)
 
 [京ぽん2 WX310K PERFECT GUIDE (PERFECT GUIDEシリーズ (2))](http://d.hatena.ne.jp/asin/4797334088)
 
@@ -32,10 +26,6 @@ categories:
 
 ☆平積みで数冊並んでいました！　隣に洋ぽん２の本も！【購入済】
 
-  
-
-[![洋ぽん WX310SA PERFECT GUIDE (PERFECT GUIDEシリーズ (3))](images/514J2V80GNL._SL75_.jpg "洋ぽん WX310SA PERFECT GUIDE (PERFECT GUIDEシリーズ (3))")](http://d.hatena.ne.jp/asin/4797334096)
-
 [洋ぽん WX310SA PERFECT GUIDE (PERFECT GUIDEシリーズ (3))](http://d.hatena.ne.jp/asin/4797334096)
 
 - 作者: [吉澤亨史](http://d.hatena.ne.jp/keyword/%b5%c8%df%b7%b5%fc%bb%cb), [寺井義貴](http://d.hatena.ne.jp/keyword/%bb%fb%b0%e6%b5%c1%b5%ae), [青山祐介](http://d.hatena.ne.jp/keyword/%c0%c4%bb%b3%cd%b4%b2%f0), [石野純也](http://d.hatena.ne.jp/keyword/%c0%d0%cc%ee%bd%e3%cc%e9), [至楽社](http://d.hatena.ne.jp/keyword/%bb%ea%b3%da%bc%d2)
@@ -44,10 +34,6 @@ categories:
 - メディア: 単行本
 
 ☆[WILLCOM応援団](http://willcom.bg.cat-v.ne.jp/article/134304.html)さんで紹介済。こちらも平積みでした。
-
-  
-
-[![京ぽん2の本―WILLCOMケータイ 京セラWX310K活用術](images/51NDPEHSYSL._SL75_.jpg "京ぽん2の本―WILLCOMケータイ 京セラWX310K活用術")](http://d.hatena.ne.jp/asin/4839919739)
 
 [京ぽん2の本―WILLCOMケータイ 京セラWX310K活用術](http://d.hatena.ne.jp/asin/4839919739)
 

@@ -37,17 +37,18 @@ https://osoyoo.com/2019/11/08/omni-direction-mecanum-wheel-robotic-kit-v1/
 
 ![](images/motor-driver-spec1.png)
 
-マイコンモジュールであるESP32-DEVKITとArduinoの大きな違いは電源電圧です。Arduinoは5V系、ESP32は3.3V系です。メカナムホイールで使用されているモータードライバは5V系ですので、ESP32の3.3V系に接続できるように電圧レベルを変換しなくてはいけません。このための専用のデバイスを使います。今回は[秋月電子](https://akizukidenshi.com/)で販売されている８ビット双方向ロジックレベル変換モジュール 通販コード\[M-04522\]を使用しました。配線はブレッドボードで行います。
+マイコンモジュールであるESP32-DEVKITとArduinoの大きな違いは電源電圧です。Arduinoは5V系、ESP32は3.3V系です。メカナムホイールで使用されているモータードライバは5V系ですので、ESP32の3.3V系に接続できるように電圧レベルを変換しなくてはいけません。このための専用のデバイスを使います。今回は[秋月電子](https://akizukidenshi.com/)で販売されている８ビット双方向ロジックレベル変換モジュール（通販コード：M-04522）を使用しました。配線はブレッドボードで行います。
 
 ## ESP32との接続方法
 
-回路図を以下に示します。（PDFは[こちら](images/otafab_esp32_car_r02-1.pdf)ESP32とモータードライバの間にレベル変換ICを接続しています。モーターの電源はメカナムホイールに搭載されている18650バッテリーを使います。ESP32の電源はESP32DEVKIT-CのUSBコネクタから供給します。
+回路図を以下に示します。  
+ESP32とモータードライバの間にレベル変換ICを接続しています。モーターの電源はメカナムホイールに搭載されている18650バッテリーを使います。ESP32の電源はESP32DEVKIT-CのUSBコネクタから供給します。
 
 ![](images/otafab_esp32_car_r02-1024x467.png)
 
 回路図に従って実際に配線したメカナムホイールです。
 
-[![](images/otafab-esp32-mecanum1-car1-1.jpg)](https://kanpapa.com/wp-content/uploads/2023/12/otafab-esp32-mecanum1-car1-1.jpg)
+![](images/otafab-esp32-mecanum1-car1-1.jpg)
 
 ## モーターの動作テスト
 

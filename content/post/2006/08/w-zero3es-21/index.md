@@ -16,8 +16,6 @@ categories:
 
 なぜ店頭に並べていないのかは謎ですけど、今度はきれいに貼れました。厳密に言うと少しホコリが入ってしまいましたが目立たないので良しとします。
 
-[![OverLay Brilliant for W-ZERO3es](images/412Ls2N4w2L._SL75_.jpg "OverLay Brilliant for W-ZERO3es")](http://d.hatena.ne.jp/asin/B000H2NH6A)
-
 [OverLay Brilliant for W-ZERO3es](http://d.hatena.ne.jp/asin/B000H2NH6A)
 
 - 出版社/メーカー: [ミヤビックス](http://d.hatena.ne.jp/keyword/%a5%df%a5%e4%a5%d3%a5%c3%a5%af%a5%b9)
