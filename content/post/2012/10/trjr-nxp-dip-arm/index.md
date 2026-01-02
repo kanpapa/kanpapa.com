@@ -20,3 +20,5 @@ image: "images/nxp_dip_arm_aquestalk.jpg"
 プログラムはGPIOのポートだけDIP ARMに合わせて修正しただけで動作しました。DIP ARMの書き込みには手持ちのLPC-Linkを使いました。
 
 動作中の動画をYouTubeにアップしておきました。音質が良く有りませんが、トラ技Jr.の記事のようにアンプを使用すれば大幅に改善されると思います。
+
+{{< youtube KInEEtO4_BY >}}

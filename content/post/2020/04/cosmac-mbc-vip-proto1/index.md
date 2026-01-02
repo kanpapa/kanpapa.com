@@ -45,6 +45,8 @@ COSMAC VIPは標準は2KB RAMで、4KBまで拡張できるそうです。COSMAC
 
 このテスト動画をYouTubeにアップしておきました。
 
+{{< youtube IQZCishchOs >}}
+
 ここまでの確認で問題はありませんでしたので、正常に動作しているようです。すでに発注した基板の到着が待ち遠しいです。
 
 ![](images/cosmac_vip_proto2.jpg)

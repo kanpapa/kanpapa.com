@@ -34,6 +34,8 @@ COSMAC MBCのタクトスイッチの配線の引き出しですが、ちょう�
 
 テスト中の様子をYouTubeにアップしておきました。
 
+{{< youtube _aDMV53iIsk >}}
+
 現時点ではESP32とリレーモジュールを接続する回路はブレッドボードで組んでいますが、回路図をまとめていたらいつの間にかガーバーデータまで作ってしまいました。
 
 ![esp32_relay_controller_3d.jpg](images/esp32_relay_controller_3d.jpg)

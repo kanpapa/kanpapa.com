@@ -16,6 +16,8 @@ categories:
 
 組み立て風景をVineというiPhoneアプリでコマ撮りながら進めました。 ６秒にまとめたものをYouTubeにアップしたのが以下の画像です。この画像はiPhoneのVineアプリだけで作っています。組み立て風景とかの記録にも良いですね。
 
+{{< youtube -eXhBdoSbWU >}}
+
 我が家にある電波時計が０秒になったタイミングでこの時計もパタッと時刻が変わるのが楽しいですが、やや動作音が大きいのでガラスの戸棚の本棚に置くことで、やや音が小さくなりました。
 
 ![patapata-radio-clock_04.jpg](images/patapata-radio-clock_04.jpg)
