@@ -8,7 +8,7 @@ tags:
   - "mbed"
   - "micro-bit"
   - "書き初め"
-image: "images/newyear2018_photo.png"
+image: "images/newyear2018_photo.jpg"
 ---
 
 あけましておめでとうございます。昨年は[TK-80互換機で書き初め](https://kanpapa.com/2017/01/zk-80-newyear2017.html "ZK-80 mini (PIC32MX１チップTK-80互換機)で書き初めをしてみた")をしましたが、今年の新春初プログラミングはmbedでした。
