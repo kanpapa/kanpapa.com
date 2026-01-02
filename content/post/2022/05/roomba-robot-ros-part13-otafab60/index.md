@@ -17,8 +17,6 @@ image: "images/roomba_otafab60_roomba_frame_plan_a.jpg"
 
 今回は2通りの実装方法を試してみることにしました。いずれも自律走行に必要なLiDARのレーザーを遮らないように実装することを考えました。
 
-
-
 ## TYPE Aの実装
 
 まずはLiDARを中央に置く方式です。
@@ -29,6 +27,8 @@ image: "images/roomba_otafab60_roomba_frame_plan_a.jpg"
 
 LiDARが高くなったため、足元の障害物に注意が必要です。動画で写っている斜めの看板などは近づきすぎると足元がぶつかってしまいます。
 
+{{< youtube YJJPgU0Dsbc >}}
+
 ## TYPE Bの実装
 
 次は少し端にLiDARを取り付ける方式です。こうすると中央にモノが置けるのではないかと考えています。
@@ -36,6 +36,8 @@ LiDARが高くなったため、足元の障害物に注意が必要です。動
 ![roomba_otafab60_roomba_frame_plan_b.jpg](images/roomba_otafab60_roomba_frame_plan_b.jpg)
 
 こちらの実装でも動かしてみました。まだ完全に固定していないので少しゆらゆらします。
+
+{{< youtube xiDfO2_XNhA >}}
 
 この場合LiDARの位置が中央ではなくなりますので、少し端になるようにTFを調整しRVizで確認しました。
 

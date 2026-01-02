@@ -25,7 +25,7 @@ image: "images/roomba_otafab61_roomba_frame2.jpg"
 
 この状態での自律走行の様子です。きちんと目的の場所まで動いてくれます。
 
-
+{{< youtube xiDfO2_XNhA >}}
 
 ## 受付機能
 
@@ -36,6 +36,8 @@ image: "images/roomba_otafab61_roomba_frame2.jpg"
 これはRaspberry PiにLCDモニタをつけて、WifiでROSのトピックを送信できる機能を持っています。人感センサーも搭載されていて人が近づくと反応します。
 
 動作中の動画です。
+
+{{< youtube JM07kR0rLZA >}}
 
 ## 可動部
 
@@ -51,7 +53,11 @@ image: "images/roomba_otafab61_roomba_frame2.jpg"
 
 テストの状況はYouTubeにアップしました。
 
+{{< youtube 71-mA3KUoxo >}}
+
 可動部の動画です。こちらはややうるさい音が出ます。
+
+{{< youtube wtgmP8tKOKk >}}
 
 ## Maker Faire Tokyo 2022に向けて
 

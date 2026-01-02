@@ -18,8 +18,6 @@ image: "images/mecanum_lesson4_5_run2.jpg"
 
 今回はメカナムロボットをスマートフォンで制御してみようという回です。スマートフォンの接続方法はBluetoothとWiFiの２種類です。
 
-
-
 ## Bluetoothで制御する
 
 まずはBluetoothでの接続です。OSOYOOさんは[スマートフォン用のアプリ](https://apps.apple.com/jp/app/osoyoo-imitation-driving-car/id1459550861 "Osoyoo Imitation Driving Ca‪r")も提供していて、Apple StoreもしくはGoogle Playからダウンロードできます。これを使って制御を行います。
@@ -31,6 +29,8 @@ image: "images/mecanum_lesson4_5_run2.jpg"
 プログラムはシンプルにできていて、Bluetoothモジュールから送られてくるコマンドを読み取り、これまでと同様にモーターを制御する関数を実行することを繰り返すようになっています。通信まわりの難しいところはBluetoothモジュールに任せているようです。
 
 実際に動かしてみた動画です。
+
+{{< youtube iVaJhKWMXZY >}}
 
 ## WiFiで制御する
 
@@ -47,6 +47,8 @@ STAモードで実行するとWiFiのアクセスポイントに接続してIP�
 APモードもSTAモードもプログラムとしてはそんなに複雑ではなく、ESP系モジュールのライブラリを使うことでシンプルに実装されています。
 
 実際に動かしてみた動画です。
+
+{{< youtube Swz8utimiMc >}}
 
 BluetoothもWiFiも人間が制御しているわけですが、これまで実験してきた自律的に動くロボットとはことなり、かなり細かい動きができることがわかりました。メカナムホイールロボットの駆動部のポテンシャルが見えたように思います。
 

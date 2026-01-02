@@ -66,6 +66,8 @@ ros2 run turtlebot3_teleop teleop_keyboard
 
 実際の自律走行の様子をYouTubeにアップしておきました。
 
+{{< youtube BluHeDl2djw >}}
+
 これで一通りの動作が確認できました。
 
 今回は狭い部屋の中での実験でしたので、もう少し広い場所（例えば、おおたFabさん）で自律走行を試して、各種パラメタをチューニングしていきたいです。

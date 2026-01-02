@@ -17,8 +17,6 @@ image: "images/roomba_otafab57_baseplate.jpg"
 
 写真に写っていますが、現在LiDARやRaspberry Piやバッテリーを固定するためのベースプレートもおおたfabさんの[レーザーカッター](https://ot-fb.com/fablab "おおたFabのファブラボ")で製作中です。
 
-
-
 ## 今回参考にした記事
 
 - [hector_slamと2D Navigationを組み合わせてRoombaを自律移動させる](https://daikimaekawa.github.io/ros/2014/04/20/Navigation2d "hector_slamと2D Navigationを組み合わせてRoombaを自律移動させる ") ([ゼロから始めるロボットプログラミング入門講座](https://daikimaekawa.github.io/) Daiki Maekawaさん）
@@ -40,7 +38,11 @@ image: "images/roomba_otafab57_baseplate.jpg"
 
 RvizでのNavigationの様子です。
 
+{{< youtube ekfnT08wzEg >}}
+
 ルンバ実機の動画です。途中で少し止まりますが、何かを考えているようです。
+
+{{< youtube pkkHZ4YRPSI >}}
 
 rqt_graphの結果
 

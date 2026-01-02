@@ -53,6 +53,8 @@ toioとの接続が切れている場合はATOM Matrixのボタン（マトリ�
 
 実にシンプルなUiFlowプログラムですが、これだけで動画のような動きができます。
 
+{{< youtube bDbs0GxiJ44 >}}
+
 ## まとめ
 
 [ATOM](https://www.switch-science.com/products/8500 "Atom Mate For toio") [Mate for toio](https://www.switch-science.com/products/8500 "Atom Mate For toio")はtoioの上に載っているだけです。何かの電線やコネクタでATOM matrixとつながっているわけではありません。

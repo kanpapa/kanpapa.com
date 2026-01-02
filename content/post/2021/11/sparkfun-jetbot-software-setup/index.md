@@ -25,12 +25,12 @@ Sparkfun版JetBotを実際に動かすためにはmicroSDカードにソフト�
 大まかな流れは以下の通りです。
 
 1. PCを使ってmicroSDにイメージファイルを書き込みます。今回は32GBのmicroSDカードを使用しました。
-2. JetBotにmicroSDをセットし、HDMIモニタとキーボード、マウスを取り付けて電源を投入します。
-3. WiFiの接続設定をし、OLEDにIPアドレスが表示されていることを確認します。
-4. JetsonNanoをシャットダウンして、HDMIモニタ、キーボード、マウスを取り外します。
-5. JetsonNanoにモバイルバッテリーを接続して、電源を投入します。
-6. OLEDにIPアドレスが表示されていることを確認します。
-7. 他のPCのブラウザから http://jetbotのIPアドレス:8888 にアクセスします。
+1. JetBotにmicroSDをセットし、HDMIモニタとキーボード、マウスを取り付けて電源を投入します。
+1. WiFiの接続設定をし、OLEDにIPアドレスが表示されていることを確認します。
+1. JetsonNanoをシャットダウンして、HDMIモニタ、キーボード、マウスを取り外します。
+1. JetsonNanoにモバイルバッテリーを接続して、電源を投入します。
+1. OLEDにIPアドレスが表示されていることを確認します。
+1. 他のPCのブラウザから http://jetbotのIPアドレス:8888 にアクセスします。
 
 次のような画面が表示されれば正常に動いています。
 
@@ -45,18 +45,17 @@ NVIDIAから公開されているイメージファイルをそのまま使う�
 jetbotのgithubに掲載されている手順のStep 5の代わりにこちらの作業を行います。
 
 1. [SparkfunのAssembly Guide for SparkFun JetBot AI Kit V2.0](https://learn.sparkfun.com/tutorials/assembly-guide-for-sparkfun-jetbot-ai-kit-v20/4-software-setup-guide-from-nvidia "Assembly Guide for SparkFun JetBot AI Kit V2.0 ")の[4\. Software Setup Guide from NVIDIA](https://learn.sparkfun.com/tutorials/assembly-guide-for-sparkfun-jetbot-ai-kit-v20/4-software-setup-guide-from-nvidia "4. Software Setup Guide from NVIDIA")のRe-Applying the Software Modificationsの「DOWNLOAD MODIFICATION FILES」からjetbot.zipファイルをダウンロードします。
-2. ダウンロードしたjetbot.zipファイルを、Jupyter Notebookの左側のディレクトリ一覧にD&DしてJetson Nanoにアップロードします。私はホームディレクトリにアップロードしました。
-3. Jupyter Notebookの左上の＋を押すと、ランチャー画面になりますので、ターミナルを選択します。
-4. ターミナル画面で以下のように操作すればSparkfun JetBot用のファイルが設定されます。
-
-```
-cd
-mkdir jetbot
-mv ~/jetbot.zip jetbot/.
-cd jetbot
-unzip jetbot.zip
-sudo python3 setup.py install
-```
+1. ダウンロードしたjetbot.zipファイルを、Jupyter Notebookの左側のディレクトリ一覧にD&DしてJetson Nanoにアップロードします。私はホームディレクトリにアップロードしました。
+1. Jupyter Notebookの左上の＋を押すと、ランチャー画面になりますので、ターミナルを選択します。
+1. ターミナル画面で以下のように操作すればSparkfun JetBot用のファイルが設定されます。
+    ```
+    cd
+    mkdir jetbot
+    mv ~/jetbot.zip jetbot/.
+    cd jetbot
+    unzip jetbot.zip
+    sudo python3 setup.py install
+    ```
 
 ## 基本動作のテスト
 
@@ -83,6 +82,8 @@ robot.stop()
 ```
 
 これを実行した結果の動画です。（２回実行しています）
+
+{{< youtube J4PhcTPJrQo >}}
 
 Jupyter Notebookの面白いところは、同じ画面上にスライダーやボタンを配置して、その操作がPythonに連携できるところです。簡単なGUIを同じ画面上に組み込むことができます。
 

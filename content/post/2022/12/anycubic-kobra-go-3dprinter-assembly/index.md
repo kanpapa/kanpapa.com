@@ -93,6 +93,8 @@ Z軸にX軸を取り付けます。だんだん形になってきました。
 
 出力中の動画です。
 
+{{< youtube Tz-SHFgCZKo >}}
+
 サンプルデータのowlが出力されていきます。思ったよりきれいです。
 
 ![kobura_go_assembly15.jpg](images/kobura_go_assembly15.jpg)

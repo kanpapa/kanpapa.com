@@ -54,25 +54,17 @@ Pythonで書いたmoveノードをルンバ実機で動かしてみます。
 
 以下の手順を行います。
 
-1\. Raspberry Pi 4にモバイルバッテリーを接続し電源を入れる。
-
-2\. [前回の勉強会の時のように](https://kanpapa.com/2021/07/Roomba-robot-ros-part1-otafab.html "ルンバをROSで動かしてみました。（おおたfab 第43回 素人でもロボットをつくりたい）")Raspberry Pi 4のUSBにUSB-シリアル変換を使ってルンバを接続し、ルンバの電源を入れる。
-
-3\. 新たなターミナルを１つ立ち上げて以下のコマンドを入力する。
-
-```
-　$ roslaunch ca_driver create_2.launch
-
-```
-
-4\. 新たなターミナルを１つ立ち上げてmove.pyノードを実行する。
-
-```
-　$ roscd move/src
-$ rosrun move move.py
-
-```
-
+1. Raspberry Pi 4にモバイルバッテリーを接続し電源を入れる。
+1. [前回の勉強会の時のように](https://kanpapa.com/2021/07/Roomba-robot-ros-part1-otafab.html "ルンバをROSで動かしてみました。（おおたfab 第43回 素人でもロボットをつくりたい）")Raspberry Pi 4のUSBにUSB-シリアル変換を使ってルンバを接続し、ルンバの電源を入れる。
+1. 新たなターミナルを１つ立ち上げて以下のコマンドを入力する。
+    ```
+    $ roslaunch ca_driver create_2.launch
+    ```
+1. 新たなターミナルを１つ立ち上げてmove.pyノードを実行する。
+    ```
+    $ roscd move/src
+    $ rosrun move move.py
+    ```
 起動時のパラメタはlinear velocity (並進速度)：0.2 \[m/s\]、Angular velocity（角速度）: 0.2 \[rad/s\]としました。
 
 ![otafab_robot43_ros_pi4.png](images/otafab_robot43_ros_pi4.png)
