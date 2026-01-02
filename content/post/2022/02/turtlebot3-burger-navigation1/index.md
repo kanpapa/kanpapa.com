@@ -76,15 +76,17 @@ $ roslaunch teleop_twist_joy teleop.launch
 
 地図上のどの地点に移動するかを以下の手順で指定します。
 
-1\. RVizメニューの2D Nav Goalボタンをクリックします。
-
-2\. TurtleBot3の目的地を地図上でクリックします。
-
-3\. 目的地が設定されると、TurtleBot3は経路を決めて目的地に向かって移動を開始します。
+1. RVizメニューの2D Nav Goalボタンをクリックします。
+1. TurtleBot3の目的地を地図上でクリックします。
+1. 目的地が設定されると、TurtleBot3は経路を決めて目的地に向かって移動を開始します。
 
 Rvizの画面で目的地まで移動する様子をYouTubeにアップしておきました。
 
+{{< youtube s1RxxcGm9Ds >}}
+
 こちらは実際のTurtleBot3の動画です。
+
+{{< youtube empCUhkLPaQ >}}
 
 このように目的地に移動することができます。地図に無い障害物を認識した場合はそれにぶつからないような経路を選ぶことがわかります。
 

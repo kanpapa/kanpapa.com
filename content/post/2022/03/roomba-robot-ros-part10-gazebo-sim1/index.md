@@ -37,19 +37,6 @@ cp -rp ~/catkin_ws/src/map2gazebo/models/map ~/catkin_ws/src/create_gazebo_model
 ```
 cd ~/catkin_ws/src/create_autonomy/ca_gazebo/launch
 vi create_otafab1.launch
-
-  
-    
-
-    
-    
-    
-
-    
-    
-    
-  
-
 ```
 
 ３．SLAMモードでgazeboを起動する。
@@ -88,6 +75,8 @@ roslaunch ca_gazebo create_otafab1.launch
 ## Navigationの様子
 
 Navigationを行っている様子をYouTubeにアップしておきました。
+
+{{< youtube -tyx1EgmLBg >}}
 
 Navigation実行中のrqt_graphです。
 

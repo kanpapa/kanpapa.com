@@ -68,6 +68,8 @@ Raspberry PiのOSはRaspberry Pi OS (Legacy) with desktop(Debian Buster)を使�
 
 動画をYouTubeに載せておきました。
 
+{{< youtube G3lmfStD2wo >}}
+
 LEDの制御、バッテリー電圧、エンコーダ情報、モーター制御など一通り問題ないことを確認できました。
 
 Raspberry PiとRomi32U4ボードはI2Cでの接続になります。バス速度は最初は100000Hzだったですが、やや不安定な時があったので400000Hzに変更したところ安定しました。
