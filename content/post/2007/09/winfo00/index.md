@@ -4,8 +4,7 @@ date: 2007-09-06
 slug: "winfo00"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 今日は台風が来るのです。

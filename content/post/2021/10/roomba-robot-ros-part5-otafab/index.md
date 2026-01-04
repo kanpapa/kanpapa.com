@@ -5,10 +5,9 @@ slug: "roomba-robot-ros-part5-otafab"
 categories:
   - "Robot"
 tags:
-  - "otafab"
-  - "otafab-robot"
-  - "robot"
-  - "roomba"
+  - "Otafab"
+  - "Roomba"
+  - "ROS"
 image: "images/Roomba-robot-ros-part5-turtlesim.jpg"
 ---
 

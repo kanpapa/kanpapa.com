@@ -6,8 +6,7 @@ categories:
   - "Retro Computing"
 tags:
   - "6502"
-  - "kim-1"
-  - "retrocomputing"
+  - "Kim 1"
 image: images/kim_uno_kicad6_2.png
 ---
 

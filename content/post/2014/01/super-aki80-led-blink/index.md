@@ -4,8 +4,7 @@ date: 2014-01-13
 slug: super-aki80-led-blink
 categories:
   - "Retro Computing"
-tags:
-  - "retrocomputing"
+tags: []
 image: images/aki_80_eprom.jpg
 ---
 

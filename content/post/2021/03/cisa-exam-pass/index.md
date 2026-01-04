@@ -5,8 +5,8 @@ slug: cisa-exam-pass
 categories:
   - "Server"
 tags:
-  - "cisa"
-  - "security"
+  - "Cisa"
+  - "Security"
 image: images/cisa_exam_pass1.jpeg
 ---
 

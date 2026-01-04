@@ -5,10 +5,10 @@ slug: minipupper2-ros2-setup1
 categories:
   - "Robot"
 tags:
-  - "humble"
-  - "mini-pupper-2"
-  - "robot"
-  - "ros2"
+  - "Humble"
+  - "Mini Pupper 2"
+  - "ROS"
+  - "ROS 2"
 image: images/minipupper2-ros2-setup1-eyecatch1.jpg
 ---
 

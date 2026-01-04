@@ -4,8 +4,7 @@ date: 2008-03-26
 slug: "sim-style"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 この前、WS002IN(DD)を買ったばかりなんですが・・・・。

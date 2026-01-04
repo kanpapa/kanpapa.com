@@ -5,8 +5,8 @@ slug: "cosmac-mbc-stg1861-keyboard-rev01"
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-mbc"
+  - "Cosmac"
+  - "Cosmac Mbc"
 image: "images/cosmac_stg1861_rev0_1.jpg"
 ---
 

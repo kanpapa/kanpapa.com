@@ -5,8 +5,7 @@ slug: "16x16led-matrix-kit"
 categories:
   - "Electronics"
 tags:
-  - "electronics"
-  - "led-matrix"
+  - "Led Matrix"
 image: "images/16x16led_front.jpg"
 ---
 

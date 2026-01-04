@@ -5,8 +5,8 @@ slug: "cosmac-tv-test-pattern"
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-mbc"
+  - "Cosmac"
+  - "Cosmac Mbc"
 image: "images/cosmac_tv_test_pattern1.jpg"
 ---
 

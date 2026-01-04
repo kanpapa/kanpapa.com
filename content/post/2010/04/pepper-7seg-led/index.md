@@ -4,8 +4,7 @@ date: 2010-04-11
 slug: "pepper-7seg-led"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/pepper_newfarm5.jpg"
 ---
 

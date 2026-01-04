@@ -4,8 +4,7 @@ date: 2009-07-04
 slug: "gakken-gmc-4-4bit-cpu"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 image: "images/gmc4_1stpgm.jpg"
 ---
 

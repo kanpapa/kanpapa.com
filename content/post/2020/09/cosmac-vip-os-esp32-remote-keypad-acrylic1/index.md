@@ -5,10 +5,9 @@ slug: cosmac-vip-os-esp32-remote-keypad-acrylic1
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-mbc"
-  - "esp32"
-  - "retrocomputing"
+  - "Cosmac"
+  - "Cosmac Mbc"
+  - "ESP32"
 image: images/esp32_remote_acrylic7.jpg
 ---
 

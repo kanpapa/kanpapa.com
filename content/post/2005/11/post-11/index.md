@@ -4,8 +4,7 @@ date: 2005-11-24
 slug: "post-11"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 ---
 
 ケロロだけだとつまらないので、[はてなカウンタ](http://counter.hatena.ne.jp/)をつけてみました。

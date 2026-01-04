@@ -4,8 +4,7 @@ date: 2014-01-13
 slug: "lpc810-toragi"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/toragi_lpc810_1.jpg"
 ---
 

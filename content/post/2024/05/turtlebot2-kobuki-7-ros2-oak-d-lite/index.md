@@ -5,11 +5,12 @@ slug: turtlebot2-kobuki-7-ros2-oak-d-lite
 categories:
   - "Robot"
 tags:
-  - "kobuki"
-  - "oak-d-lite"
-  - "robot"
-  - "ros2"
-  - "turtlebot2"
+  - "Kobuki"
+  - "Oak D Lite"
+  - "ROS"
+  - "ROS 2"
+  - "Turtlebot"
+  - "Turtlebot2"
 image: images/turtlebot2-kobuki-oak-d-lite-eyecatch.jpg
 ---
 

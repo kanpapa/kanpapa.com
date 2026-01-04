@@ -5,7 +5,7 @@ slug: seccon-ctf-2014-online-writeup
 categories:
   - "Server"
 tags:
-  - "security"
+  - "Security"
 image: images/ucom82_manual.jpg
 ---
 

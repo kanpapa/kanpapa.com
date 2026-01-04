@@ -4,8 +4,7 @@ date: 2005-11-10
 slug: "wx310k-1"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 今日はWX310Kの予約開始の日です。

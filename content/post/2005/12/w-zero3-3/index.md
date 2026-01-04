@@ -4,8 +4,7 @@ date: 2005-12-12
 slug: "w-zero3-3"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 知り合いにW-ZERO3が予約できたかどうか聞いてみたら、１人はWILLCOM STOREで玉砕。

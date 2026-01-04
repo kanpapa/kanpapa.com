@@ -4,8 +4,7 @@ date: 2008-10-28
 slug: "qfo"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 image: "images/qfo.jpg"
 ---
 

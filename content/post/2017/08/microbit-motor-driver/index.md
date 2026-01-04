@@ -5,8 +5,7 @@ slug: "microbit-motor-driver"
 categories:
   - "Electronics"
 tags:
-  - "electronics"
-  - "micro-bit"
+  - "Micro Bit"
 image: "images/microbit_motor1.jpg"
 ---
 

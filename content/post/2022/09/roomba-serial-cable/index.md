@@ -5,7 +5,7 @@ slug: "roomba-serial-cable"
 categories:
   - "Robot"
 tags:
-  - "roomba"
+  - "Roomba"
 image: "images/roomba_serial_connect1.jpg"
 ---
 

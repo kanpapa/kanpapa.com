@@ -4,8 +4,7 @@ date: 2006-12-16
 slug: "parallels-desktop-1"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 いろいろ使ってみましたが全く問題なさそうなので[Parallels](http://www.parallels.com/)から直接購入しちゃいました。

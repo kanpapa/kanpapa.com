@@ -4,8 +4,7 @@ date: 2008-07-08
 slug: "post-124"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 並べるっていいなぁ?

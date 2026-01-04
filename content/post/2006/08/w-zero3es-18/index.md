@@ -4,8 +4,7 @@ date: 2006-08-10
 slug: "w-zero3es-18"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 すみません、単体＆１０カ月を我慢しきれずにやってしまいました。

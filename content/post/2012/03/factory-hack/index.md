@@ -4,8 +4,7 @@ date: 2012-03-23
 slug: "factory-hack"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 image: "images/factory_hack_201203_1.jpg"
 ---
 

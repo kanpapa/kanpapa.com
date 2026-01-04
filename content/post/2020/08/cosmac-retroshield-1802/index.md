@@ -5,8 +5,8 @@ slug: "cosmac-retroshield-1802"
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "retroshield"
+  - "Cosmac"
+  - "Retroshield"
 image: "images/RetroShield_1802_RevB.jpg"
 ---
 

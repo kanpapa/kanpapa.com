@@ -4,8 +4,7 @@ date: 2013-10-06
 slug: "mbed-lpc1114fn28-7segledmod"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/mbed_7degLEDMod.jpg"
 ---
 

@@ -5,10 +5,8 @@ slug: "mecanum-wheel-robot-lesson4-5"
 categories:
   - "Robot"
 tags:
-  - "arduino"
-  - "otafab"
-  - "otafab-robot"
-  - "robot"
+  - "Arduino"
+  - "Otafab"
   - "メカナムホイール"
 image: "images/mecanum_lesson4_5_run2.jpg"
 ---

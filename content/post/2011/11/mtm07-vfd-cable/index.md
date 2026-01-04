@@ -4,8 +4,7 @@ date: 2011-11-14
 slug: "mtm07-vfd-cable"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/vfd_flat_cable3.jpg"
 ---
 

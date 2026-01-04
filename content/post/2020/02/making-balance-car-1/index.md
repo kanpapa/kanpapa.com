@@ -5,8 +5,7 @@ slug: making-balance-car-1
 categories:
   - "Electronics"
 tags:
-  - "electronics"
-  - "esp32"
+  - "ESP32"
 image: images/balance_car1.jpg
 ---
 

@@ -5,8 +5,7 @@ slug: "romi-ros-rosbag-gazebo"
 categories:
   - "Robot"
 tags:
-  - "robot"
-  - "romi"
+  - "Romi"
 image: "images/romi_ros_gazebo.png"
 ---
 

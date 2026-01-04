@@ -5,8 +5,7 @@ slug: "mc68ez328-dragonone-sbc-pcb-ordered"
 categories:
   - "Retro Computing"
 tags:
-  - "mc68ez328"
-  - "retrocomputing"
+  - "MC68EZ328"
 image: "images/dragonone_rev01_kicad.png"
 ---
 

@@ -5,9 +5,8 @@ slug: "microbit-mbed-samples"
 categories:
   - "Electronics"
 tags:
-  - "electronics"
-  - "mbed"
-  - "micro-bit"
+  - "Mbed"
+  - "Micro Bit"
 image: "images/microbit_mbed_samples.png"
 ---
 

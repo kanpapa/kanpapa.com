@@ -5,8 +5,7 @@ slug: "qnap-nas-smb3-0x80070035-problem"
 categories:
   - "Server"
 tags:
-  - "qnap"
-  - "server"
+  - "Qnap"
 image: "images/qnap_nas_error_0x80070035.png"
 ---
 

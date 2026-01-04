@@ -4,8 +4,7 @@ date: 2008-12-26
 slug: "post-150"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 ---
 
 かわいかったので貼ってみました。

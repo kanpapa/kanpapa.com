@@ -4,8 +4,7 @@ date: 2010-05-22
 slug: "make-tokyo-meeting-05"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/make05.jpg"
 ---
 

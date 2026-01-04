@@ -4,8 +4,7 @@ date: 2008-07-08
 slug: "post-126"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 アップルのiPhone 3Gのページに販売店情報が掲載されました。

@@ -4,8 +4,7 @@ date: 2006-07-13
 slug: "w-zero3esget"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 会社の帰りに量販店をのぞいたところ、W-ZERO3\[es\]の紙モックがおいてありました。当然カタログもありました。

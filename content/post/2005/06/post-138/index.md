@@ -4,8 +4,7 @@ date: 2005-06-23
 slug: "post-138"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 ひさしぶりにソフトを買いました。  

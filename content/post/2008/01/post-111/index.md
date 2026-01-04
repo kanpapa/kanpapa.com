@@ -4,8 +4,7 @@ date: 2008-01-25
 slug: "post-111"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 ---
 
 ようやく１アマ、２アマの免許証がきました。さて、変更申請をしなくちゃ。

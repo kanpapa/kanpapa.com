@@ -4,8 +4,7 @@ date: 2015-01-17
 slug: "fx0-foursquere-swarm"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 image: "images/firefox_os_fx0.jpg"
 ---
 

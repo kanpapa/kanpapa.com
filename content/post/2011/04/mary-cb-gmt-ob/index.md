@@ -4,8 +4,7 @@ date: 2011-04-15
 slug: "mary-cb-gmt-ob"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/mary_gmtube_ob.jpg"
 ---
 

@@ -5,9 +5,8 @@ slug: teensy-pixie-hexkey-sound-board01
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-mbc"
-  - "retrocomputing"
+  - "Cosmac"
+  - "Cosmac Mbc"
 image: images/teensy32_pixie_hexkey_sound_pcb1.jpg
 ---
 

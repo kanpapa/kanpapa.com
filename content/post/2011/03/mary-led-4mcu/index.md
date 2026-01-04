@@ -4,8 +4,7 @@ date: 2011-03-28
 slug: "mary-led-4mcu"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 ---
 
 先週作った[LEDを交互に光らせるプログラム](https://kanpapa.com/2011/03/mary-multi-mcu.html)を４枚のMCUを使って動かしてみました。

@@ -4,8 +4,7 @@ date: 2009-01-24
 slug: "linkstationconcrete5"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 LinkStationのDebianにインストールしたMovable Type 4がいまいちだったので、他にいい素材がないか探していたら、今評判のCMSとして[Concrete5](http://www.concrete5.org/)というのを見つけたので、LinkStationのDebianにインストールしてみました。

@@ -5,10 +5,11 @@ slug: turtlebot2-kobuki-5-ros2-remote-pc
 categories:
   - "Robot"
 tags:
-  - "kobuki"
-  - "robot"
-  - "ros2"
-  - "turtlebot2"
+  - "Kobuki"
+  - "ROS"
+  - "ROS 2"
+  - "Turtlebot"
+  - "Turtlebot2"
 image: images/turtlebot2-kobuki-5-ros2-remote-pc-eyecatch1.jpg
 ---
 

@@ -4,8 +4,7 @@ date: 2009-08-27
 slug: "pen"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 ---
 
 OLYMPUS PENのアクセサリが入手困難な状態が続いていますが、１ヶ月前にオーダーしたプロテクトフィルター PRF-D37がようやく到着しました。

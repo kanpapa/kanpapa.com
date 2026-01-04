@@ -4,8 +4,7 @@ date: 2006-02-13
 slug: "w-zero3-9"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 W-ZERO3を買いに量販店に行って契約カウンターで書類をごそごそ書いていると、隣にもお客さんがきて、その人もW-ZERO3の契約っぽかったです。売れてますな?。

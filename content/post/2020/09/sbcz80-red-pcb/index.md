@@ -5,9 +5,8 @@ slug: sbcz80-red-pcb
 categories:
   - "Retro Computing"
 tags:
-  - "retrocomputing"
-  - "sbcz80"
-  - "z80"
+  - "Sbcz80"
+  - "Z80"
 image: images/SBCZ80_red1.jpg
 ---
 

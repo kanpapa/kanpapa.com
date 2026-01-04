@@ -5,8 +5,7 @@ slug: "microbit-motor-tamiya"
 categories:
   - "Electronics"
 tags:
-  - "electronics"
-  - "micro-bit"
+  - "Micro Bit"
 image: "images/microbit_motor_tamiya1.jpg"
 ---
 

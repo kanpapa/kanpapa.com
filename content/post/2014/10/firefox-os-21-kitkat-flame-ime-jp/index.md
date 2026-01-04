@@ -4,8 +4,7 @@ date: 2014-10-13
 slug: "firefox-os-21-kitkat-flame-ime-jp"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 FlameのベースイメージがBase image v180.zipに変わっていたので、これを使ってリカバリしてみたら、どうもKitKatベースのシステムになったようです。  

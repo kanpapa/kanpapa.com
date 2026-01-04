@@ -5,10 +5,9 @@ slug: "zk80-tk80kbd"
 categories:
   - "Retro Computing"
 tags:
-  - "pic32mx"
-  - "retrocomputing"
-  - "tk-80"
-  - "zk-80-mini"
+  - "Pic32mx"
+  - "Tk 80"
+  - "Zk 80 Mini"
 image: "images/zk80_tk80kbd_4.jpg"
 ---
 

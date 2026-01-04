@@ -5,9 +5,8 @@ slug: stackchan-m5stack-assembly
 categories:
   - "Electronics"
 tags:
-  - "electronics"
-  - "m5stack"
-  - "stack-chan"
+  - "M5stack"
+  - "Stack Chan"
 image: images/stackchan_complete.jpg
 ---
 

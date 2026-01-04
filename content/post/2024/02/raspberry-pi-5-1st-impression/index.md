@@ -5,8 +5,7 @@ slug: "raspberry-pi-5-1st-impression"
 categories:
   - "Electronics"
 tags:
-  - "electronics"
-  - "raspberry-pi"
+  - "Raspberry Pi"
 image: "images/raspberrypi5-1st-impression-10.jpg"
 ---
 

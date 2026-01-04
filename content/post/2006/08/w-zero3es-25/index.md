@@ -4,8 +4,7 @@ date: 2006-08-24
 slug: "w-zero3es-25"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 まだ細かくは確認していませんが、とりあえず快調のもよう。

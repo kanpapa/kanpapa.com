@@ -5,8 +5,9 @@ slug: "ros2-foxy-roomba-nav2"
 categories:
   - "Robot"
 tags:
-  - "roomba"
-  - "ros2"
+  - "ROS"
+  - "ROS 2"
+  - "Roomba"
 image: "images/ros2-foxy-roomba-nav2-goal1.jpg"
 ---
 

@@ -4,8 +4,7 @@ date: 2009-06-06
 slug: "ejackinolcd-1"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/eJackino_lm73.jpg"
 ---
 

@@ -5,12 +5,11 @@ slug: pdp-11-tangconsole-dcj11-mem-ws2812-led-array
 categories:
   - "Retro Computing"
 tags:
-  - "dcj11"
-  - "pdp-11"
-  - "retrocomputing"
-  - "tangconsole"
-  - "tangconsoledcj11mem"
-  - "ws2812"
+  - "DCJ11"
+  - "PDP-11"
+  - "Tangconsole"
+  - "Tangconsoledcj11mem"
+  - "Ws2812"
 image: images/pdp-11-tangconsole-dcj11-mem-ws2812-led-array1.jpg
 ---
 

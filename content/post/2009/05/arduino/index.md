@@ -4,8 +4,7 @@ date: 2009-05-10
 slug: "arduino"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/Arduino_dice.jpg"
 ---
 

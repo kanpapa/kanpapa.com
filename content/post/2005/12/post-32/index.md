@@ -4,8 +4,7 @@ date: 2005-12-30
 slug: "post-32"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 ---
 
 今年はノートパソコンを持って帰省するのはやめてみることにしました。

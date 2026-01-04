@@ -4,8 +4,7 @@ date: 2005-11-19
 slug: "post-9"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 WILLCOMのトップに[WX300Kで不具合発生](http://www.willcom-inc.com/ja/info/05111901.html)とのこと。前回の京ぽんを思いだします。

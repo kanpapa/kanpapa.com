@@ -4,8 +4,7 @@ date: 2006-08-18
 slug: "post-79"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 巷でうわさの新端末。アサヒビールのイベント「[2006 うまい！旬感プレゼント！](http://www.asahibeer.co.jp/cp/beer/shunkan/index.html "2006 うまい！旬感プレゼント！｜")」目当てでビールを買いにいったら、まだシールが無い！

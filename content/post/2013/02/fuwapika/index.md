@@ -4,8 +4,7 @@ date: 2013-02-07
 slug: "fuwapika"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 image: "images/fuwapika.jpg"
 ---
 

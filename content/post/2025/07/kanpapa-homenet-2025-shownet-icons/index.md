@@ -5,8 +5,7 @@ slug: "kanpapa-homenet-2025-shownet-icons"
 categories:
   - "Server"
 tags:
-  - "pc"
-  - "shownet-icons"
+  - "Shownet Icons"
   - "自宅ネットワーク"
 image: "images/kanpapa-homenet-2025-shownet-icons-eyecatch.png"
 ---

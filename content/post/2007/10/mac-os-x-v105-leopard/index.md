@@ -4,8 +4,7 @@ date: 2007-10-14
 slug: "mac-os-x-v105-leopard"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 Amazonにてお知らせＥメールに登録しちゃいました。注文が可能になったらメールが届くらしいです。

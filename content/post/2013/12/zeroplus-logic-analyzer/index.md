@@ -4,8 +4,7 @@ date: 2013-12-15
 slug: "zeroplus-logic-analyzer"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/zeroplus_2.jpg"
 ---
 

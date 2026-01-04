@@ -4,8 +4,7 @@ date: 2010-09-12
 slug: "otonanokagaku-vol25"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 ---
 
 以前から買おうとおもっていた大人の科学の二眼レフカメラをようやく買ってきました。  

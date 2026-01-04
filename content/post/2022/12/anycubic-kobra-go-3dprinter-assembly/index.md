@@ -5,8 +5,7 @@ slug: "anycubic-kobra-go-3dprinter-assembly"
 categories:
   - "Event"
 tags:
-  - "3d-printer"
-  - "research"
+  - "3d Printer"
 image: "images/kobura_go_assembly16.jpg"
 ---
 

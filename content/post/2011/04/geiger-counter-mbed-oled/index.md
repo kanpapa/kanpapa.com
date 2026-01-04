@@ -4,8 +4,7 @@ date: 2011-04-10
 slug: "geiger-counter-mbed-oled"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/mbed_gm_oled2.jpg"
 ---
 

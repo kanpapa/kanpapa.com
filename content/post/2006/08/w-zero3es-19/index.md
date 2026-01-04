@@ -4,8 +4,7 @@ date: 2006-08-11
 slug: "w-zero3es-19"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 今日の夕方にこんなメールがきました。

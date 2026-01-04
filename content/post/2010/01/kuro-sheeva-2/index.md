@@ -4,8 +4,7 @@ date: 2010-01-31
 slug: "kuro-sheeva-2"
 categories:
   - "Server"
-tags:
-  - "server"
+tags: []
 image: "images/kuro-sheeva1.jpg"
 ---
 

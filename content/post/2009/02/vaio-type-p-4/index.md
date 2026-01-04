@@ -4,8 +4,7 @@ date: 2009-02-01
 slug: "vaio-type-p-4"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 いつものSonyStyleの箱にて到着しました。  

@@ -5,9 +5,9 @@ slug: "maker-faire-tokyo-2020-maker-tag"
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "maker-faire"
-  - "mft2020"
+  - "Cosmac"
+  - "Maker Faire"
+  - "Mft2020"
 image: "images/MFTokyo2020_maker_tag.jpg"
 ---
 

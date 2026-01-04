@@ -5,8 +5,8 @@ slug: "publish-tips1"
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "tips"
+  - "Cosmac"
+  - "Tips"
 image: "images/cosmac_cdp1802ace.jpg"
 ---
 

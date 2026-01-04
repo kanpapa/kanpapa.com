@@ -5,8 +5,8 @@ slug: "cosmac-mbc-vip-proto1"
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-mbc"
+  - "Cosmac"
+  - "Cosmac Mbc"
 image: "images/cosmac_vip_rom.jpg"
 ---
 

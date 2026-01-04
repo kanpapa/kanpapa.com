@@ -4,8 +4,7 @@ date: 2006-05-04
 slug: "ds-lite"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 ---
 
 帰省先のおもちゃ屋さんでDS Liteを売っていました。

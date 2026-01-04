@@ -4,8 +4,7 @@ date: 2007-11-23
 slug: "microsoft-office-2007"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 ポストにMicrosoft Office Standard 2007のお試し版のCD-ROMが入っていました。

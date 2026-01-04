@@ -4,8 +4,7 @@ date: 2008-09-28
 slug: "post-145"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 image: "images/omocha_no_kanzume1.jpg"
 ---
 

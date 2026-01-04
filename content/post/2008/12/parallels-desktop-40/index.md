@@ -4,8 +4,7 @@ date: 2008-12-02
 slug: "parallels-desktop-40"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 image: "images/parallels_desktop_4_0.jpg"
 ---
 

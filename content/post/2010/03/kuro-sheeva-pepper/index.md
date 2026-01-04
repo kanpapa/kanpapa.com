@@ -4,8 +4,7 @@ date: 2010-03-20
 slug: "kuro-sheeva-pepper"
 categories:
   - "Server"
-tags:
-  - "server"
+tags: []
 image: "images/kuro-sheeva-pepper.jpg"
 ---
 

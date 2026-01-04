@@ -5,10 +5,8 @@ slug: "mecanum-wheel-robot-part2"
 categories:
   - "Robot"
 tags:
-  - "arduino"
-  - "otafab"
-  - "otafab-robot"
-  - "robot"
+  - "Arduino"
+  - "Otafab"
   - "メカナムホイール"
 image: "images/mecanum_robot_part2_009.jpeg"
 ---

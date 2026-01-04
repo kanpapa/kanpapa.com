@@ -4,8 +4,7 @@ date: 2008-05-06
 slug: "debian"
 categories:
   - "Server"
-tags:
-  - "server"
+tags: []
 ---
 
 LinkStation LS-H250GLにセットアップしたdebianの環境設定開始です。

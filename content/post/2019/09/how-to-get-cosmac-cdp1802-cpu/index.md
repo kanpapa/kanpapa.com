@@ -5,8 +5,8 @@ slug: "how-to-get-cosmac-cdp1802-cpu"
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "tips"
+  - "Cosmac"
+  - "Tips"
 image: "images/cosmac_cdp1802ace.jpg"
 ---
 

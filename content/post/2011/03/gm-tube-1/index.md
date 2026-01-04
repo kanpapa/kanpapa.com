@@ -4,8 +4,7 @@ date: 2011-03-28
 slug: "gm-tube-1"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/gm_d3372.jpg"
 ---
 

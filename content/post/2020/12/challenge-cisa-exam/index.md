@@ -5,8 +5,8 @@ slug: challenge-cisa-exam
 categories:
   - "Server"
 tags:
-  - "cisa"
-  - "security"
+  - "Cisa"
+  - "Security"
 image: images/cisa_review_manual.jpeg
 ---
 

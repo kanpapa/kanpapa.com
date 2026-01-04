@@ -4,8 +4,7 @@ date: 2013-11-04
 slug: "lpc800-mini-7segled"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/lpc800_mini_7seg.jpg"
 ---
 

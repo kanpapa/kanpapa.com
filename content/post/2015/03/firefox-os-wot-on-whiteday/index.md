@@ -4,8 +4,7 @@ date: 2015-03-22
 slug: "firefox-os-wot-on-whiteday"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/foxkeh2.jpg"
 ---
 

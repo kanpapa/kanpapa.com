@@ -5,7 +5,7 @@ slug: seccon-ctf-2015-online-write-up
 categories:
   - "Server"
 tags:
-  - "security"
+  - "Security"
 image: images/entry_form1.png
 ---
 

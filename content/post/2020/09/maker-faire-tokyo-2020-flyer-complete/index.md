@@ -5,11 +5,10 @@ slug: maker-faire-tokyo-2020-flyer-complete
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-mbc"
-  - "maker-faire"
-  - "mft2020"
-  - "retrocomputing"
+  - "Cosmac"
+  - "Cosmac Mbc"
+  - "Maker Faire"
+  - "Mft2020"
 image: images/mftokyo2020_cosmac_flyer1.jpg
 ---
 

@@ -4,8 +4,7 @@ date: 2015-05-16
 slug: "h8-bdz-kozos02-html"
 categories:
   - "Retro Computing"
-tags:
-  - "retrocomputing"
+tags: []
 image: "images/h8board06.jpg"
 ---
 

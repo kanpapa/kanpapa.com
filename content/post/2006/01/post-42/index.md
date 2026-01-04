@@ -4,8 +4,7 @@ date: 2006-01-29
 slug: "post-42"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 メールが使えるということで、「ぴぴっとフォン」AP-K303Tに機種変しました。

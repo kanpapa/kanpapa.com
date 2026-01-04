@@ -4,8 +4,7 @@ date: 2006-07-31
 slug: "w-zero3es24"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 [ウィルコムストアでのW-ZERO3\[es\]の注文ページ](https://store.willcom-inc.com/ec/faces/lstlscp000906/)に大きく表示されていた「８月３日以降のお届けになります」という文字が消えました。

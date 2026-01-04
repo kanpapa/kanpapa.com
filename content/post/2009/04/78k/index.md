@@ -4,8 +4,7 @@ date: 2009-04-29
 slug: "78k"
 categories:
   - "Retro Computing"
-tags:
-  - "retrocomputing"
+tags: []
 image: "images/78k_2.jpg"
 ---
 

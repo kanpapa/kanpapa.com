@@ -4,8 +4,7 @@ date: 2007-10-15
 slug: "mac-os-x-leopard1026"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 そろそろかなと昨日書いていたら、今日発表でしたね。

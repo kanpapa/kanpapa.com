@@ -4,8 +4,7 @@ date: 2016-01-08
 slug: "chromebook"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 image: "images/chromebook02.jpg"
 ---
 

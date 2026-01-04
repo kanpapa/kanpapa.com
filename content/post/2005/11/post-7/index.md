@@ -4,8 +4,7 @@ date: 2005-11-17
 slug: "post-7"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 ケータイＢＥＳＴ編集部から「京ぽんＰＥＲＦＥＣＴ　ＧＵＩＤＥ」なるものがでるようです。

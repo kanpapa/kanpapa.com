@@ -5,8 +5,7 @@ slug: "repair-lego-mindstorms-rcx-cables"
 categories:
   - "Event"
 tags:
-  - "lego"
-  - "research"
+  - "Lego"
 image: "images/lego_rcx_cable9.jpg"
 ---
 

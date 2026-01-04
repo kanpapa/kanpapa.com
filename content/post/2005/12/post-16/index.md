@@ -4,8 +4,7 @@ date: 2005-12-05
 slug: "post-16"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 京ぽん２で電車の中から書いてみるテストです。

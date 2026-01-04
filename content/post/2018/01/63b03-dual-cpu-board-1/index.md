@@ -6,7 +6,6 @@ categories:
   - "Retro Computing"
 tags:
   - "63b03"
-  - "retrocomputing"
 image: "images/68B03_dual_cpu_board1.jpg"
 ---
 

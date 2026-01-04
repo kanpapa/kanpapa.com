@@ -4,8 +4,7 @@ date: 2006-01-07
 slug: "post-37"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 昨日いきつけの書店に寄ったところ、京ぽん２系の本を何冊か見かけましたので軽くレビュー。

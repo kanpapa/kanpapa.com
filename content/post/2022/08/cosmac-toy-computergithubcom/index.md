@@ -5,9 +5,8 @@ slug: cosmac-toy-computergithubcom
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-toy"
-  - "retrocomputing"
+  - "Cosmac"
+  - "Cosmac Toy"
 image: images/cosmac_lab_slide1.jpg
 ---
 

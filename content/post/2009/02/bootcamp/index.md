@@ -4,8 +4,7 @@ date: 2009-02-22
 slug: "bootcamp"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 image: "images/bootcamp_startup.jpg"
 ---
 

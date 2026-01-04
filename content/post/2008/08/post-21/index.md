@@ -4,8 +4,7 @@ date: 2008-08-31
 slug: "post-21"
 categories:
   - "Server"
-tags:
-  - "server"
+tags: []
 ---
 
 はてなダイヤリーからインポートしてみましたが、きれいにインポートできますね。

@@ -5,8 +5,8 @@ slug: "roomba-robot-ros-part10-gazebo-sim1"
 categories:
   - "Robot"
 tags:
-  - "robot"
-  - "roomba"
+  - "Roomba"
+  - "ROS"
 image: "images/roomba_slam_otafab_gazebo_sim1.png"
 ---
 

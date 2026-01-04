@@ -4,8 +4,7 @@ date: 2008-07-12
 slug: "isoftbankjp"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 いまだにi.softbank.jpのメール設定ができません。

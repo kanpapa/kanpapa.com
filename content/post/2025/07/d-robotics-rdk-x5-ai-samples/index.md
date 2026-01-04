@@ -5,10 +5,9 @@ slug: d-robotics-rdk-x5-ai-samples
 categories:
   - "Robot"
 tags:
-  - "d-robotics"
-  - "rdk"
-  - "rdk-x5"
-  - "robot"
+  - "D Robotics"
+  - "RDK"
+  - "RDK X5"
 image: images/hobot_dnn-hands-point1.jpg
 ---
 

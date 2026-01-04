@@ -5,12 +5,10 @@ slug: otafab-esp32-minicar4
 categories:
   - "Electronics"
 tags:
-  - "arduino"
-  - "electronics"
-  - "esp32"
-  - "otafab"
-  - "otafab-esp32"
-  - "xiao"
+  - "Arduino"
+  - "ESP32"
+  - "Otafab"
+  - "Xiao"
   - "電子工作"
 image: images/esp32-minicar1.jpg
 ---

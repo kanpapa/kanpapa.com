@@ -4,8 +4,7 @@ date: 2009-02-23
 slug: "hcs08"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 image: "images/hcs08_led.jpg"
 ---
 

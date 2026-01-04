@@ -4,8 +4,7 @@ date: 2009-01-31
 slug: "vaio-type-p-3"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 SonyStyleから、商品発送のお知らせメールが届きました。 明日の午前中指定にしていますので、楽しみです！

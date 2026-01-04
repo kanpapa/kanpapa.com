@@ -4,8 +4,7 @@ date: 2006-08-05
 slug: "w-zero3es-16"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 なおっきさんの情報によると、W-ZERO3\[es\]単体は7日頃から入荷とのことです。

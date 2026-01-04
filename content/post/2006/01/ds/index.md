@@ -4,8 +4,7 @@ date: 2006-01-29
 slug: "ds"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 ---
 
 これ買ってみました。早速トライしたところ、大きな問題が！

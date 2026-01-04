@@ -4,8 +4,7 @@ date: 2009-11-02
 slug: "time-capsule"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 アップルのTime Capsule 1TBの価格引き下げがありまして、この機会に導入してしまいました。  

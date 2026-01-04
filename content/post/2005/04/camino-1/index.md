@@ -4,8 +4,7 @@ date: 2005-04-04
 slug: "camino-1"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 image: "images/mac_camino.jpg"
 ---
 

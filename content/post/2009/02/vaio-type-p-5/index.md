@@ -4,8 +4,7 @@ date: 2009-02-08
 slug: "vaio-type-p-5"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 今日はおやすみなので、VAIO type Pの環境整備です。  

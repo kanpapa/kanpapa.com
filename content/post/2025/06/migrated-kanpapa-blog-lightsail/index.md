@@ -5,11 +5,10 @@ slug: "migrated-kanpapa-blog-lightsail"
 categories:
   - "Server"
 tags:
-  - "aws"
-  - "conoha"
-  - "lightsail"
-  - "server"
-  - "wordpress"
+  - "Aws"
+  - "Conoha"
+  - "Lightsail"
+  - "Wordpress"
 image: "images/amazon-lightsail-topview1.png"
 ---
 

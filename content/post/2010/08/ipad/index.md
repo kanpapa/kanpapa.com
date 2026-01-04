@@ -4,8 +4,7 @@ date: 2010-08-02
 slug: "ipad"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 image: "images/ipad.jpg"
 ---
 

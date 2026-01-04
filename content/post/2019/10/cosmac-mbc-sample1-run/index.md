@@ -5,8 +5,8 @@ slug: "cosmac-mbc-sample1-run"
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-mbc"
+  - "Cosmac"
+  - "Cosmac Mbc"
 image: "images/ut4_teraterm_setting.png"
 ---
 

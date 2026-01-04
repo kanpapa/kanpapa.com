@@ -5,11 +5,10 @@ slug: "roomba-robot-ros-part8-otafab56"
 categories:
   - "Robot"
 tags:
-  - "otafab"
-  - "otafab-robot"
-  - "robot"
-  - "roomba"
-  - "ros1"
+  - "Otafab"
+  - "ROS"
+  - "ROS 1"
+  - "Roomba"
 image: "images/Roomba_slam_2022-03-06_15-01-35.png"
 ---
 

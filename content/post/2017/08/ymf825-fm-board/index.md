@@ -4,8 +4,7 @@ date: 2017-08-06
 slug: "ymf825-fm-board"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/ymf825_board.jpg"
 ---
 

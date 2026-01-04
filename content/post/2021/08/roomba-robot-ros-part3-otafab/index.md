@@ -5,10 +5,9 @@ slug: "roomba-robot-ros-part3-otafab"
 categories:
   - "Robot"
 tags:
-  - "otafab"
-  - "otafab-robot"
-  - "robot"
-  - "roomba"
+  - "Otafab"
+  - "Roomba"
+  - "ROS"
 image: "images/roomba_serialport.jpg"
 ---
 

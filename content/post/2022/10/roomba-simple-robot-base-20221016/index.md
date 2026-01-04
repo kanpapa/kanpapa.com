@@ -5,8 +5,9 @@ slug: "roomba-simple-robot-base-20221016"
 categories:
   - "Robot"
 tags:
-  - "roomba"
-  - "ros2"
+  - "ROS"
+  - "ROS 2"
+  - "Roomba"
 image: "images/roomba-simple-base-20221016.jpg"
 ---
 

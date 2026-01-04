@@ -5,11 +5,10 @@ slug: "aesoc-yocto-broute-mackerel"
 categories:
   - "Electronics"
 tags:
-  - "akiduki-denshi"
-  - "arm"
-  - "electronics"
-  - "mackerel"
-  - "soc"
+  - "Akiduki Denshi"
+  - "Arm"
+  - "Mackerel"
+  - "Soc"
 image: "images/aesoc_mackerel_power1.png"
 ---
 

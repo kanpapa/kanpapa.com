@@ -5,11 +5,10 @@ slug: cosmac-maker-faire-tokyo-2020-day0
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-mbc"
-  - "maker-faire"
-  - "mft2020"
-  - "retrocomputing"
+  - "Cosmac"
+  - "Cosmac Mbc"
+  - "Maker Faire"
+  - "Mft2020"
 image: images/mft2020_1002_51.jpg
 ---
 

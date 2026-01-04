@@ -4,8 +4,7 @@ date: 2007-01-22
 slug: "post-90"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 残念ながらW-ZERO3後継も、新W-SIMジャケットも、おサイフケータイもありませんでした。

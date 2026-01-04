@@ -5,8 +5,8 @@ slug: seccon-2018-online-ctf-write-up
 categories:
   - "Server"
 tags:
-  - "seccon"
-  - "security"
+  - "Seccon"
+  - "Security"
 image: images/moxie_bz1.png
 ---
 

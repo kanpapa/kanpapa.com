@@ -4,8 +4,7 @@ date: 2008-06-15
 slug: "mac-1"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 今後、.macが無くなって、MobileMeに変わるそうです。

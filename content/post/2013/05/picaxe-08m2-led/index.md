@@ -4,8 +4,7 @@ date: 2013-05-11
 slug: "picaxe-08m2-led"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/AXE029_adapter.jpg"
 ---
 

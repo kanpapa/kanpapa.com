@@ -4,8 +4,7 @@ date: 2006-08-01
 slug: "w-zero3es-15"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 ウィルコムストアの[よくある質問](http://faq.willcom-inc.com/faq/1052/app/servlet/qasearch)にこのような質問が載っていた。

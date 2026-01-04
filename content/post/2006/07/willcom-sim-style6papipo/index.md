@@ -4,8 +4,7 @@ date: 2006-07-08
 slug: "willcom-sim-style6papipo"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 WILLCOMのFAQページにこんなのがありました。

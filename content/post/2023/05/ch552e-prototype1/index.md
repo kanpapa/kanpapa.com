@@ -5,8 +5,7 @@ slug: "ch552e-prototype1"
 categories:
   - "Electronics"
 tags:
-  - "ch55x"
-  - "electronics"
+  - "Ch55x"
 image: "images/ch552e_prototype1_sch.png"
 ---
 

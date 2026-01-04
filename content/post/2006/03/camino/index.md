@@ -4,8 +4,7 @@ date: 2006-03-22
 slug: "camino"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 Caminoの日本語ページができています！

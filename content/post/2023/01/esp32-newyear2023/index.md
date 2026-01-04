@@ -5,9 +5,8 @@ slug: esp32-newyear2023
 categories:
   - "Electronics"
 tags:
-  - "arduino"
-  - "electronics"
-  - "esp32"
+  - "Arduino"
+  - "ESP32"
   - "書き初め"
 image: images/hdsp-2121-udc_rabbit_test.jpg
 ---

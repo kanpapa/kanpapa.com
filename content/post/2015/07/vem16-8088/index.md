@@ -4,8 +4,7 @@ date: 2015-07-31
 slug: "vem16-8088"
 categories:
   - "Retro Computing"
-tags:
-  - "retrocomputing"
+tags: []
 image: "images/vem16_001.jpg"
 ---
 

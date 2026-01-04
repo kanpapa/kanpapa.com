@@ -5,8 +5,7 @@ slug: "qnap-nas-skipped-rebuilding-raid"
 categories:
   - "Server"
 tags:
-  - "qnap"
-  - "server"
+  - "Qnap"
 image: "images/qnap_nas_photo2.jpg"
 ---
 

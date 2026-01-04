@@ -5,11 +5,11 @@ slug: rdk-x3-roomba-voice-controlled-ros2
 categories:
   - "Robot"
 tags:
-  - "rdk"
-  - "rdk-x3"
-  - "robot"
-  - "roomba"
-  - "ros2"
+  - "RDK"
+  - "RDK X3"
+  - "ROS"
+  - "ROS 2"
+  - "Roomba"
 image: images/rdk-x3-roomba-voice-control.jpg
 ---
 

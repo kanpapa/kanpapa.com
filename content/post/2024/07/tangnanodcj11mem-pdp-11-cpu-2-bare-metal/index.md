@@ -5,12 +5,10 @@ slug: tangnanodcj11mem-pdp-11-cpu-2-bare-metal
 categories:
   - "Retro Computing"
 tags:
-  - "dcj11"
-  - "fpga"
-  - "pdp-11"
-  - "retrocomputing"
-  - "tang-nano"
-  - "tangnanodcj11mem"
+  - "DCJ11"
+  - "FPGA"
+  - "PDP-11"
+  - "Tang Nano"
 image: images/pdp-11-dcj11-cpu-2-eyecatch.jpg
 ---
 

@@ -4,8 +4,7 @@ date: 2015-02-08
 slug: "websocket-mbed-fx0"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/mbed_application_board.jpg"
 ---
 

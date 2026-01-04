@@ -4,8 +4,7 @@ date: 2008-10-08
 slug: "dyson"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 ---
 
 ダイソン(Dyson)と言えば掃除機ですが、吸い込み口の部分が古くなってきたのでオンラインショップで交換用の部品を買ってみました。

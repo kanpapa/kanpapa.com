@@ -4,8 +4,7 @@ date: 2010-12-23
 slug: "theo-jansen-exhibition"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 ---
 
 日本科学未来館で開催されているテオ・ヤンセン展に行ってみました。  

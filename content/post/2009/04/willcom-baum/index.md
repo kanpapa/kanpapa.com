@@ -4,8 +4,7 @@ date: 2009-04-14
 slug: "willcom-baum"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 image: "images/willcom_baum.jpg"
 ---
 

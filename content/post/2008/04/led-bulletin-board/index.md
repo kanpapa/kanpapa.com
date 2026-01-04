@@ -4,8 +4,7 @@ date: 2008-04-26
 slug: "led-bulletin-board"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 ---
 
 エレキジャックNo.4にあった電光掲示板を作ってみました。本当は基板にはんだ付けで小さくつくるのですが、面倒だったのでブレッドボードで組みました。

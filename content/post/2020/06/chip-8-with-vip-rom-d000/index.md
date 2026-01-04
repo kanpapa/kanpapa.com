@@ -5,9 +5,8 @@ slug: chip-8-with-vip-rom-d000
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-mbc"
-  - "retrocomputing"
+  - "Cosmac"
+  - "Cosmac Mbc"
 image: images/cosmac_cdp1802ace.jpg
 ---
 

@@ -6,12 +6,10 @@ categories:
   - "Electronics"
   - "Retro Computing"
 tags:
-  - "aki-80"
-  - "electronics"
-  - "pico2"
-  - "raspberry-pi-pico2"
-  - "retrocomputing"
-  - "z80"
+  - "Aki 80"
+  - "Pico2"
+  - "Raspberry Pi Pico2"
+  - "Z80"
 image: images/pico2romemu-super-aki-80-eyecache1.jpg
 ---
 

@@ -4,8 +4,7 @@ date: 2005-04-04
 slug: "ilife05"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 Mac miniへのswitch作業中に、今までWindowsで保管していたデジカメのデータをiPhotoに一気に読み込ませました。  

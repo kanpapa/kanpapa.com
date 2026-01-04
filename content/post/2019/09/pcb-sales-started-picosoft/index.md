@@ -5,9 +5,8 @@ slug: pcb-sales-started-picosoft
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-toy"
-  - "retrocomputing"
+  - "Cosmac"
+  - "Cosmac Toy"
 image: images/cosmac_pcb_cpu_pl_picosoft.jpg
 ---
 

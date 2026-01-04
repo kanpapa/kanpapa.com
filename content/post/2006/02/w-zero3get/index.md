@@ -4,8 +4,7 @@ date: 2006-02-13
 slug: "w-zero3get"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 ついにW-ZERO3を買ってしまいました。

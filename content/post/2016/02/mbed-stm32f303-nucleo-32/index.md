@@ -5,9 +5,8 @@ slug: "mbed-stm32f303-nucleo-32"
 categories:
   - "Electronics"
 tags:
-  - "arduino"
-  - "electronics"
-  - "mbed"
+  - "Arduino"
+  - "Mbed"
 image: "images/Nucleo-32.jpg"
 ---
 

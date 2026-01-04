@@ -5,8 +5,7 @@ slug: "tried-raspberry-pi-ai-kit"
 categories:
   - "Electronics"
 tags:
-  - "electronics"
-  - "raspberry-pi"
+  - "Raspberry Pi"
 image: "images/raspberry-pi-ai-kit-install-3.jpg"
 ---
 

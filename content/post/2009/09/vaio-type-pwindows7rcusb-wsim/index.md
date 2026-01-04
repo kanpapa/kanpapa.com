@@ -4,8 +4,7 @@ date: 2009-09-08
 slug: "vaio-type-pwindows7rcusb-wsim"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 image: "images/usb-wsim-vaio.jpg"
 ---
 

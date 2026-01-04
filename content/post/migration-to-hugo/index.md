@@ -5,10 +5,10 @@ slug: migration-to-hugo
 categories:
     - "Server"
 tags:
-    - "Hugo"
-    - "WordPress"
-    - "Migration"
-    - "GitHub Pages"
+  - "Github Pages"
+  - "Hugo"
+  - "Migration"
+  - "Wordpress"
 image: "migration-to-hugo-eyecatch.jpg"
 draft: false
 ---

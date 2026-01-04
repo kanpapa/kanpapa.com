@@ -5,8 +5,7 @@ slug: "microbit-mipro-case"
 categories:
   - "Electronics"
 tags:
-  - "electronics"
-  - "micro-bit"
+  - "Micro Bit"
 image: "images/microbit_mipro6.jpg"
 ---
 

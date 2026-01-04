@@ -4,8 +4,7 @@ date: 2005-12-23
 slug: "wx310k-7"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 今朝再度チャレンジしたらサックリ更新できました。

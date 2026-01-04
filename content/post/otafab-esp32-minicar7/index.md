@@ -5,13 +5,11 @@ slug: otafab-esp32-minicar7
 categories:
   - "Electronics"
 tags:
-  - "arduino"
-  - "electronics"
-  - "esp32"
-  - "gemini"
-  - "otafab"
-  - "otafab-esp32"
-  - "xiao"
+  - "Arduino"
+  - "ESP32"
+  - "Gemini"
+  - "Otafab"
+  - "Xiao"
   - "電子工作"
 image: otafab-esp32-minicar7.jpg
 ---

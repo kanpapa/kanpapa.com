@@ -5,9 +5,8 @@ slug: "conoha-apache2nginx"
 categories:
   - "Server"
 tags:
-  - "apache"
-  - "nginx"
-  - "server"
+  - "Apache"
+  - "Nginx"
 image: "images/conoha_cpu_monitor.png"
 ---
 

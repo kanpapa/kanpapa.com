@@ -5,8 +5,8 @@ slug: "cosmac-retroshield-1802-assembly"
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "retroshield"
+  - "Cosmac"
+  - "Retroshield"
 image: "images/retrosheild1602_mega_connect.jpg"
 ---
 

@@ -4,8 +4,7 @@ date: 2006-07-09
 slug: "post-75"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 総合パンフを手に入れたものの、やはり持った感触や画面表示を見てみたい！

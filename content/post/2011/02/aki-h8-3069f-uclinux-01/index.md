@@ -4,8 +4,7 @@ date: 2011-02-27
 slug: "aki-h8-3069f-uclinux-01"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/aki_h8_3069f_uClinux.jpg"
 ---
 

@@ -4,8 +4,7 @@ date: 2011-05-30
 slug: "imac"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 image: "images/imac_box.jpg"
 ---
 

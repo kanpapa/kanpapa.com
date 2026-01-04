@@ -5,8 +5,7 @@ slug: "dragonball-ez-bbug"
 categories:
   - "Retro Computing"
 tags:
-  - "mc68ez328"
-  - "retrocomputing"
+  - "MC68EZ328"
 image: "images/MC68EZ328CPU.jpg"
 ---
 

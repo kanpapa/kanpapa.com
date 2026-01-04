@@ -4,8 +4,7 @@ date: 2014-03-08
 slug: "rapiro-python-uart"
 categories:
   - "Robot"
-tags:
-  - "robot"
+tags: []
 image: "images/rapiro_uart.jpg"
 ---
 

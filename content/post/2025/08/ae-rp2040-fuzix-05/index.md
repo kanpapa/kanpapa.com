@@ -5,10 +5,9 @@ slug: "ae-rp2040-fuzix-05"
 categories:
   - "Electronics"
 tags:
-  - "akiduki-denshi"
-  - "electronics"
-  - "fuzix"
-  - "rp2040"
+  - "Akiduki Denshi"
+  - "Fuzix"
+  - "Rp2040"
 image: "images/ae-rp2040-fuzix-startmsg.png"
 ---
 

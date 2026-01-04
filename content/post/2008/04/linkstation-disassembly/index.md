@@ -5,10 +5,9 @@ slug: "linkstation-disassembly"
 categories:
   - "Server"
 tags:
-  - "debian"
-  - "linkstation"
-  - "nas"
-  - "server"
+  - "Debian"
+  - "Linkstation"
+  - "Nas"
 image: "images/linkstation_disassembly_20080429072019.jpg"
 ---
 

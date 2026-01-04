@@ -4,8 +4,7 @@ date: 2006-07-05
 slug: "post-74"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 昨日からいろんなところでW-ZERO3\[es\]の記事をどこでも見かけるようになりましたねぇ。

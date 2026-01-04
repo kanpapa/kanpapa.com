@@ -4,8 +4,7 @@ date: 2020-07-26
 slug: "opamp-tr200704"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/opamp_tr200704_1.jpg"
 ---
 

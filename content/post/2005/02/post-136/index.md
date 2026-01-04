@@ -4,8 +4,7 @@ date: 2005-02-23
 slug: "post-136"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 今回Mac miniを買った目的の１つに家庭内サーバにしちゃおうという考えがありました。  

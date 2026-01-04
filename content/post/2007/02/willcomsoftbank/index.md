@@ -4,8 +4,7 @@ date: 2007-02-05
 slug: "willcomsoftbank"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 先日、SoftbankのAQUOSケータイをサブケータイとして買いましたが、愛用のWILLCOMのW-ZERO3\[es\]との使い分けをどのようにしているのかをまとめてみました。

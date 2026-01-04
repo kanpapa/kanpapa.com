@@ -4,8 +4,7 @@ date: 2008-08-24
 slug: "grasshopper"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 image: "images/grasshopper_20080822111042.jpg"
 ---
 

@@ -4,8 +4,7 @@ date: 2006-07-14
 slug: "w-zero3es-4"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 今、有楽町で実機さわってきました！！

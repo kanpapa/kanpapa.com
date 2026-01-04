@@ -6,9 +6,8 @@ categories:
   - "Retro Computing"
 tags:
   - "68000"
-  - "dvmecpu2"
-  - "retrocomputing"
-  - "vme"
+  - "Dvmecpu2"
+  - "VME"
 image: images/vme-board8_dvme_series1.jpg
 ---
 

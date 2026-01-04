@@ -5,9 +5,8 @@ slug: rca-cdp1802-cosmac5
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-toy"
-  - "retrocomputing"
+  - "Cosmac"
+  - "Cosmac Toy"
 image: images/cosmac_cpu_board_3dview.png
 ---
 

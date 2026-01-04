@@ -5,8 +5,8 @@ slug: "cosmac-mbc-cpu-rev04-pcborder"
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-mbc"
+  - "Cosmac"
+  - "Cosmac Mbc"
 image: "images/cdp18s020_cpu_rev04_gerber_view.jpg"
 ---
 

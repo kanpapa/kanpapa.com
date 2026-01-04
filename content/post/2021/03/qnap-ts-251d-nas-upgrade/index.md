@@ -5,8 +5,7 @@ slug: "qnap-ts-251d-nas-upgrade"
 categories:
   - "Server"
 tags:
-  - "qnap"
-  - "server"
+  - "Qnap"
 image: "images/ts251d_hdd4.jpg"
 ---
 

@@ -4,8 +4,7 @@ date: 2007-09-30
 slug: "sfelica"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 愛機911Tにnanacoを入れて使いはじめました。会社の近くにセブンイレブンがあるので便利でふ。

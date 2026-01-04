@@ -6,13 +6,12 @@ categories:
   - "Electronics"
   - "Retro Computing"
 tags:
-  - "cdp1802"
-  - "cosmac"
-  - "electronics"
-  - "pico2mememu"
-  - "pico2romemu"
-  - "raspberry-pi-pico2"
-  - "sbc1802"
+  - "Cdp1802"
+  - "Cosmac"
+  - "Pico2mememu"
+  - "Pico2romemu"
+  - "Raspberry Pi Pico2"
+  - "Sbc1802"
 image: images/Pico2MEMEmuCosmac.jpg
 ---
 

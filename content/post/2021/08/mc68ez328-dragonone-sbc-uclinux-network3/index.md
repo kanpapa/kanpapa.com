@@ -5,8 +5,7 @@ slug: "mc68ez328-dragonone-sbc-uclinux-network3"
 categories:
   - "Retro Computing"
 tags:
-  - "mc68ez328"
-  - "retrocomputing"
+  - "MC68EZ328"
 image: "images/uclinux_wifi_router1.jpg"
 ---
 

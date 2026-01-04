@@ -4,8 +4,7 @@ date: 2008-10-11
 slug: "iphonede"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 image: "images/ramune_bin.jpg"
 ---
 

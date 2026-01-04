@@ -5,10 +5,9 @@ slug: emuz80-cosmac-high-address
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "emu1802"
-  - "emuz80"
-  - "retrocomputing"
+  - "Cosmac"
+  - "EMU1802"
+  - "Emuz80"
 image: images/emuz80_cosmac_prog4_out1.png
 ---
 

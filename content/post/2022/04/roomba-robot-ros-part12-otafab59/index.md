@@ -5,9 +5,9 @@ slug: "roomba-robot-ros-part12-otafab59"
 categories:
   - "Robot"
 tags:
-  - "otafab"
-  - "otafab-robot"
-  - "roomba"
+  - "Otafab"
+  - "Roomba"
+  - "ROS"
 image: "images/roomba_otafab59_navi_base.jpg"
 ---
 

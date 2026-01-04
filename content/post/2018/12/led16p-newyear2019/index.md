@@ -5,8 +5,7 @@ slug: "led16p-newyear2019"
 categories:
   - "Electronics"
 tags:
-  - "electronics"
-  - "led-matrix"
+  - "Led Matrix"
   - "書き初め"
 image: "images/ny2019_led16p.jpg"
 ---

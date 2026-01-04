@@ -4,8 +4,7 @@ date: 2010-01-08
 slug: "movable-type-427"
 categories:
   - "Server"
-tags:
-  - "server"
+tags: []
 ---
 
 Movable Type 4.27 の出荷が開始されましたので、アップグレードしました。

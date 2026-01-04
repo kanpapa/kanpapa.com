@@ -4,8 +4,7 @@ date: 2007-01-06
 slug: "vista"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 とりあえず、Windows Vista Home Premiumを予約しました。

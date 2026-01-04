@@ -4,8 +4,7 @@ date: 2009-06-06
 slug: "ejackinolcd"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/ejackino5.jpg"
 ---
 

@@ -4,8 +4,7 @@ date: 2007-03-03
 slug: "trackball"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 会社のPCのマウスがどうも調子が悪くイライラするので、思い切って安いオプティカルマウスを買いに近所のPCショップにいきました。

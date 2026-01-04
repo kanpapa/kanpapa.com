@@ -4,8 +4,7 @@ date: 2013-11-26
 slug: mc68000
 categories:
   - "Retro Computing"
-tags:
-  - "retrocomputing"
+tags: []
 image: images/mc68k_book.jpg
 ---
 

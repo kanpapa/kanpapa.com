@@ -4,8 +4,7 @@ date: 2009-06-29
 slug: "vol24-4"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 ---
 
 [ショップ.学研](http://shop.gakken.co.jp/)の先行予約で注文しておいた「[大人の科学マガジン Vol.24(4ビットマイコン)](http://otonanokagaku.net/magazine/vol24/index.html)」の発送のお知らせメールがとどきました。いよいよ明日到着（発売）です。  

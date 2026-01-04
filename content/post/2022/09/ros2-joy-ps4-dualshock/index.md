@@ -5,7 +5,9 @@ slug: "ros2-joy-ps4-dualshock"
 categories:
   - "Robot"
 tags:
-  - "roomba"
+  - "Roomba"
+  - "ROS"
+  - "ROS 2"
 image: "images/ros2_joy_ps4_usb1.jpg"
 ---
 

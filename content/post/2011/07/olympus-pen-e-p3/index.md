@@ -4,8 +4,7 @@ date: 2011-07-21
 slug: "olympus-pen-e-p3"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 image: "images/pen_ep3_lcd_guard.jpg"
 ---
 

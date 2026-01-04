@@ -5,7 +5,9 @@ slug: "roomba-ros2-led-song"
 categories:
   - "Robot"
 tags:
-  - "roomba"
+  - "Roomba"
+  - "ROS"
+  - "ROS 2"
 image: "images/roomba_all_led_on.jpg"
 ---
 

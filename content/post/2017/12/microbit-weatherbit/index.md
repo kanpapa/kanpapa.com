@@ -5,8 +5,7 @@ slug: "microbit-weatherbit"
 categories:
   - "Electronics"
 tags:
-  - "electronics"
-  - "micro-bit"
+  - "Micro Bit"
 image: "images/weather_bit1.jpg"
 ---
 

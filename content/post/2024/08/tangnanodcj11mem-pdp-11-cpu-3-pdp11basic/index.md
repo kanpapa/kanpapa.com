@@ -5,12 +5,10 @@ slug: tangnanodcj11mem-pdp-11-cpu-3-pdp11basic
 categories:
   - "Retro Computing"
 tags:
-  - "dcj11"
-  - "fpga"
-  - "pdp-11"
-  - "retrocomputing"
-  - "tang-nano"
-  - "tangnanodcj11mem"
+  - "DCJ11"
+  - "FPGA"
+  - "PDP-11"
+  - "Tang Nano"
 image: images/tangnanodcj11mem-ptapebasic-running1.jpg
 ---
 

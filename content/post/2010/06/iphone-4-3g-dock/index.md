@@ -4,8 +4,7 @@ date: 2010-06-26
 slug: "iphone-4-3g-dock"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 午前9時が近づいたので機種変更に向けてiPhone 3Gの電源を切りました。これまでありがとうiPhone 3G！  

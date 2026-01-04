@@ -5,8 +5,8 @@ slug: "cosmac-vip-4096-bit-picture"
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-mbc"
+  - "Cosmac"
+  - "Cosmac Mbc"
 image: "images/VIP_4096bit_picture.jpg"
 ---
 

@@ -4,8 +4,7 @@ date: 2012-07-23
 slug: "factory-hack-summer"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 image: "images/fhack5.jpg"
 ---
 

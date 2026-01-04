@@ -4,8 +4,7 @@ date: 2008-07-10
 slug: "post-128"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 ２２時ぐらいに並んで待っているところに孫さんが応援にきてくてました。

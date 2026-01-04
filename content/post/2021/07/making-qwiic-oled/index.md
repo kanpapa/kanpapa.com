@@ -4,8 +4,7 @@ date: 2021-07-05
 slug: "making-qwiic-oled"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/qwiic_oled3.jpg"
 ---
 

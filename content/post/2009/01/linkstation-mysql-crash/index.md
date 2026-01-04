@@ -4,8 +4,7 @@ date: 2009-01-20
 slug: "linkstation-mysql-crash"
 categories:
   - "Server"
-tags:
-  - "server"
+tags: []
 ---
 
 LinkStationにhackkitでdebian(etch)をインストールしていますが、これにMovable Typeのオープンソース版をインストールしてみました。

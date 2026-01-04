@@ -5,9 +5,8 @@ slug: rca-cdp1802-cosmac10
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-toy"
-  - "retrocomputing"
+  - "Cosmac"
+  - "Cosmac Toy"
 image: images/cosmac_shield_organ_lcd.jpg
 ---
 

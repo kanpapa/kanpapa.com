@@ -5,9 +5,8 @@ slug: "maker-faire-kyoto-2023"
 categories:
   - "Event"
 tags:
-  - "maker-faire"
-  - "mfkyoto2023"
-  - "research"
+  - "Maker Faire"
+  - "Mfkyoto2023"
 image: "images/mfk2023_20230430_011130486.jpg"
 ---
 

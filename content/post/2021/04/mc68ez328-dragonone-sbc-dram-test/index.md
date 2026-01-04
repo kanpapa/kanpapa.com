@@ -5,8 +5,7 @@ slug: "mc68ez328-dragonone-sbc-dram-test"
 categories:
   - "Retro Computing"
 tags:
-  - "mc68ez328"
-  - "retrocomputing"
+  - "MC68EZ328"
 image: "images/dragonone_sbc_dram_only1.jpg"
 ---
 

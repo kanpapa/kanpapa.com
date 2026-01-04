@@ -4,8 +4,7 @@ date: 2009-02-22
 slug: "post-153"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 ---
 
 近所の梅園に行ってみました。満開ではなかったですね。すでに散ったのもあるようで。  

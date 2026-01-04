@@ -5,10 +5,9 @@ slug: pdp-11-arty-fpga-1-vivado
 categories:
   - "Retro Computing"
 tags:
-  - "arty"
-  - "fpga"
-  - "pdp-11"
-  - "retrocomputing"
+  - "Arty"
+  - "FPGA"
+  - "PDP-11"
 image: images/vivado_linux1.jpg
 ---
 

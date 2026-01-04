@@ -5,9 +5,8 @@ slug: "linino-one-one-huntset"
 categories:
   - "Electronics"
 tags:
-  - "arduino"
-  - "electronics"
-  - "linino"
+  - "Arduino"
+  - "Linino"
 image: "images/linino-one-one-eye-catch.jpg"
 ---
 

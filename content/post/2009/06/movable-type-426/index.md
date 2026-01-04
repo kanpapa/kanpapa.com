@@ -4,8 +4,7 @@ date: 2009-06-17
 slug: "movable-type-426"
 categories:
   - "Server"
-tags:
-  - "server"
+tags: []
 ---
 
 アップグレードはいつもの方法で問題なかったです。

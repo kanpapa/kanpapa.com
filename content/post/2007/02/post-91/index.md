@@ -4,8 +4,7 @@ date: 2007-02-19
 slug: "post-91"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 今週の金曜日に発売予定のSoftbankの「コドモバイル 812T」を予約してきました。

@@ -5,8 +5,8 @@ slug: "cosmac-elfos-picoelfv2-part2"
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "elf-os"
+  - "Cosmac"
+  - "Elf Os"
 image: "images/picoelfv2_idecf.jpg"
 ---
 

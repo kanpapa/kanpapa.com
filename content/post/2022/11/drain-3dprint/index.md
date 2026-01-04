@@ -5,8 +5,7 @@ slug: "drain-3dprint"
 categories:
   - "Event"
 tags:
-  - "3d-printer"
-  - "research"
+  - "3d Printer"
 image: "images/drain_3dprint4.jpg"
 ---
 

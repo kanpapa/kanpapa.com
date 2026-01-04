@@ -4,8 +4,7 @@ date: 2007-03-13
 slug: "toragi-2007-04"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/toragi_20070313170421.jpg"
 ---
 

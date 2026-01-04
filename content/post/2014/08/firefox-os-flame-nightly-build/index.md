@@ -4,8 +4,7 @@ date: 2014-08-09
 slug: "firefox-os-flame-nightly-build"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 Firefox OS Flameを手に入れました。でも、購入時点だとFirefox OS 1.3で日本語画面ではありませんでした。

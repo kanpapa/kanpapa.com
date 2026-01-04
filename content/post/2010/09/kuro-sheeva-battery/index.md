@@ -4,8 +4,7 @@ date: 2010-09-23
 slug: "kuro-sheeva-battery"
 categories:
   - "Server"
-tags:
-  - "server"
+tags: []
 image: "images/kuro-sheeva-battery01.jpg"
 ---
 

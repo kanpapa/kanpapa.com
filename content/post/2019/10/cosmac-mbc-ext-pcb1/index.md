@@ -5,8 +5,8 @@ slug: "cosmac-mbc-ext-pcb1"
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-mbc"
+  - "Cosmac"
+  - "Cosmac Mbc"
 image: "images/cosmac_mbc_ext1.jpg"
 ---
 

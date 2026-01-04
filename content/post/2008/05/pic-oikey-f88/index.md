@@ -4,8 +4,7 @@ date: 2008-05-31
 slug: "pic-oikey-f88"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 image: "images/pic-oikey-f88_20080601154127.jpg"
 ---
 

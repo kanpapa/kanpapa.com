@@ -4,8 +4,7 @@ date: 2006-10-28
 slug: "mindstorms-nxt-2"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 image: "images/20061028110634.jpg"
 ---
 

@@ -4,8 +4,7 @@ date: 2006-08-27
 slug: "w-zero3-19"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 京ぽん２からW-ZERO3\[es\]に移行して一週間。特に問題なく使っていましたが、新生銀行からの通知メールがW-ZERO3メールで文字化けしてしまうことを発見。

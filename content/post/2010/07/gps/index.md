@@ -4,8 +4,7 @@ date: 2010-07-18
 slug: "gps"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 ---
 
 エレキジャック No.13についていた付録基板でGPSロガーを組み立てています。  

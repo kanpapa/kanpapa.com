@@ -5,8 +5,7 @@ slug: "mc68ez328-dragonone-sbc-dram-ibuff"
 categories:
   - "Retro Computing"
 tags:
-  - "mc68ez328"
-  - "retrocomputing"
+  - "MC68EZ328"
 image: "images/dragonone_dram_analyze_readrep1.png"
 ---
 

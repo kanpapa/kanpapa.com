@@ -4,8 +4,7 @@ date: 2006-03-27
 slug: "bbtv"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 帰ったらBBTVと書かれていた箱が届いていました。どうやらBBTVのセットトップボックスのようです。こんな箱で届きました。

@@ -4,8 +4,7 @@ date: 2006-03-28
 slug: "post-58"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 最近操作していると突然ブラックアウトすることがあります。なんだろう？

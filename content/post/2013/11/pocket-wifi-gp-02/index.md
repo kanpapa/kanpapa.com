@@ -4,8 +4,7 @@ date: 2013-11-24
 slug: "pocket-wifi-gp-02"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 image: "images/gp_02.jpg"
 ---
 

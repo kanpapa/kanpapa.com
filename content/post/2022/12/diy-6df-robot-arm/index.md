@@ -5,10 +5,9 @@ slug: "diy-6df-robot-arm"
 categories:
   - "Robot"
 tags:
-  - "arduino"
-  - "esp32"
-  - "robot"
-  - "robot-arm"
+  - "Arduino"
+  - "ESP32"
+  - "Robot Arm"
 image: "images/diy_6df_robot_1.jpg"
 ---
 

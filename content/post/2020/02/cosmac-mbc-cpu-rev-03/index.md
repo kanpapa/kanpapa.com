@@ -5,8 +5,8 @@ slug: "cosmac-mbc-cpu-rev-03"
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-mbc"
+  - "Cosmac"
+  - "Cosmac Mbc"
 image: "images/cdp18s020_cpu_rev03.jpg"
 ---
 

@@ -5,11 +5,10 @@ slug: "sparkfun-jetbot-hardware-assembly1"
 categories:
   - "Robot"
 tags:
-  - "jetbot"
-  - "jetson-nano"
-  - "nvidia"
-  - "robot"
-  - "sparkfun"
+  - "Jetbot"
+  - "Jetson Nano"
+  - "Nvidia"
+  - "Sparkfun"
 image: "images/jetbot_assembly10.jpg"
 ---
 

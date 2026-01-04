@@ -5,9 +5,8 @@ slug: "m3pi-newyear2022"
 categories:
   - "Robot"
 tags:
-  - "m3pi"
-  - "mbed"
-  - "robot"
+  - "M3pi"
+  - "Mbed"
   - "書き初め"
 image: "images/m3pi_newyear2022.jpg"
 ---

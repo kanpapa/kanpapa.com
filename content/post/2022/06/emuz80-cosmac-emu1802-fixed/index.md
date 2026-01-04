@@ -5,10 +5,9 @@ slug: emuz80-cosmac-emu1802-fixed
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "emu1802"
-  - "emuz80"
-  - "retrocomputing"
+  - "Cosmac"
+  - "EMU1802"
+  - "Emuz80"
 image: images/emu1802-fixed5.jpg
 ---
 

@@ -4,8 +4,7 @@ date: 2012-05-20
 slug: "nakadai-shibuya-market"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/nakadai_shibuya_market1.jpg"
 ---
 

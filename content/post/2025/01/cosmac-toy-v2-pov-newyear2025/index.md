@@ -5,10 +5,9 @@ slug: cosmac-toy-v2-pov-newyear2025
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-toy-v2"
-  - "pov"
-  - "retrocomputing"
+  - "Cosmac"
+  - "Cosmac Toy V2"
+  - "Pov"
   - "書き初め"
 image: images/cosmac-toy-v2-pov1.jpg
 ---

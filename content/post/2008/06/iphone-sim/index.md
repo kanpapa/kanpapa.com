@@ -4,8 +4,7 @@ date: 2008-06-09
 slug: "iphone-sim"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 iPhoneの発売日が決まりましたが、それまで待てないというかたはぜひIntel Macでその動作を体験してみては。

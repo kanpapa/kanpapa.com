@@ -5,11 +5,10 @@ slug: "tang-nano-9k-gowin-eda-linux1"
 categories:
   - "Electronics"
 tags:
-  - "electronics"
-  - "fpga"
-  - "gowin"
-  - "sipeed"
-  - "tangnano9k"
+  - "FPGA"
+  - "Gowin"
+  - "Sipeed"
+  - "Tangnano9k"
   - "球体液晶"
 image: "images/tang-nano-9k-dome-led1.jpg"
 ---

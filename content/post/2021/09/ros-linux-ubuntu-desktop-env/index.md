@@ -5,8 +5,7 @@ slug: "ros-linux-ubuntu-desktop-env"
 categories:
   - "Robot"
 tags:
-  - "robot"
-  - "roomba"
+  - "Roomba"
 image: "images/ubuntu_desktop_ros1_env.jpg"
 ---
 

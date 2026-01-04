@@ -4,8 +4,7 @@ date: 2009-09-19
 slug: "prodia"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 image: "images/pixela_prodia02.jpg"
 ---
 

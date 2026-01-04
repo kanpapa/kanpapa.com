@@ -4,8 +4,7 @@ date: 2009-01-27
 slug: "windows-7pc"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 「Windows 7 ベータ版は、同じプロダクト キーを使用して、最大 3 台の PC にインストールできます。」というメールがMicrosoftから届いたので、手持ちの古いノートPCにもインストールしてみました。  

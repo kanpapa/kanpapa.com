@@ -6,11 +6,9 @@ categories:
   - "Electronics"
   - "Robot"
 tags:
-  - "ai"
-  - "electronics"
-  - "rdk"
-  - "rdk-x3"
-  - "robot"
+  - "Ai"
+  - "RDK"
+  - "RDK X3"
 image: images/rdk-x3-4g-startup1.jpg
 ---
 

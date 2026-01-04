@@ -5,8 +5,7 @@ slug: "mc68ez328-dragonone-sbc-kicad"
 categories:
   - "Retro Computing"
 tags:
-  - "mc68ez328"
-  - "retrocomputing"
+  - "MC68EZ328"
 image: "images/DragonOne_rev00_kicad.jpg"
 ---
 

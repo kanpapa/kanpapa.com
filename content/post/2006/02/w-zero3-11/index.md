@@ -4,8 +4,7 @@ date: 2006-02-17
 slug: "w-zero3-11"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 W-ZERO3も買ってしまったのでそちらのパケット数グラフも作ってみました。

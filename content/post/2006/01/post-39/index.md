@@ -4,8 +4,7 @@ date: 2006-01-15
 slug: "post-39"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 ぴぴっとフォンの「ここだよナビ」に申し込んでみました。

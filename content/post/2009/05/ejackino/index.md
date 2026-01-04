@@ -4,8 +4,7 @@ date: 2009-05-21
 slug: "ejackino"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/ejackino.jpg"
 ---
 

@@ -4,8 +4,7 @@ date: 2008-10-19
 slug: "macbook-promac-mini"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 image: "images/macbookpro_macmini5.jpg"
 ---
 

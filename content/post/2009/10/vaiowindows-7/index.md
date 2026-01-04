@@ -4,8 +4,7 @@ date: 2009-10-28
 slug: "vaiowindows-7"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 もう、10月下旬だし。そろそろでたかなぁ。VAIO type PのWindows 7ドライバをもらいに[VAIOサポートページ](http://vcl.vaio.sony.co.jp/windows/7/upgrade/readme.html)をみたところ・・・

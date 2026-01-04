@@ -4,8 +4,7 @@ date: 2020-11-09
 slug: "sunhayato-dip-ic-extractor-gx-7"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/sunhayato_gx7.jpg"
 ---
 

@@ -5,9 +5,7 @@ slug: "mbeeduino-rescue"
 categories:
   - "Electronics"
   - "Robot"
-tags:
-  - "electronics"
-  - "robot"
+tags: []
 image: "images/rescue_crawler5.jpg"
 ---
 

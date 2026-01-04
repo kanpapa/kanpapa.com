@@ -4,8 +4,7 @@ date: 2006-03-14
 slug: "activesync"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 ある事情で母艦のウィルス防止ソフトをNOD32からウィルスバスター2006に入れ替えました。

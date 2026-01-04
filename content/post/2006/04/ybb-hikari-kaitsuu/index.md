@@ -4,8 +4,7 @@ date: 2006-04-02
 slug: "ybb-hikari-kaitsuu"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 image: "images/ybb_hikari_20060404081330.jpg"
 ---
 

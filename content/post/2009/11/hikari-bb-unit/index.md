@@ -4,8 +4,7 @@ date: 2009-11-23
 slug: "hikari-bb-unit"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 Yahoo!BB 光 with フレッツで使用する光BBユニット（ルータ）がとどきました。  

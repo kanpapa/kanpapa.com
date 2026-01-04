@@ -4,8 +4,7 @@ date: 2006-07-14
 slug: "w-zero3es-6"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 朝一でウィルコムストアからメールがきました！

@@ -5,11 +5,9 @@ slug: esp32-otafab-study-arduino
 categories:
   - "Electronics"
 tags:
-  - "arduino"
-  - "electronics"
-  - "esp32"
-  - "otafab"
-  - "otafab-esp32"
+  - "Arduino"
+  - "ESP32"
+  - "Otafab"
 image: images/esp32_arduino1.png
 ---
 

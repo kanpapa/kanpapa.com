@@ -5,8 +5,8 @@ slug: "cosmac-mbc-gerber-bom-released"
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-mbc"
+  - "Cosmac"
+  - "Cosmac Mbc"
 image: "images/cosmac_mbc_rev02_gerber_viewer.jpg"
 ---
 

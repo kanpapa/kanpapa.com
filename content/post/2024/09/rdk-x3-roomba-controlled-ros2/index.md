@@ -5,14 +5,14 @@ slug: rdk-x3-roomba-controlled-ros2
 categories:
   - "Robot"
 tags:
-  - "d-robotics"
-  - "humble"
-  - "rdk"
-  - "rdk-x3"
-  - "robot"
-  - "roomba"
-  - "ros2"
-  - "tros-b"
+  - "D Robotics"
+  - "Humble"
+  - "RDK"
+  - "RDK X3"
+  - "ROS"
+  - "ROS 2"
+  - "Roomba"
+  - "Tros B"
 image: images/rdk-x3-roomba-camera-up1.jpg
 ---
 

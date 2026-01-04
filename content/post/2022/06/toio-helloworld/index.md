@@ -5,8 +5,7 @@ slug: "toio-helloworld"
 categories:
   - "Robot"
 tags:
-  - "robot"
-  - "toio"
+  - "Toio"
 image: "images/toio_back.jpg"
 ---
 

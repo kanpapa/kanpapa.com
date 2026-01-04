@@ -5,9 +5,8 @@ slug: "icr-sw700-repair"
 categories:
   - "Event"
 tags:
-  - "radio"
-  - "research"
-  - "sony"
+  - "Radio"
+  - "Sony"
 image: "images/icr_sw700_06.jpg"
 ---
 

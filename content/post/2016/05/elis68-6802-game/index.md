@@ -6,9 +6,8 @@ categories:
   - "Retro Computing"
 tags:
   - "6802"
-  - "elis68"
-  - "game"
-  - "retrocomputing"
+  - "Elis68"
+  - "Game"
 image: images/elis68_game8_curve.jpg
 ---
 

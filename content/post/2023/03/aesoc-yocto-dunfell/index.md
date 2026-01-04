@@ -5,8 +5,7 @@ slug: "aesoc-yocto-dunfell"
 categories:
   - "Electronics"
 tags:
-  - "arm"
-  - "electronics"
+  - "Arm"
 image: "images/aesoc-case1.jpg"
 ---
 

@@ -5,11 +5,9 @@ slug: esp32-otafab-study-microsd
 categories:
   - "Electronics"
 tags:
-  - "arduino"
-  - "electronics"
-  - "esp32"
-  - "otafab"
-  - "otafab-esp32"
+  - "Arduino"
+  - "ESP32"
+  - "Otafab"
 image: images/esp32-otafab-study-microsd_sparkfun1.jpg
 ---
 

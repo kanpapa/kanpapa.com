@@ -4,8 +4,7 @@ date: 2011-07-21
 slug: "mac-os-x-lion"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 image: "images/macosx_lion.jpg"
 ---
 

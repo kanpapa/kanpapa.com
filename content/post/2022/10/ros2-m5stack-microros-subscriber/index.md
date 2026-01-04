@@ -6,10 +6,9 @@ categories:
   - "Electronics"
   - "Robot"
 tags:
-  - "electronics"
-  - "m5stack"
-  - "robot"
-  - "ros2"
+  - "M5stack"
+  - "ROS"
+  - "ROS 2"
 image: images/ros2-m5stack-microros_subscriber2.jpg
 ---
 

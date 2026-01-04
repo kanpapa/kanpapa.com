@@ -5,11 +5,10 @@ slug: blink-risc-v-ch32x035-arduino
 categories:
   - "Electronics"
 tags:
-  - "akiduki-denshi"
-  - "arduino"
-  - "ch32x035"
-  - "electronics"
-  - "risc-v"
+  - "Akiduki Denshi"
+  - "Arduino"
+  - "Ch32x035"
+  - "Risc V"
 image: images/ch32x035g8u6-breakout-blinking.jpg
 ---
 

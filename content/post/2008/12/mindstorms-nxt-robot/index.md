@@ -4,8 +4,7 @@ date: 2008-12-13
 slug: "mindstorms-nxt-robot"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 ---
 
 ひさしぶりにMINDSTORMS NXTをひっぱりだしてきました。二足歩行ロボを組み立てて実験開始です。

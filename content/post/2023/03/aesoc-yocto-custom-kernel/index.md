@@ -5,8 +5,7 @@ slug: "aesoc-yocto-custom-kernel"
 categories:
   - "Electronics"
 tags:
-  - "arm"
-  - "electronics"
+  - "Arm"
 image: "images/fe738d2dc010c9fac171ea4412c5b8357a7d2bf8.jpg"
 ---
 

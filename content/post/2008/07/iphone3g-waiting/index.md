@@ -4,8 +4,7 @@ date: 2008-07-09
 slug: "iphone3g-waiting"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 深夜２時ごろにご契約に関してのご注意事項なる紙が配られました。

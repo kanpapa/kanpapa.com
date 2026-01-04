@@ -1,14 +1,13 @@
 ---
-title: 68000 VMEボードで遊んでみました（１）入手編
+title: 68000 VMEボードで遊んでみました（1）入手編
 date: 2023-08-02
 slug: 68000-vme-board1
 categories:
   - "Retro Computing"
 tags:
   - "68000"
-  - "dvmecpu2"
-  - "retrocomputing"
-  - "vme"
+  - "Dvmecpu2"
+  - "VME"
 image: images/DVME_CPU2_board1.jpg
 ---
 

@@ -4,8 +4,7 @@ date: 2009-02-11
 slug: "vaio-type-p-6"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 VAIO type Pを自宅で使う場合は、ずいぶん昔に購入したエレコムのUSBマウスをつかっていました。しかし、なにぶん古いものなのでVAIO type Pのような高精細な画面のポイントを指すのにすこし難がありました。  

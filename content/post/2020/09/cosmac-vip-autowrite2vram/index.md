@@ -5,10 +5,9 @@ slug: cosmac-vip-autowrite2vram
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-mbc"
-  - "esp32"
-  - "retrocomputing"
+  - "Cosmac"
+  - "Cosmac Mbc"
+  - "ESP32"
 image: images/cosmac_vip_auto_vram1.jpg
 ---
 

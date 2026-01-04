@@ -4,8 +4,7 @@ date: 2007-02-03
 slug: "windows-vista-5"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 もうだめです。レジストリを書き換えようとしたらまたVistaが数回フリーズしてしまいました。

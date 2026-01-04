@@ -5,14 +5,15 @@ slug: rdk-x5-turtlebot3
 categories:
   - "Robot"
 tags:
-  - "humble"
-  - "imu"
-  - "lidar"
-  - "rdk"
-  - "rdk-x5"
-  - "robot"
-  - "ros2"
-  - "turtlebot3"
+  - "Humble"
+  - "Imu"
+  - "Lidar"
+  - "RDK"
+  - "RDK X5"
+  - "ROS"
+  - "ROS 2"
+  - "Turtlebot"
+  - "Turtlebot3"
 image: images/rdk-x5-turtlebot3-setup4.jpg
 ---
 

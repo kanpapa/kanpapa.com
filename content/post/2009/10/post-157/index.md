@@ -4,8 +4,7 @@ date: 2009-10-03
 slug: "post-157"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/ej_no14_pcb.jpg"
 ---
 

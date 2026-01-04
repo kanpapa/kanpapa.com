@@ -4,8 +4,7 @@ date: 2012-07-08
 slug: "kumamon-strap"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 image: "images/kumamon4.jpg"
 ---
 

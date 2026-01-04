@@ -4,8 +4,7 @@ date: 2015-07-12
 slug: "psoc-5lp-prototyping-lit-lcd"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/psoc_adc_lcd.jpg"
 ---
 

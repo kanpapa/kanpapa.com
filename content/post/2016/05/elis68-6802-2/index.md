@@ -6,8 +6,7 @@ categories:
   - "Retro Computing"
 tags:
   - "6802"
-  - "elis68"
-  - "retrocomputing"
+  - "Elis68"
 image: images/elis68_all_ic.jpg
 ---
 

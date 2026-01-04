@@ -5,8 +5,8 @@ slug: "cosmac-mbc-tiny-basic1"
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-mbc"
+  - "Cosmac"
+  - "Cosmac Mbc"
 image: "images/tinybasic_checklist.jpg"
 ---
 

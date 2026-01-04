@@ -4,8 +4,7 @@ date: 2010-10-09
 slug: "macbook-pro-hdd-dvd-1"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 image: "images/mac_hdd_dvd6.jpg"
 ---
 

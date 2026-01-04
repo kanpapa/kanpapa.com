@@ -4,8 +4,7 @@ date: 2007-09-11
 slug: "nanaco"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 まだかな?とずっと待っていましたが、ようやくソフトバンクでもnanacoが使えるようになるみたいです。

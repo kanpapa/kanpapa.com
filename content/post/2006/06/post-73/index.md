@@ -4,8 +4,7 @@ date: 2006-06-30
 slug: "post-73"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 [WILLCOM NEWS](http://blog.willcomnews.com/?eid=306019 "WILLCOM NEWS | 7月4日にウィルコム・シャープ・マイクロソフトが新製品発表！？")さんによると、7月4日にウィルコム・シャープ・マイクロソフトが新製品発表かとのこと。

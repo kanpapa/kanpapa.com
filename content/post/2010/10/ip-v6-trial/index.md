@@ -4,8 +4,7 @@ date: 2010-10-09
 slug: "ip-v6-trial"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 Yahoo! BB IPv6 トライアルモニターを募集しますというメールが届きました。  

@@ -5,8 +5,8 @@ slug: seccon-reiwa-ctf
 categories:
   - "Server"
 tags:
-  - "seccon"
-  - "security"
+  - "Seccon"
+  - "Security"
 image: images/reiwa_ctf_cat.jpg
 ---
 

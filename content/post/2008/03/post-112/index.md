@@ -4,8 +4,7 @@ date: 2008-03-02
 slug: "post-112"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 ---
 
 これで1200MHz帯もQRVできるようになりました。ミズホ通信のSB-2Mも復活です！

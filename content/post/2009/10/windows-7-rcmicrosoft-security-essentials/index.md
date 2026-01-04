@@ -4,8 +4,7 @@ date: 2009-10-03
 slug: "windows-7-rcmicrosoft-security-essentials"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 image: "images/ms_security_essentials.jpg"
 ---
 

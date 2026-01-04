@@ -4,8 +4,7 @@ date: 2012-06-16
 slug: "ipad-smart-case"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 image: "images/ipad_smart_case6.jpg"
 ---
 

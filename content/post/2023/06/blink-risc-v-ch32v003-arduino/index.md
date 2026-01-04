@@ -5,10 +5,9 @@ slug: blink-risc-v-ch32v003-arduino
 categories:
   - "Electronics"
 tags:
-  - "arduino"
-  - "ch32v"
-  - "electronics"
-  - "risc-v"
+  - "Arduino"
+  - "Ch32v"
+  - "Risc V"
 image: images/CH32V003J4M6_SOP8-DIP8.jpg
 ---
 

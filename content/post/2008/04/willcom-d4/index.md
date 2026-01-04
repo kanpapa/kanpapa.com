@@ -4,8 +4,7 @@ date: 2008-04-13
 slug: "willcom-d4"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 ウィルコムから噂のUMPC D4が出ましたね。でも、まあ想像通りのスペックだったのでそんなに驚きはありませんでした。

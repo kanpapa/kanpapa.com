@@ -5,7 +5,9 @@ slug: "ros2-foxy-roomba-slam"
 categories:
   - "Robot"
 tags:
-  - "roomba"
+  - "Roomba"
+  - "ROS"
+  - "ROS 2"
 image: "images/ros2-foxy-roomba-slam-rviz.jpg"
 ---
 

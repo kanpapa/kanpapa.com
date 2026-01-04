@@ -4,8 +4,7 @@ date: 2009-12-27
 slug: "dso-nano-4"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/dsonano5.jpg"
 ---
 

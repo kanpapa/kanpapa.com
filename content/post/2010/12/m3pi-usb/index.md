@@ -4,8 +4,7 @@ date: 2010-12-05
 slug: "m3pi-usb"
 categories:
   - "Robot"
-tags:
-  - "robot"
+tags: []
 image: "images/m3pi_Bluetooth_1.jpg"
 ---
 

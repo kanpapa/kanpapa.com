@@ -4,8 +4,7 @@ date: 2007-04-12
 slug: "yahoo-5"
 categories:
   - "Server"
-tags:
-  - "server"
+tags: []
 ---
 
 さらに何かおもしろいことはないかと思っていたところで、「Yahoo!デベロッパーネットワーク」なるものを見つけました。

@@ -5,7 +5,8 @@ slug: "roomba-imu-mpu9255-1"
 categories:
   - "Robot"
 tags:
-  - "roomba"
+  - "Roomba"
+  - "ROS"
 image: "images/roomba_imu2.jpg"
 ---
 

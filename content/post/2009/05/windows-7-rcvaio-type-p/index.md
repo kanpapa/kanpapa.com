@@ -4,8 +4,7 @@ date: 2009-05-06
 slug: "windows-7-rcvaio-type-p"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 image: "images/windows7_rc_vaio_type_p_1.jpg"
 ---
 

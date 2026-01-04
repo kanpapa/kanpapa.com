@@ -5,8 +5,7 @@ slug: mini-pupper-2-part1
 categories:
   - "Robot"
 tags:
-  - "mini-pupper-2"
-  - "robot"
+  - "Mini Pupper 2"
 image: images/MP2_1_package.jpg
 ---
 

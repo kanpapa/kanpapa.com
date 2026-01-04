@@ -4,8 +4,7 @@ date: 2012-06-09
 slug: "itbeginner17"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 ---
 
 [第17回 IT基礎技術勉強会](http://kozos.jp/group/ITbeginner.html "第17回 IT基礎技術勉強会")「Assembler, Kernel, Binary 勉強会」に参加してみました。  

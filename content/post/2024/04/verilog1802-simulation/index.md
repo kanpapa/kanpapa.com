@@ -5,7 +5,7 @@ slug: "verilog1802-simulation"
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
+  - "Cosmac"
 image: "images/verilog1802-sim2.png"
 ---
 

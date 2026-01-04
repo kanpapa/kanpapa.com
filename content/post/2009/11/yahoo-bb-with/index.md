@@ -4,8 +4,7 @@ date: 2009-11-14
 slug: "yahoo-bb-with"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 image: "images/hikari_henkou.jpg"
 ---
 

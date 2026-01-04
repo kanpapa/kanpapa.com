@@ -4,8 +4,7 @@ date: 2007-10-14
 slug: "post-107"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 ---
 
 最近はやりの初音ミクですが、DTMマガジンを7&Yでオーダして試用版を手に入れることができました。

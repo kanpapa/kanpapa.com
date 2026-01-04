@@ -5,8 +5,7 @@ slug: mini-pupper-2-5-legs-assembly
 categories:
   - "Robot"
 tags:
-  - "mini-pupper-2"
-  - "robot"
+  - "Mini Pupper 2"
 image: images/MP2_5_leg_parts13.jpg
 ---
 

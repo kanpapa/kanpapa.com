@@ -4,8 +4,7 @@ date: 2010-05-27
 slug: "mbed"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/mbed04.jpg"
 ---
 

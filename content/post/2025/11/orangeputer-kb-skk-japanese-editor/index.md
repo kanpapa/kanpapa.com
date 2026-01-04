@@ -5,10 +5,9 @@ slug: orangeputer-kb-skk-japanese-editor
 categories:
   - "Electronics"
 tags:
-  - "electronics"
-  - "esp32"
-  - "orangeputer"
-  - "skk"
+  - "ESP32"
+  - "Orangeputer"
+  - "Skk"
 image: images/orangeputer-skk1.jpg
 ---
 

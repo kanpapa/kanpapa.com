@@ -5,9 +5,7 @@ slug: "hp20b-open"
 categories:
   - "Electronics"
   - "Retro Computing"
-tags:
-  - "electronics"
-  - "retrocomputing"
+tags: []
 image: "images/hp20b_open01.jpg"
 ---
 

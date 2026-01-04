@@ -4,8 +4,7 @@ date: 2006-03-20
 slug: "yahoobb-hikari"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 image: "images/yahoobb-hikari_20060321171208.jpg"
 ---
 

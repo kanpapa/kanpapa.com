@@ -4,8 +4,7 @@ date: 2015-07-13
 slug: "njl5501r-pulse-oximeter"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/njl5501r02.jpg"
 ---
 

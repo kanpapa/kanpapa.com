@@ -5,9 +5,8 @@ slug: cosmac-vip-555-sound
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-mbc"
-  - "retrocomputing"
+  - "Cosmac"
+  - "Cosmac Mbc"
 image: images/cosmac_vip_sound1.jpg
 ---
 

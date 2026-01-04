@@ -4,8 +4,7 @@ date: 2007-10-29
 slug: "parallels-desktop-30-for-mac-build-5540-beta"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 LeopardにしてからParallels Desktopでのレジュームの調子が悪かったのですが、このBuild 5540にアップグレードしたらレジュームしても問題ないように見えます。

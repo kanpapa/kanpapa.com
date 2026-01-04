@@ -4,8 +4,7 @@ date: 2006-01-03
 slug: "post-34"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 ---
 
 やれやれ、やっと着きました。更にバス移動です?。

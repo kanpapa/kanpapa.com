@@ -5,8 +5,8 @@ slug: "cosmac-stg1861-hexkey-rev01-pcb1"
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-mbc"
+  - "Cosmac"
+  - "Cosmac Mbc"
 image: "images/cosmac_stg1861_vipos.jpg"
 ---
 

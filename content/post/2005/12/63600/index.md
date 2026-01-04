@@ -4,8 +4,7 @@ date: 2005-12-07
 slug: "63600"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 [WILLCOM NEWS](http://blog.willcomnews.com/?eid=98753)さんによると、WILLCOMの純増は63,600とのこと。Vodafoneが盛り返しているようですね。

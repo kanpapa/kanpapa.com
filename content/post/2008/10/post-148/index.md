@@ -4,8 +4,7 @@ date: 2008-10-30
 slug: "post-148"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 image: "images/DSCN0285.jpg"
 ---
 

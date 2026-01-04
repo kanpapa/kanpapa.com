@@ -4,8 +4,7 @@ date: 2011-06-26
 slug: "980yen-b-mobile-xperia"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 image: "images/b-mobile-xperia01.jpg"
 ---
 

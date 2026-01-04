@@ -4,8 +4,7 @@ date: 2006-07-15
 slug: "27"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 ウィルコムストアでW-ZERO3\[es\]予約の事前登録をしたのでちょくちょく申し込みページを覗いています。

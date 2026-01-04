@@ -5,9 +5,10 @@ slug: "roomba-ros2-humble1"
 categories:
   - "Robot"
 tags:
-  - "humble"
-  - "roomba"
-  - "ros2"
+  - "Humble"
+  - "ROS"
+  - "ROS 2"
+  - "Roomba"
 image: "images/roomba-ros2-humble1-roomba1.jpg"
 ---
 

@@ -4,8 +4,7 @@ date: 2010-03-08
 slug: "kuro-sheeva-kernel-update"
 categories:
   - "Server"
-tags:
-  - "server"
+tags: []
 image: "images/kuro-sheeva-kernelupdate.jpg"
 ---
 

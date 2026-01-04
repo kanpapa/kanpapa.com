@@ -6,9 +6,8 @@ categories:
   - "Retro Computing"
 tags:
   - "6502"
-  - "kim-uno"
-  - "retrocomputing"
-  - "ubuntu"
+  - "Kim Uno"
+  - "Ubuntu"
 image: images/kim_uno_prototype_1.jpg
 ---
 

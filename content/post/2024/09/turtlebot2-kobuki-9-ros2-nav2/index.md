@@ -5,13 +5,14 @@ slug: turtlebot2-kobuki-9-ros2-nav2
 categories:
   - "Robot"
 tags:
-  - "humble"
-  - "kobuki"
-  - "nav2"
-  - "robot"
-  - "ros2"
-  - "slam"
-  - "turtlebot2"
+  - "Humble"
+  - "Kobuki"
+  - "Nav2"
+  - "ROS"
+  - "ROS 2"
+  - "Slam"
+  - "Turtlebot"
+  - "Turtlebot2"
 image: images/turtlebot2-kobuki-9-ros2-nav2-09051753.jpg
 ---
 

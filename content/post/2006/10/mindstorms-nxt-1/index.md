@@ -4,8 +4,7 @@ date: 2006-10-28
 slug: "mindstorms-nxt-1"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 ---
 
 マインドストームNXTを触っていたら、NXTのファームウェアのアップデート1.03が添付ソフトウェアに入っているのをみつけました。

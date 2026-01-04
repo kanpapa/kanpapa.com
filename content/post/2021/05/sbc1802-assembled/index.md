@@ -5,8 +5,8 @@ slug: "sbc1802-assembled"
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "sbc1802"
+  - "Cosmac"
+  - "Sbc1802"
 image: "images/sbc1802_build5.jpg"
 ---
 

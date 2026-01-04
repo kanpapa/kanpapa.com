@@ -5,9 +5,8 @@ slug: "pololu-romi-assemble"
 categories:
   - "Robot"
 tags:
-  - "pololu"
-  - "robot"
-  - "romi"
+  - "Pololu"
+  - "Romi"
 image: "images/Romi_raspberrypi_test1.jpg"
 ---
 

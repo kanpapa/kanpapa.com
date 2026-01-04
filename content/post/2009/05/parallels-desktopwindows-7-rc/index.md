@@ -4,8 +4,7 @@ date: 2009-05-16
 slug: "parallels-desktopwindows-7-rc"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 MacのParallels Desktop(Build 4.0.3844 Tue, 05 May 2009)でWindows 7 RCを動かしてみました。  

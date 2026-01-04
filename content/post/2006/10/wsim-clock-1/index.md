@@ -4,8 +4,7 @@ date: 2006-10-08
 slug: "wsim-clock-1"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 例のワンセグ付きW-SIM対応腕時計(?)の応募シールがたまりました。

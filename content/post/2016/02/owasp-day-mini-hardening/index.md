@@ -6,7 +6,7 @@ categories:
   - "Server"
 image: images/mini_hardening.png
 tags:
-  - "security"
+  - "Security"
 ---
 
 OWASP DAY in TOKYO 2016 Spring!!でMini Hardeningがあるということで申し込みをしたところ、運良く参加することができました。

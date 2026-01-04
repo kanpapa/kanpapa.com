@@ -5,8 +5,7 @@ slug: m5paper-newyear2021
 categories:
   - "Electronics"
 tags:
-  - "electronics"
-  - "m5stack"
+  - "M5stack"
   - "書き初め"
 image: images/m5paper_newyear2021.jpeg
 ---

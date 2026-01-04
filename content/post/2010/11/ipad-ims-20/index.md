@@ -4,8 +4,7 @@ date: 2010-11-12
 slug: "ipad-ims-20"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 image: "images/iMS-20.jpg"
 ---
 

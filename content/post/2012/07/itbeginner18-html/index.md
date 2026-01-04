@@ -4,8 +4,7 @@ date: 2012-07-01
 slug: "itbeginner18-html"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 ---
 
 [第18回 IT基礎技術勉強会「Assembler, Kernel, Binary 勉強会(ARM編)」](http://atnd.org/events/29435)に参加してみました。

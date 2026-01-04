@@ -4,8 +4,7 @@ date: 2007-01-14
 slug: "post-86"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 ついにケータイを買ってしまいました。もちろんW-ZERO3\[es\]のサブ機としてです。

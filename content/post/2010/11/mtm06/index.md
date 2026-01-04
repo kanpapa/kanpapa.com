@@ -4,8 +4,7 @@ date: 2010-11-22
 slug: "mtm06"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 image: "images/mtm06_signboard.jpg"
 ---
 

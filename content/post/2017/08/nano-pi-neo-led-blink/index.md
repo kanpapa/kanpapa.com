@@ -5,8 +5,7 @@ slug: "nano-pi-neo-led-blink"
 categories:
   - "Electronics"
 tags:
-  - "electronics"
-  - "nano-pi-neo"
+  - "Nano Pi Neo"
 image: "images/nanopi_neo_led.jpg"
 ---
 

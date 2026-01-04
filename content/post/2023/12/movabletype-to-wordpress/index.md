@@ -5,8 +5,7 @@ slug: "movabletype-to-wordpress"
 categories:
   - "Server"
 tags:
-  - "server"
-  - "wordpress"
+  - "Wordpress"
 image: "images/wordpress_management1.png"
 ---
 

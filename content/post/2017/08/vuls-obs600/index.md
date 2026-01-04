@@ -6,7 +6,7 @@ categories:
   - "Server"
 image: images/vulsrepo_sample2.png
 tags:
-  - "security"
+  - "Security"
 ---
 
 [オープンデベロッパーズカンファレンス2017 Tokyo](https://www.ospn.jp/odc2017/)が近くで開催されていることに当日気づき飛び込み参加してきました。

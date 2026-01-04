@@ -5,8 +5,7 @@ slug: "orange-esper-kit-assembly"
 categories:
   - "Electronics"
 tags:
-  - "electronics"
-  - "esp32"
+  - "ESP32"
 image: "images/orange_esp32er_5.jpg"
 ---
 

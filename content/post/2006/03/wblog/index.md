@@ -4,8 +4,7 @@ date: 2006-03-14
 slug: "wblog"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 [なおっきのぶろぐ: 今日のウィルコムニュース](http://naokki.com/etc/mt/archives/2006/03/post_546.php "なおっきのぶろぐ: 今日のウィルコムニュース")さんで触れられていますが、私もW+BLOGに登録して、なおっきさんとまったく同じ感想を持ちました。なんとかしてほしいのは以下の２点。

@@ -5,8 +5,7 @@ slug: "pololu-romi-ros-romipi1"
 categories:
   - "Robot"
 tags:
-  - "robot"
-  - "romi"
+  - "Romi"
 image: "images/romi_ros_romipi1.jpg"
 ---
 

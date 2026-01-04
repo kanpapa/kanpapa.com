@@ -4,8 +4,7 @@ date: 2007-10-26
 slug: "passwordmaster3leopard"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 パスワード管理ソフトの[PasswordMaster3](http://www.vector.co.jp/soft/mac/util/se394459.html)がLeopardでは動かないようです。アップデータも出てないようですし、困ったなぁ。

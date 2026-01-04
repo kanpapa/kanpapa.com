@@ -5,8 +5,7 @@ slug: "mc68ez328-sbc-rev03-prod"
 categories:
   - "Retro Computing"
 tags:
-  - "mc68ez328"
-  - "retrocomputing"
+  - "MC68EZ328"
 image: "images/mc68ez328_sbc_rev03_prod3.jpg"
 ---
 

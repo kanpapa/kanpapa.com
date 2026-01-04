@@ -4,8 +4,7 @@ date: 2008-06-01
 slug: "desktop-pc-upgrade-parts"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 最近地デジのチューナーカードが発売されて、かなり気になっています。

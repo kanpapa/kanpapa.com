@@ -5,9 +5,9 @@ slug: "rosserial-3pi-ros-node"
 categories:
   - "Robot"
 tags:
-  - "m3pi"
-  - "pololu"
-  - "robot"
+  - "M3pi"
+  - "Pololu"
+  - "ROS"
 image: "images/rosserial_3pi_robot1.jpg"
 ---
 

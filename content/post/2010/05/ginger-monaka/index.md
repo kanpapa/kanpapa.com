@@ -4,8 +4,7 @@ date: 2010-05-23
 slug: "ginger-monaka"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/ginger_monaka_test01.jpg"
 ---
 

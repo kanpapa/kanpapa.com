@@ -4,8 +4,7 @@ date: 2007-04-22
 slug: "ipod-nano"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 image: "images/ipod_nano_20070422213104.jpg"
 ---
 

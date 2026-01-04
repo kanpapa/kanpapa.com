@@ -5,9 +5,8 @@ slug: stackchan-serial-servo-assembly
 categories:
   - "Electronics"
 tags:
-  - "electronics"
-  - "m5stack"
-  - "stack-chan"
+  - "M5stack"
+  - "Stack Chan"
 image: images/stackchan_scservo_case3.jpg
 ---
 

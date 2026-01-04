@@ -5,12 +5,10 @@ slug: otafab-esp32-minicar3
 categories:
   - "Electronics"
 tags:
-  - "arduino"
-  - "electronics"
-  - "esp32"
-  - "motor"
-  - "otafab"
-  - "otafab-esp32"
+  - "Arduino"
+  - "ESP32"
+  - "Motor"
+  - "Otafab"
 image: images/esp32-minicar-proto-frame2.jpg
 ---
 

@@ -5,8 +5,8 @@ slug: seccon-ctf-2016-online-write-up
 categories:
   - "Server"
 tags:
-  - "seccon"
-  - "security"
+  - "Seccon"
+  - "Security"
 image: images/ctf_voip.png
 ---
 

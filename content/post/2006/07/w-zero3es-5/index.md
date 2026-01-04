@@ -4,8 +4,7 @@ date: 2006-07-15
 slug: "w-zero3es-5"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 ケータイWatchでこんな記事をみつけました。

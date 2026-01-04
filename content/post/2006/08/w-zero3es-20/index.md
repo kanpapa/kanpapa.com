@@ -4,8 +4,7 @@ date: 2006-08-12
 slug: "w-zero3es-20"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 さて、次は京ぽん２からW-ZERO3\[es\]への移行を行わないといけません。

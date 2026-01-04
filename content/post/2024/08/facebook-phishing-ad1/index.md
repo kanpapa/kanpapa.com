@@ -5,8 +5,8 @@ slug: facebook-phishing-ad1
 categories:
   - "Server"
 tags:
-  - "phishing"
-  - "security"
+  - "Phishing"
+  - "Security"
 image: images/facebook-phishing-ad-2024-08-12-181410-1.png
 ---
 

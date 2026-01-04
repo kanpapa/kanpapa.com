@@ -4,8 +4,7 @@ date: 2008-12-16
 slug: "mac-os-x-1056"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 image: "images/macosx_update_10_5_6.jpg"
 ---
 

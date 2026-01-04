@@ -4,8 +4,7 @@ date: 2016-03-01
 slug: "spamhaus-trouble"
 categories:
   - "Server"
-tags:
-  - "server"
+tags: []
 image: "images/kanpapa_twieet.png"
 ---
 

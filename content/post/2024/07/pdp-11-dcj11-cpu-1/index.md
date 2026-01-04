@@ -5,12 +5,10 @@ slug: pdp-11-dcj11-cpu-1
 categories:
   - "Retro Computing"
 tags:
-  - "dcj11"
-  - "fpga"
-  - "pdp-11"
-  - "retrocomputing"
-  - "tang-nano"
-  - "tangnanodcj11mem"
+  - "DCJ11"
+  - "FPGA"
+  - "PDP-11"
+  - "Tang Nano"
 image: images/pdp-11-dcj11-cpu-1-9-1.jpg
 ---
 

@@ -5,8 +5,7 @@ slug: "thinkcentre-m715q"
 categories:
   - "Server"
 tags:
-  - "pc"
-  - "windows"
+  - "Windows"
 image: "images/thinkcentre_m715q.jpg"
 ---
 

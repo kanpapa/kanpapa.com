@@ -4,8 +4,7 @@ date: 2007-04-06
 slug: "setihome-1"
 categories:
   - "Server"
-tags:
-  - "server"
+tags: []
 ---
 
 玄箱でのBOINCの準備ができたところで、手持ちのPCにもBOINCをインストールする。

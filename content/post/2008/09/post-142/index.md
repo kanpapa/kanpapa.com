@@ -4,8 +4,7 @@ date: 2008-09-24
 slug: "post-142"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 iPhoneを買ってからというもの、常にもう１台携帯をもち歩くことになってしまいました。

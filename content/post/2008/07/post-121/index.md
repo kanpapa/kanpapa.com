@@ -4,8 +4,7 @@ date: 2008-07-04
 slug: "post-121"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 もう来週です。iPhoneの発売日。

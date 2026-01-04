@@ -4,8 +4,7 @@ date: 2005-10-29
 slug: "willcom"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 噂の[WILLCOM](http://www.willcom-inc.com/ja/index.html)の新機種をみてきました。

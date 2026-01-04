@@ -4,8 +4,7 @@ date: 2006-10-16
 slug: "w-zero3es-26"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 特に問題なくファームアップできました。やれやれ。

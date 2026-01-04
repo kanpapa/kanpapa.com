@@ -5,8 +5,7 @@ slug: mini-pupper-2-6-final-assembly
 categories:
   - "Robot"
 tags:
-  - "mini-pupper-2"
-  - "robot"
+  - "Mini Pupper 2"
 image: images/mini-pupper-2-6-final-assembly4.jpg
 ---
 

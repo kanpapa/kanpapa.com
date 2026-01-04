@@ -4,8 +4,7 @@ date: 2008-09-20
 slug: "apple-usb-1"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 早速申し込んでおきました。

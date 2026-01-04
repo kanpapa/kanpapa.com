@@ -4,8 +4,7 @@ date: 2014-06-01
 slug: "imac-dvd2ssd"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 image: "images/sucker.jpg"
 ---
 

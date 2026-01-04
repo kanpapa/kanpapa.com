@@ -4,8 +4,7 @@ date: 2006-01-21
 slug: "post-40"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 今月の利用パケット数は127634パケットでした。

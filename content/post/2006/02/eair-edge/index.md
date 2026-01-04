@@ -4,8 +4,7 @@ date: 2006-02-03
 slug: "eair-edge"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 Eトレード証券の[MOBILE E-TRADE](https://newtrading.etrade.ne.jp/ETGate/WPLETmgR001Control?getFlg=on&burl=search_home&cat1=home&cat2=service&dir=service&file=home_mobileetrade.html "E*TRADE Japan")のAIR-EDGE対応が１月下旬から２月中旬に延期になったそうです。

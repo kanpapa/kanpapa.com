@@ -5,8 +5,7 @@ slug: "linux-gpu-pc-cuda12-pytorch"
 categories:
   - "Event"
 tags:
-  - "ml"
-  - "research"
+  - "Ml"
 image: "images/CUDA_FFT_Ocean_Simulation_1.png"
 ---
 

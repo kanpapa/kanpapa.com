@@ -4,8 +4,7 @@ date: 2006-06-08
 slug: "windows-vista"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 でましたねぇ。ようやくダウンロードが終わりました。

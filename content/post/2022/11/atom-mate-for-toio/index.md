@@ -6,10 +6,8 @@ categories:
   - "Electronics"
   - "Robot"
 tags:
-  - "electronics"
-  - "m5stack"
-  - "robot"
-  - "toio"
+  - "M5stack"
+  - "Toio"
 image: images/AtomMate_and_toio_20221119.jpg
 ---
 

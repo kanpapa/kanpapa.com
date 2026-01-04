@@ -4,8 +4,7 @@ date: 2010-01-20
 slug: "mac-os-x-2010-001"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 Mac OS X のセキュリティアップデート 2010-001 がでていたので適用しました。 詳細は以下を参照のこと。 [http://support.apple.com/kb/HT1222?viewlocale=ja_JP](http://support.apple.com/kb/HT1222?viewlocale=ja_JP)

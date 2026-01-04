@@ -5,8 +5,7 @@ slug: "wi-sun-breakout-board"
 categories:
   - "Electronics"
 tags:
-  - "electronics"
-  - "kicad"
+  - "Kicad"
 image: "images/wisun_prototype_v02_pcb_image.png"
 ---
 

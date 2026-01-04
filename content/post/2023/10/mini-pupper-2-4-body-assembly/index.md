@@ -5,8 +5,7 @@ slug: mini-pupper-2-4-body-assembly
 categories:
   - "Robot"
 tags:
-  - "mini-pupper-2"
-  - "robot"
+  - "Mini Pupper 2"
 image: images/MP2_4_body_fin2.jpg
 ---
 

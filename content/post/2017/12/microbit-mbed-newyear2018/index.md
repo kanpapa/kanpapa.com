@@ -5,9 +5,8 @@ slug: "microbit-mbed-newyear2018"
 categories:
   - "Electronics"
 tags:
-  - "electronics"
-  - "mbed"
-  - "micro-bit"
+  - "Mbed"
+  - "Micro Bit"
   - "書き初め"
 image: "images/newyear2018_photo.jpg"
 ---

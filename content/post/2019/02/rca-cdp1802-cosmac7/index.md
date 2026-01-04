@@ -5,9 +5,8 @@ slug: rca-cdp1802-cosmac7
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-toy"
-  - "retrocomputing"
+  - "Cosmac"
+  - "Cosmac Toy"
 image: images/cosmac_speaker1.jpg
 ---
 

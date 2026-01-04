@@ -5,7 +5,7 @@ slug: "makersfleamarket-cosmac-lab"
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
+  - "Cosmac"
   - "メイカーズフリマ"
 ---
 

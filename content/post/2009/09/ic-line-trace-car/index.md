@@ -5,9 +5,7 @@ slug: "ic-line-trace-car"
 categories:
   - "Electronics"
   - "Robot"
-tags:
-  - "electronics"
-  - "robot"
+tags: []
 image: "images/ic-line-trace-car01.jpg"
 ---
 

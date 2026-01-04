@@ -4,8 +4,7 @@ date: 2008-09-27
 slug: "post-143"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 登録されているおサイフケータイアプリの削除が完了しました。

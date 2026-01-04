@@ -4,8 +4,7 @@ date: 2009-01-13
 slug: "windows-7-beta"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 Windows 7 のベータ版の配布が始まったので、早速MacBook ProのParallels DesktopのVMにいれてみました。インストールは問題なく完了したのですが、どうもネットワークがうまく使えません。

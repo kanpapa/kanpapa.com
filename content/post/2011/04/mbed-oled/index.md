@@ -4,8 +4,7 @@ date: 2011-04-10
 slug: "mbed-oled"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/mbed_oled2.jpg"
 ---
 

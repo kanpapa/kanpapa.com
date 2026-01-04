@@ -4,8 +4,7 @@ date: 2007-02-02
 slug: "windows-vista-3"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 あちこちまわってこんな記事をみつけました。

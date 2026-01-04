@@ -6,12 +6,10 @@ categories:
   - "Electronics"
   - "Robot"
 tags:
-  - "electronics"
-  - "freecad"
-  - "rdk"
-  - "rdk-x3"
-  - "robot"
-  - "roomba"
+  - "Freecad"
+  - "RDK"
+  - "RDK X3"
+  - "Roomba"
 image: images/rdk-x3-simple-roomba-frame1.png
 ---
 

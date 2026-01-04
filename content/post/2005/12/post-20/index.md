@@ -4,8 +4,7 @@ date: 2005-12-10
 slug: "post-20"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 まだ重い状態ですね。いったいどうなっちゃうんだろう。

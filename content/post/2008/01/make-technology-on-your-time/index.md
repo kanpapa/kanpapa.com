@@ -4,8 +4,7 @@ date: 2008-01-24
 slug: "make-technology-on-your-time"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 ---
 
 おもしろそうな本があったので買ってみた。

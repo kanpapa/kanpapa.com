@@ -5,9 +5,8 @@ slug: "nanopi-neo-armbian-install-20240928"
 categories:
   - "Electronics"
 tags:
-  - "armbian"
-  - "electronics"
-  - "nano-pi-neo"
+  - "Armbian"
+  - "Nano Pi Neo"
 image: "images/armbian-nanopineo-install-photo1.jpg"
 ---
 

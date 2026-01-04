@@ -5,8 +5,8 @@ slug: "cosmac-mbc-ext-lcd2"
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-mbc"
+  - "Cosmac"
+  - "Cosmac Mbc"
 image: "images/cosmac_mbc_ext_lcd2_run.jpg"
 ---
 

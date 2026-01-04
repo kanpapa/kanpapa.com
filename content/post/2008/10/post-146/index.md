@@ -4,8 +4,7 @@ date: 2008-10-13
 slug: "post-146"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 image: "images/oeshiki_2008_1.jpg"
 ---
 

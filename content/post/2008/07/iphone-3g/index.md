@@ -4,8 +4,7 @@ date: 2008-07-08
 slug: "iphone-3g"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 日本でもやってくれないですかねぇ。こういうの。

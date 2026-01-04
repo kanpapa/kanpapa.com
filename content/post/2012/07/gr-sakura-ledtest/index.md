@@ -4,8 +4,7 @@ date: 2012-07-29
 slug: "gr-sakura-ledtest"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/GR-SAKURA10.jpg"
 ---
 

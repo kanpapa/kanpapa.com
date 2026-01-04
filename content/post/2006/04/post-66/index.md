@@ -4,8 +4,7 @@ date: 2006-04-27
 slug: "post-66"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 明日から連休なのでW-ZERO3を持って帰省です。

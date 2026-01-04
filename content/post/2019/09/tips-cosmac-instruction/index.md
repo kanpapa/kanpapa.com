@@ -5,8 +5,8 @@ slug: "tips-cosmac-instruction"
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "tips"
+  - "Cosmac"
+  - "Tips"
 image: "images/cosmac_cdp1802ace.jpg"
 ---
 

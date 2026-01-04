@@ -4,8 +4,7 @@ date: 2006-08-10
 slug: "willcom-store-3"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 今朝に注文したW-ZERO3\[es\]の件で、夕方にWILLCOM STOREから電話がありました。

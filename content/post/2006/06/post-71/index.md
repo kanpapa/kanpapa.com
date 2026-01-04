@@ -4,8 +4,7 @@ date: 2006-06-20
 slug: "post-71"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 [京ぽんG](http://mkgblog.seesaa.net/article/19553473.html "京ぽんG: リーク情報？続編")さんのBlogに新機種のリーク情報のまとめが載っています。

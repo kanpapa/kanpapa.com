@@ -5,10 +5,9 @@ slug: "zk-80-newyear2017"
 categories:
   - "Retro Computing"
 tags:
-  - "pic32mx"
-  - "retrocomputing"
-  - "tk-80"
-  - "zk-80-mini"
+  - "Pic32mx"
+  - "Tk 80"
+  - "Zk 80 Mini"
   - "書き初め"
 image: "images/newyear2017_zk80_picture.jpg"
 ---

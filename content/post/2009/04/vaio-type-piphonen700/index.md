@@ -4,8 +4,7 @@ date: 2009-04-01
 slug: "vaio-type-piphonen700"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 image: "images/vaio_type_p_n700.jpg"
 ---
 

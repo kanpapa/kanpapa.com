@@ -5,8 +5,7 @@ slug: "sb-assembler-v3"
 categories:
   - "Retro Computing"
 tags:
-  - "assembler"
-  - "retrocomputing"
+  - "Assembler"
 image: "images/sbasm2.png"
 ---
 

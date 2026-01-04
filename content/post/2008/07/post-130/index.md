@@ -4,8 +4,7 @@ date: 2008-07-12
 slug: "post-130"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 10日の19時から並んでiPhonr購入完了は11日の11時ぐらいですから、およそ16時間並んだことになります。そのまま会社に出勤。

@@ -4,8 +4,7 @@ date: 2008-08-31
 slug: "post"
 categories:
   - "Server"
-tags:
-  - "server"
+tags: []
 ---
 
 使い勝手がどうか確認したいと思います。

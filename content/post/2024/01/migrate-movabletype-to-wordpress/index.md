@@ -5,10 +5,9 @@ slug: "migrate-movabletype-to-wordpress"
 categories:
   - "Server"
 tags:
-  - "cms"
-  - "movable-type"
-  - "server"
-  - "wordpress"
+  - "Cms"
+  - "Movable Type"
+  - "Wordpress"
 image: "images/migrate-movabletype-to-wordpress1.png"
 ---
 

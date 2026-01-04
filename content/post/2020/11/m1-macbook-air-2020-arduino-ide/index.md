@@ -5,12 +5,11 @@ slug: "m1-macbook-air-2020-arduino-ide"
 categories:
   - "Server"
 tags:
-  - "arduino"
-  - "esp32"
-  - "m1-mac"
-  - "mac"
-  - "macbook-air"
-  - "pc"
+  - "Arduino"
+  - "ESP32"
+  - "M1 Mac"
+  - "Mac"
+  - "Macbook Air"
 image: "images/M1_arduino_usb.jpeg"
 ---
 

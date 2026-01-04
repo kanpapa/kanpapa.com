@@ -5,11 +5,10 @@ slug: orangeputer-kb-m5stack-frame
 categories:
   - "Electronics"
 tags:
-  - "electronics"
-  - "esp32"
-  - "m5stack"
-  - "orangeputer"
-  - "skk"
+  - "ESP32"
+  - "M5stack"
+  - "Orangeputer"
+  - "Skk"
 image: images/orangeputer-kb-m5stack-frame2.jpg
 ---
 

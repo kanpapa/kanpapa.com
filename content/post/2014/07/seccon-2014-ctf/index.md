@@ -5,7 +5,7 @@ slug: seccon-2014-ctf
 categories:
   - "Server"
 tags:
-  - "security"
+  - "Security"
 image: images/WS000000.jpg
 ---
 

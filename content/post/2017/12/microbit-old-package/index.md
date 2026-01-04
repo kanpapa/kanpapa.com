@@ -5,8 +5,7 @@ slug: "microbit-old-package"
 categories:
   - "Electronics"
 tags:
-  - "electronics"
-  - "micro-bit"
+  - "Micro Bit"
 image: "images/microbit_pkg_old1.jpg"
 ---
 

@@ -4,8 +4,7 @@ date: 2016-01-10
 slug: "aitendo-binboudeiino"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/binboudeiino06.jpg"
 ---
 

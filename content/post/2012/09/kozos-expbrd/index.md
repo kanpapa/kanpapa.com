@@ -4,8 +4,7 @@ date: 2012-09-30
 slug: "kozos-expbrd"
 categories:
   - "Retro Computing"
-tags:
-  - "retrocomputing"
+tags: []
 image: "images/kozos_expbrd6.jpg"
 ---
 

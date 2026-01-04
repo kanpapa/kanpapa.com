@@ -5,10 +5,9 @@ slug: "roomba-robot-ros-part9-map2gazebo"
 categories:
   - "Robot"
 tags:
-  - "otafab"
-  - "otafab-robot"
-  - "robot"
-  - "roomba"
+  - "Otafab"
+  - "Roomba"
+  - "ROS"
 image: "images/map2world_otafab1.png"
 ---
 

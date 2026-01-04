@@ -5,12 +5,11 @@ slug: mftokyo2020-covid-19-cosmac-vip-keyboard
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-mbc"
-  - "esp32"
-  - "maker-faire"
-  - "mft2020"
-  - "retrocomputing"
+  - "Cosmac"
+  - "Cosmac Mbc"
+  - "ESP32"
+  - "Maker Faire"
+  - "Mft2020"
 image: images/cosmac_vip_web_keyboard1.png
 ---
 

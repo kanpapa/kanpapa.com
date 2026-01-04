@@ -5,10 +5,9 @@ slug: "akizuki_b_board_bottomcover"
 categories:
   - "Event"
 tags:
-  - "3d-printer"
-  - "akiduki-denshi"
-  - "b-board"
-  - "research"
+  - "3d Printer"
+  - "Akiduki Denshi"
+  - "B Board"
 image: "images/akizuki_b_board_bottomcover1-1.jpg"
 ---
 

@@ -6,8 +6,7 @@ categories:
   - "Retro Computing"
 tags:
   - "6502"
-  - "apple1"
-  - "retrocomputing"
+  - "Apple1"
 image: images/replica1_te_44.jpg
 ---
 

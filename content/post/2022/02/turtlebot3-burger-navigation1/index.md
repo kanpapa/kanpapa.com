@@ -5,11 +5,12 @@ slug: turtlebot3-burger-navigation1
 categories:
   - "Robot"
 tags:
-  - "melodic"
-  - "navigation"
-  - "robot"
-  - "ros1"
-  - "turtlebot3"
+  - "Melodic"
+  - "Navigation"
+  - "ROS"
+  - "ROS 1"
+  - "Turtlebot"
+  - "Turtlebot3"
 image: images/turtlebot3-burger-navigation-rviz3.png
 ---
 

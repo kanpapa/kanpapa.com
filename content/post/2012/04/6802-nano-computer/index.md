@@ -4,8 +4,7 @@ date: 2012-04-21
 slug: 6802-nano-computer
 categories:
   - "Retro Computing"
-tags:
-  - "retrocomputing"
+tags: []
 image: images/mc6802_cpu.jpg
 ---
 

@@ -5,8 +5,8 @@ slug: "cosmac-tv1"
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-mbc"
+  - "Cosmac"
+  - "Cosmac Mbc"
 image: "images/cosmac_tv_random1.jpg"
 ---
 

@@ -5,13 +5,11 @@ slug: tangnanodcj11mem-pdp-11-dcj11-cpu-mini-unix-rev2
 categories:
   - "Retro Computing"
 tags:
-  - "dcj11"
-  - "mini-unix"
-  - "pdp-11"
-  - "retrocomputing"
-  - "simh"
-  - "tang-nano"
-  - "tangnanodcj11mem"
+  - "DCJ11"
+  - "Mini Unix"
+  - "PDP-11"
+  - "Simh"
+  - "Tang Nano"
 image: images/tangnanodcj11mem-pdp-11-dcj11-cpu-mini-unix-rev2-board1.jpg
 ---
 

@@ -4,8 +4,7 @@ date: 2008-09-10
 slug: "maciphone"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 こんなiPhone向けサイトをみつけました。

@@ -4,8 +4,7 @@ date: 2007-12-30
 slug: "ham-1ama-2ama-pass"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 ---
 
 自己採点通り、両方とも合格でした。これで安心して年越しできます。

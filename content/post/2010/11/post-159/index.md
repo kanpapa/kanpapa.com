@@ -4,8 +4,7 @@ date: 2010-11-11
 slug: "post-159"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 ---
 
 先日、[宙博](http://www.sorahaku.jp/)に行ったときにおみやげコーナでこのようなものを見つけてしまいました。

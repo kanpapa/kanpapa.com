@@ -4,8 +4,7 @@ date: 2009-02-04
 slug: "vaio-type-pwillcomnico"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 image: "images/vaio_type_p_nico.jpg"
 ---
 

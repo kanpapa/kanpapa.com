@@ -4,8 +4,7 @@ date: 2009-02-28
 slug: "movable-type-424"
 categories:
   - "Server"
-tags:
-  - "server"
+tags: []
 ---
 
 セキュリティアップデートが公開されていましたので、Movable Type 4.24 にアップグレードしました。

@@ -4,8 +4,7 @@ date: 2005-11-29
 slug: "post-13"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 ---
 
 先日からココログの無料版ができたそうで、深夜時間帯の投稿がかなり重くなったような気がします。

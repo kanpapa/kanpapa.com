@@ -5,9 +5,8 @@ slug: cosmac-microboard-computergithubcom
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-mbc"
-  - "retrocomputing"
+  - "Cosmac"
+  - "Cosmac Mbc"
 image: images/VIP_Space_-Intercept.jpg
 ---
 

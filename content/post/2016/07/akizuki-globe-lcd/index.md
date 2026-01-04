@@ -5,8 +5,7 @@ slug: "akizuki-globe-lcd"
 categories:
   - "Electronics"
 tags:
-  - "electronics"
-  - "fpga"
+  - "FPGA"
 image: "images/globe_lcd_7.jpg"
 ---
 

@@ -5,11 +5,12 @@ slug: turtlebot2-kobuki-6-ros2-slam
 categories:
   - "Robot"
 tags:
-  - "kobuki"
-  - "robot"
-  - "ros2"
-  - "slam"
-  - "turtlebot2"
+  - "Kobuki"
+  - "ROS"
+  - "ROS 2"
+  - "Slam"
+  - "Turtlebot"
+  - "Turtlebot2"
 image: images/turtlebot2-kobuki-slam-rviz-eyecatch1.png
 ---
 

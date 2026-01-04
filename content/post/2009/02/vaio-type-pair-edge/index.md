@@ -4,8 +4,7 @@ date: 2009-02-16
 slug: "vaio-type-pair-edge"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 これまでは、EeePCにWILLCOMのAIR-EDGEをつかってモバイル環境を作っていました。  

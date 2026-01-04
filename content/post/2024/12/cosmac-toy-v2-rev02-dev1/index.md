@@ -5,9 +5,8 @@ slug: cosmac-toy-v2-rev02-dev1
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-toy-v2"
-  - "retrocomputing"
+  - "Cosmac"
+  - "Cosmac Toy V2"
 image: images/cosmac-toy-v2-rev02-dev1-photo1.jpg
 ---
 

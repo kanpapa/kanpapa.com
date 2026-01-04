@@ -5,9 +5,8 @@ slug: cosmac-mbc-bus-sound
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-mbc"
-  - "retrocomputing"
+  - "Cosmac"
+  - "Cosmac Mbc"
 image: images/cosmac_sound_bus3.jpg
 ---
 

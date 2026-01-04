@@ -5,9 +5,8 @@ slug: orangepicoshop-pcb
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-toy"
-  - "retrocomputing"
+  - "Cosmac"
+  - "Cosmac Toy"
 image: images/cosmac_cpu_rev1_4_viewer.png
 ---
 

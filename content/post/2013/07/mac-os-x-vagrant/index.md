@@ -4,8 +4,7 @@ date: 2013-07-07
 slug: "mac-os-x-vagrant"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 [Chef](http://www.opscode.com/chef/ "http://www.opscode.com/chef/")のテスト環境としてVagrantが良いという話なのでMacにインストールしてみました。

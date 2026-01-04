@@ -4,8 +4,7 @@ date: 2005-12-16
 slug: "post-22"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 ---
 
 手持ちのPSPがもっと活用できないかなあということで、

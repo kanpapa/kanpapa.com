@@ -4,8 +4,7 @@ date: 2006-08-27
 slug: "post-80"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 W-ZERO3\[es\]のパケ数がすでに6万パケを突破してしまいました。この調子ではやはり10万パケでは足りないようです。

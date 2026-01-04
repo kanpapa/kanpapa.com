@@ -4,8 +4,7 @@ date: 2005-11-04
 slug: "wx310k"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 [味ぽん倶楽部](http://www.air-edge.net/)さんの情報によると、WX310Kの有償アプリの価格が京セラの[オリジナルサイトK](http://wx-k.kyocera.co.jp/sitek/top.php)（サイト構築中の模様）にアップされているとのこと。

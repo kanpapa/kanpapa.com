@@ -4,8 +4,7 @@ date: 2005-11-05
 slug: "windows"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 先週あたりからAthlon64 3000+ デスクトップマシンのWINDOWS XPの調子が悪く、シャットダウンしても「WINDOWSをシャットダウンしています。」の画面が出たままでいつまでたってもシャットダウンしてくれない状況に陥っていました。

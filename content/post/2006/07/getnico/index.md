@@ -4,8 +4,7 @@ date: 2006-07-08
 slug: "getnico"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 今日は朝一で某量販店にでかけてきました。

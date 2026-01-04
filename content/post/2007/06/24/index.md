@@ -4,8 +4,7 @@ date: 2007-06-01
 slug: "24"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 早速21時以降に電話してしまいました。24時間っていいですね。

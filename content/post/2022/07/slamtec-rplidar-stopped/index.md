@@ -5,8 +5,8 @@ slug: "slamtec-rplidar-stopped"
 categories:
   - "Robot"
 tags:
-  - "robot"
-  - "roomba"
+  - "Roomba"
+  - "ROS"
 image: "images/slamtec_rplidar_a1m8_z.jpg"
 ---
 

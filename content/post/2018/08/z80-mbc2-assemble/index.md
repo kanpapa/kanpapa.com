@@ -5,9 +5,8 @@ slug: z80-mbc2-assemble
 categories:
   - "Retro Computing"
 tags:
-  - "retrocomputing"
-  - "z80"
-  - "z80-mbc2"
+  - "Z80"
+  - "Z80 Mbc2"
 image: images/z80mbc2_1.jpg
 ---
 

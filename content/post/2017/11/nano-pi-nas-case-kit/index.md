@@ -5,8 +5,7 @@ slug: "nano-pi-nas-case-kit"
 categories:
   - "Electronics"
 tags:
-  - "electronics"
-  - "nano-pi-neo"
+  - "Nano Pi Neo"
 image: "images/nanopi_nas10.jpg"
 ---
 

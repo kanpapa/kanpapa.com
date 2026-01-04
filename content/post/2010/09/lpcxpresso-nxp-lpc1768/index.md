@@ -4,8 +4,7 @@ date: 2010-09-19
 slug: "lpcxpresso-nxp-lpc1768"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/lpcxpresso-lpc1768.jpg"
 ---
 

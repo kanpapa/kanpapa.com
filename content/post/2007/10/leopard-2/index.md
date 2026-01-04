@@ -4,8 +4,7 @@ date: 2007-10-28
 slug: "leopard-2"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 「ログインとキーチェーンアップデート 1.0」が、ソフトウェアアップデートから入手可能です。

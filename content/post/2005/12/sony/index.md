@@ -4,8 +4,7 @@ date: 2005-12-18
 slug: "sony"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 ---
 
 [SONY ロケーションフリーベースステーション LF-PK1](http://www.sony.jp/products/Consumer/locationfree/LF-PK1/)が到着しました。

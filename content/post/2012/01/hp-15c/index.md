@@ -4,8 +4,7 @@ date: 2012-01-30
 slug: "hp-15c"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 image: "images/hp15c_2.jpg"
 ---
 

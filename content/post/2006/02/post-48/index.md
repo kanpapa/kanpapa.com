@@ -4,8 +4,7 @@ date: 2006-02-09
 slug: "post-48"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 普通の状態にもどりつつありますね。なんとか乗りきってくれたというところ

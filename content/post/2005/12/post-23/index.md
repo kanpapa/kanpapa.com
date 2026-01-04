@@ -4,8 +4,7 @@ date: 2005-12-18
 slug: "post-23"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 ---
 
 また、新しいデジモノを買ってしまった。

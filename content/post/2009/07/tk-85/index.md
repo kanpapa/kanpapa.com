@@ -4,8 +4,7 @@ date: 2009-07-04
 slug: "tk-85"
 categories:
   - "Retro Computing"
-tags:
-  - "retrocomputing"
+tags: []
 image: "images/tk85_1.jpg"
 ---
 

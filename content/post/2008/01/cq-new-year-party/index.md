@@ -4,8 +4,7 @@ date: 2008-01-02
 slug: "cq-new-year-party"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 ---
 
 何十年ぶりだろうか。毎年恒例のJARL主催の[CQ NEW YEAR PARTY](https://www.jarl.or.jp/Japanese/1_Tanoshimo/1-1_Contest/qp/nyp.htm)に顔を出してみた。

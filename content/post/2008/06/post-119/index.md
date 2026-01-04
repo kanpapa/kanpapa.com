@@ -4,8 +4,7 @@ date: 2008-06-19
 slug: "post-119"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 ---
 
 山手線の車内広告ビデオをみていたら、Firefox3のCMが流れていたのでびっくらこいた。

@@ -5,9 +5,7 @@ slug: "post-155"
 categories:
   - "Electronics"
   - "Robot"
-tags:
-  - "electronics"
-  - "robot"
+tags: []
 image: "images/rescue_robo.jpg"
 ---
 

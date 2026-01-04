@@ -5,10 +5,10 @@ slug: "otafab-open-house-20221030"
 categories:
   - "Robot"
 tags:
-  - "otafab"
-  - "otafab-robot"
-  - "roomba"
-  - "ros2"
+  - "Otafab"
+  - "ROS"
+  - "ROS 2"
+  - "Roomba"
 image: "images/roomba_otafab_open_house_20221030_4.jpg"
 ---
 

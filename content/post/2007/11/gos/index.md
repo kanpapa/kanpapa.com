@@ -4,8 +4,7 @@ date: 2007-11-01
 slug: "gos"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 わくわく。

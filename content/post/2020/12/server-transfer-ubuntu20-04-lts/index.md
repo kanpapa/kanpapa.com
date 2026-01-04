@@ -5,8 +5,7 @@ slug: "server-transfer-ubuntu20-04-lts"
 categories:
   - "Server"
 tags:
-  - "linux"
-  - "pc"
+  - "Linux"
 image: "images/ubuntu20_04_2_lts.png"
 ---
 

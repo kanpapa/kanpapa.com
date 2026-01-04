@@ -4,8 +4,7 @@ date: 2007-02-24
 slug: "post-92"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 ちょっと遠回りをしましたが、無事イチなびが動きました！（パチパチ！）

@@ -4,8 +4,7 @@ date: 2007-07-19
 slug: "get"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 Advanced/W-ZERO3\[es\]をGetしました。やはり小型になっていますね。見た目はそんなに違わないかもしれませんが、実際持ってみると小型になっていることが実感できます。

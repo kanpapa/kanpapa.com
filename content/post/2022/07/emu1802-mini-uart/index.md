@@ -5,9 +5,8 @@ slug: emu1802-mini-uart
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "emu1802"
-  - "retrocomputing"
+  - "Cosmac"
+  - "EMU1802"
 image: images/emu1802-mini-uart-test0703.jpg
 ---
 

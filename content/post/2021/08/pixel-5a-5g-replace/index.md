@@ -5,8 +5,7 @@ slug: "pixel-5a-5g-replace"
 categories:
   - "Event"
 tags:
-  - "mobile"
-  - "pixel"
+  - "Pixel"
 image: "images/pixel5a_5g_6.jpg"
 ---
 

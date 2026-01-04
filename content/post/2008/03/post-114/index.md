@@ -4,8 +4,7 @@ date: 2008-03-24
 slug: "post-114"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 今朝から新つなぎ放題に料金プランが切り替わったもようです。

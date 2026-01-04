@@ -4,8 +4,7 @@ date: 2011-06-19
 slug: "b-mobile-sim-pc"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 [イオン専用のb-mobile SIM](http://www.bmobile.ne.jp/aeon/index.html)を取り付けるデータ通信端末 [docomo L-05A](http://www.nttdocomo.co.jp/product/data/l05a/)が届きました。  

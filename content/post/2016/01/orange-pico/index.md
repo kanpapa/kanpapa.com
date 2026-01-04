@@ -5,9 +5,8 @@ slug: "orange-pico"
 categories:
   - "Electronics"
 tags:
-  - "electronics"
-  - "orange-pico"
-  - "pic32mx"
+  - "Orange Pico"
+  - "Pic32mx"
 image: "images/orange_pico04.jpg"
 ---
 

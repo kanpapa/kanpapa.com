@@ -5,8 +5,7 @@ slug: "dragonball-ezsram"
 categories:
   - "Retro Computing"
 tags:
-  - "mc68ez328"
-  - "retrocomputing"
+  - "MC68EZ328"
 image: "images/mc68ez328_sram2.jpg"
 ---
 

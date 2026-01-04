@@ -4,8 +4,7 @@ date: 2006-07-03
 slug: "w-zero3es"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 もうだめです。こんなに発表が続くと逝ってしまいそうです。

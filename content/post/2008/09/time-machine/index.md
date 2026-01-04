@@ -4,8 +4,7 @@ date: 2008-09-08
 slug: "time-machine"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 無事ハードディスクの交換が完了したMacBook Proですが、ハードディスクにはまだ何も無く画面には「OSフォルダがないよ」と表示されています。

@@ -4,8 +4,7 @@ date: 2010-11-19
 slug: "pololu-3pi-programming"
 categories:
   - "Robot"
-tags:
-  - "robot"
+tags: []
 ---
 
 Pololu 3pi robotのマイコンにサンプルプログラムを書き込んでみました。  

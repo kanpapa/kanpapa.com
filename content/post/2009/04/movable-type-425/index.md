@@ -4,8 +4,7 @@ date: 2009-04-01
 slug: "movable-type-425"
 categories:
   - "Server"
-tags:
-  - "server"
+tags: []
 ---
 
 いろいろと新機能が追加されているようです。

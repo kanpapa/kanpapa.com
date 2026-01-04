@@ -4,8 +4,7 @@ date: 2012-10-13
 slug: "trjr-nxp-dip-arm"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/nxp_dip_arm_aquestalk.jpg"
 ---
 

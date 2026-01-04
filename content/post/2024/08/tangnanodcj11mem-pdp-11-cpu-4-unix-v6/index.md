@@ -5,12 +5,10 @@ slug: tangnanodcj11mem-pdp-11-cpu-4-unix-v6
 categories:
   - "Retro Computing"
 tags:
-  - "dcj11"
-  - "fpga"
-  - "pdp-11"
-  - "retrocomputing"
-  - "tang-nano"
-  - "tangnanodcj11mem"
+  - "DCJ11"
+  - "FPGA"
+  - "PDP-11"
+  - "Tang Nano"
 image: images/pdp-11-unix-v6-eyecatch1.jpg
 ---
 

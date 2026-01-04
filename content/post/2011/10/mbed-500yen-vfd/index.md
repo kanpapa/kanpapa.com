@@ -4,8 +4,7 @@ date: 2011-10-08
 slug: "mbed-500yen-vfd"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/mbed_vfd_test.jpg"
 ---
 

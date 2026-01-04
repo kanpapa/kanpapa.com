@@ -4,8 +4,7 @@ date: 2012-12-18
 slug: "nxp-lpcxpresso-lpc812"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/LPCXpresso_lpc812.jpg"
 ---
 

@@ -4,8 +4,7 @@ date: 2012-09-08
 slug: "nxp-dip-arm-pov"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 ---
 
 学研の[大人の科学のJapanino付録のPOVユニット](http://otonanokagaku.net/japanino/)をNXP DIP ARMにつないで表示させてみました。

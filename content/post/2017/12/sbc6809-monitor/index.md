@@ -6,8 +6,7 @@ categories:
   - "Retro Computing"
 tags:
   - "6809"
-  - "retrocomputing"
-  - "sbc6809"
+  - "Sbc6809"
 image: "images/sbc6809_mon3.jpg"
 ---
 

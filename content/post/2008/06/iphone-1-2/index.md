@@ -4,8 +4,7 @@ date: 2008-06-23
 slug: "iphone-1-2"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 ソフトバンクからプレスリリースがようやくでました。

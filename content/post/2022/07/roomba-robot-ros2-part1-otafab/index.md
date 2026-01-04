@@ -5,9 +5,9 @@ slug: "roomba-robot-ros2-part1-otafab"
 categories:
   - "Robot"
 tags:
-  - "otafab"
-  - "otafab-robot"
-  - "roomba"
+  - "Otafab"
+  - "Roomba"
+  - "ROS"
 image: "images/otafab_new_lidar1.jpg"
 ---
 

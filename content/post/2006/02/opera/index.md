@@ -4,8 +4,7 @@ date: 2006-02-21
 slug: "opera"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 本体のアップデート中に[WILLCOM応援団](http://willcom.bg.cat-v.ne.jp/ "WILLCOM応援団")さんを拝見したところ、なんとOperaのアップデートについて書かれていました。

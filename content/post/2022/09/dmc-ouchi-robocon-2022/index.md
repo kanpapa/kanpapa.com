@@ -5,8 +5,7 @@ slug: "dmc-ouchi-robocon-2022"
 categories:
   - "Robot"
 tags:
-  - "dmc-robocon"
-  - "robot"
+  - "Dmc Robocon"
 image: "images/dmc_robocon_fin0.jpg"
 ---
 

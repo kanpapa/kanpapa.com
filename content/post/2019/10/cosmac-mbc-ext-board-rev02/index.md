@@ -5,8 +5,8 @@ slug: "cosmac-mbc-ext-board-rev02"
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-mbc"
+  - "Cosmac"
+  - "Cosmac Mbc"
 image: "images/cosmac_mbc_ext_rev02_prod.jpg"
 ---
 

@@ -5,11 +5,9 @@ slug: "roomba-robot-otafab42"
 categories:
   - "Robot"
 tags:
-  - "arduino"
-  - "otafab"
-  - "otafab-robot"
-  - "robot"
-  - "roomba"
+  - "Arduino"
+  - "Otafab"
+  - "Roomba"
 image: "images/Roomba-robot-otafab42_enorder2.jpg"
 ---
 

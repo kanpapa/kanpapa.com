@@ -5,8 +5,7 @@ slug: "mc68ez328-ucsimm-1"
 categories:
   - "Retro Computing"
 tags:
-  - "mc68ez328"
-  - "retrocomputing"
+  - "MC68EZ328"
 image: "images/uCsimm_front.jpg"
 ---
 

@@ -4,8 +4,7 @@ date: 2013-09-16
 slug: "mbed-lpc1114fn28"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/mbed_LPC1114FN28.jpg"
 ---
 

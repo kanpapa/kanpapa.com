@@ -6,8 +6,7 @@ categories:
   - "Retro Computing"
 tags:
   - "4004"
-  - "retrocomputing"
-  - "sbc4004"
+  - "Sbc4004"
 image: images/sbc4004_startup1.jpg
 ---
 

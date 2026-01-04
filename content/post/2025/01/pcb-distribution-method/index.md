@@ -4,8 +4,7 @@ date: 2025-01-07
 slug: "pcb-distribution-method"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 image: "images/cosmac-toy-v2-pcb-123.jpg"
 ---
 

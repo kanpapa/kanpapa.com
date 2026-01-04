@@ -5,8 +5,7 @@ slug: mini-pupper-2-3-raspberry-pi-cm4b
 categories:
   - "Robot"
 tags:
-  - "mini-pupper-2"
-  - "robot"
+  - "Mini Pupper 2"
 image: images/MP2_3_cm4_8.jpg
 ---
 

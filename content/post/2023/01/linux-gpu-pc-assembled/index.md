@@ -5,8 +5,7 @@ slug: "linux-gpu-pc-assembled"
 categories:
   - "Server"
 tags:
-  - "linux"
-  - "pc"
+  - "Linux"
 image: "images/linux_gpu_pc_completed1.jpg"
 ---
 

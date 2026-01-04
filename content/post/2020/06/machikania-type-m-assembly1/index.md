@@ -4,8 +4,7 @@ date: 2020-06-28
 slug: "machikania-type-m-assembly1"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/machikania_typem_7.jpg"
 ---
 

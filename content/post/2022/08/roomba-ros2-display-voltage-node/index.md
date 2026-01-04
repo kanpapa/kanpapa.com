@@ -5,7 +5,8 @@ slug: "roomba-ros2-display-voltage-node"
 categories:
   - "Robot"
 tags:
-  - "roomba"
+  - "Roomba"
+  - "ROS"
 image: "images/roomba_dispvolv_led.jpg"
 ---
 

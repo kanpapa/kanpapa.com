@@ -5,8 +5,7 @@ slug: "setup-swiper-to-movabletype"
 categories:
   - "Server"
 tags:
-  - "movable-type"
-  - "server"
+  - "Movable Type"
 image: "images/cosmac_lab_swiper.jpg"
 ---
 

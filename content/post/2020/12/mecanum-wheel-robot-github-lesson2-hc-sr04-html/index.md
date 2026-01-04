@@ -5,8 +5,7 @@ slug: "mecanum-wheel-robot-github-lesson2-hc-sr04-html"
 categories:
   - "Robot"
 tags:
-  - "arduino"
-  - "robot"
+  - "Arduino"
   - "メカナムホイール"
 image: "images/HC-SR04_test.jpeg"
 ---

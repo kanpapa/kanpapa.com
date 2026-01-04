@@ -4,8 +4,7 @@ date: 2006-03-07
 slug: "post-53"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 最近W-ZERO3の環境整備にハマっています。

@@ -4,8 +4,7 @@ date: 2005-05-08
 slug: "post-137"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 ---
 
 趣味でドジョウとメダカを飼っています。  

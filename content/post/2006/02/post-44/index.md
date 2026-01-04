@@ -4,8 +4,7 @@ date: 2006-02-07
 slug: "post-44"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 困ったものですねぇ。メール遅延以外は何も問題ないのですが。

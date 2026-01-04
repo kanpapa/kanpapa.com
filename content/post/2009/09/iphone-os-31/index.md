@@ -4,8 +4,7 @@ date: 2009-09-12
 slug: "iphone-os-31"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 先日iPhone OS 3.1のアップデートがありましたが、私も当然公開当日にアップデートをかけました。そうしたら、いきなり次のようなエラーがでてしまいました。

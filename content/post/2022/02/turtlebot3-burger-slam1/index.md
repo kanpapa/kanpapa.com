@@ -5,11 +5,12 @@ slug: turtlebot3-burger-slam1
 categories:
   - "Robot"
 tags:
-  - "melodic"
-  - "robot"
-  - "ros1"
-  - "slam"
-  - "turtlebot3"
+  - "Melodic"
+  - "ROS"
+  - "ROS 1"
+  - "Slam"
+  - "Turtlebot"
+  - "Turtlebot3"
 image: images/turtlebot3-burger-slam-map1.png
 ---
 

@@ -4,8 +4,7 @@ date: 2008-03-30
 slug: "post-115"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 新つなぎ放題にしたらMy WILLCOMでのご利用状況紹介のご利用パケット数が更新されなくなってしまった。

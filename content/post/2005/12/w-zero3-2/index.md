@@ -4,8 +4,7 @@ date: 2005-12-11
 slug: "w-zero3-2"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 ついに[WILLCOM STOREでも完売](https://store.willcom-inc.com/ec/faces/lstlscp000328/)になってしまったようです。

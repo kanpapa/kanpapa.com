@@ -4,8 +4,7 @@ date: 2006-01-08
 slug: "w-zero3-7"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 なんて回転が速いんだ。もう在庫切れです。

@@ -4,8 +4,7 @@ date: 2005-12-07
 slug: "post-18"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 ---
 
 ちょっと独特な部分もあったりして、最初は戸惑いましたが、だいたい慣れてきました。

@@ -4,8 +4,7 @@ date: 2012-07-01
 slug: "7segduino-barometer"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/7segduino_pressure_front.jpg"
 ---
 

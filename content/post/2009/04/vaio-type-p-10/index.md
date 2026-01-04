@@ -4,8 +4,7 @@ date: 2009-04-24
 slug: "vaio-type-p-10"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 image: "images/vaio_type_p_recover.jpg"
 ---
 

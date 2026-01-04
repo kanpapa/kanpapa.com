@@ -4,8 +4,7 @@ date: 2007-10-27
 slug: "leopard-3"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 まずログインは早いです。すぐデスクトップが表示されるようになりました。

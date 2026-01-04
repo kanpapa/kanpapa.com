@@ -5,9 +5,8 @@ slug: cosmac-mbc-busboard
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-mbc"
-  - "retrocomputing"
+  - "Cosmac"
+  - "Cosmac Mbc"
 image: images/tomi9s_mini_bus_board.jpg
 ---
 

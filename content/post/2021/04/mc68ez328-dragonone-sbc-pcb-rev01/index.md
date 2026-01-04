@@ -5,8 +5,7 @@ slug: "mc68ez328-dragonone-sbc-pcb-rev01"
 categories:
   - "Retro Computing"
 tags:
-  - "mc68ez328"
-  - "retrocomputing"
+  - "MC68EZ328"
 image: "images/dragonone_rev01_pcb_photo.jpg"
 ---
 

@@ -5,8 +5,8 @@ slug: "2nd-1802-membership-card"
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "membership-card"
+  - "Cosmac"
+  - "Membership Card"
 image: "images/mc2nd_5.jpg"
 ---
 

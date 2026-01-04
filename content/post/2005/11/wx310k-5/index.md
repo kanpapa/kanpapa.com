@@ -4,8 +4,7 @@ date: 2005-11-26
 slug: "wx310k-5"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 予定通り２５日に到着しました。WX310K。

@@ -4,8 +4,7 @@ date: 2005-12-08
 slug: "w-zero3-1"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 今日の15:00からW-ZERO3の予約が[WILLCOM STORE](https://store.willcom-inc.com/ec/)で始まります。

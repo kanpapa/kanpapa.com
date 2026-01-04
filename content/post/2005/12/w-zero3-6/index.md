@@ -4,8 +4,7 @@ date: 2005-12-19
 slug: "w-zero3-6"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 最近W-ZERO3が入手できたという知り合いにW-ZERO3を触らせてもらいました。

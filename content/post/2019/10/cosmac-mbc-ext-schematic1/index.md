@@ -5,8 +5,8 @@ slug: "cosmac-mbc-ext-schematic1"
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-mbc"
+  - "Cosmac"
+  - "Cosmac Mbc"
 image: "images/cosmac-mbc-ext-schematic1-eye.png"
 ---
 

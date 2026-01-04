@@ -4,8 +4,7 @@ date: 2008-10-28
 slug: "iphonegoogle-earth"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 Google EarthをiPhoneにインストールしてみました。

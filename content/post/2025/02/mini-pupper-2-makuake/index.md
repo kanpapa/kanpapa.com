@@ -5,9 +5,9 @@ slug: mini-pupper-2-makuake
 categories:
   - "Robot"
 tags:
-  - "mini-pupper-2"
-  - "robot"
-  - "ros2"
+  - "Mini Pupper 2"
+  - "ROS"
+  - "ROS 2"
 image: images/mini-pupper-2-box1.jpg
 ---
 

@@ -4,8 +4,7 @@ date: 2015-12-23
 slug: "lets-encrypt-create-cert"
 categories:
   - "Server"
-tags:
-  - "server"
+tags: []
 ---
 
 [Let's Encrypt](https://letsencrypt.org/ "https://letsencrypt.org/")のサーバ証明書でこのkanpapa.comをhttps対応サイトにしてみました。

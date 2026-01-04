@@ -4,8 +4,7 @@ date: 2006-02-09
 slug: "post-49"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 [WILLCOM応援団](http://willcom.bg.cat-v.ne.jp/article/148795.html)さんによると、メール遅延が発生していた期間のＥメール通信料金については請求しないとのこと。

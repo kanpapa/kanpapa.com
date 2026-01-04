@@ -4,8 +4,7 @@ date: 2007-02-02
 slug: "windows-vista-4"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 昨夜眠い目をこすりながら、Windows XP ProfessionalからWindows Vistaにアップグレードしました。

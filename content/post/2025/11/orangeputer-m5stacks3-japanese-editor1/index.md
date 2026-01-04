@@ -5,11 +5,10 @@ slug: orangeputer-m5stacks3-japanese-editor1
 categories:
   - "Electronics"
 tags:
-  - "electronics"
-  - "esp32"
-  - "m5stack"
-  - "orangeputer"
-  - "skk"
+  - "ESP32"
+  - "M5stack"
+  - "Orangeputer"
+  - "Skk"
 image: images/orangeputer-m5stacks3-jpeditor1.jpg
 ---
 

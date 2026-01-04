@@ -4,8 +4,7 @@ date: 2005-12-26
 slug: "w-sim"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 [ケータイWatch](http://k-tai.impress.co.jp/cda/article/news_toppage/27163.html?ref=rss)によると、W-SIMの不具合修正ソフトの公開が中止とのこと。これはまずい事態ですね。

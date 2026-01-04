@@ -5,8 +5,7 @@ slug: "kicad-issue-6387"
 categories:
   - "Electronics"
 tags:
-  - "electronics"
-  - "kicad"
+  - "Kicad"
 image: "images/kicad_footprint_library_japaese_path_error0.jpg"
 ---
 

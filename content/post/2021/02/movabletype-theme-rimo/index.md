@@ -5,8 +5,7 @@ slug: "movabletype-theme-rimo"
 categories:
   - "Server"
 tags:
-  - "movable-type"
-  - "server"
+  - "Movable Type"
 image: "images/mt_themes_rimo.png"
 ---
 

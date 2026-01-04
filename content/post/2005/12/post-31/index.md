@@ -4,8 +4,7 @@ date: 2005-12-25
 slug: "post-31"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 ---
 
 [Pic@nic](https://picnic.willcom-inc.com/)で表示されるパケット数を[グラフ](http://graph.hatena.ne.jp/kanpapa/)にしてみました。長続きするかどうかは疑問ですが。

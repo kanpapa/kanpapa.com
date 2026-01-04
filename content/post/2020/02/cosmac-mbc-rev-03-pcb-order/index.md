@@ -5,8 +5,8 @@ slug: "cosmac-mbc-rev-03-pcb-order"
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-mbc"
+  - "Cosmac"
+  - "Cosmac Mbc"
 image: "images/cdp18s020_ex_rev03_pcb_3d.jpg"
 ---
 

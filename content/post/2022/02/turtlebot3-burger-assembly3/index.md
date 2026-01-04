@@ -5,10 +5,11 @@ slug: turtlebot3-burger-assembly3
 categories:
   - "Robot"
 tags:
-  - "melodic"
-  - "robot"
-  - "ros1"
-  - "turtlebot3"
+  - "Melodic"
+  - "ROS"
+  - "ROS 1"
+  - "Turtlebot"
+  - "Turtlebot3"
 image: images/turtlebot3_burger_battery_charge1.jpg
 ---
 

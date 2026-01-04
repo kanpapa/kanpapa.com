@@ -5,9 +5,8 @@ slug: teensy32-cdp1861-pixie-simulator
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-mbc"
-  - "retrocomputing"
+  - "Cosmac"
+  - "Cosmac Mbc"
 image: images/teensy32_pixie_lcd1.jpg
 ---
 

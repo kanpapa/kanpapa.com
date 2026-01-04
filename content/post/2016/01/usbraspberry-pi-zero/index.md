@@ -4,8 +4,7 @@ date: 2016-01-02
 slug: "usbraspberry-pi-zero"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/zero-serial-usbwifi.jpg"
 ---
 

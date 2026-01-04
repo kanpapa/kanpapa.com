@@ -5,8 +5,7 @@ slug: "mc68ez328-dragonone-sbc-parts"
 categories:
   - "Retro Computing"
 tags:
-  - "mc68ez328"
-  - "retrocomputing"
+  - "MC68EZ328"
 image: "images/dragonball_mc68ez328_cpu.jpg"
 ---
 

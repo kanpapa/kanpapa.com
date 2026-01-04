@@ -5,8 +5,7 @@ slug: "update-new-server-centos81"
 categories:
   - "Server"
 tags:
-  - "conoha"
-  - "server"
+  - "Conoha"
 image: "images/tlstestpage.jpg"
 ---
 

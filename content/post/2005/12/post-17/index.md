@@ -4,8 +4,7 @@ date: 2005-12-07
 slug: "post-17"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 [なおっきのぶろぐ](http://naokki.com/etc/mt/archives/2005/12/willcom_forum_2_1.php)さんによると、京ぽん２のファームアップは年内とのこと。また楽しみが１つ増えました。なおっきさんのWILLCOMへの提言も見事です。どんどんユーザの声を取り入れていってほしいですね。

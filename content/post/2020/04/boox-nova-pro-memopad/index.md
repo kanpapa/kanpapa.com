@@ -5,7 +5,6 @@ slug: "boox-nova-pro-memopad"
 categories:
   - "Event"
 tags:
-  - "research"
   - "ガジェット"
 image: "images/boox_memo1.jpg"
 ---

@@ -5,10 +5,9 @@ slug: emuz80-cosmac-idiot-monitor
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "emu1802"
-  - "emuz80"
-  - "retrocomputing"
+  - "Cosmac"
+  - "EMU1802"
+  - "Emuz80"
 image: images/emuz80_cosmac_serial_usb1.jpg
 ---
 

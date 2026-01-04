@@ -5,8 +5,7 @@ slug: "fpga-max10-cqkit"
 categories:
   - "Electronics"
 tags:
-  - "electronics"
-  - "fpga"
+  - "FPGA"
 image: "images/fpga_max10_cqqkit11.jpg"
 ---
 

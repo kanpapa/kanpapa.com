@@ -4,8 +4,7 @@ date: 2005-11-23
 slug: "post-12"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 いよいよ明日はWX310Kの発売日です。

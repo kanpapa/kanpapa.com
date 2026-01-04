@@ -5,8 +5,7 @@ slug: m5stack-screw-length
 categories:
   - "Electronics"
 tags:
-  - "electronics"
-  - "m5stack"
+  - "M5stack"
 image: images/m5stack_screwkit1.jpg
 ---
 

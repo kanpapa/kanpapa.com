@@ -5,8 +5,7 @@ slug: "weatherbit-oled"
 categories:
   - "Electronics"
 tags:
-  - "electronics"
-  - "micro-bit"
+  - "Micro Bit"
 image: "images/weatherbit_oled.jpg"
 ---
 

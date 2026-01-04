@@ -4,8 +4,7 @@ date: 2005-10-25
 slug: "post-2-2"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 無線LANカードをレンタルしようかなと思いつつヤフオクのページを見ていたところ、IO DATAの無線LANカード**[WN-AG/CB3](http://www.iodata.jp/prod/network/wnlan/2004/wn-agcb3/)**がほどほどのお値段で出品されているのを見つけてしまいました。  

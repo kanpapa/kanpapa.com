@@ -4,8 +4,7 @@ date: 2013-11-17
 slug: "ledonboard"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/ledmatrix_onboard.jpg"
 ---
 

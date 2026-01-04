@@ -5,9 +5,8 @@ slug: cosmac-mbc-bus-rev-02-order
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-mbc"
-  - "retrocomputing"
+  - "Cosmac"
+  - "Cosmac Mbc"
 image: images/cosmac_mbc_bus_rev02_front.jpg
 ---
 

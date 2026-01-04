@@ -5,8 +5,8 @@ slug: "cosmac-vip-os-rom-reloc"
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-mbc"
+  - "Cosmac"
+  - "Cosmac Mbc"
 image: "images/cosmac_vip_os_rom_replace.jpg"
 ---
 

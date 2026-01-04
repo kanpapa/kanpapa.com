@@ -4,8 +4,7 @@ date: 2009-07-04
 slug: "4"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 image: "images/gmc4.jpg"
 ---
 

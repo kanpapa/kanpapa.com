@@ -5,10 +5,9 @@ slug: "arduino-mega-memory-check"
 categories:
   - "Electronics"
 tags:
-  - "arduino"
-  - "arduino-mega"
-  - "electronics"
-  - "sram"
+  - "Arduino"
+  - "Arduino Mega"
+  - "Sram"
 image: "images/HM6264checker.jpg"
 ---
 

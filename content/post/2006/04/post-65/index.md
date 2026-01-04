@@ -4,8 +4,7 @@ date: 2006-04-28
 slug: "post-65"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 WILLCOM STOREで[マカフィー・ウィルス対策ソフトの不具合について](https://store.willcom-inc.com/ec/faces/support/information_list/2006/04/28/index.jsp "WILLCOM STORE｜マカフィー・ウィルス対策ソフトの不具合について")が掲載されていました。

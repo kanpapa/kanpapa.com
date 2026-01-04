@@ -5,9 +5,9 @@ slug: "cosmac-lab-open"
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-lab"
-  - "github"
+  - "Cosmac"
+  - "Cosmac Lab"
+  - "Github"
 image: "images/cosmac-lab-top-github-io.png"
 ---
 

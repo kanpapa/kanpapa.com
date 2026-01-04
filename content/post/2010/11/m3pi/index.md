@@ -4,8 +4,7 @@ date: 2010-11-20
 slug: "m3pi"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/m3pi_1.jpg"
 ---
 

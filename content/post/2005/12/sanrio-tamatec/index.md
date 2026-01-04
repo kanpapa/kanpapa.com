@@ -4,8 +4,7 @@ date: 2005-12-11
 slug: "sanrio-tamatec"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 ---
 
 今日は[サンリオピューロランド](http://www.puroland.co.jp/)と[多摩テック](http://www.tamatech.com/kur/)にいってきました。

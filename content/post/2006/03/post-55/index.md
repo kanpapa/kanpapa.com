@@ -4,8 +4,7 @@ date: 2006-03-12
 slug: "post-55"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 今日は以下のアプリケーションをインストールしてみました。

@@ -4,8 +4,7 @@ date: 2006-01-08
 slug: "w-zero3-8"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 今[WILLCOM STORE](https://store.willcom-inc.com/ec/faces/lstlscp000328/cmdprdw000329/)でW-ZERO3の在庫ありとなっていました。

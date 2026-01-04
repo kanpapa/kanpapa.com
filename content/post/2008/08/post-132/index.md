@@ -4,8 +4,7 @@ date: 2008-08-07
 slug: "post-132"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 最近インストールしたアプリです。いずれも無料です。

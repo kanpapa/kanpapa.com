@@ -5,8 +5,7 @@ slug: "gcp-gce-upgrades-focal"
 categories:
   - "Server"
 tags:
-  - "gcp"
-  - "server"
+  - "Gcp"
 image: "images/gcp-gce-log-explorer.jpg"
 ---
 

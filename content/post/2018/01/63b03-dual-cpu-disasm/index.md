@@ -6,7 +6,6 @@ categories:
   - "Retro Computing"
 tags:
   - "63b03"
-  - "retrocomputing"
 image: "images/63b03_intelhex_binary.png"
 ---
 

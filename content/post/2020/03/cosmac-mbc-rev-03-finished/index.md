@@ -5,8 +5,8 @@ slug: "cosmac-mbc-rev-03-finished"
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-mbc"
+  - "Cosmac"
+  - "Cosmac Mbc"
 image: "images/cosmac_mbc_ext_rev03_1.jpg"
 ---
 

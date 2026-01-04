@@ -5,9 +5,8 @@ slug: rca-cdp1802-cosmac11-1
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-toy"
-  - "retrocomputing"
+  - "Cosmac"
+  - "Cosmac Toy"
 image: images/cosmac_motor_bread.jpg
 ---
 

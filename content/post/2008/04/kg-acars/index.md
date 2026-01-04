@@ -4,8 +4,7 @@ date: 2008-04-08
 slug: "kg-acars"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 ---
 
 [ACARS](http://www.jal.co.jp/jiten/dict/p192.html#09-05)(Aircraft Communications Addressing and Reporting System)のデータ通信表示ソフト[KG-ACARS](http://www2.plala.or.jp/hikokibiyori/soft/index.html)をEeePCで使ってみました。  

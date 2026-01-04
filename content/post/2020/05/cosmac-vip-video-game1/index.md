@@ -5,8 +5,8 @@ slug: "cosmac-vip-video-game1"
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-mbc"
+  - "Cosmac"
+  - "Cosmac Mbc"
 image: "images/VIP_Space_-Intercept.jpg"
 ---
 

@@ -4,8 +4,7 @@ date: 2009-02-15
 slug: "vaio-type-p-7"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 VAIO type Pで文章を入力していると、変換の途中でカーソルが突然ちがう場所に飛ぶことがあります。これはなんでしょう？  

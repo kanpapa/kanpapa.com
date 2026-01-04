@@ -5,10 +5,9 @@ slug: cosmac-vip-os-esp32-remote-keypad
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-mbc"
-  - "esp32"
-  - "retrocomputing"
+  - "Cosmac"
+  - "Cosmac Mbc"
+  - "ESP32"
 image: images/esp32_relay_controller_3d.jpg
 ---
 

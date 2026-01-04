@@ -4,8 +4,7 @@ date: 2007-01-31
 slug: "windows-vista-2"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 いよいよWindows Vistaをインストールしようかなと作業に取りかかったところ重大な事実が。

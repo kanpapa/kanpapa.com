@@ -1,14 +1,13 @@
 ---
-title: 68000 VMEボードで遊んでみました（２）VMEバス基板設計編
+title: 68000 VMEボードで遊んでみました（2）VMEバス基板設計編
 date: 2023-08-06
 slug: 68000-vme-board2
 categories:
   - "Retro Computing"
 tags:
   - "68000"
-  - "dvmecpu2"
-  - "retrocomputing"
-  - "vme"
+  - "Dvmecpu2"
+  - "VME"
 image: images/vme_board_power_pcb_jlcpcb1.jpg
 ---
 

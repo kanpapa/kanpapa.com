@@ -6,9 +6,8 @@ categories:
   - "Retro Computing"
 tags:
   - "6502"
-  - "apple1"
-  - "l-star"
-  - "retrocomputing"
+  - "Apple1"
+  - "L Star"
 image: images/l_star_plus_finish.jpg
 ---
 

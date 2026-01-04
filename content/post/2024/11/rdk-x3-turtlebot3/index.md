@@ -5,14 +5,15 @@ slug: rdk-x3-turtlebot3
 categories:
   - "Robot"
 tags:
-  - "humble"
-  - "lidar"
-  - "rdk"
-  - "rdk-x3"
-  - "robot"
-  - "ros2"
-  - "slam"
-  - "turtlebot3"
+  - "Humble"
+  - "Lidar"
+  - "RDK"
+  - "RDK X3"
+  - "ROS"
+  - "ROS 2"
+  - "Slam"
+  - "Turtlebot"
+  - "Turtlebot3"
 image: images/rdkx3-turtlebot-eyecache1.jpg
 ---
 

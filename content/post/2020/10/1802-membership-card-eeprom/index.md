@@ -5,8 +5,8 @@ slug: "1802-membership-card-eeprom"
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "membership-card"
+  - "Cosmac"
+  - "Membership Card"
 image: "images/MCard1802_eeprom1.jpg"
 ---
 

@@ -4,8 +4,7 @@ date: 2007-09-02
 slug: "breadboard-tlr306"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/breadboard_20070902215948.jpg"
 ---
 

@@ -4,8 +4,7 @@ date: 2007-11-01
 slug: "leopard-trouble"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 Leopardで、Parallels Desktopを使おうとしたら、VMが起動しないので何回か試していたらいきなり次の画面が表示されました。

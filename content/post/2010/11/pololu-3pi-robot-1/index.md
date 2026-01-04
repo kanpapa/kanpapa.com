@@ -4,8 +4,7 @@ date: 2010-11-16
 slug: "pololu-3pi-robot-1"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/pololu_3pi_2.jpg"
 ---
 

@@ -5,11 +5,10 @@ slug: "rasberrypi4-kinect-rgb-d-slam-otafab51"
 categories:
   - "Robot"
 tags:
-  - "kinect"
-  - "otafab"
-  - "otafab-robot"
-  - "robot"
-  - "slam"
+  - "Kinect"
+  - "Otafab"
+  - "Slam"
+  - "ROS"
 image: "images/kinect_slam4_2021-11-28-190057_pp.png"
 ---
 

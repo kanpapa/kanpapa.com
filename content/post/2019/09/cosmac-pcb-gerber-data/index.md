@@ -5,9 +5,8 @@ slug: cosmac-pcb-gerber-data
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-toy"
-  - "retrocomputing"
+  - "Cosmac"
+  - "Cosmac Toy"
 image: images/cosmac_cpu_rev1_4_gerber_viewer1.png
 ---
 

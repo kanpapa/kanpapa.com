@@ -4,8 +4,7 @@ date: 2006-10-16
 slug: "mindstorms-nxt-start-here"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 ---
 
 マインドストームNXTで最初のロボットを作ってみました。「START HERE!」と書かれた箱にパーツ一式とマニュアルが入っています。

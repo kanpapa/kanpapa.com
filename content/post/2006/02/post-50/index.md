@@ -4,8 +4,7 @@ date: 2006-02-14
 slug: "post-50"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 ちょこちょこプログラムを拾ってきてはインストールして試しています。

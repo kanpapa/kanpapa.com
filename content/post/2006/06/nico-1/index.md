@@ -4,8 +4,7 @@ date: 2006-06-27
 slug: "nico-1"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 すごいですね。はてなのトップに表示されている注目のキーワードに第３位にNICOが入っています。

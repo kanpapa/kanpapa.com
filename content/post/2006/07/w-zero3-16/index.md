@@ -4,8 +4,7 @@ date: 2006-07-24
 slug: "w-zero3-16"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 [京ぽんG](http://mkgblog.seesaa.net/)さんで、W-ZERO3\[es\]のおさわり会の様子が書いてありました。

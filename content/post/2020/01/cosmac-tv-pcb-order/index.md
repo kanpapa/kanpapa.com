@@ -5,8 +5,8 @@ slug: "cosmac-tv-pcb-order"
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-mbc"
+  - "Cosmac"
+  - "Cosmac Mbc"
 image: "images/cosmac_tv_rev0_2_pcb_3d.jpg"
 ---
 

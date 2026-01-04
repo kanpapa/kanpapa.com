@@ -4,8 +4,7 @@ date: 2014-08-16
 slug: "firefox-os-21-kanji-ime"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 image: "images/fxos21_kanji_ime.jpg"
 ---
 

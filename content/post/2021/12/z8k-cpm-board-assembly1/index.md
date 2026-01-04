@@ -5,8 +5,7 @@ slug: "z8k-cpm-board-assembly1"
 categories:
   - "Retro Computing"
 tags:
-  - "retrocomputing"
-  - "z8000"
+  - "Z8000"
 image: "images/z8kcpm_pcb3.jpg"
 ---
 

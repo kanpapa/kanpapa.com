@@ -4,8 +4,7 @@ date: 2006-05-10
 slug: "minimo-0015-has-been-released"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 [minimo 0.015](http://www.mozilla.org/projects/minimo/)が出たようなので、W-ZERO3にインストールしてみました。

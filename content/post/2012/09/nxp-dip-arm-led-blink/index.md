@@ -4,8 +4,7 @@ date: 2012-09-05
 slug: "nxp-dip-arm-led-blink"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/dip_arm_lpclink.jpg"
 ---
 

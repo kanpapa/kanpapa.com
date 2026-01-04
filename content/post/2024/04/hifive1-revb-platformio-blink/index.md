@@ -5,11 +5,10 @@ slug: hifive1-revb-platformio-blink
 categories:
   - "Electronics"
 tags:
-  - "electronics"
-  - "hifive1-revb"
-  - "platformio"
-  - "risc-v"
-  - "sifive"
+  - "Hifive1 Revb"
+  - "Platformio"
+  - "Risc V"
+  - "Sifive"
 image: images/hifive1-revb-2.jpg
 ---
 

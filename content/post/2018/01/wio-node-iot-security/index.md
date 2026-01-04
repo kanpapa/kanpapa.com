@@ -5,8 +5,7 @@ slug: "wio-node-iot-security"
 categories:
   - "Retro Computing"
 tags:
-  - "retrocomputing"
-  - "wio-node"
+  - "Wio Node"
 image: "images/wio_node.jpg"
 ---
 

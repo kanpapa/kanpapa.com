@@ -5,8 +5,8 @@ slug: "cosmac-vip-os-disasm1"
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-mbc"
+  - "Cosmac"
+  - "Cosmac Mbc"
 image: "images/vip_os_sample_display1.jpg"
 ---
 

@@ -5,9 +5,8 @@ slug: "nano-pi-neo-nas-unixbench"
 categories:
   - "Electronics"
 tags:
-  - "armbian"
-  - "electronics"
-  - "nano-pi-neo"
+  - "Armbian"
+  - "Nano Pi Neo"
 image: "images/nanopineo-cpu1.png"
 ---
 

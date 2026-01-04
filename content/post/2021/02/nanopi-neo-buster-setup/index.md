@@ -5,9 +5,8 @@ slug: "nanopi-neo-buster-setup"
 categories:
   - "Electronics"
 tags:
-  - "armbian"
-  - "electronics"
-  - "nano-pi-neo"
+  - "Armbian"
+  - "Nano Pi Neo"
 image: "images/nanopi_neo_buster_server_case.jpg"
 ---
 

@@ -4,8 +4,7 @@ date: 2006-11-15
 slug: "w-zero3es-27"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 むむ。期待しちゃいますよ。SHARPさん。

@@ -6,8 +6,7 @@ categories:
   - "Retro Computing"
 tags:
   - "68000"
-  - "mic68k"
-  - "retrocomputing"
+  - "Mic68k"
 image: images/mic68k_schematic2.jpg
 ---
 

@@ -4,8 +4,7 @@ date: 2006-11-29
 slug: "post-84"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 いまごろファームアップしてます。ねむい。

@@ -4,8 +4,7 @@ date: 2016-01-03
 slug: "ichigojam"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/ichigojam_02.jpg"
 ---
 

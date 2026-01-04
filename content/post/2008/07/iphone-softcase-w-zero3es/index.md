@@ -4,8 +4,7 @@ date: 2008-07-13
 slug: "iphone-softcase-w-zero3es"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 iPhoneを持ち運ぶときはどうしましょう。このまま鞄に放り込むのは少し心配です。

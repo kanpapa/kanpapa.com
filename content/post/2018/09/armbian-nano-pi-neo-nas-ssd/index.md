@@ -5,9 +5,8 @@ slug: "armbian-nano-pi-neo-nas-ssd"
 categories:
   - "Electronics"
 tags:
-  - "armbian"
-  - "electronics"
-  - "nano-pi-neo"
+  - "Armbian"
+  - "Nano Pi Neo"
 image: "images/nano_pi_neo_serial_console.jpg"
 ---
 

@@ -4,8 +4,7 @@ date: 2006-03-31
 slug: "b"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 明日の午後にはBフレッツが解約になり、アナログ回線に戻ります。  

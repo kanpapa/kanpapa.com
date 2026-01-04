@@ -4,8 +4,7 @@ date: 2010-06-08
 slug: "safari-5"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 iPhone4発表で盛り上がってますが、Safari 5のアップデートもお忘れなく。 心持ち速くなったような気がします。気のせいかもしれませんが。

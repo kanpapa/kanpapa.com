@@ -5,8 +5,8 @@ slug: "cosmac-mbc-cdp1861-pixie-stg1861"
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-mbc"
+  - "Cosmac"
+  - "Cosmac Mbc"
 image: "images/stg1861_tv_sony.jpg"
 ---
 

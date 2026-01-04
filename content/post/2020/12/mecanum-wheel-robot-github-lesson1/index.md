@@ -5,8 +5,7 @@ slug: "mecanum-wheel-robot-github-lesson1"
 categories:
   - "Robot"
 tags:
-  - "arduino"
-  - "robot"
+  - "Arduino"
   - "メカナムホイール"
 image: "images/docofab_github.png"
 ---

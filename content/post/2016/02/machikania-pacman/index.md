@@ -4,8 +4,7 @@ date: 2016-02-14
 slug: "machikania-pacman"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/MachiKania_finish.jpg"
 ---
 

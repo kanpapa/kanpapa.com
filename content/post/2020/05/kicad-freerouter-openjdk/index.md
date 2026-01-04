@@ -5,8 +5,7 @@ slug: "kicad-freerouter-openjdk"
 categories:
   - "Electronics"
 tags:
-  - "electronics"
-  - "kicad"
+  - "Kicad"
 image: "images/win10_system_variables8.jpg"
 ---
 

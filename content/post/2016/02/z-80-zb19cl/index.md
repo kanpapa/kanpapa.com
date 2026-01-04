@@ -5,9 +5,8 @@ slug: z-80-zb19cl
 categories:
   - "Retro Computing"
 tags:
-  - "retrocomputing"
-  - "z80"
-  - "zb19c"
+  - "Z80"
+  - "Zb19c"
 image: images/ZB19C_board.jpg
 ---
 

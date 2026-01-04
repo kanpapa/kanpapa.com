@@ -5,12 +5,12 @@ slug: rdk-x5-8g-board1
 categories:
   - "Robot"
 tags:
-  - "ai"
-  - "d-robotics"
-  - "rdk"
-  - "rdk-x5"
-  - "robot"
-  - "roomba"
+  - "Ai"
+  - "D Robotics"
+  - "RDK"
+  - "RDK X5"
+  - "ROS"
+  - "Roomba"
 image: images/rdk-x5-roomba-1.jpg
 ---
 

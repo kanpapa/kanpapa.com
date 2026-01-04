@@ -4,8 +4,7 @@ date: 2006-09-12
 slug: "17"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 今月はすでに17万パケを突破しています。目標の20万パケまであと僅か！

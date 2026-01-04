@@ -4,8 +4,7 @@ date: 2006-07-27
 slug: "w-zero3es-12"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 今日はW-ZERO3\[es\]の発売日なのでお昼休みと会社の帰りにお店をまわってみました。

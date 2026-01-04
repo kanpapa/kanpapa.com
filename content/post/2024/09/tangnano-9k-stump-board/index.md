@@ -5,10 +5,9 @@ slug: "tangnano-9k-stump-board"
 categories:
   - "Electronics"
 tags:
-  - "electronics"
-  - "fpga"
-  - "gowin"
-  - "tangnano9k"
+  - "FPGA"
+  - "Gowin"
+  - "Tangnano9k"
 image: "images/tangnano-9k-stump-board-simple-7seg.jpg"
 ---
 

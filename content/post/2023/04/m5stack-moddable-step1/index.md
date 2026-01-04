@@ -5,8 +5,7 @@ slug: m5stack-moddable-step1
 categories:
   - "Electronics"
 tags:
-  - "electronics"
-  - "m5stack"
+  - "M5stack"
 image: images/moddable_bongo_color_ng1.jpg
 ---
 

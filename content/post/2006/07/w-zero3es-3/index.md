@@ -4,8 +4,7 @@ date: 2006-07-13
 slug: "w-zero3es-3"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 いつ終了になるかハラハラしていた新規・機種変更のW-ZERO3\[es\]の予約事前登録ですが、ついに予定数に達したそうです。

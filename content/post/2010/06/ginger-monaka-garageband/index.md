@@ -4,8 +4,7 @@ date: 2010-06-02
 slug: "ginger-monaka-garageband"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 ---
 
 Ginger-MonakaをMacのGarageBandで制御してみました。  

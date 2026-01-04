@@ -4,8 +4,7 @@ date: 2012-08-31
 slug: "make-ogaki-meeting-2012-2"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 image: "images/mom2012_masu2.jpg"
 ---
 

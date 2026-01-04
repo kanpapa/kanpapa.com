@@ -4,8 +4,7 @@ date: 2009-02-21
 slug: "spyder"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/spyder02.jpg"
 ---
 

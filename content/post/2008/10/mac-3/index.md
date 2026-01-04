@@ -4,8 +4,7 @@ date: 2008-10-28
 slug: "mac-3"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 Macのソフトウェアアップデートがありました。

@@ -4,8 +4,7 @@ date: 2008-07-12
 slug: "iphone3g-waiting-photos"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 ようやくお店が見えてきた。

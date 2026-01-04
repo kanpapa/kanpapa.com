@@ -4,8 +4,7 @@ date: 2011-11-03
 slug: "mbed-16dotfont-vfd"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/vfd_fontx2_2.jpg"
 ---
 

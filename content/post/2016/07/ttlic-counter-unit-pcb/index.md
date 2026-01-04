@@ -4,8 +4,7 @@ date: 2016-07-28
 slug: "ttlic-counter-unit-pcb"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/counter_pcb5.jpg"
 ---
 

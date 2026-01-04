@@ -7,7 +7,7 @@ categories:
 image: images/security-bookmark-1.png
 draft: true
 tags:
-  - "security"
+  - "Security"
 ---
 
 手始めにブックマークを整理し始めました。どこにでもあるものですが。

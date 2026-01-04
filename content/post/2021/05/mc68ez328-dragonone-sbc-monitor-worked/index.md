@@ -5,8 +5,7 @@ slug: "mc68ez328-dragonone-sbc-monitor-worked"
 categories:
   - "Retro Computing"
 tags:
-  - "mc68ez328"
-  - "retrocomputing"
+  - "MC68EZ328"
 image: "images/dragonone_monitor_command1.png"
 ---
 

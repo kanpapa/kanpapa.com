@@ -5,8 +5,7 @@ slug: "v20-mbc-cpm80-cpm86"
 categories:
   - "Retro Computing"
 tags:
-  - "retrocomputing"
-  - "v20"
+  - "V20"
 image: "images/v20_mbc_cpu_changed.jpg"
 ---
 

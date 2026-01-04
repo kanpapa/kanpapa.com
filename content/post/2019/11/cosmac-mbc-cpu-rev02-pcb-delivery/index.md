@@ -5,8 +5,8 @@ slug: "cosmac-mbc-cpu-rev02-pcb-delivery"
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-mbc"
+  - "Cosmac"
+  - "Cosmac Mbc"
 image: "images/cosmac_mbc_cpu_rev02_pcb1.jpg"
 ---
 

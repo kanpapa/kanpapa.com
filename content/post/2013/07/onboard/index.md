@@ -4,8 +4,7 @@ date: 2013-07-25
 slug: "onboard"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/onboard1.jpg"
 ---
 

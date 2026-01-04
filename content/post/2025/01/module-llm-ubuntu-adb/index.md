@@ -5,12 +5,11 @@ slug: module-llm-ubuntu-adb
 categories:
   - "Electronics"
 tags:
-  - "ax620"
-  - "electronics"
-  - "llm"
-  - "m5stack"
-  - "ubuntu"
-  - "udev"
+  - "Ax620"
+  - "Llm"
+  - "M5stack"
+  - "Ubuntu"
+  - "Udev"
 image: images/m5stack-module-llm1.jpg
 ---
 

@@ -4,8 +4,7 @@ date: 2005-12-19
 slug: "post-25"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 ---
 
 ロケーションフリーベースをインターネットに接続してみました。

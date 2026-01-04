@@ -4,8 +4,7 @@ date: 2006-03-03
 slug: "w-zero3pim"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 [「W-ZERO3的PIM活用法」](http://plusd.itmedia.co.jp/mobile/articles/0603/01/news115.html)が+D mobileに掲載されています。

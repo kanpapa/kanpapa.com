@@ -5,12 +5,11 @@ slug: pdp-11-tangconsole-dcj11-mem-ws2812-led-matrix
 categories:
   - "Retro Computing"
 tags:
-  - "dcj11"
-  - "pdp-11"
-  - "retrocomputing"
-  - "tangconsole"
-  - "tangconsoledcj11mem"
-  - "ws2812"
+  - "DCJ11"
+  - "PDP-11"
+  - "Tangconsole"
+  - "Tangconsoledcj11mem"
+  - "Ws2812"
 image: images/10x6-rgb-led-matrix-eyecatch1.jpg
 ---
 

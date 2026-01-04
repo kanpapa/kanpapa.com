@@ -4,8 +4,7 @@ date: 2014-03-08
 slug: "lenovo-yoga-tablet-8"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 image: "images/yoga8_7.jpg"
 ---
 

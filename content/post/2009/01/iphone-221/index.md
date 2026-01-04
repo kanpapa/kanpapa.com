@@ -4,8 +4,7 @@ date: 2009-01-28
 slug: "iphone-221"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 iPhone 2.2.1がでたようなのでiTunesで早速アップデートしました。  

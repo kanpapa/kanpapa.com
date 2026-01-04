@@ -5,8 +5,7 @@ slug: "uclinux-build-ubuntu20-04-wsl"
 categories:
   - "Retro Computing"
 tags:
-  - "mc68ez328"
-  - "retrocomputing"
+  - "MC68EZ328"
 image: "images/uClinux_build_tftperror.png"
 ---
 

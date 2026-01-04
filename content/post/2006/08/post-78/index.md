@@ -4,8 +4,7 @@ date: 2006-08-12
 slug: "post-78"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 W-ZERO3\[es\]を取り出して早速セットアップ開始！

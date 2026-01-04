@@ -4,8 +4,7 @@ date: 2005-11-07
 slug: "willcom-newlineup"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 [WILLCOM NEWS](http://blog.willcomnews.com/?eid=54353)さんに新機種の価格の話がありましたが、さっき[WILLCOM STORE](http://store.willcom-inc.com/)のページをみていたら、突然サーバエラーになって、つぎにトップが表示されたときにはなんと正式発表です！！

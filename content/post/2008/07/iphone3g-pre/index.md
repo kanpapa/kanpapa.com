@@ -4,8 +4,7 @@ date: 2008-07-05
 slug: "iphone3g-pre"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 image: "images/iphone3g_pre_20080705172701.jpg"
 ---
 

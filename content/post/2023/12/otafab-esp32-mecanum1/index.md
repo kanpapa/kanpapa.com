@@ -5,11 +5,9 @@ slug: otafab-esp32-mecanum1
 categories:
   - "Electronics"
 tags:
-  - "arduino"
-  - "electronics"
-  - "esp32"
-  - "otafab"
-  - "otafab-esp32"
+  - "Arduino"
+  - "ESP32"
+  - "Otafab"
   - "メカナムホイール"
 image: images/otafab-esp32-mecanum1-car1-1.jpg
 ---

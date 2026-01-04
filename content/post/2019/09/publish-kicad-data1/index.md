@@ -5,9 +5,8 @@ slug: publish-kicad-data1
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-toy"
-  - "retrocomputing"
+  - "Cosmac"
+  - "Cosmac Toy"
 ---
 
 [COSMAC Toy Computer (GitHub.com)](https://github.com/kanpapa/cosmac_toy)のページにKiCadデータを掲載しました。

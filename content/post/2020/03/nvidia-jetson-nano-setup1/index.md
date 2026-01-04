@@ -5,9 +5,8 @@ slug: "nvidia-jetson-nano-setup1"
 categories:
   - "Electronics"
 tags:
-  - "electronics"
-  - "jetson-nano"
-  - "nvidia"
+  - "Jetson Nano"
+  - "Nvidia"
 image: "images/jetsonnano_setup1.jpg"
 ---
 

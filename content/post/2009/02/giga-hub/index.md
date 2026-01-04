@@ -4,8 +4,7 @@ date: 2009-02-11
 slug: "giga-hub"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 秋葉原を歩いていると、ふと段ボール箱が目に入りました。

@@ -4,8 +4,7 @@ date: 2006-03-19
 slug: "yahoobb"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 image: "images/yahoobb_20060319152308.jpg"
 ---
 

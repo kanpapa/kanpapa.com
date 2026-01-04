@@ -4,8 +4,7 @@ date: 2006-03-07
 slug: "20060"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 [リリースアナウンス: Gentoo Linux 2006.0](http://www.gentoo.gr.jp/jpnews/org/20060227-release-2006.0.xml)がでましたね。

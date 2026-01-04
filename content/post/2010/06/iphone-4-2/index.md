@@ -4,8 +4,7 @@ date: 2010-06-25
 slug: "iphone-4-2"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 image: "images/iphone4_no_sim.jpg"
 ---
 

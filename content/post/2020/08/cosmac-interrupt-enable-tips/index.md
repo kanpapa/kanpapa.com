@@ -6,8 +6,8 @@ slug: "cosmac-interrupt-enable-tips"
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "tips"
+  - "Cosmac"
+  - "Tips"
 image: "images/cosmac_cdp1802ace.jpg"
 ---
 

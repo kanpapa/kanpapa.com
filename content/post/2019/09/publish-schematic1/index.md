@@ -5,9 +5,8 @@ slug: publish-schematic1
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-toy"
-  - "retrocomputing"
+  - "Cosmac"
+  - "Cosmac Toy"
 image: images/cosmac_cpu_schematics_cpuboard1.png
 ---
 

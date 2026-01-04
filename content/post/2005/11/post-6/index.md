@@ -4,8 +4,7 @@ date: 2005-11-12
 slug: "post-6"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 今日のお昼休みに携帯ショップに行ってみました。

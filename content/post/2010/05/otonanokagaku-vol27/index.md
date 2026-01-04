@@ -4,8 +4,7 @@ date: 2010-05-22
 slug: "otonanokagaku-vol27"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/japanino.jpg"
 ---
 

@@ -4,8 +4,7 @@ date: 2006-06-21
 slug: "post-72"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 [WILLCOM NEWS](http://blog.willcomnews.com/?eid=300438)さんで、ファームウェアのバージョンアップがあったことを知り、ブラジル戦をみながらアップデートしました！

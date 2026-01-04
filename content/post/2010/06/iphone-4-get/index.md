@@ -4,8 +4,7 @@ date: 2010-06-25
 slug: "iphone-4-get"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 予定通りにソフトバンクオンラインショップからiPhone 4が到着しました！  

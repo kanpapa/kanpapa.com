@@ -4,8 +4,7 @@ date: 2011-04-02
 slug: "geiger-counter-1st"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/geiger_counter1.jpg"
 ---
 

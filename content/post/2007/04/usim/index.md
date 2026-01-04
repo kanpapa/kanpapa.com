@@ -4,8 +4,7 @@ date: 2007-04-28
 slug: "usim"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 コドモバイルが突然動かなくなりました。原因はUSIMが読み込めなくなったためです。

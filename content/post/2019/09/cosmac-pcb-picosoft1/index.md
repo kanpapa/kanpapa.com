@@ -5,9 +5,8 @@ slug: cosmac-pcb-picosoft1
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-toy"
-  - "retrocomputing"
+  - "Cosmac"
+  - "Cosmac Toy"
 image: images/cosmac_pcb_picosoft1.jpg
 ---
 

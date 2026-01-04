@@ -5,8 +5,8 @@ slug: phishing-mail-report-20240808-001
 categories:
   - "Server"
 tags:
-  - "phishing"
-  - "security"
+  - "Phishing"
+  - "Security"
 image: images/phishing-mail-report-20240808-001.png
 ---
 

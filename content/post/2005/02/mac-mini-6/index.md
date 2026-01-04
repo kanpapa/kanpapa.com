@@ -4,8 +4,7 @@ date: 2005-02-23
 slug: "mac-mini-6"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 image: "images/mac_mini_1st.jpg"
 ---
 

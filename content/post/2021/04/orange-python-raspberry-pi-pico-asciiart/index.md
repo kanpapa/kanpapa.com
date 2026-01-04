@@ -5,8 +5,7 @@ slug: "orange-python-raspberry-pi-pico-asciiart"
 categories:
   - "Electronics"
 tags:
-  - "electronics"
-  - "raspberry-pi"
+  - "Raspberry Pi"
 image: "images/orange_python_rasppi_pico5.jpg"
 ---
 

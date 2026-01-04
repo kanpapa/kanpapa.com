@@ -5,8 +5,7 @@ slug: "digit-vfd-clock"
 categories:
   - "Electronics"
 tags:
-  - "electronics"
-  - "vfd"
+  - "Vfd"
 image: "images/digit-vfd-clock07.jpg"
 ---
 

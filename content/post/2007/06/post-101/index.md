@@ -4,8 +4,7 @@ date: 2007-06-23
 slug: "post-101"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 当然Advanced/W-ZERO3 \[es\]の実機を触るのが目的です。

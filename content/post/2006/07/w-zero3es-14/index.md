@@ -4,8 +4,7 @@ date: 2006-07-29
 slug: "w-zero3es-14"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 このような記事をみつけました。店員を口説けば単体販売してくれるのかなぁ？

@@ -5,8 +5,7 @@ slug: "lithium-battery-198603-ado-parts-shop"
 categories:
   - "Electronics"
 tags:
-  - "battery"
-  - "electronics"
+  - "Battery"
 image: "images/lithium_battery_86-03_2.jpg"
 ---
 

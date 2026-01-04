@@ -4,8 +4,7 @@ date: 2005-04-10
 slug: "isocd-r"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 image: "images/mac_iso_image_write.jpg"
 ---
 

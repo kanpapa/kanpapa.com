@@ -4,8 +4,7 @@ date: 2008-07-22
 slug: "amazoniphone"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 いろいろありますねぇ。おもわずポチッしそう。あぶないあぶない。

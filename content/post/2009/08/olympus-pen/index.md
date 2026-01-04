@@ -4,8 +4,7 @@ date: 2009-08-15
 slug: "olympus-pen"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 image: "images/olympus_pen.jpg"
 ---
 

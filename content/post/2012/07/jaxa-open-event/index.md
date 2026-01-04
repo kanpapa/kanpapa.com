@@ -4,8 +4,7 @@ date: 2012-07-29
 slug: "jaxa-open-event"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 ---
 
 以前から行って見たかったのですが、なかなか機会がなく、今年ようやく行くことができました。

@@ -4,8 +4,7 @@ date: 2006-08-03
 slug: "w-zero3esno1"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 [ウィルコムストア](https://store.willcom-inc.com/)の売れ筋No.1がW-ZERO3\[es\]になっていました。

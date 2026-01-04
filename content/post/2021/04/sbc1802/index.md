@@ -5,8 +5,8 @@ slug: "sbc1802"
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "sbc1802"
+  - "Cosmac"
+  - "Sbc1802"
 image: "images/cosmac_cdp1802ace.jpg"
 ---
 

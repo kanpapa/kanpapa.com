@@ -4,8 +4,7 @@ date: 2011-03-19
 slug: "arm"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/MARY_MB_2.jpg"
 ---
 

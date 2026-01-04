@@ -4,8 +4,7 @@ date: 2013-03-10
 slug: "mbed-frdm-kl25z"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/frdm-kl25z.jpg"
 ---
 

@@ -5,11 +5,10 @@ slug: cosmac-mbc-rom-update-mftokyo2020
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-mbc"
-  - "maker-faire"
-  - "mft2020"
-  - "retrocomputing"
+  - "Cosmac"
+  - "Cosmac Mbc"
+  - "Maker Faire"
+  - "Mft2020"
 image: images/memory_map_for_mft2020.png
 ---
 

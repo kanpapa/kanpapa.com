@@ -4,8 +4,7 @@ date: 2006-05-01
 slug: "netfront"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 帰省中の情報ツールとしてW-ZERO3が大活躍なわけですが、今日NetFrontを使おうとしたら「試用期限切れ」のメッセージが???

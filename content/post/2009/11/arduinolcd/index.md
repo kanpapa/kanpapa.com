@@ -4,8 +4,7 @@ date: 2009-11-23
 slug: "arduinolcd"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/lcd_shield.jpg"
 ---
 

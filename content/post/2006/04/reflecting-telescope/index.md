@@ -4,8 +4,7 @@ date: 2006-04-09
 slug: "reflecting-telescope"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 image: "images/reflecting_telescope_20060411111642.jpg"
 ---
 

@@ -4,8 +4,7 @@ date: 2008-09-27
 slug: "java-for-mac-os-x-105"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 ソフトウェアアップデートで配布されています

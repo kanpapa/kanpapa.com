@@ -4,8 +4,7 @@ date: 2006-01-14
 slug: "sun"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 image: "images/hatena_20060114110411.jpg"
 ---
 

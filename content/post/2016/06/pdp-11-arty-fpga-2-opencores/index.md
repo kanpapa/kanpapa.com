@@ -5,10 +5,9 @@ slug: pdp-11-arty-fpga-2-opencores
 categories:
   - "Retro Computing"
 tags:
-  - "arty"
-  - "fpga"
-  - "pdp-11"
-  - "retrocomputing"
+  - "Arty"
+  - "FPGA"
+  - "PDP-11"
 ---
 
 [Vivadoの開発環境](https://kanpapa.com/2016/06/pdp-11-arty-fpga-1-vivado.html "Vivadoの開発環境整備")がインストールできたところで、次はOpenCoresの開発環境を準備します。

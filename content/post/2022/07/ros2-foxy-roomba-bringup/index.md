@@ -5,8 +5,9 @@ slug: "ros2-foxy-roomba-bringup"
 categories:
   - "Robot"
 tags:
-  - "roomba"
-  - "ros2"
+  - "ROS"
+  - "ROS 2"
+  - "Roomba"
 image: "images/roomba600_rasppi_ydlidar.jpg"
 ---
 

@@ -4,8 +4,7 @@ date: 2010-02-05
 slug: "kuro-sheeva-4"
 categories:
   - "Server"
-tags:
-  - "server"
+tags: []
 ---
 
 KURO-SHEEVAのその後です。 とりあえず、apt-get update, apt-get upgradeを行って最新の環境にしました。 あとはNTPでの時刻の同期や一般ユーザなど作成しました。これから必要なソフトウェアをインストールしていくことになりますが、さて、何をしましょうか。 eSATAのインターフェースにHDDをつないでNASとして使うのは当たり前すぎて面白くありません。NASならhackkitが入ったLinkStationがすでにあるのでそちらを使います。 ここはUSBとSDカードとNetworkをだけ使って何かするとしたら考えてみると・・・

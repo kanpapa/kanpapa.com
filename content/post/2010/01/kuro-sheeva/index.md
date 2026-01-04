@@ -4,8 +4,7 @@ date: 2010-01-27
 slug: "kuro-sheeva"
 categories:
   - "Server"
-tags:
-  - "server"
+tags: []
 ---
 
 「たったの20台しか入荷予定はございません。」 20台しか準備できないのならすでに商品ではないと思いますがいかが？

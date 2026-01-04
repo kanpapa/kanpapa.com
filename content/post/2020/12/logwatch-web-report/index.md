@@ -6,7 +6,7 @@ categories:
   - "Server"
 image: images/logwatch_report.png
 tags:
-  - "security"
+  - "Security"
 ---
 
 現在このWebサーバをCentOS 8.1からUbuntu 20.04へ移行中です。

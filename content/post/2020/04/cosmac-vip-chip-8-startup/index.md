@@ -5,8 +5,8 @@ slug: "cosmac-vip-chip-8-startup"
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-mbc"
+  - "Cosmac"
+  - "Cosmac Mbc"
 image: "images/cosmac_vip_chip_8_1strun.jpg"
 ---
 

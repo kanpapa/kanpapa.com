@@ -4,8 +4,7 @@ date: 2006-08-20
 slug: "w-zero3es-23"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 マナーモードを解除したのですが、何やら音が鳴りません。

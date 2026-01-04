@@ -5,8 +5,7 @@ slug: "ocr-receipt-reader-raspberry-pi"
 categories:
   - "Electronics"
 tags:
-  - "electronics"
-  - "raspberry-pi"
+  - "Raspberry Pi"
 image: "images/ocr_receipt_reader02.jpg"
 ---
 

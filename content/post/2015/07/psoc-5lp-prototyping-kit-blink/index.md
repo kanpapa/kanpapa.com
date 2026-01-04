@@ -4,8 +4,7 @@ date: 2015-07-05
 slug: "psoc-5lp-prototyping-kit-blink"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/cy8ckit_059_blink.jpg"
 ---
 

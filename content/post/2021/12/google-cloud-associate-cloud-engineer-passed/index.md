@@ -5,8 +5,7 @@ slug: "google-cloud-associate-cloud-engineer-passed"
 categories:
   - "Server"
 tags:
-  - "gcp"
-  - "server"
+  - "Gcp"
 image: "images/GCP_ACE_official_guide.jpg"
 ---
 

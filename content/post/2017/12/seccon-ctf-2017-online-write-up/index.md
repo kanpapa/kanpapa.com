@@ -5,8 +5,8 @@ slug: seccon-ctf-2017-online-write-up
 categories:
   - "Server"
 tags:
-  - "seccon"
-  - "security"
+  - "Seccon"
+  - "Security"
 image: images/seccon-ctf-2017-1.png
 ---
 

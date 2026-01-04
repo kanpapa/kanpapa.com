@@ -4,8 +4,7 @@ date: 2015-05-08
 slug: "firefox-os-raspberry-pi-wot-handson"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/fxos_pi_handson01.jpg"
 ---
 

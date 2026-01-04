@@ -4,8 +4,7 @@ date: 2009-02-03
 slug: "vaio-type-pdvd"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 Amazonから注文していたポータブルDVDドライブが届いたので、早速VAIO type Pにつないでみました。  

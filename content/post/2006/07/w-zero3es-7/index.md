@@ -4,8 +4,7 @@ date: 2006-07-18
 slug: "w-zero3es-7"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 ウィルコムストアでW-ZERO3\[es\]の通常商品(SIMあり)の予約が開始しています。

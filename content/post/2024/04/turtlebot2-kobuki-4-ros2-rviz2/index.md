@@ -5,10 +5,11 @@ slug: turtlebot2-kobuki-4-ros2-rviz2
 categories:
   - "Robot"
 tags:
-  - "kobuki"
-  - "robot"
-  - "ros2"
-  - "turtlebot2"
+  - "Kobuki"
+  - "ROS"
+  - "ROS 2"
+  - "Turtlebot"
+  - "Turtlebot2"
 image: images/turtlebot2-kobuki-4-ros2-rviz2-eyecatch.png
 ---
 

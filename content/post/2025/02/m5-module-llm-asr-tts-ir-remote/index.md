@@ -5,11 +5,10 @@ slug: m5-module-llm-asr-tts-ir-remote
 categories:
   - "Electronics"
 tags:
-  - "arduino"
-  - "electronics"
-  - "ir"
-  - "llm"
-  - "m5stack"
+  - "Arduino"
+  - "Ir"
+  - "Llm"
+  - "M5stack"
 image: images/m5-llm-ir-remote1.jpg
 ---
 

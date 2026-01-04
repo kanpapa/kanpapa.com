@@ -5,9 +5,7 @@ slug: "hp20b-case-cut"
 categories:
   - "Electronics"
   - "Retro Computing"
-tags:
-  - "electronics"
-  - "retrocomputing"
+tags: []
 image: "images/hp20b_case_cut1.jpg"
 ---
 

@@ -5,9 +5,9 @@ slug: "cosmac-maker-faire-tokyo-2020-booth-review"
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "maker-faire"
-  - "mft2020"
+  - "Cosmac"
+  - "Maker Faire"
+  - "Mft2020"
 image: "images/mft2020_booth_review1.jpg"
 ---
 

@@ -5,8 +5,8 @@ slug: "cosmac-mbc-tv-rev02-finished"
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-mbc"
+  - "Cosmac"
+  - "Cosmac Mbc"
 image: "images/cosmac_tv_rev02_connect_cpu1.jpg"
 ---
 

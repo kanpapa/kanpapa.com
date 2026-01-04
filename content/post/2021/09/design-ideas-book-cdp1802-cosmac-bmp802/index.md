@@ -5,7 +5,7 @@ slug: "design-ideas-book-cdp1802-cosmac-bmp802"
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
+  - "Cosmac"
 image: "images/cosmac_bmp802.jpg"
 ---
 

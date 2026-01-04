@@ -6,12 +6,10 @@ categories:
   - "Electronics"
   - "Robot"
 tags:
-  - "camera"
-  - "electronics"
-  - "freecad"
-  - "rdk"
-  - "rdk-x3"
-  - "robot"
+  - "Camera"
+  - "Freecad"
+  - "RDK"
+  - "RDK X3"
 image: images/rdk-x3-camera-double-clip-holder3.jpg
 ---
 

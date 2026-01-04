@@ -4,8 +4,7 @@ date: 2014-09-15
 slug: "ssci-openhouse-reflow"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/ssci_reflow8.jpg"
 ---
 

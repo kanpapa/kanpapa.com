@@ -5,11 +5,10 @@ slug: pdp-11-tangconsole-dcj11-mem-1
 categories:
   - "Retro Computing"
 tags:
-  - "dcj11"
-  - "pdp-11"
-  - "retrocomputing"
-  - "tangconsole"
-  - "tangconsoledcj11mem"
+  - "DCJ11"
+  - "PDP-11"
+  - "Tangconsole"
+  - "Tangconsoledcj11mem"
 image: images/tangconsoledcj11mem-power-on1.jpg
 ---
 

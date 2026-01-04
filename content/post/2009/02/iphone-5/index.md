@@ -4,8 +4,7 @@ date: 2009-02-01
 slug: "iphone-5"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 最近iPhoneの調子が悪いです。何もしていないのにいつもより熱くなっていることが多いです。  

@@ -5,8 +5,8 @@ slug: "cosmac-tv-newyear2020"
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-mbc"
+  - "Cosmac"
+  - "Cosmac Mbc"
   - "書き初め"
 image: "images/tvdisp_ny2020.jpg"
 ---

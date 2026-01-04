@@ -4,8 +4,7 @@ date: 2010-09-06
 slug: "gyrocar"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 image: "images/gyrocar.jpg"
 ---
 

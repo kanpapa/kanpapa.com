@@ -4,8 +4,7 @@ date: 2013-08-11
 slug: "onboard-trial"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/onboard_3.jpg"
 ---
 

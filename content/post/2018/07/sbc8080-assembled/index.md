@@ -6,8 +6,7 @@ categories:
   - "Retro Computing"
 tags:
   - "8080"
-  - "retrocomputing"
-  - "sbc8080"
+  - "Sbc8080"
 image: "images/sbc8080_complete-scaled-1.jpg"
 ---
 

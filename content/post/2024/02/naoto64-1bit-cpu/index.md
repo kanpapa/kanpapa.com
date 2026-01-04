@@ -5,8 +5,7 @@ slug: "naoto64-1bit-cpu"
 categories:
   - "Electronics"
 tags:
-  - "1bit-cpu"
-  - "electronics"
+  - "1bit Cpu"
 image: "images/1bitcpu-universal-board-front.jpg"
 ---
 

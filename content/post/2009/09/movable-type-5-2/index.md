@@ -4,8 +4,7 @@ date: 2009-09-26
 slug: "movable-type-5-2"
 categories:
   - "Server"
-tags:
-  - "server"
+tags: []
 ---
 
 Movable Type 5のベータ2が公開されていたので、Mac OS XのParallels Desktopにubuntu Linuxをセットアップして、その上にMovable Type 5 ベータ2をインストールしてみました。  

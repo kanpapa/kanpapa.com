@@ -4,8 +4,7 @@ date: 2006-05-02
 slug: "post-67"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 ---
 
 シュワスマン・バハマン第３彗星を見に近くの天文台に出かけました。

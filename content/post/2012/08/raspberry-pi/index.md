@@ -4,8 +4,7 @@ date: 2012-08-08
 slug: "raspberry-pi"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/raspberry_pi_1.jpg"
 ---
 

@@ -5,9 +5,8 @@ slug: github-add-assemle-list
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-toy"
-  - "retrocomputing"
+  - "Cosmac"
+  - "Cosmac Toy"
 image: images/cosmac_sample_program_osc1_lst.png
 ---
 

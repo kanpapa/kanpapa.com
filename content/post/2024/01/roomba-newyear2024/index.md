@@ -5,9 +5,10 @@ slug: "roomba-newyear2024"
 categories:
   - "Robot"
 tags:
-  - "humble"
-  - "roomba"
-  - "ros2"
+  - "Humble"
+  - "ROS"
+  - "ROS 2"
+  - "Roomba"
   - "書き初め"
 image: "images/roomba-newyear2024-led1.jpg"
 ---

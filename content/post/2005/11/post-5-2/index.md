@@ -4,8 +4,7 @@ date: 2005-11-12
 slug: "post-5-2"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 ---
 
 今日は天気が良かったのでお昼に公園のベンチでコンビニ弁当を食べました。

@@ -4,8 +4,7 @@ date: 2006-01-01
 slug: "post-33"
 categories:
   - "Event"
-tags:
-  - "research"
+tags: []
 ---
 
 帰省先だとちと電波が弱いですね。市街地だと問題無いですけど。エリア要望を書いておこう。

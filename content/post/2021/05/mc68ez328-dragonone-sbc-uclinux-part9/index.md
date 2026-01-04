@@ -5,8 +5,7 @@ slug: "mc68ez328-dragonone-sbc-uclinux-part9"
 categories:
   - "Retro Computing"
 tags:
-  - "mc68ez328"
-  - "retrocomputing"
+  - "MC68EZ328"
 image: "images/mc68ez328_dragonone_sbc_uclinux_part9_1stlogin.png"
 ---
 

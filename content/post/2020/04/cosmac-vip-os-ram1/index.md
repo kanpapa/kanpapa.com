@@ -5,8 +5,8 @@ slug: "cosmac-vip-os-ram1"
 categories:
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "cosmac-mbc"
+  - "Cosmac"
+  - "Cosmac Mbc"
 image: "images/cosmac_vip_os_ram1.jpg"
 ---
 

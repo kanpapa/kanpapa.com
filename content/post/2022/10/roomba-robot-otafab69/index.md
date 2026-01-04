@@ -5,10 +5,10 @@ slug: "roomba-robot-otafab69"
 categories:
   - "Robot"
 tags:
-  - "otafab"
-  - "otafab-robot"
-  - "roomba"
-  - "ros2"
+  - "Otafab"
+  - "ROS"
+  - "ROS 2"
+  - "Roomba"
 image: "images/roomba_simple_base_laser1.jpg"
 ---
 

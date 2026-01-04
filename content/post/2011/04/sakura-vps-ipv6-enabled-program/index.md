@@ -4,8 +4,7 @@ date: 2011-04-29
 slug: "sakura-vps-ipv6-enabled-program"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 我が家はYahoo! BB IPv6 トライアルモニターに参加していますので、IPv6でのアクセスができるのですが、このサイトもIPv6対応にしてIPv6で使えるようにしてみました。  

@@ -4,8 +4,7 @@ date: 2014-02-11
 slug: "rapiro-mbed"
 categories:
   - "Robot"
-tags:
-  - "robot"
+tags: []
 image: "images/rapiro_mbed1.jpg"
 ---
 

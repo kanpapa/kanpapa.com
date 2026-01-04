@@ -5,8 +5,8 @@ slug: cissp-exam-pass
 categories:
   - "Server"
 tags:
-  - "cissp"
-  - "security"
+  - "Cissp"
+  - "Security"
 image: images/cissp_exam1.jpg.jpg
 ---
 

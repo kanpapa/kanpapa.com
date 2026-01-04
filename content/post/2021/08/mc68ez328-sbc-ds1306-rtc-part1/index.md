@@ -5,8 +5,7 @@ slug: "mc68ez328-sbc-ds1306-rtc-part1"
 categories:
   - "Retro Computing"
 tags:
-  - "mc68ez328"
-  - "retrocomputing"
+  - "MC68EZ328"
 image: "images/ds1306_cs_probe.jpg"
 ---
 

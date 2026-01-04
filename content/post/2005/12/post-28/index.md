@@ -4,8 +4,7 @@ date: 2005-12-21
 slug: "post-28"
 categories:
   - "Event"
-tags:
-  - "mobile"
+tags: []
 ---
 
 今朝もチャレンジしてみましたが、昨日と変わらない状況。

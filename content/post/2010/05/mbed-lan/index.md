@@ -4,8 +4,7 @@ date: 2010-05-29
 slug: "mbed-lan"
 categories:
   - "Electronics"
-tags:
-  - "electronics"
+tags: []
 image: "images/mbed_ether.jpg"
 ---
 

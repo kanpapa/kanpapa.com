@@ -4,8 +4,7 @@ date: 2008-09-07
 slug: "macbook-pro-1"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 image: "images/mbp45.jpg"
 ---
 

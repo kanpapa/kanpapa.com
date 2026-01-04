@@ -5,8 +5,7 @@ slug: gpt-service-on-minipupper2-japanese
 categories:
   - "Robot"
 tags:
-  - "mini-pupper-2"
-  - "robot"
+  - "Mini Pupper 2"
 image: images/GPT-service-on-MiniPupper2-Japanese.png
 ---
 

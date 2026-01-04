@@ -4,8 +4,7 @@ date: 2007-10-17
 slug: "mac-os-x-v105-leopard-2"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 すみません。【先着でビックカメラ限定 予約特典付き】に引かれて[ビックカメラ.com](http://www.biccamera.com/bicbic/jsp/w/pcsoft/apple/leopard/)で注文しちゃいました。

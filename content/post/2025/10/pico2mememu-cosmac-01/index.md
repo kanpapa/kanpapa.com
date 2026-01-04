@@ -6,11 +6,10 @@ categories:
   - "Electronics"
   - "Retro Computing"
 tags:
-  - "cosmac"
-  - "electronics"
-  - "pico2mememu"
-  - "pico2romemu"
-  - "raspberry-pi-pico2"
+  - "Cosmac"
+  - "Pico2mememu"
+  - "Pico2romemu"
+  - "Raspberry Pi Pico2"
 image: images/Pico2MEMEmuCOSMAC_blink01.jpg
 ---
 

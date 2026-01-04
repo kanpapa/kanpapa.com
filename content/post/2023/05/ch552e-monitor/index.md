@@ -5,8 +5,7 @@ slug: "ch552e-monitor"
 categories:
   - "Electronics"
 tags:
-  - "ch55x"
-  - "electronics"
+  - "Ch55x"
 image: "images/ch552e_monitor_startup1.png"
 ---
 

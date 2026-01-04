@@ -4,8 +4,7 @@ date: 2006-02-19
 slug: "camino10"
 categories:
   - "Server"
-tags:
-  - "pc"
+tags: []
 ---
 
 ベータ版からずっと使ってきたMac用のブラウザ[Camino](http://www.caminobrowser.org/)の正式版がリリースされました。
