@@ -2,7 +2,9 @@
 title: "OLYMPUS PENのファームウェア更新"
 date: 2009-09-24
 slug: "olympus-pen-2"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

@@ -3,13 +3,14 @@ title: 'ESP32でミニカーを作る #2 組み立て編（おおたfab 電子�
 date: 2025-05-31
 slug: otafab-esp32-minicar2
 categories:
-- electronics
+  - "Electronics"
 tags:
-- arduino
-- esp32
-- otafab
-- motor
-- otafab-esp32
+  - "arduino"
+  - "electronics"
+  - "esp32"
+  - "motor"
+  - "otafab"
+  - "otafab-esp32"
 image: images/esp32-minicar-proto3.jpg
 ---
 

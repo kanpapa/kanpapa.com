@@ -2,12 +2,13 @@
 title: "Sparkfun版JetBotを組み立てました（ハードウェア編）"
 date: 2021-11-08
 slug: "sparkfun-jetbot-hardware-assembly1"
-categories: 
-  - "robot"
-tags: 
+categories:
+  - "Robot"
+tags:
   - "jetbot"
   - "jetson-nano"
   - "nvidia"
+  - "robot"
   - "sparkfun"
 image: "images/jetbot_assembly10.jpg"
 ---

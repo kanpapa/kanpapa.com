@@ -2,7 +2,9 @@
 title: "iPhoneのキャリア設定エラー(0xE8000001)が解消しました。"
 date: 2008-08-11
 slug: "post-133"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

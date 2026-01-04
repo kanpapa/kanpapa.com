@@ -2,10 +2,11 @@
 title: "Arduino Nanoピン互換のmbed STM32F303 Nucleo-32を買ってみた"
 date: 2016-02-14
 slug: "mbed-stm32f303-nucleo-32"
-categories: 
-  - "electronics"
-tags: 
+categories:
+  - "Electronics"
+tags:
   - "arduino"
+  - "electronics"
   - "mbed"
 image: "images/Nucleo-32.jpg"
 ---

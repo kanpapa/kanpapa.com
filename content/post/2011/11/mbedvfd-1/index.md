@@ -2,7 +2,9 @@
 title: "mbedとVFDでお天気情報を表示してみました"
 date: 2011-11-27
 slug: "mbedvfd-1"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/mbed-vfd1-weather1.jpg"
 ---

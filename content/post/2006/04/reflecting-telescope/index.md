@@ -2,7 +2,9 @@
 title: "大人の科学の反射望遠鏡を作りました"
 date: 2006-04-09
 slug: "reflecting-telescope"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 image: "images/reflecting_telescope_20060411111642.jpg"
 ---

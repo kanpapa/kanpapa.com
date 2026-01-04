@@ -2,7 +2,9 @@
 title: "iPhone2.0.1での違い"
 date: 2008-08-05
 slug: "iphone201"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

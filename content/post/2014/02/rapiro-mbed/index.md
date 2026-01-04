@@ -2,7 +2,9 @@
 title: "RAPIROにmbedを載せてみました"
 date: 2014-02-11
 slug: "rapiro-mbed"
-categories: 
+categories:
+  - "Robot"
+tags:
   - "robot"
 image: "images/rapiro_mbed1.jpg"
 ---

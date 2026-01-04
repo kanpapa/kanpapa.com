@@ -2,7 +2,9 @@
 title: "QFO出現"
 date: 2008-10-28
 slug: "qfo"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 image: "images/qfo.jpg"
 ---

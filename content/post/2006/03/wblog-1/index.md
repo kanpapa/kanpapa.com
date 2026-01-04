@@ -2,7 +2,9 @@
 title: "W+BLOGの改良が進む"
 date: 2006-03-18
 slug: "wblog-1"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

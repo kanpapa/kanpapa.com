@@ -2,7 +2,9 @@
 title: "さくらのVPSでIPv6 Enabled Programに登録しました"
 date: 2011-04-29
 slug: "sakura-vps-ipv6-enabled-program"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

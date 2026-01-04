@@ -2,7 +2,9 @@
 title: "W-ZERO3をGETしました！"
 date: 2006-02-13
 slug: "w-zero3get"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

@@ -2,12 +2,13 @@
 title: "ブログサイトをAmazon Lightsailに移行しました"
 date: 2025-06-17
 slug: "migrated-kanpapa-blog-lightsail"
-categories: 
-  - "server"
-tags: 
+categories:
+  - "Server"
+tags:
   - "aws"
   - "conoha"
   - "lightsail"
+  - "server"
   - "wordpress"
 image: "images/amazon-lightsail-topview1.png"
 ---

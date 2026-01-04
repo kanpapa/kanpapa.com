@@ -3,10 +3,11 @@ title: COSMAC MBC BUSボード Rev. 0.2を製作しました
 date: 2020-07-12
 slug: cosmac-mbc-bus-rev-02-assembly
 categories:
-- cosmac
-- retrocomputing
+  - "Retro Computing"
 tags:
-- cosmac-mbc
+  - "cosmac"
+  - "cosmac-mbc"
+  - "retrocomputing"
 image: images/cosmac_mbc_bus_rev02_pcb4.jpg
 ---
 

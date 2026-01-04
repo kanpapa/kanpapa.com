@@ -2,7 +2,9 @@
 title: "Snow Leopardの64ビットカーネル"
 date: 2009-08-26
 slug: "snow-leopard64"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

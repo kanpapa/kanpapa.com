@@ -2,7 +2,9 @@
 title: "NetFront Browser v3.3 for Pocket PC販売中止！"
 date: 2007-06-01
 slug: "netfront-browser-v33-for-pocket-pc"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

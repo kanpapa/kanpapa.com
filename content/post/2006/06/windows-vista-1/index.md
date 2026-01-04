@@ -2,7 +2,9 @@
 title: "Windows Vista ベータ２起動しました"
 date: 2006-06-10
 slug: "windows-vista-1"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

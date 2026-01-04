@@ -2,7 +2,9 @@
 title: "KURO-SHEEVA（玄柴）のカーネルを更新しました"
 date: 2010-03-08
 slug: "kuro-sheeva-kernel-update"
-categories: 
+categories:
+  - "Server"
+tags:
   - "server"
 image: "images/kuro-sheeva-kernelupdate.jpg"
 ---

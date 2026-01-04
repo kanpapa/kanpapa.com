@@ -2,7 +2,9 @@
 title: "VAIO type Pの環境整備中"
 date: 2009-02-08
 slug: "vaio-type-p-5"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

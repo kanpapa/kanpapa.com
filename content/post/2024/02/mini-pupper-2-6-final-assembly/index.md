@@ -3,9 +3,10 @@ title: Mini Pupper 2 を組み立ててみました (6) 動作確認
 date: 2024-02-11
 slug: mini-pupper-2-6-final-assembly
 categories:
-- robot
+  - "Robot"
 tags:
-- mini-pupper-2
+  - "mini-pupper-2"
+  - "robot"
 image: images/mini-pupper-2-6-final-assembly4.jpg
 ---
 

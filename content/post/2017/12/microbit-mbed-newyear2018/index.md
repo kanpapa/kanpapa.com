@@ -2,9 +2,10 @@
 title: "micro:bitとmbedで2018年の書き初めをしてみた"
 date: 2017-12-31
 slug: "microbit-mbed-newyear2018"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
-tags: 
   - "mbed"
   - "micro-bit"
   - "書き初め"

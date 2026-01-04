@@ -2,7 +2,9 @@
 title: "Sunのキリン"
 date: 2006-01-14
 slug: "sun"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 image: "images/hatena_20060114110411.jpg"
 ---

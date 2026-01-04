@@ -3,10 +3,11 @@ title: EMU1802-miniが新ファームウェアで大幅に高速化されまし�
 date: 2022-07-30
 slug: emu1802-mini-speedup
 categories:
-- cosmac
-- retrocomputing
+  - "Retro Computing"
 tags:
-- emu1802
+  - "cosmac"
+  - "emu1802"
+  - "retrocomputing"
 image: images/emu1802-mini-v21g_programming.jpg
 ---
 

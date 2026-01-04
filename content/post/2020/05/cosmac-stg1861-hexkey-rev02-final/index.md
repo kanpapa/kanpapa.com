@@ -3,10 +3,11 @@ title: COSMAC STG1861 DISPLAY/HEX KEYBOARD Rev. 0.2の基板を製作しまし�
 date: 2020-05-16
 slug: cosmac-stg1861-hexkey-rev02-final
 categories:
-- cosmac
-- retrocomputing
+  - "Retro Computing"
 tags:
-- cosmac-mbc
+  - "cosmac"
+  - "cosmac-mbc"
+  - "retrocomputing"
 image: images/coamac_stg1861_rev02_pcb3.jpg
 ---
 

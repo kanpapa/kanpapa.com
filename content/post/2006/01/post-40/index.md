@@ -2,7 +2,9 @@
 title: "先月のパケット数"
 date: 2006-01-21
 slug: "post-40"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

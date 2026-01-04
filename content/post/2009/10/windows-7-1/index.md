@@ -2,7 +2,9 @@
 title: "Windows 7発売前夜"
 date: 2009-10-21
 slug: "windows-7-1"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

@@ -2,7 +2,9 @@
 title: "Movable Type 5.04にアップグレードしました"
 date: 2010-12-09
 slug: "movable-type-504"
-categories: 
+categories:
+  - "Server"
+tags:
   - "server"
 ---
 

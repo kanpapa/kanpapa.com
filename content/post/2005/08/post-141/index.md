@@ -2,7 +2,9 @@
 title: "我が家の水槽"
 date: 2005-08-09
 slug: "post-141"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

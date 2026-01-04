@@ -2,7 +2,9 @@
 title: "ひなたぼっこ"
 date: 2005-11-12
 slug: "post-5-2"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

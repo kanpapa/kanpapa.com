@@ -2,13 +2,13 @@
 title: "新しいフレームを製作中です （おおたfab 第69回 素人でもロボットをつくりたい）"
 date: 2022-10-11
 slug: "roomba-robot-otafab69"
-categories: 
-  - "roomba"
-tags: 
-  - "roomba"
-  - "ros2"
+categories:
+  - "Robot"
+tags:
   - "otafab"
   - "otafab-robot"
+  - "roomba"
+  - "ros2"
 image: "images/roomba_simple_base_laser1.jpg"
 ---
 

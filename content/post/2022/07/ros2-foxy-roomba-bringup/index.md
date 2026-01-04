@@ -2,9 +2,9 @@
 title: "ROS2 Foxyでルンバを動かしてみました(1) ルンバ設定編"
 date: 2022-07-24
 slug: "ros2-foxy-roomba-bringup"
-categories: 
-  - "roomba"
-tags: 
+categories:
+  - "Robot"
+tags:
   - "roomba"
   - "ros2"
 image: "images/roomba600_rasppi_ydlidar.jpg"

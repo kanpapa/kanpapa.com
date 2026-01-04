@@ -2,7 +2,9 @@
 title: "お詫びの手紙"
 date: 2006-03-07
 slug: "post-54"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

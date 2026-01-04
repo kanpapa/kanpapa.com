@@ -2,9 +2,10 @@
 title: "weather:bitにOLEDを接続してみた"
 date: 2017-12-15
 slug: "weatherbit-oled"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
-tags: 
   - "micro-bit"
 image: "images/weatherbit_oled.jpg"
 ---

@@ -2,7 +2,9 @@
 title: "VAIO type PにBatteryBarをインストールしてみた"
 date: 2009-02-18
 slug: "vaio-type-pbatterybar"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

@@ -3,10 +3,11 @@ title: COSMAC MBC BUSボード Rev. 0.1が届きましたが・・・
 date: 2020-06-21
 slug: cosmac-mbc-bus-rev-01-assembly
 categories:
-- cosmac
-- retrocomputing
+  - "Retro Computing"
 tags:
-- cosmac-mbc
+  - "cosmac"
+  - "cosmac-mbc"
+  - "retrocomputing"
 image: images/cosmac_mbc_bus_rev01_2.jpg
 ---
 

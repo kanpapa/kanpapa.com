@@ -2,11 +2,11 @@
 title: "MC68EZ328 SBC LANをユニバーサル基板に載せ替えました"
 date: 2021-08-04
 slug: "mc68ez328-dragonone-sbc-uclinux-network4"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "mc68ez328"
   - "retrocomputing"
-tags: 
-  - "mc68ez328"
 image: "images/mc68ez328-dragonone-sbc-lan-univ2.jpg"
 ---
 

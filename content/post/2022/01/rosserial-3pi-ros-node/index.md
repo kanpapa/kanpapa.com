@@ -2,11 +2,12 @@
 title: "rosserialでPololu 3pi robotをROSのノードにしてみました"
 date: 2022-01-09
 slug: "rosserial-3pi-ros-node"
-categories: 
-  - "robot"
-tags: 
+categories:
+  - "Robot"
+tags:
   - "m3pi"
   - "pololu"
+  - "robot"
 image: "images/rosserial_3pi_robot1.jpg"
 ---
 

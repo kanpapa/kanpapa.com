@@ -2,7 +2,9 @@
 title: "VAIO type Pをリカバリしてみた"
 date: 2009-04-24
 slug: "vaio-type-p-10"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 image: "images/vaio_type_p_recover.jpg"
 ---

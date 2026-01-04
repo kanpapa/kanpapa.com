@@ -2,7 +2,9 @@
 title: "発売日に購入できるかたの喜びの声！"
 date: 2008-07-06
 slug: "post-122"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

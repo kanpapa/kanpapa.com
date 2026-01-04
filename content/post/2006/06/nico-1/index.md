@@ -2,7 +2,9 @@
 title: "はてなの注目のキーワードにNICOが！"
 date: 2006-06-27
 slug: "nico-1"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

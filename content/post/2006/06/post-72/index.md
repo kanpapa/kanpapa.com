@@ -2,7 +2,9 @@
 title: "ファームウェアアップデート完了！"
 date: 2006-06-21
 slug: "post-72"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

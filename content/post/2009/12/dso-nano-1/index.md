@@ -2,7 +2,9 @@
 title: "DSO nanoが発送されたようです"
 date: 2009-12-17
 slug: "dso-nano-1"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 ---
 

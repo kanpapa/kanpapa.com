@@ -2,7 +2,9 @@
 title: "iPhone 4の悩み"
 date: 2010-06-08
 slug: "iphone-4-1"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

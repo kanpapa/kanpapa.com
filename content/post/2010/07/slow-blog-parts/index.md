@@ -2,7 +2,9 @@
 title: "最近ブログの表示が遅い理由はブログパーツだった"
 date: 2010-07-14
 slug: "slow-blog-parts"
-categories: 
+categories:
+  - "Server"
+tags:
   - "server"
 ---
 

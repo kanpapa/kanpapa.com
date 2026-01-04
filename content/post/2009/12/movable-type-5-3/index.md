@@ -2,7 +2,9 @@
 title: "Movable Type 5に移行しました"
 date: 2009-12-03
 slug: "movable-type-5-3"
-categories: 
+categories:
+  - "Server"
+tags:
   - "server"
 ---
 

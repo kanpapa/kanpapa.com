@@ -3,11 +3,12 @@ title: 'TurtleBot2 kobukiがやってきた #3（ROS2動作確認編）'
 date: 2024-04-26
 slug: turtlebot2-kobuki-3-ros2
 categories:
-- robot
+  - "Robot"
 tags:
-- kobuki
-- ros2
-- turtlebot2
+  - "kobuki"
+  - "robot"
+  - "ros2"
+  - "turtlebot2"
 image: images/turtlebot2-kobuki-testing1.jpg
 ---
 

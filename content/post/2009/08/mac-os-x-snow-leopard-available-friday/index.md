@@ -2,7 +2,9 @@
 title: "Mac OS X Snow Leopard. Available Friday"
 date: 2009-08-24
 slug: "mac-os-x-snow-leopard-available-friday"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

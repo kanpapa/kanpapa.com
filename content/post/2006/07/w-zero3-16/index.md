@@ -2,7 +2,9 @@
 title: "W-ZERO3のおさわり会を思い出す"
 date: 2006-07-24
 slug: "w-zero3-16"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

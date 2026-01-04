@@ -2,7 +2,9 @@
 title: "Yahoo! BB 光 with フレッツへの変更手続きをしました"
 date: 2009-11-14
 slug: "yahoo-bb-with"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 image: "images/hikari_henkou.jpg"
 ---

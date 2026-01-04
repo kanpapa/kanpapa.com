@@ -2,7 +2,9 @@
 title: "mbedでBMPファイルを読み込んでVFDに表示してみました"
 date: 2011-10-18
 slug: "mbed-vfd-bmp"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/mbed-vfd-bmp-sample1.jpg"
 ---

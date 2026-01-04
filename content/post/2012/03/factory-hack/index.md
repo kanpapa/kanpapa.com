@@ -2,7 +2,9 @@
 title: "モノファクトリーの工場ハックに参加しました"
 date: 2012-03-23
 slug: "factory-hack"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 image: "images/factory_hack_201203_1.jpg"
 ---

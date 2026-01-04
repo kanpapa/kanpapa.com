@@ -3,11 +3,12 @@ title: COSMAC VIPスマートフォン操作システムをアクリル板にま
 date: 2020-09-27
 slug: cosmac-vip-os-esp32-remote-keypad-acrylic1
 categories:
-- cosmac
-- retrocomputing
+  - "Retro Computing"
 tags:
-- cosmac-mbc
-- esp32
+  - "cosmac"
+  - "cosmac-mbc"
+  - "esp32"
+  - "retrocomputing"
 image: images/esp32_remote_acrylic7.jpg
 ---
 

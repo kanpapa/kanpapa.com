@@ -2,9 +2,10 @@
 title: "COSMAC MBCでサンプルプログラムを動かしてみました"
 date: 2019-10-07
 slug: "cosmac-mbc-sample1-run"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
-tags: 
   - "cosmac-mbc"
 image: "images/ut4_teraterm_setting.png"
 ---

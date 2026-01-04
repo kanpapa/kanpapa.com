@@ -2,10 +2,11 @@
 title: "Google Cloud認定資格 Associate Cloud Engineer (ACE) に合格しました"
 date: 2021-12-18
 slug: "google-cloud-associate-cloud-engineer-passed"
-categories: 
-  - "server"
-tags: 
+categories:
+  - "Server"
+tags:
   - "gcp"
+  - "server"
 image: "images/GCP_ACE_official_guide.jpg"
 ---
 

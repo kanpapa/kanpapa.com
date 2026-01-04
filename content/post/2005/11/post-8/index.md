@@ -2,7 +2,9 @@
 title: "明日は発売日"
 date: 2005-11-17
 slug: "post-8"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

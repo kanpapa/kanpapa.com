@@ -2,7 +2,9 @@
 title: "W-ZERO3の予約開始！"
 date: 2005-12-08
 slug: "w-zero3-1"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

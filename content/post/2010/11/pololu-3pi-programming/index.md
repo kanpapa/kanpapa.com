@@ -2,7 +2,9 @@
 title: "Pololu 3pi robotにプログラムを書き込んでみた"
 date: 2010-11-19
 slug: "pololu-3pi-programming"
-categories: 
+categories:
+  - "Robot"
+tags:
   - "robot"
 ---
 

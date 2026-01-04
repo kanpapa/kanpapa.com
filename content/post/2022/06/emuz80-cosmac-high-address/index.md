@@ -3,11 +3,12 @@ title: EMUZ80でCOSMACを動かしてみました 3（アドレス拡張編）
 date: 2022-06-04
 slug: emuz80-cosmac-high-address
 categories:
-- cosmac
-- retrocomputing
+  - "Retro Computing"
 tags:
-- emu1802
-- emuz80
+  - "cosmac"
+  - "emu1802"
+  - "emuz80"
+  - "retrocomputing"
 image: images/emuz80_cosmac_prog4_out1.png
 ---
 

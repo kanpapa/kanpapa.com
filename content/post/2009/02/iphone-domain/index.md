@@ -2,7 +2,9 @@
 title: "クラックされたかと思ったらiPhoneだった"
 date: 2009-02-18
 slug: "iphone-domain"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

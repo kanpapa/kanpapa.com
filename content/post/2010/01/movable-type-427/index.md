@@ -2,7 +2,9 @@
 title: "Movable Type 4.27にアップグレードしました"
 date: 2010-01-08
 slug: "movable-type-427"
-categories: 
+categories:
+  - "Server"
+tags:
   - "server"
 ---
 

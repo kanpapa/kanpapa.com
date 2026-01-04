@@ -2,7 +2,9 @@
 title: "超小型ARMマイコン基板でマルチMCUを試す"
 date: 2011-03-21
 slug: "mary-multi-mcu"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 ---
 

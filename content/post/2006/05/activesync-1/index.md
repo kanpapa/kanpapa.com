@@ -2,7 +2,9 @@
 title: "ActiveSyncの常駐解除ツール"
 date: 2006-05-25
 slug: "activesync-1"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

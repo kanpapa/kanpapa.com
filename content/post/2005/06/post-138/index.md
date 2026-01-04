@@ -2,7 +2,9 @@
 title: "ひさびさのソフト購入"
 date: 2005-06-23
 slug: "post-138"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

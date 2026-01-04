@@ -2,7 +2,9 @@
 title: "おお、新たなSIM STYLEジャケットが！"
 date: 2008-03-26
 slug: "sim-style"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

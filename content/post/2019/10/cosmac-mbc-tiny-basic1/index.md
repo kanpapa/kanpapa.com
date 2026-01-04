@@ -2,9 +2,10 @@
 title: "COSMAC MBCでTINY BASICが動きました"
 date: 2019-10-13
 slug: "cosmac-mbc-tiny-basic1"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
-tags: 
   - "cosmac-mbc"
 image: "images/tinybasic_checklist.jpg"
 ---

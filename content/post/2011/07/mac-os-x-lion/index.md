@@ -2,7 +2,9 @@
 title: "Mac OS X Lionにアップデートしました"
 date: 2011-07-21
 slug: "mac-os-x-lion"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 image: "images/macosx_lion.jpg"
 ---

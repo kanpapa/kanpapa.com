@@ -2,7 +2,9 @@
 title: "アマチュア無線復活の続き"
 date: 2007-06-23
 slug: "ham-2007-06"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

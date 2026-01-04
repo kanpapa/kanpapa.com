@@ -2,9 +2,10 @@
 title: "COSMAC MBC 拡張ボードを発注しました"
 date: 2019-10-11
 slug: "cosmac-mbc-ext-pcb1"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
-tags: 
   - "cosmac-mbc"
 image: "images/cosmac_mbc_ext1.jpg"
 ---

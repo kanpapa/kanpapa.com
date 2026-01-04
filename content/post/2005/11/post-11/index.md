@@ -2,7 +2,9 @@
 title: "はてなカウンタつけました"
 date: 2005-11-24
 slug: "post-11"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

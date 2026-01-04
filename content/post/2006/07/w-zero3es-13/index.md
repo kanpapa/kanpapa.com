@@ -2,7 +2,9 @@
 title: "早くもW-ZERO3[es]分解"
 date: 2006-07-29
 slug: "w-zero3es-13"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

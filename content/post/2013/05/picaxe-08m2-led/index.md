@@ -2,7 +2,9 @@
 title: "PICAXE-08M2でLチカをしてみました"
 date: 2013-05-11
 slug: "picaxe-08m2-led"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/AXE029_adapter.jpg"
 ---

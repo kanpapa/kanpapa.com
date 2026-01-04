@@ -2,7 +2,9 @@
 title: "近所ではW-ZERO3[es]在庫切れ。次回入荷未定。"
 date: 2006-08-05
 slug: "w-zero3es-17"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

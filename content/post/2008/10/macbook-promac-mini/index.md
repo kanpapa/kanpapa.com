@@ -2,7 +2,9 @@
 title: "MacBook ProのハードディスクをMac miniにつなぐ"
 date: 2008-10-19
 slug: "macbook-promac-mini"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 image: "images/macbookpro_macmini5.jpg"
 ---

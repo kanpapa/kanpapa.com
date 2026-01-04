@@ -3,10 +3,10 @@ title: CISSPの試験に合格するまで
 date: 2019-12-14
 slug: cissp-exam-pass
 categories:
-- security
+  - "Server"
 tags:
-- cissp
-- security
+  - "cissp"
+  - "security"
 image: images/cissp_exam1.jpg.jpg
 ---
 

@@ -2,7 +2,9 @@
 title: "iPhone 2.1を試す"
 date: 2008-09-16
 slug: "iphone-21-2"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

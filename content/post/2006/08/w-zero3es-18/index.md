@@ -2,7 +2,9 @@
 title: "ついにW-ZERO3[es]を注文しちゃったぁ"
 date: 2006-08-10
 slug: "w-zero3es-18"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

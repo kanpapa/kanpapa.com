@@ -2,7 +2,9 @@
 title: "ipod nanoを買いました"
 date: 2007-04-22
 slug: "ipod-nano"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 image: "images/ipod_nano_20070422213104.jpg"
 ---

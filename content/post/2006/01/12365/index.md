@@ -2,7 +2,9 @@
 title: "12月末時点での累計加入者数が365万加入に。過去最高を突破"
 date: 2006-01-11
 slug: "12365"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

@@ -2,10 +2,11 @@
 title: "Lininoわんわんハントセットを買ってみた"
 date: 2023-12-29
 slug: "linino-one-one-huntset"
-categories: 
-  - "electronics"
-tags: 
+categories:
+  - "Electronics"
+tags:
   - "arduino"
+  - "electronics"
   - "linino"
 image: "images/linino-one-one-eye-catch.jpg"
 ---

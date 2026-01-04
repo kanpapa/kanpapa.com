@@ -2,7 +2,9 @@
 title: "Movable TypeのDBをMySQLからSQLiteに変えてみた"
 date: 2009-01-24
 slug: "movable-typedbmysqlsqlite"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

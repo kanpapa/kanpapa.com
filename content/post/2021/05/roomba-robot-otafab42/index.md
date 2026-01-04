@@ -2,14 +2,14 @@
 title: "ルンバのエンコーダの値をArduinoで読み取ってみました。（おおたfab 第42回 素人でもロボットをつくりたい）"
 date: 2021-05-05
 slug: "roomba-robot-otafab42"
-categories: 
-  - "robot"
-  - "roomba"
-tags: 
+categories:
+  - "Robot"
+tags:
   - "arduino"
-  - "roomba"
   - "otafab"
   - "otafab-robot"
+  - "robot"
+  - "roomba"
 image: "images/Roomba-robot-otafab42_enorder2.jpg"
 ---
 

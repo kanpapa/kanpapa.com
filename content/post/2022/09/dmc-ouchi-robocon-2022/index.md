@@ -2,10 +2,11 @@
 title: "DMCおうちロボコン2022のライントレーサーを組み立てました"
 date: 2022-09-19
 slug: "dmc-ouchi-robocon-2022"
-categories: 
-  - "robot"
-tags: 
+categories:
+  - "Robot"
+tags:
   - "dmc-robocon"
+  - "robot"
 image: "images/dmc_robocon_fin0.jpg"
 ---
 

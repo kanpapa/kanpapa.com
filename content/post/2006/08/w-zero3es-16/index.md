@@ -2,7 +2,9 @@
 title: "W-ZERO3[es]の単体販売は来週から？"
 date: 2006-08-05
 slug: "w-zero3es-16"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

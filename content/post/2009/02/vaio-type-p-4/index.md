@@ -2,7 +2,9 @@
 title: "VAIO type Pが到着しました。"
 date: 2009-02-01
 slug: "vaio-type-p-4"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

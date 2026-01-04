@@ -3,12 +3,13 @@ title: 'TurtleBot3がやってきた #4（SLAMで地図を作る編）'
 date: 2022-02-06
 slug: turtlebot3-burger-slam1
 categories:
-- robot
+  - "Robot"
 tags:
-- melodic
-- ros1
-- slam
-- turtlebot3
+  - "melodic"
+  - "robot"
+  - "ros1"
+  - "slam"
+  - "turtlebot3"
 image: images/turtlebot3-burger-slam-map1.png
 ---
 

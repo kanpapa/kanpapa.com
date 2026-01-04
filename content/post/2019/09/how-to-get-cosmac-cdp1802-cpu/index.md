@@ -2,9 +2,10 @@
 title: "COSMAC CDP1802 CPUはどこで入手できますか？"
 date: 2019-09-14
 slug: "how-to-get-cosmac-cdp1802-cpu"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
-tags: 
   - "tips"
 image: "images/cosmac_cdp1802ace.jpg"
 ---

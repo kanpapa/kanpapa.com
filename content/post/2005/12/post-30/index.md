@@ -2,7 +2,9 @@
 title: "京ぽん２からのテスト"
 date: 2005-12-25
 slug: "post-30"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

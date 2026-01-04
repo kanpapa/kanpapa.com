@@ -2,7 +2,9 @@
 title: "Missing Sync for Windows Mobileの新バージョン"
 date: 2007-07-21
 slug: "missing-sync-for-windows-mobile"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

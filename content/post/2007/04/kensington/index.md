@@ -2,7 +2,9 @@
 title: "Kensingtonのトラックボール"
 date: 2007-04-07
 slug: "kensington"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

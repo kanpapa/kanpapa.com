@@ -2,7 +2,9 @@
 title: "トップページを作ってみました。"
 date: 2008-09-03
 slug: "post-135"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

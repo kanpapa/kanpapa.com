@@ -3,16 +3,16 @@ title: D-Robotics RDK X3 で人についていくルンバを作ってみた
 date: 2024-09-27
 slug: rdk-x3-roomba-controlled-ros2
 categories:
-- robot
-- roomba
+  - "Robot"
 tags:
-- d-robotics
-- humble
-- rdk-x3
-- roomba
-- ros2
-- tros-b
-- rdk
+  - "d-robotics"
+  - "humble"
+  - "rdk"
+  - "rdk-x3"
+  - "robot"
+  - "roomba"
+  - "ros2"
+  - "tros-b"
 image: images/rdk-x3-roomba-camera-up1.jpg
 ---
 

@@ -2,7 +2,9 @@
 title: "VAIO type P (Z540 1.86GHz)のWindowsエクスペリエンスの数値"
 date: 2009-02-01
 slug: "vaio-type-p-z540-186ghzwindows"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

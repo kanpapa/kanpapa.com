@@ -3,9 +3,10 @@ title: Mini Pupper 2 を組み立ててみました (2) 表示パネルとフレ
 date: 2023-10-23
 slug: mini-pupper-2-part2
 categories:
-- robot
+  - "Robot"
 tags:
-- mini-pupper-2
+  - "mini-pupper-2"
+  - "robot"
 image: images/MP2_2_servo3.jpg
 ---
 

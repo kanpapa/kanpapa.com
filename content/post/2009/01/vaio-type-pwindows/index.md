@@ -2,7 +2,9 @@
 title: "VAIO type PのWindowsエクスペリエンスの数値"
 date: 2009-01-11
 slug: "vaio-type-pwindows"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

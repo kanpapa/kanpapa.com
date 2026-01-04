@@ -2,7 +2,9 @@
 title: "Safari 4を試してみる"
 date: 2009-02-28
 slug: "safari-4"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

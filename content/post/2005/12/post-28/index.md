@@ -2,7 +2,9 @@
 title: "まだ混雑してるなぁ"
 date: 2005-12-21
 slug: "post-28"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

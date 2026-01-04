@@ -2,7 +2,9 @@
 title: "お気に入りのiPhoneアプリ"
 date: 2008-09-01
 slug: "iphone-3"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

@@ -2,7 +2,9 @@
 title: "Mac mini到着初日の感想"
 date: 2005-02-23
 slug: "mac-mini-6"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 image: "images/mac_mini_1st.jpg"
 ---

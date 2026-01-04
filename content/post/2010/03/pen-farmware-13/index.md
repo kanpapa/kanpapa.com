@@ -2,7 +2,9 @@
 title: "PENのファームウェアをアップデートしました"
 date: 2010-03-04
 slug: "pen-farmware-13"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

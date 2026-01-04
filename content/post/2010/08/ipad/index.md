@@ -2,7 +2,9 @@
 title: "iPadがやってきた"
 date: 2010-08-02
 slug: "ipad"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 image: "images/ipad.jpg"
 ---

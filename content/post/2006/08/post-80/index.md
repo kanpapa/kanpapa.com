@@ -2,7 +2,9 @@
 title: "料金プランを変更！"
 date: 2006-08-27
 slug: "post-80"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

@@ -3,12 +3,13 @@ title: M5Stack CoreS3とOrangeputer-KBで日本語入力を試してみました
 date: 2025-11-15
 slug: orangeputer-m5stacks3-japanese-editor1
 categories:
-- electronics
+  - "Electronics"
 tags:
-- esp32
-- orangeputer
-- skk
-- m5stack
+  - "electronics"
+  - "esp32"
+  - "m5stack"
+  - "orangeputer"
+  - "skk"
 image: images/orangeputer-m5stacks3-jpeditor1.jpg
 ---
 

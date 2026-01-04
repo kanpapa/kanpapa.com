@@ -3,10 +3,11 @@ title: スタックチャンを組み立てました
 date: 2022-12-13
 slug: stackchan-m5stack-assembly
 categories:
-- electronics
+  - "Electronics"
 tags:
-- m5stack
-- stack-chan
+  - "electronics"
+  - "m5stack"
+  - "stack-chan"
 image: images/stackchan_complete.jpg
 ---
 

@@ -2,7 +2,9 @@
 title: "もしかしてW-ZERO3[es]は24時間以内に発送？"
 date: 2006-07-31
 slug: "w-zero3es24"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

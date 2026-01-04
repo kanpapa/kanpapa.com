@@ -2,9 +2,10 @@
 title: "COSMAC MBC 拡張ボードの回路図を掲載しました。"
 date: 2019-10-20
 slug: "cosmac-mbc-ext-schematic1"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
-tags: 
   - "cosmac-mbc"
 image: "images/cosmac-mbc-ext-schematic1-eye.png"
 ---

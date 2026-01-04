@@ -2,7 +2,9 @@
 title: "Firefox OS &amp; Raspberry Pi WoTハンズオンに参加してみた"
 date: 2015-05-08
 slug: "firefox-os-raspberry-pi-wot-handson"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/fxos_pi_handson01.jpg"
 ---

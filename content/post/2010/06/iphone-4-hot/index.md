@@ -2,7 +2,9 @@
 title: "iPhone 4がとても熱くなることがあるようです"
 date: 2010-06-28
 slug: "iphone-4-hot"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

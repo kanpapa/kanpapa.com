@@ -3,13 +3,15 @@ title: D-Robotics RDK X3のFreeCAD用3Dモデルを作ってみました
 date: 2024-10-22
 slug: d-robotics-rdk-x3-board-3dmodel-freecad
 categories:
-- electronics
-- robot
+  - "Electronics"
+  - "Robot"
 tags:
-- freecad
-- rdk-x3
-- roomba
-- rdk
+  - "electronics"
+  - "freecad"
+  - "rdk"
+  - "rdk-x3"
+  - "robot"
+  - "roomba"
 image: images/rdk-x3-simple-roomba-frame1.png
 ---
 

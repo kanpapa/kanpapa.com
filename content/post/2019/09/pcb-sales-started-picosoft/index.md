@@ -3,10 +3,11 @@ title: オレンジピコショップさんでプリント基板の販売が開�
 date: 2019-09-28
 slug: pcb-sales-started-picosoft
 categories:
-- cosmac
-- retrocomputing
+  - "Retro Computing"
 tags:
-- cosmac-toy
+  - "cosmac"
+  - "cosmac-toy"
+  - "retrocomputing"
 image: images/cosmac_pcb_cpu_pl_picosoft.jpg
 ---
 

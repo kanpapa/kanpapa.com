@@ -2,7 +2,9 @@
 title: "来ましたW-ZERO3第２回抽選受付"
 date: 2005-12-16
 slug: "w-zero3-4"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

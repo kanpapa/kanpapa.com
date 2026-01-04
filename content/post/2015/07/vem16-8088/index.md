@@ -2,7 +2,9 @@
 title: "VEM16 8088トレーニングボードを手に入れた"
 date: 2015-07-31
 slug: "vem16-8088"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "retrocomputing"
 image: "images/vem16_001.jpg"
 ---

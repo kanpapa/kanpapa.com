@@ -2,7 +2,9 @@
 title: "Intel Mac登場"
 date: 2006-01-11
 slug: "intel-mac"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

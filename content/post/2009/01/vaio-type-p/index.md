@@ -2,7 +2,9 @@
 title: "VAIO type Pの先行予約が完了しました。"
 date: 2009-01-10
 slug: "vaio-type-p"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

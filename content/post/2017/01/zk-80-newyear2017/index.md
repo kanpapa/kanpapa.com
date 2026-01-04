@@ -2,10 +2,11 @@
 title: "ZK-80 mini (PIC32MX１チップTK-80互換機)で2017年の書き初めをしてみた"
 date: 2017-01-01
 slug: "zk-80-newyear2017"
-categories: 
-  - "retrocomputing"
-tags: 
+categories:
+  - "Retro Computing"
+tags:
   - "pic32mx"
+  - "retrocomputing"
   - "tk-80"
   - "zk-80-mini"
   - "書き初め"

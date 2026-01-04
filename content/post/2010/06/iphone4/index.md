@@ -2,7 +2,9 @@
 title: "iPhone 4を予約しました"
 date: 2010-06-16
 slug: "iphone4"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

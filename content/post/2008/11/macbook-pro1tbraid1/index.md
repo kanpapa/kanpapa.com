@@ -2,7 +2,9 @@
 title: "MacBook Proに1TBのRAID1ハードディスクをつなぐ"
 date: 2008-11-09
 slug: "macbook-pro1tbraid1"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

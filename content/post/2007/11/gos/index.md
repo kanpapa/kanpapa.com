@@ -2,7 +2,9 @@
 title: "まだかなgOS"
 date: 2007-11-01
 slug: "gos"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

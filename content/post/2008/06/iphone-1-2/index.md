@@ -2,7 +2,9 @@
 title: "iPhoneの販売価格／販売方法決定"
 date: 2008-06-23
 slug: "iphone-1-2"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

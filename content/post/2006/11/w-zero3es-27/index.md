@@ -2,7 +2,9 @@
 title: "W-ZERO3[es]の新ファーム"
 date: 2006-11-15
 slug: "w-zero3es-27"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

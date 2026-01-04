@@ -2,7 +2,9 @@
 title: "Movable Type 5 移行に向けての重大な問題"
 date: 2009-12-01
 slug: "movable-type-5-1-2"
-categories: 
+categories:
+  - "Server"
+tags:
   - "server"
 ---
 

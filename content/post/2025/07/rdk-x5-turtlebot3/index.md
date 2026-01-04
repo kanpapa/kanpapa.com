@@ -3,15 +3,16 @@ title: D-Robotics RDK X5をTurtleBot3に載せてみました
 date: 2025-07-29
 slug: rdk-x5-turtlebot3
 categories:
-- robot
+  - "Robot"
 tags:
-- humble
-- imu
-- lidar
-- rdk-x5
-- ros2
-- rdk
-- turtlebot3
+  - "humble"
+  - "imu"
+  - "lidar"
+  - "rdk"
+  - "rdk-x5"
+  - "robot"
+  - "ros2"
+  - "turtlebot3"
 image: images/rdk-x5-turtlebot3-setup4.jpg
 ---
 

@@ -2,7 +2,9 @@
 title: "AmazonでiPhoneアクセサリ特集やってます。"
 date: 2008-07-22
 slug: "amazoniphone"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

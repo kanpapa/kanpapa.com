@@ -2,7 +2,9 @@
 title: "OnBoardを試用してみました"
 date: 2013-08-11
 slug: "onboard-trial"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/onboard_3.jpg"
 ---

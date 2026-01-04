@@ -2,11 +2,12 @@
 title: "ロボットアームDIYキットを組み立てました（その１　コントローラーの製作）"
 date: 2022-12-20
 slug: "diy-6df-robot-arm"
-categories: 
-  - "robot"
-tags: 
+categories:
+  - "Robot"
+tags:
   - "arduino"
   - "esp32"
+  - "robot"
   - "robot-arm"
 image: "images/diy_6df_robot_1.jpg"
 ---

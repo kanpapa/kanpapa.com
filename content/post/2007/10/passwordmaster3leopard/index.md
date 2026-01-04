@@ -2,7 +2,9 @@
 title: "PasswordMaster3がLeopardでは動かない"
 date: 2007-10-26
 slug: "passwordmaster3leopard"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

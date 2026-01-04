@@ -2,7 +2,9 @@
 title: "京ぽんＰＥＲＦＥＣＴ　ＧＵＩＤＥ"
 date: 2005-11-17
 slug: "post-7"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

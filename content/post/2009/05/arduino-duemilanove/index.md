@@ -2,7 +2,9 @@
 title: "Arduino Duemilanoveを入手しました"
 date: 2009-05-05
 slug: "arduino-duemilanove"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/arduino_1.jpg"
 ---

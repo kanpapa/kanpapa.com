@@ -2,7 +2,9 @@
 title: "W-ZERO3 一勝一敗"
 date: 2005-12-12
 slug: "w-zero3-3"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

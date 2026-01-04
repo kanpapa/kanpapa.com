@@ -2,7 +2,9 @@
 title: "H8/3048F-ONE評価基板でKOZOSを動かしてみた（準備編）"
 date: 2015-05-16
 slug: "h8-bdz-kozos01"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "retrocomputing"
 image: "images/h8board01.jpg"
 ---

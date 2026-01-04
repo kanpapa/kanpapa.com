@@ -2,7 +2,9 @@
 title: "WILLCOMの新機種を見てきました"
 date: 2005-10-29
 slug: "willcom"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

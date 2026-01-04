@@ -2,10 +2,11 @@
 title: "LEGO MINDSTORMS RCXのケーブルを修復してみた"
 date: 2019-07-13
 slug: "repair-lego-mindstorms-rcx-cables"
-categories: 
-  - "research"
-tags: 
+categories:
+  - "Event"
+tags:
   - "lego"
+  - "research"
 image: "images/lego_rcx_cable9.jpg"
 ---
 

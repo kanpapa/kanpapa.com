@@ -2,7 +2,9 @@
 title: "VAIO type Pでキー入力をするとポインタが飛ぶことがある"
 date: 2009-02-15
 slug: "vaio-type-p-7"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

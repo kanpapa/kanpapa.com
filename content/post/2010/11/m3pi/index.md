@@ -2,7 +2,9 @@
 title: "m3piを作ってみました"
 date: 2010-11-20
 slug: "m3pi"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/m3pi_1.jpg"
 ---

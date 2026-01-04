@@ -2,7 +2,9 @@
 title: "with Ｂフレッツって"
 date: 2006-03-11
 slug: "with"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

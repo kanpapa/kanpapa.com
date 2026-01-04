@@ -2,7 +2,9 @@
 title: "Windows Vistaアップグレードではまる"
 date: 2007-01-31
 slug: "windows-vista-2"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

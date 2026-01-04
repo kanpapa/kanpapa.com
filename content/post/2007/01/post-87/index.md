@@ -2,7 +2,9 @@
 title: "おサイフケータイ"
 date: 2007-01-21
 slug: "post-87"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

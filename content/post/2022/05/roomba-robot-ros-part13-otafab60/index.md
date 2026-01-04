@@ -2,12 +2,12 @@
 title: "ルンバにフレームを取り付けました （おおたfab 第60回 素人でもロボットをつくりたい）"
 date: 2022-05-05
 slug: "roomba-robot-ros-part13-otafab60"
-categories: 
-  - "roomba"
-tags: 
-  - "roomba"
+categories:
+  - "Robot"
+tags:
   - "otafab"
   - "otafab-robot"
+  - "roomba"
 image: "images/roomba_otafab60_roomba_frame_plan_a.jpg"
 ---
 

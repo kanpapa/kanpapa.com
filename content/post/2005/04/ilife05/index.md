@@ -2,7 +2,9 @@
 title: "iLife05の笑い話"
 date: 2005-04-04
 slug: "ilife05"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

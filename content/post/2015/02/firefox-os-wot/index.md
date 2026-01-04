@@ -2,7 +2,9 @@
 title: "Firefox OS WoTハッカソンに参加してみた"
 date: 2015-02-22
 slug: "firefox-os-wot"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/wot_hackathon_idea6.jpg"
 ---

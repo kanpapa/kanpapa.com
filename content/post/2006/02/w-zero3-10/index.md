@@ -2,7 +2,9 @@
 title: "お友達もW-ZERO3を買いました"
 date: 2006-02-17
 slug: "w-zero3-10"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

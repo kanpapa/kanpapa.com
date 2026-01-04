@@ -2,7 +2,9 @@
 title: "くまモンのストラップを作ってみました"
 date: 2012-07-08
 slug: "kumamon-strap"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 image: "images/kumamon4.jpg"
 ---

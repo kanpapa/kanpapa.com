@@ -2,7 +2,9 @@
 title: "ついにWin XPブートツールが出ました"
 date: 2006-04-05
 slug: "win-xp"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

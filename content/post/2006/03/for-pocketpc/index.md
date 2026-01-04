@@ -2,7 +2,9 @@
 title: "モノポリー for PocketPC"
 date: 2006-03-12
 slug: "for-pocketpc"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

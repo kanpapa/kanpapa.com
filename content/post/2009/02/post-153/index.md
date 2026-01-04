@@ -2,7 +2,9 @@
 title: "梅園を散策する"
 date: 2009-02-22
 slug: "post-153"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

@@ -2,12 +2,12 @@
 title: "ルンバのLiDARを交換してROS2にしました （おおたfab 素人でもロボットをつくりたい 自習編）"
 date: 2022-07-31
 slug: "roomba-robot-ros2-part1-otafab"
-categories: 
-  - "roomba"
-tags: 
-  - "roomba"
+categories:
+  - "Robot"
+tags:
   - "otafab"
   - "otafab-robot"
+  - "roomba"
 image: "images/otafab_new_lidar1.jpg"
 ---
 

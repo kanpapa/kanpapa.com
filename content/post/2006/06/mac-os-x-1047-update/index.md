@@ -2,7 +2,9 @@
 title: "Mac OS X 10.4.7 Update"
 date: 2006-06-27
 slug: "mac-os-x-1047-update"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

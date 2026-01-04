@@ -2,10 +2,11 @@
 title: "SBC8080ルーズキットを組み立ててみた"
 date: 2018-07-16
 slug: "sbc8080-assembled"
-categories: 
-  - "retrocomputing"
-tags: 
+categories:
+  - "Retro Computing"
+tags:
   - "8080"
+  - "retrocomputing"
   - "sbc8080"
 image: "images/sbc8080_complete-scaled-1.jpg"
 ---

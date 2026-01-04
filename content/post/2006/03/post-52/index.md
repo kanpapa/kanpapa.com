@@ -2,7 +2,9 @@
 title: "料金プランを急遽変更！"
 date: 2006-03-01
 slug: "post-52"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

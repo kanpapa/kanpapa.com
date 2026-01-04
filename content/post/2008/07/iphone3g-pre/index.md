@@ -2,7 +2,9 @@
 title: "ビックカメラでiPhone3G購入時の注意事項を配っていた"
 date: 2008-07-05
 slug: "iphone3g-pre"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 image: "images/iphone3g_pre_20080705172701.jpg"
 ---

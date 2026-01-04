@@ -2,7 +2,9 @@
 title: "VAIO type PでWindows 7を動かす"
 date: 2009-03-01
 slug: "vaio-type-pwindows-7"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

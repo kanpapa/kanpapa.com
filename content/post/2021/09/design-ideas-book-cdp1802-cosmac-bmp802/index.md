@@ -2,7 +2,9 @@
 title: "DESIGN IDEAS BOOK: for the CDP1802 COSMAC Microprocesor BMP802 の復刻版が発売されました"
 date: 2021-09-27
 slug: "design-ideas-book-cdp1802-cosmac-bmp802"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
 image: "images/cosmac_bmp802.jpg"
 ---

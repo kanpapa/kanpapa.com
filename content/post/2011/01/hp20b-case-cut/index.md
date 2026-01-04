@@ -2,7 +2,10 @@
 title: "HP20bのケースを加工する"
 date: 2011-01-02
 slug: "hp20b-case-cut"
-categories: 
+categories:
+  - "Electronics"
+  - "Retro Computing"
+tags:
   - "electronics"
   - "retrocomputing"
 image: "images/hp20b_case_cut1.jpg"

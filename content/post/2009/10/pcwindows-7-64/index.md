@@ -2,7 +2,9 @@
 title: "デスクトップPCにWindows 7 64ビット版をいれてみた"
 date: 2009-10-30
 slug: "pcwindows-7-64"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

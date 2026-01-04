@@ -2,7 +2,9 @@
 title: "モバイルSuica退会できず"
 date: 2008-09-25
 slug: "suica-1"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

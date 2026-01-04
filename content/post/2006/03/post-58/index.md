@@ -2,7 +2,9 @@
 title: "京ぽん２の調子が悪い"
 date: 2006-03-28
 slug: "post-58"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

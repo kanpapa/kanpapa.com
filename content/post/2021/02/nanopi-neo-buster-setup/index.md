@@ -2,10 +2,11 @@
 title: "Nano Pi NEO 自宅サーバを再インストールしました"
 date: 2021-02-24
 slug: "nanopi-neo-buster-setup"
-categories: 
-  - "electronics"
-tags: 
+categories:
+  - "Electronics"
+tags:
   - "armbian"
+  - "electronics"
   - "nano-pi-neo"
 image: "images/nanopi_neo_buster_server_case.jpg"
 ---

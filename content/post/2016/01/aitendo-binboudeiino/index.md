@@ -2,7 +2,9 @@
 title: "aitendo福袋のびんぼうでいいのを組み立ててみた"
 date: 2016-01-10
 slug: "aitendo-binboudeiino"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/binboudeiino06.jpg"
 ---

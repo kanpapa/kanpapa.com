@@ -2,7 +2,9 @@
 title: "PICキーヤー OIKey-F88を作る"
 date: 2008-05-31
 slug: "pic-oikey-f88"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 image: "images/pic-oikey-f88_20080601154127.jpg"
 ---

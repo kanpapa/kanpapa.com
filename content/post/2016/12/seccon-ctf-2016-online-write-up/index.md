@@ -3,10 +3,10 @@ title: SECCON 2016 Online CTFのWrite-upをまとめました
 date: 2016-12-11
 slug: seccon-ctf-2016-online-write-up
 categories:
-- security
+  - "Server"
 tags:
-- seccon
-- security
+  - "seccon"
+  - "security"
 image: images/ctf_voip.png
 ---
 

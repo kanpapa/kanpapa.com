@@ -2,9 +2,10 @@
 title: "ROS開発用に専用Linuxデスクトップ環境を構築して快適になりました"
 date: 2021-09-24
 slug: "ros-linux-ubuntu-desktop-env"
-categories: 
+categories:
+  - "Robot"
+tags:
   - "robot"
-tags: 
   - "roomba"
 image: "images/ubuntu_desktop_ros1_env.jpg"
 ---

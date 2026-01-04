@@ -2,7 +2,9 @@
 title: "さくらのVPSリニューアル版に移行しました"
 date: 2012-03-31
 slug: "sakuna-new-vps"
-categories: 
+categories:
+  - "Server"
+tags:
   - "server"
 ---
 

@@ -2,10 +2,11 @@
 title: "QNAP TS-251DにNASをアップグレードしました"
 date: 2021-03-06
 slug: "qnap-ts-251d-nas-upgrade"
-categories: 
-  - "server"
-tags: 
+categories:
+  - "Server"
+tags:
   - "qnap"
+  - "server"
 image: "images/ts251d_hdd4.jpg"
 ---
 

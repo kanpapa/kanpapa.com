@@ -2,7 +2,9 @@
 title: "プリンター共有ではまる"
 date: 2005-02-23
 slug: "post-136"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

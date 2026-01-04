@@ -2,7 +2,9 @@
 title: "ロケーションフリーテレビ明日到着予定"
 date: 2005-12-18
 slug: "post-23"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

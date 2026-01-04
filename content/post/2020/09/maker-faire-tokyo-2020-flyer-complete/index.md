@@ -3,12 +3,13 @@ title: Maker Faire Tokyo 2020用のフライヤーが到着しました
 date: 2020-09-27
 slug: maker-faire-tokyo-2020-flyer-complete
 categories:
-- cosmac
-- retrocomputing
+  - "Retro Computing"
 tags:
-- cosmac-mbc
-- maker-faire
-- mft2020
+  - "cosmac"
+  - "cosmac-mbc"
+  - "maker-faire"
+  - "mft2020"
+  - "retrocomputing"
 image: images/mftokyo2020_cosmac_flyer1.jpg
 ---
 

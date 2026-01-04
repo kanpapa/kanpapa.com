@@ -2,7 +2,9 @@
 title: "NTTからBフレッツ開通のご案内がきました"
 date: 2009-11-26
 slug: "ntt-flets-kaitsuu-info"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

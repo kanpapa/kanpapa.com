@@ -2,7 +2,9 @@
 title: "１アマ、２アマの免許証が来ました！"
 date: 2008-01-25
 slug: "post-111"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

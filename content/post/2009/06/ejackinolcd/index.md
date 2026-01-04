@@ -2,7 +2,9 @@
 title: "eJackinoを組み立てて秋月のLCDにつなぐ"
 date: 2009-06-06
 slug: "ejackinolcd"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/ejackino5.jpg"
 ---

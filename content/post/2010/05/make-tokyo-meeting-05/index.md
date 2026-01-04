@@ -2,7 +2,9 @@
 title: "Make: Tokyo Meeting 05に行ってきました"
 date: 2010-05-22
 slug: "make-tokyo-meeting-05"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/make05.jpg"
 ---

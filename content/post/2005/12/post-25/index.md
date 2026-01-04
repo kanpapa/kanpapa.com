@@ -2,7 +2,9 @@
 title: "ロケーションフリーベースをインターネットにつないだが・・・"
 date: 2005-12-19
 slug: "post-25"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

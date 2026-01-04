@@ -2,7 +2,9 @@
 title: "DS-10到着"
 date: 2008-07-27
 slug: "ds-10"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

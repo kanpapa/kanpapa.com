@@ -2,7 +2,9 @@
 title: "更新プログラムのインストール中"
 date: 2006-02-21
 slug: "post-51"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

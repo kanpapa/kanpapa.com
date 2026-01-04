@@ -2,7 +2,9 @@
 title: "イー・モバイルのEM・ONEを考える"
 date: 2007-04-08
 slug: "emone"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

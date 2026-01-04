@@ -2,7 +2,9 @@
 title: "Caminoの日本語ページ"
 date: 2006-03-22
 slug: "camino"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

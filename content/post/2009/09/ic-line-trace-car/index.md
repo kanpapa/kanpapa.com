@@ -2,7 +2,10 @@
 title: "みんなの科学「たのしい実験室」IC 線をはう車を作る"
 date: 2009-09-12
 slug: "ic-line-trace-car"
-categories: 
+categories:
+  - "Electronics"
+  - "Robot"
+tags:
   - "electronics"
   - "robot"
 image: "images/ic-line-trace-car01.jpg"

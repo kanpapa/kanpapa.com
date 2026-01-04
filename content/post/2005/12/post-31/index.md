@@ -2,7 +2,9 @@
 title: "パケット数をグラフにしてみました。"
 date: 2005-12-25
 slug: "post-31"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

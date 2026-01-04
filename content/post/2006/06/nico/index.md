@@ -2,7 +2,9 @@
 title: "でました！新機種nico."
 date: 2006-06-26
 slug: "nico"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

@@ -2,7 +2,9 @@
 title: "Windows 7 アップグレード版が先行予約開始"
 date: 2009-06-25
 slug: "windows-7"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

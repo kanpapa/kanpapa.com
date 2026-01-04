@@ -3,8 +3,8 @@ date = '2026-01-01T00:00:00+09:00'
 title = '68000 VMEボードで2026年の書き初めをしてみました'
 slug = 'vme-68k-newyear2026'
 image = 'vme-68k-newyear2026.jpg'
-tags = ["vme","68000","dvmecpu2","書き初め"]
-categories = ["retrocomputing"]
+tags = ["68000", "dvmecpu2", "retrocomputing", "vme", "書き初め"]
+categories = ["Retro Computing"]
 +++
 
 あけましておめでとうございます。

@@ -2,7 +2,9 @@
 title: "VAIO type Pに無線レーザーマウスをつなぐ"
 date: 2009-02-11
 slug: "vaio-type-p-6"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

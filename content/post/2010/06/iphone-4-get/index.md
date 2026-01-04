@@ -2,7 +2,9 @@
 title: "iPhone 4が到着しました！が、明日の9時までおあずけ。"
 date: 2010-06-25
 slug: "iphone-4-get"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

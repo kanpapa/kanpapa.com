@@ -2,7 +2,9 @@
 title: "mbedに大人の科学の光残像キット(POV)を接続してみた"
 date: 2010-05-29
 slug: "mbed-pov"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 image: "images/mbed_pov.jpg"
 ---

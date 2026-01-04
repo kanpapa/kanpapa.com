@@ -2,7 +2,9 @@
 title: "mbedとLEDマトリクス基板でニュース掲示板を作ってみました"
 date: 2013-02-08
 slug: "mbed-ledmatrix-newsboard"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/mbed-ledmatrix-newsboard-4-1.jpg"
 ---

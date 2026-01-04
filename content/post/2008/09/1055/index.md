@@ -2,7 +2,9 @@
 title: "MacOS X 10.5.5 アップデート"
 date: 2008-09-15
 slug: "1055"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

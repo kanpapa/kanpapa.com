@@ -3,15 +3,16 @@ title: D-Robotics RDK X3 をTurtleBot3に搭載してみました
 date: 2024-11-22
 slug: rdk-x3-turtlebot3
 categories:
-- robot
+  - "Robot"
 tags:
-- humble
-- lidar
-- rdk-x3
-- ros2
-- slam
-- turtlebot3
-- rdk
+  - "humble"
+  - "lidar"
+  - "rdk"
+  - "rdk-x3"
+  - "robot"
+  - "ros2"
+  - "slam"
+  - "turtlebot3"
 image: images/rdkx3-turtlebot-eyecache1.jpg
 ---
 

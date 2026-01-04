@@ -2,9 +2,9 @@
 title: "ルンバのLiDAR搭載用簡易フレームが完成しました"
 date: 2022-10-16
 slug: "roomba-simple-robot-base-20221016"
-categories: 
-  - "roomba"
-tags: 
+categories:
+  - "Robot"
+tags:
   - "roomba"
   - "ros2"
 image: "images/roomba-simple-base-20221016.jpg"

@@ -2,7 +2,9 @@
 title: "MBeeDuino+MARYでタミヤの模型を無線制御をしてみました"
 date: 2012-02-18
 slug: "mbeeduino-mary-xbee"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/mbeeduino_xbee2.jpg"
 ---

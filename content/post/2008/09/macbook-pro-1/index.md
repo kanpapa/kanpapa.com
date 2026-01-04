@@ -2,7 +2,9 @@
 title: "MacBook Proのハードディスク交換完了"
 date: 2008-09-07
 slug: "macbook-pro-1"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 image: "images/mbp45.jpg"
 ---

@@ -2,7 +2,9 @@
 title: "iPhone同期中に0xE800006Bエラーが発生した"
 date: 2009-08-15
 slug: "iphone-0xe800006b"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

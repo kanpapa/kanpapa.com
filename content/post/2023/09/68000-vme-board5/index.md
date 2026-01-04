@@ -3,11 +3,12 @@ title: 68000 VMEボードで遊んでみました（5）プログラム実行編
 date: 2023-09-01
 slug: 68000-vme-board5
 categories:
-- retrocomputing
+  - "Retro Computing"
 tags:
-- dvmecpu2
-- vme
-- '68000'
+  - "68000"
+  - "dvmecpu2"
+  - "retrocomputing"
+  - "vme"
 image: images/vme-board5-logic_analyzer2.jpg
 ---
 

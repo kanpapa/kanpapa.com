@@ -2,7 +2,9 @@
 title: "m3piにUSBコネクタを取り付けました"
 date: 2010-12-05
 slug: "m3pi-usb"
-categories: 
+categories:
+  - "Robot"
+tags:
   - "robot"
 image: "images/m3pi_Bluetooth_1.jpg"
 ---

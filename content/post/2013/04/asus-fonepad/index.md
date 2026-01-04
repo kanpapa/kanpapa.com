@@ -2,7 +2,9 @@
 title: "ASUS fonepadのセットアップを行いました"
 date: 2013-04-30
 slug: "asus-fonepad"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

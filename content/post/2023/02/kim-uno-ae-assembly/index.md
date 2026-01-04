@@ -3,10 +3,11 @@ title: 6502 KIM-1クローンのKIM Unoを製作してみました
 date: 2023-02-18
 slug: kim-uno-ae-assembly
 categories:
-- retrocomputing
+  - "Retro Computing"
 tags:
-- kim-1
-- '6502'
+  - "6502"
+  - "kim-1"
+  - "retrocomputing"
 image: images/kim_uno_kicad6_2.png
 ---
 

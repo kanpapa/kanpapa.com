@@ -2,9 +2,10 @@
 title: "自宅ネットワークをShowNet Iconsでカッコよく書いてみた"
 date: 2025-07-04
 slug: "kanpapa-homenet-2025-shownet-icons"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
-tags: 
   - "shownet-icons"
   - "自宅ネットワーク"
 image: "images/kanpapa-homenet-2025-shownet-icons-eyecatch.png"

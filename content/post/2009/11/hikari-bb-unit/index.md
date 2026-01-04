@@ -2,7 +2,9 @@
 title: "光BBユニットが到着しました。"
 date: 2009-11-23
 slug: "hikari-bb-unit"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

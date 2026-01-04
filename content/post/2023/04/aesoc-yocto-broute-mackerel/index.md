@@ -2,13 +2,14 @@
 title: "秋月電子のSoC基板で瞬時電力値のグラフが表示できるようにしてみました"
 date: 2023-04-08
 slug: "aesoc-yocto-broute-mackerel"
-categories: 
-  - "electronics"
-tags: 
+categories:
+  - "Electronics"
+tags:
+  - "akiduki-denshi"
   - "arm"
+  - "electronics"
   - "mackerel"
   - "soc"
-  - "akiduki-denshi"
 image: "images/aesoc_mackerel_power1.png"
 ---
 

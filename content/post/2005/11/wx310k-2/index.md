@@ -2,7 +2,9 @@
 title: "WX310Kが出荷開始？"
 date: 2005-11-19
 slug: "wx310k-2"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

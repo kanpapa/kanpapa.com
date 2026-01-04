@@ -3,13 +3,14 @@ title: 'ESP32でミニカーを作る #1 設計編（おおたfab 電子工作�
 date: 2025-05-31
 slug: otafab-esp32-minicar1
 categories:
-- electronics
+  - "Electronics"
 tags:
-- arduino
-- esp32
-- otafab
-- motor
-- otafab-esp32
+  - "arduino"
+  - "electronics"
+  - "esp32"
+  - "motor"
+  - "otafab"
+  - "otafab-esp32"
 image: images/2WD_Mini_Smart_Robot_Mobile-Platform1.jpg
 ---
 

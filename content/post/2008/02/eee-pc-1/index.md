@@ -2,7 +2,9 @@
 title: "Eee PC出荷！"
 date: 2008-02-28
 slug: "eee-pc-1"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

@@ -2,11 +2,11 @@
 title: "MC68EZ328 SBC Rev.0.3基板を製作しました"
 date: 2021-09-27
 slug: "mc68ez328-sbc-rev03-prod"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "mc68ez328"
   - "retrocomputing"
-tags: 
-  - "mc68ez328"
 image: "images/mc68ez328_sbc_rev03_prod3.jpg"
 ---
 

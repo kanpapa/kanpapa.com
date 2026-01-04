@@ -2,7 +2,9 @@
 title: "マイクロ一眼OLYMPUS PENを使う"
 date: 2009-08-15
 slug: "olympus-pen"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 image: "images/olympus_pen.jpg"
 ---

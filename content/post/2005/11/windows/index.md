@@ -2,7 +2,9 @@
 title: "一年に１回はWINDOWSの再インストール"
 date: 2005-11-05
 slug: "windows"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

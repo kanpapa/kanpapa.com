@@ -2,9 +2,10 @@
 title: "Tipsを書き始めました"
 date: 2019-09-10
 slug: "publish-tips1"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
-tags: 
   - "tips"
 image: "images/cosmac_cdp1802ace.jpg"
 ---

@@ -2,12 +2,13 @@
 title: "Maker Faire Tokyo 2022の出展申し込みを行いました （おおたfab 第62回 素人でもロボットをつくりたい）"
 date: 2022-05-15
 slug: "roomba-robot-ros-part15-otafab62"
-categories: 
-  - "robot"
-tags: 
-  - "roomba"
+categories:
+  - "Robot"
+tags:
   - "otafab"
   - "otafab-robot"
+  - "robot"
+  - "roomba"
 image: "images/roomba_otafab62_roomba_check.jpg"
 ---
 

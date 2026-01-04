@@ -2,7 +2,9 @@
 title: "7segduinoで気圧計を作ってみました"
 date: 2012-07-01
 slug: "7segduino-barometer"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/7segduino_pressure_front.jpg"
 ---

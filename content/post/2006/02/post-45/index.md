@@ -2,7 +2,9 @@
 title: "メール遅延が解消したかも"
 date: 2006-02-08
 slug: "post-45"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

@@ -2,7 +2,9 @@
 title: "Pocket WiFiルータ GP-02を買いました"
 date: 2013-11-24
 slug: "pocket-wifi-gp-02"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 image: "images/gp_02.jpg"
 ---

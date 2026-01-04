@@ -3,10 +3,10 @@ title: 脆弱性スキャナVulsで自宅サーバを診断してみた
 date: 2017-08-20
 slug: vuls-obs600
 categories:
-- security
+  - "Server"
 image: images/vulsrepo_sample2.png
 tags:
-- security
+  - "security"
 ---
 
 [オープンデベロッパーズカンファレンス2017 Tokyo](https://www.ospn.jp/odc2017/)が近くで開催されていることに当日気づき飛び込み参加してきました。

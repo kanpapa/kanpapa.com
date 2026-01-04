@@ -2,7 +2,9 @@
 title: "Windows 7 Professional アップグレード版の予約完了"
 date: 2009-09-24
 slug: "windows-7-professional"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

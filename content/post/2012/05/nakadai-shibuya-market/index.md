@@ -2,7 +2,9 @@
 title: "ナカダイ 渋谷市場に行ってきました"
 date: 2012-05-20
 slug: "nakadai-shibuya-market"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/nakadai_shibuya_market1.jpg"
 ---

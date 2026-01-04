@@ -2,7 +2,9 @@
 title: "WebSocketでmbedからFx0に情報を渡してみた"
 date: 2015-02-08
 slug: "websocket-mbed-fx0"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/mbed_application_board.jpg"
 ---

@@ -2,7 +2,10 @@
 title: "NuTiny-SDK-NUC120でLEDを点滅させる"
 date: 2011-08-01
 slug: "nutiny-sdk-nuc120led"
-categories: 
+categories:
+  - "Electronics"
+  - "Retro Computing"
+tags:
   - "electronics"
   - "retrocomputing"
 image: "images/NuTiny-SDK-NUC120-Keil-EV.jpg"

@@ -2,7 +2,9 @@
 title: "英語が苦手な大人のDSトレーニング えいご漬け"
 date: 2006-01-29
 slug: "ds"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

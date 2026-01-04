@@ -2,7 +2,9 @@
 title: "7segduinoを作ってみた"
 date: 2011-08-29
 slug: "7segduino"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/7segduino_2.jpg"
 ---

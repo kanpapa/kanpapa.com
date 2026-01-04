@@ -2,11 +2,11 @@
 title: "MC68EZ328 SBC LANを専用基板で製作しました"
 date: 2021-09-04
 slug: "mc68ez328-dragonone-sbc-uclinux-network5"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "mc68ez328"
   - "retrocomputing"
-tags: 
-  - "mc68ez328"
 image: "images/mc68ez328_lan_rev02_3.jpg"
 ---
 

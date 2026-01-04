@@ -2,7 +2,9 @@
 title: "玄箱でYahoo!デベロッパーネットワークに参加する"
 date: 2007-04-12
 slug: "yahoo-5"
-categories: 
+categories:
+  - "Server"
+tags:
   - "server"
 ---
 

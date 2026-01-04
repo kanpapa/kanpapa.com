@@ -2,11 +2,11 @@
 title: "MC68EZ328 DragonOne SBCで8バイトのプログラムを動かしてみる"
 date: 2021-04-30
 slug: "mc68ez328-dragonone-sbc-dram-ibuff"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "mc68ez328"
   - "retrocomputing"
-tags: 
-  - "mc68ez328"
 image: "images/dragonone_dram_analyze_readrep1.png"
 ---
 

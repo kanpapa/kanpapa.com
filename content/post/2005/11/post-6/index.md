@@ -2,7 +2,9 @@
 title: "モックを触ってきました！"
 date: 2005-11-12
 slug: "post-6"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

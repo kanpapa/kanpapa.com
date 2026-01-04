@@ -3,13 +3,14 @@ title: TangConsoleDCJ11MEMのWS2812 10x6 LEDマトリクス表示を最適化し
 date: 2025-11-13
 slug: pdp-11-tangconsole-dcj11-mem-ws2812-led-matrix
 categories:
-- retrocomputing
+  - "Retro Computing"
 tags:
-- dcj11
-- pdp-11
-- tangconsole
-- tangconsoledcj11mem
-- ws2812
+  - "dcj11"
+  - "pdp-11"
+  - "retrocomputing"
+  - "tangconsole"
+  - "tangconsoledcj11mem"
+  - "ws2812"
 image: images/10x6-rgb-led-matrix-eyecatch1.jpg
 ---
 

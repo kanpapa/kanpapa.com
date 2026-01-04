@@ -2,7 +2,9 @@
 title: "Ad/W-ZERO3[es]をご利用のかたに・・・"
 date: 2008-10-16
 slug: "post-147"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

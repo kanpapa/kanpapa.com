@@ -2,7 +2,9 @@
 title: "W-ZERO3[es]タッチ＆トライ再び"
 date: 2006-07-21
 slug: "w-zero3es-8"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

@@ -2,7 +2,9 @@
 title: "京ぽん２の本"
 date: 2005-12-18
 slug: "post-24"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

@@ -3,10 +3,11 @@ title: COSMAC VIPのサウンド回路を実装しました
 date: 2020-07-19
 slug: cosmac-vip-555-sound
 categories:
-- cosmac
-- retrocomputing
+  - "Retro Computing"
 tags:
-- cosmac-mbc
+  - "cosmac"
+  - "cosmac-mbc"
+  - "retrocomputing"
 image: images/cosmac_vip_sound1.jpg
 ---
 

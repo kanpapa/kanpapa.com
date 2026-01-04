@@ -2,7 +2,9 @@
 title: "空中配線マトリクスLEDをOnBoardで動かしてみた"
 date: 2013-11-17
 slug: "ledonboard"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/ledmatrix_onboard.jpg"
 ---

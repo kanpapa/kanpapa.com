@@ -3,11 +3,12 @@ title: 40円RISC-Vマイコン(CH32V003)をArduino IDEでLチカをしてみま�
 date: 2023-06-24
 slug: blink-risc-v-ch32v003-arduino
 categories:
-- electronics
+  - "Electronics"
 tags:
-- arduino
-- ch32v
-- risc-v
+  - "arduino"
+  - "ch32v"
+  - "electronics"
+  - "risc-v"
 image: images/CH32V003J4M6_SOP8-DIP8.jpg
 ---
 

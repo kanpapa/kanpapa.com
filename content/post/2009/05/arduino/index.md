@@ -2,7 +2,9 @@
 title: "Arduinoで音付き電子サイコロを作る"
 date: 2009-05-10
 slug: "arduino"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/Arduino_dice.jpg"
 ---

@@ -2,7 +2,9 @@
 title: "やっぱり、まだだめです"
 date: 2006-02-07
 slug: "post-44"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

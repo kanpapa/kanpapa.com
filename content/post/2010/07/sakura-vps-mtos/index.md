@@ -2,7 +2,9 @@
 title: "さくらのVPSトライアル中"
 date: 2010-07-18
 slug: "sakura-vps-mtos"
-categories: 
+categories:
+  - "Server"
+tags:
   - "server"
 ---
 

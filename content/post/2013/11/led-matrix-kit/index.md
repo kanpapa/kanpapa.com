@@ -2,7 +2,9 @@
 title: "空中配線LEDマトリクスキットを作ってみた"
 date: 2013-11-05
 slug: "led-matrix-kit"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/ledmatrix12.jpg"
 ---

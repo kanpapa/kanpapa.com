@@ -2,7 +2,9 @@
 title: "kabu.comの個人情報の管理はダメダメ"
 date: 2008-06-30
 slug: "kabucom"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

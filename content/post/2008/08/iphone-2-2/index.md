@@ -2,7 +2,9 @@
 title: "iPhoneでのパケット数グラフ"
 date: 2008-08-17
 slug: "iphone-2-2"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

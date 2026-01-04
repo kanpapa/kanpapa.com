@@ -2,7 +2,9 @@
 title: "Ginger-Monakaキットを組み立てました"
 date: 2010-05-23
 slug: "ginger-monaka"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/ginger_monaka_test01.jpg"
 ---

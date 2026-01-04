@@ -2,11 +2,12 @@
 title: "MovableTypeからWordPressに移行する方法"
 date: 2024-01-28
 slug: "migrate-movabletype-to-wordpress"
-categories: 
-  - "server"
-tags: 
+categories:
+  - "Server"
+tags:
   - "cms"
   - "movable-type"
+  - "server"
   - "wordpress"
 image: "images/migrate-movabletype-to-wordpress1.png"
 ---

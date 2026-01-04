@@ -2,7 +2,9 @@
 title: "赤いPepperを組み立てました"
 date: 2010-02-11
 slug: "pepper"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 ---
 

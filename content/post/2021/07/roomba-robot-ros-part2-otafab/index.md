@@ -2,13 +2,13 @@
 title: "ルンバをPythonで動かしてみました。（おおたfab 第44回 素人でもロボットをつくりたい）"
 date: 2021-07-18
 slug: "roomba-robot-ros-part2-otafab"
-categories: 
-  - "robot"
-  - "roomba"
-tags: 
-  - "roomba"
+categories:
+  - "Robot"
+tags:
   - "otafab"
   - "otafab-robot"
+  - "robot"
+  - "roomba"
 image: "images/otafab_robot_43_roomba1.jpg"
 ---
 

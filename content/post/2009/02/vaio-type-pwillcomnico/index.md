@@ -2,7 +2,9 @@
 title: "VAIO type PでWILLCOMのnicoをアップデート"
 date: 2009-02-04
 slug: "vaio-type-pwillcomnico"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 image: "images/vaio_type_p_nico.jpg"
 ---

@@ -2,7 +2,9 @@
 title: "JAXA 相模原キャンパスの特別公開に行ってきました"
 date: 2012-07-29
 slug: "jaxa-open-event"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

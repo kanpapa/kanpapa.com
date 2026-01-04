@@ -2,9 +2,10 @@
 title: "MAX10-FB FPGAで秋月電子の球体液晶表示ユニットを動かしてみた"
 date: 2016-07-12
 slug: "akizuki-globe-lcd"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
-tags: 
   - "fpga"
 image: "images/globe_lcd_7.jpg"
 ---

@@ -2,7 +2,9 @@
 title: "iPhoneの調子が悪く、アクティベーションをするはめに"
 date: 2009-02-01
 slug: "iphone-5"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

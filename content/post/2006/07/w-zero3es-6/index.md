@@ -2,7 +2,9 @@
 title: "W-ZERO3[es]注文完了！"
 date: 2006-07-14
 slug: "w-zero3es-6"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

@@ -2,7 +2,9 @@
 title: "KORG DS-10 Amazonで予約開始！"
 date: 2008-03-12
 slug: "korg-ds-10-amazon"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

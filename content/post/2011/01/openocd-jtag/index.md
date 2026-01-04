@@ -2,7 +2,9 @@
 title: "OpenOCDとJTAGにはまる"
 date: 2011-01-24
 slug: "openocd-jtag"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/HP20b_JTAG.jpg"
 ---

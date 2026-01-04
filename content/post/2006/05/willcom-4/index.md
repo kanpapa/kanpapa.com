@@ -2,7 +2,9 @@
 title: "もし、日本国民が全員WILLCOMユーザだったら"
 date: 2006-05-12
 slug: "willcom-4"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

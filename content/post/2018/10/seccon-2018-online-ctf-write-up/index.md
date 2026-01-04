@@ -3,10 +3,10 @@ title: SECCON 2018 Online CTF のWrite-upをまとめました
 date: 2018-10-28
 slug: seccon-2018-online-ctf-write-up
 categories:
-- security
+  - "Server"
 tags:
-- seccon
-- security
+  - "seccon"
+  - "security"
 image: images/moxie_bz1.png
 ---
 

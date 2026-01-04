@@ -2,7 +2,9 @@
 title: "QUICPayも登録しました。"
 date: 2007-02-21
 slug: "quicpay"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

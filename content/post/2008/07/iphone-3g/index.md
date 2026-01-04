@@ -2,7 +2,9 @@
 title: "英国で「iPhone 3G」のオンライン予約を開始"
 date: 2008-07-08
 slug: "iphone-3g"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

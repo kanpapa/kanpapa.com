@@ -2,7 +2,9 @@
 title: "いまだにメール遅延かぁ"
 date: 2006-02-07
 slug: "post-46"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

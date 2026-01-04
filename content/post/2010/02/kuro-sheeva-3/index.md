@@ -2,7 +2,9 @@
 title: "KURO-SHEEVA(玄柴)再入荷分のご案内!!"
 date: 2010-02-01
 slug: "kuro-sheeva-3"
-categories: 
+categories:
+  - "Server"
+tags:
   - "server"
 ---
 

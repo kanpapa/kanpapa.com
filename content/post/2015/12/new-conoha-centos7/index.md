@@ -2,10 +2,11 @@
 title: "旧ConoHaから新ConoHaにMT環境を移行してみた。"
 date: 2015-12-27
 slug: "new-conoha-centos7"
-categories: 
-  - "server"
-tags: 
+categories:
+  - "Server"
+tags:
   - "conoha"
+  - "server"
 ---
 
 これまでkanpapa.comは[ConoHa](http://conoha.jp/)を使ってきましたが、リニューアルされたConoHaに移行することにしました。リニューアル後も利用料金は変わらないのですが、システムが刷新されSSD化もされています。APIなども準備されているとのことで楽しそうです。ついでにCentOS6からCentOS7にしてみます。

@@ -2,11 +2,11 @@
 title: "MC68EZ328 DragonOne SBCでDRAMが動かなくて悩み中"
 date: 2021-04-25
 slug: "mc68ez328-dragonone-sbc-dram-test"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "mc68ez328"
   - "retrocomputing"
-tags: 
-  - "mc68ez328"
 image: "images/dragonone_sbc_dram_only1.jpg"
 ---
 

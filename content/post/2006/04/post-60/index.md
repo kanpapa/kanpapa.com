@@ -2,7 +2,9 @@
 title: "アナログ回線復活"
 date: 2006-04-01
 slug: "post-60"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

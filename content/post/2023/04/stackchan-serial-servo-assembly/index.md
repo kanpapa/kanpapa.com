@@ -3,10 +3,11 @@ title: シリアルサーボ版スタックチャンを組み立てました
 date: 2023-04-16
 slug: stackchan-serial-servo-assembly
 categories:
-- electronics
+  - "Electronics"
 tags:
-- m5stack
-- stack-chan
+  - "electronics"
+  - "m5stack"
+  - "stack-chan"
 image: images/stackchan_scservo_case3.jpg
 ---
 

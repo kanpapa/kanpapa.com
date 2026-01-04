@@ -2,7 +2,9 @@
 title: "VAIO type PのWindows7RCでUSB-WSIMを使ってみた"
 date: 2009-09-08
 slug: "vaio-type-pwindows7rcusb-wsim"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 image: "images/usb-wsim-vaio.jpg"
 ---

@@ -2,7 +2,9 @@
 title: "IchigoJamをブレッドボードから専用基板に載せ替えてみた"
 date: 2016-01-03
 slug: "ichigojam"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/ichigojam_02.jpg"
 ---

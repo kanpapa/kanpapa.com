@@ -3,13 +3,14 @@ title: 'ESP32でミニカーを作る #3 マイコン変更編（おおたfab �
 date: 2025-06-01
 slug: otafab-esp32-minicar3
 categories:
-- electronics
+  - "Electronics"
 tags:
-- arduino
-- esp32
-- otafab
-- motor
-- otafab-esp32
+  - "arduino"
+  - "electronics"
+  - "esp32"
+  - "motor"
+  - "otafab"
+  - "otafab-esp32"
 image: images/esp32-minicar-proto-frame2.jpg
 ---
 

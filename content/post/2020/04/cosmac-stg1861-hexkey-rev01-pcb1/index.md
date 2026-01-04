@@ -2,9 +2,10 @@
 title: "COSMAC STG1861 DISPLAY/HEX KEYBOARD Rev.0.1の基板を製作しました"
 date: 2020-04-26
 slug: "cosmac-stg1861-hexkey-rev01-pcb1"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
-tags: 
   - "cosmac-mbc"
 image: "images/cosmac_stg1861_vipos.jpg"
 ---

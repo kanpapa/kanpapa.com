@@ -3,12 +3,13 @@ title: ESP32でサーボモーターを動かしました（おおたfab 電子�
 date: 2022-12-10
 slug: esp32-otafab-study-servo
 categories:
-- electronics
+  - "Electronics"
 tags:
-- arduino
-- esp32
-- otafab
-- otafab-esp32
+  - "arduino"
+  - "electronics"
+  - "esp32"
+  - "otafab"
+  - "otafab-esp32"
 image: images/esp32-servo2.jpg
 ---
 

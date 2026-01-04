@@ -3,10 +3,11 @@ title: EMU1802-mini専用基板の販売が開始されました
 date: 2022-07-13
 slug: emu1802-mini-pcb-rev10
 categories:
-- cosmac
-- retrocomputing
+  - "Retro Computing"
 tags:
-- emu1802
+  - "cosmac"
+  - "emu1802"
+  - "retrocomputing"
 image: images/emu1802-mini-pcb_rev10.jpg
 ---
 

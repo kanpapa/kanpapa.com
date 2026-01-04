@@ -2,7 +2,9 @@
 title: "LEGO MINDSTORMS NXTのプレ予約開始"
 date: 2006-03-18
 slug: "lego-mindstorms-nxt"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

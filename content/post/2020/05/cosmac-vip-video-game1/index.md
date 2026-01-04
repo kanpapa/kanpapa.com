@@ -2,9 +2,10 @@
 title: "COSMAC VIPのVideo Gameで遊んでみました"
 date: 2020-05-05
 slug: "cosmac-vip-video-game1"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
-tags: 
   - "cosmac-mbc"
 image: "images/VIP_Space_-Intercept.jpg"
 ---

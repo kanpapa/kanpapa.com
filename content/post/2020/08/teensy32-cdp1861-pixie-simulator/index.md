@@ -3,10 +3,11 @@ title: Teensy 3.2でのCDP1861 Pixie Simulatorを試してみました
 date: 2020-08-02
 slug: teensy32-cdp1861-pixie-simulator
 categories:
-- cosmac
-- retrocomputing
+  - "Retro Computing"
 tags:
-- cosmac-mbc
+  - "cosmac"
+  - "cosmac-mbc"
+  - "retrocomputing"
 image: images/teensy32_pixie_lcd1.jpg
 ---
 

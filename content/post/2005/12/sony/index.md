@@ -2,7 +2,9 @@
 title: "SONYのロケーションフリーテレビはよくできている！"
 date: 2005-12-18
 slug: "sony"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

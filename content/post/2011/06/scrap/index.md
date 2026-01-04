@@ -2,7 +2,9 @@
 title: "家電品を分解しよう（子どもが体験するべき50の危険なこと）"
 date: 2011-06-12
 slug: "scrap"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 ---
 

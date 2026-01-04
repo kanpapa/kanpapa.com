@@ -2,7 +2,9 @@
 title: "ビックカメラ.comのLeopard購入特典"
 date: 2007-10-28
 slug: "comleopard"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

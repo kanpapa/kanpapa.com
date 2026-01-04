@@ -2,7 +2,9 @@
 title: "m3piでライントレーサを動かしてみました"
 date: 2010-11-23
 slug: "m3pi-linefollower-dpn"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 ---
 

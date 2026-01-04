@@ -3,10 +3,11 @@ title: MIC68Kワンボードコンピュータで遊んでみた（２）解析�
 date: 2017-10-23
 slug: mic68k-schematic
 categories:
-- retrocomputing
+  - "Retro Computing"
 tags:
-- mic68k
-- '68000'
+  - "68000"
+  - "mic68k"
+  - "retrocomputing"
 image: images/mic68k_schematic2.jpg
 ---
 

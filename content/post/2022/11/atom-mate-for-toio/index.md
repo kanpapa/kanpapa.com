@@ -3,11 +3,13 @@ title: ATOM Mate for toioを試してみました
 date: 2022-11-19
 slug: atom-mate-for-toio
 categories:
-- electronics
-- robot
+  - "Electronics"
+  - "Robot"
 tags:
-- m5stack
-- toio
+  - "electronics"
+  - "m5stack"
+  - "robot"
+  - "toio"
 image: images/AtomMate_and_toio_20221119.jpg
 ---
 

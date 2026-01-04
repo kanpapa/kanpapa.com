@@ -2,9 +2,10 @@
 title: "micro:bitでタミヤのキャタピラー車を無線制御してみた"
 date: 2017-08-13
 slug: "microbit-motor-tamiya"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
-tags: 
   - "micro-bit"
 image: "images/microbit_motor_tamiya1.jpg"
 ---

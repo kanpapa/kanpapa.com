@@ -2,7 +2,9 @@
 title: "Bフレッツの最終日です"
 date: 2006-03-31
 slug: "b"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

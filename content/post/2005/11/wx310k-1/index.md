@@ -2,7 +2,9 @@
 title: "WX310Kを注文しました！"
 date: 2005-11-10
 slug: "wx310k-1"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

@@ -2,7 +2,9 @@
 title: "iPhoneをさわってみる"
 date: 2008-06-09
 slug: "iphone-sim"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

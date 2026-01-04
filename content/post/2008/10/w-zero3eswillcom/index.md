@@ -2,7 +2,9 @@
 title: "W-ZERO3[es]でWILLCOM公式サイトを表示すると変なエラーがでる"
 date: 2008-10-01
 slug: "w-zero3eswillcom"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

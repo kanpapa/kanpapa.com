@@ -2,7 +2,9 @@
 title: "iPadでiMS-20を使ってみる"
 date: 2010-11-12
 slug: "ipad-ims-20"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 image: "images/iMS-20.jpg"
 ---

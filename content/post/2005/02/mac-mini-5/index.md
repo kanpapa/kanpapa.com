@@ -2,7 +2,9 @@
 title: "Mac mini来ました"
 date: 2005-02-16
 slug: "mac-mini-5"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

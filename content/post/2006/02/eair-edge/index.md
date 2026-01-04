@@ -2,7 +2,9 @@
 title: "Eトレード証券のAIR-EDGE対応が２月中に延期"
 date: 2006-02-03
 slug: "eair-edge"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

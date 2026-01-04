@@ -2,7 +2,9 @@
 title: "今日のインストール"
 date: 2006-03-12
 slug: "post-55"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

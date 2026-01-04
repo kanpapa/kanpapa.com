@@ -2,7 +2,9 @@
 title: "Giga HUBを設置しました"
 date: 2009-02-11
 slug: "giga-hub"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

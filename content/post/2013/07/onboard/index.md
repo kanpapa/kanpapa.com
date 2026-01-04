@@ -2,7 +2,9 @@
 title: "OnBoardのテスターに申し込みました"
 date: 2013-07-25
 slug: "onboard"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/onboard1.jpg"
 ---

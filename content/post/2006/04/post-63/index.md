@@ -2,7 +2,9 @@
 title: "京ぽん２は未だ戻らず"
 date: 2006-04-10
 slug: "post-63"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

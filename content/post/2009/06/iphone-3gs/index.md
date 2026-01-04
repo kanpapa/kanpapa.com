@@ -2,7 +2,9 @@
 title: "iPhone 3GSの発売おめでとうございます"
 date: 2009-06-25
 slug: "iphone-3gs"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

@@ -2,7 +2,9 @@
 title: "京ぽん２まとめwikiさんの不具合まとめ"
 date: 2005-12-04
 slug: "wiki"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

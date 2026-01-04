@@ -2,7 +2,9 @@
 title: "OLYMPUS PENとメモリカードの相性"
 date: 2009-09-13
 slug: "olympus-pen-1"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

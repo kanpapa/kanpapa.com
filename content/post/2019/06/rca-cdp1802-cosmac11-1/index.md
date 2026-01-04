@@ -3,10 +3,11 @@ title: RCA CDP1802 COSMACを動かしてみた(11) モーターを制御して�
 date: 2019-06-22
 slug: rca-cdp1802-cosmac11-1
 categories:
-- cosmac
-- retrocomputing
+  - "Retro Computing"
 tags:
-- cosmac-toy
+  - "cosmac"
+  - "cosmac-toy"
+  - "retrocomputing"
 image: images/cosmac_motor_bread.jpg
 ---
 

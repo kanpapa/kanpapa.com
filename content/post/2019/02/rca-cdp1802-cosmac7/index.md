@@ -3,10 +3,11 @@ title: RCA CDP1802 COSMACを動かしてみた(7) 音を出してみる編
 date: 2019-02-10
 slug: rca-cdp1802-cosmac7
 categories:
-- cosmac
-- retrocomputing
+  - "Retro Computing"
 tags:
-- cosmac-toy
+  - "cosmac"
+  - "cosmac-toy"
+  - "retrocomputing"
 image: images/cosmac_speaker1.jpg
 ---
 

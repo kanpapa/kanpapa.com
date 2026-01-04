@@ -2,7 +2,9 @@
 title: "ウィルコムカウンター"
 date: 2006-05-22
 slug: "post-70"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

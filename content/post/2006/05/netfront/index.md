@@ -2,7 +2,9 @@
 title: "連休中にNetFrontの期限切れ"
 date: 2006-05-01
 slug: "netfront"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

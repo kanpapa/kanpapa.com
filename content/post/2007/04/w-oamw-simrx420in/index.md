@@ -2,7 +2,9 @@
 title: "「W-OAM」対応のW-SIM（型番：RX420IN）発売"
 date: 2007-04-06
 slug: "w-oamw-simrx420in"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

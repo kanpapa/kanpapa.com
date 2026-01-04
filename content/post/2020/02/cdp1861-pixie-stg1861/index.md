@@ -2,9 +2,10 @@
 title: "CDP1861 Pixie 互換のSTG1861をユニバーサル基板に実装してみました"
 date: 2020-02-24
 slug: "cdp1861-pixie-stg1861"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
-tags: 
   - "cosmac-mbc"
 image: "images/cosmac_stg1861_pcb3.jpg"
 ---

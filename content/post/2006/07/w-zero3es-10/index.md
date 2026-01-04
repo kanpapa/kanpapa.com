@@ -2,7 +2,9 @@
 title: "ウィルコムストアでのW-ZERO3[es]単体販売は８月初旬開始"
 date: 2006-07-25
 slug: "w-zero3es-10"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

@@ -2,9 +2,10 @@
 title: "クソマゾLEDマトリックス バッヂ を作ってみた"
 date: 2018-12-22
 slug: "16x16led-matrix-kit"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
-tags: 
   - "led-matrix"
 image: "images/16x16led_front.jpg"
 ---

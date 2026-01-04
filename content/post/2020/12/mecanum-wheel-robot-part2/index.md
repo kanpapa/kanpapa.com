@@ -2,13 +2,14 @@
 title: "メカナムロボットの試運転を行いました（おおたfab 第34回 素人でもロボットをつくりたい）"
 date: 2020-12-06
 slug: "mecanum-wheel-robot-part2"
-categories: 
-  - "robot"
-tags: 
+categories:
+  - "Robot"
+tags:
   - "arduino"
   - "otafab"
-  - "メカナムホイール"
   - "otafab-robot"
+  - "robot"
+  - "メカナムホイール"
 image: "images/mecanum_robot_part2_009.jpeg"
 ---
 

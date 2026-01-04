@@ -2,7 +2,9 @@
 title: "Yahoo!BB光サービス終了のお知らせ"
 date: 2009-10-30
 slug: "yahoobb-1"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

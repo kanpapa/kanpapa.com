@@ -2,7 +2,9 @@
 title: "iPhoto '09でフォトブックをオーダーしてみた"
 date: 2010-05-06
 slug: "iphoto-09-photobook"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

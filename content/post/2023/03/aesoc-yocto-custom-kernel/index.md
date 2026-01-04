@@ -2,10 +2,11 @@
 title: "秋月電子のSoC基板でyocto-linuxを動かしてみました（その２ カスタムカーネル編）"
 date: 2023-03-26
 slug: "aesoc-yocto-custom-kernel"
-categories: 
-  - "electronics"
-tags: 
+categories:
+  - "Electronics"
+tags:
   - "arm"
+  - "electronics"
 image: "images/fe738d2dc010c9fac171ea4412c5b8357a7d2bf8.jpg"
 ---
 

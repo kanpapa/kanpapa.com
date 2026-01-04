@@ -2,10 +2,11 @@
 title: "CH552Eをブレッドボードで使ってみました"
 date: 2023-05-06
 slug: "ch552e-prototype1"
-categories: 
-  - "electronics"
-tags: 
+categories:
+  - "Electronics"
+tags:
   - "ch55x"
+  - "electronics"
 image: "images/ch552e_prototype1_sch.png"
 ---
 

@@ -2,10 +2,11 @@
 title: "NanoPi NEOに最新のArmbianを再インストールしました"
 date: 2024-09-28
 slug: "nanopi-neo-armbian-install-20240928"
-categories: 
-  - "electronics"
-tags: 
+categories:
+  - "Electronics"
+tags:
   - "armbian"
+  - "electronics"
   - "nano-pi-neo"
 image: "images/armbian-nanopineo-install-photo1.jpg"
 ---

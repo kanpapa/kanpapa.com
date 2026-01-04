@@ -2,7 +2,9 @@
 title: "いよいよW-ZERO3であります！"
 date: 2005-11-30
 slug: "w-zero3"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

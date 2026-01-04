@@ -2,7 +2,9 @@
 title: "SanDisk SDHCカード Class10 8GBを使う"
 date: 2009-09-19
 slug: "sandisk-sdhc-class10-8gb"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

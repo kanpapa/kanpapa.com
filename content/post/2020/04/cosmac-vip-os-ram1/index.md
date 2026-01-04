@@ -2,9 +2,10 @@
 title: "COSMAC VIP OSをRAMエリアで起動させてみました"
 date: 2020-04-27
 slug: "cosmac-vip-os-ram1"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
-tags: 
   - "cosmac-mbc"
 image: "images/cosmac_vip_os_ram1.jpg"
 ---

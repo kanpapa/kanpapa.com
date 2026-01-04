@@ -2,12 +2,12 @@
 title: "ルンバロボットの試運転を行いました （おおたfab 第61回 素人でもロボットをつくりたい）"
 date: 2022-05-09
 slug: "roomba-robot-ros-part14-otafab61"
-categories: 
-  - "roomba"
-tags: 
-  - "roomba"
+categories:
+  - "Robot"
+tags:
   - "otafab"
   - "otafab-robot"
+  - "roomba"
 image: "images/roomba_otafab61_roomba_frame2.jpg"
 ---
 

@@ -3,12 +3,13 @@ title: 'TurtleBot2 kobukiがやってきた #7（ROS2 物体追尾編）'
 date: 2024-05-05
 slug: turtlebot2-kobuki-7-ros2-oak-d-lite
 categories:
-- robot
+  - "Robot"
 tags:
-- kobuki
-- oak-d-lite
-- ros2
-- turtlebot2
+  - "kobuki"
+  - "oak-d-lite"
+  - "robot"
+  - "ros2"
+  - "turtlebot2"
 image: images/turtlebot2-kobuki-oak-d-lite-eyecatch.jpg
 ---
 

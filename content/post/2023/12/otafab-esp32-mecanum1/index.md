@@ -3,13 +3,14 @@ title: 'ESP32でメカナムホイールを動かしてみました #1（おお�
 date: 2023-12-21
 slug: otafab-esp32-mecanum1
 categories:
-- electronics
+  - "Electronics"
 tags:
-- arduino
-- esp32
-- otafab
-- メカナムホイール
-- otafab-esp32
+  - "arduino"
+  - "electronics"
+  - "esp32"
+  - "otafab"
+  - "otafab-esp32"
+  - "メカナムホイール"
 image: images/otafab-esp32-mecanum1-car1-1.jpg
 ---
 

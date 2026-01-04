@@ -2,7 +2,9 @@
 title: "NXPさんからクリスマスプレゼントが届きました"
 date: 2012-12-18
 slug: "nxp-lpcxpresso-lpc812"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/LPCXpresso_lpc812.jpg"
 ---

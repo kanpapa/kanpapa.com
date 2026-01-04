@@ -3,15 +3,16 @@ title: PDP-11 DCJ11 CPUでMINI-UNIXを動かしてみました
 date: 2024-08-04
 slug: tangnanodcj11mem-pdp-11-dcj11-cpu-mini-unix
 categories:
-- retrocomputing
+  - "Retro Computing"
 tags:
-- dcj11
-- fpga
-- mini-unix
-- pdp-11
-- simh
-- tang-nano
-- tangnanodcj11mem
+  - "dcj11"
+  - "fpga"
+  - "mini-unix"
+  - "pdp-11"
+  - "retrocomputing"
+  - "simh"
+  - "tang-nano"
+  - "tangnanodcj11mem"
 image: images/tangnanodcj11mem-pdp-11-dcj11-cpu-mini-unix1.jpg
 ---
 

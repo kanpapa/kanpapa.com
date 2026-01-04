@@ -2,7 +2,9 @@
 title: "Make: Technology on Your Time"
 date: 2008-01-24
 slug: "make-technology-on-your-time"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

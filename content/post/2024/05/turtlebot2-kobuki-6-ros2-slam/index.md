@@ -3,12 +3,13 @@ title: 'TurtleBot2 kobukiがやってきた #6（ROS2 SLAM編）'
 date: 2024-05-01
 slug: turtlebot2-kobuki-6-ros2-slam
 categories:
-- robot
+  - "Robot"
 tags:
-- kobuki
-- ros2
-- slam
-- turtlebot2
+  - "kobuki"
+  - "robot"
+  - "ros2"
+  - "slam"
+  - "turtlebot2"
 image: images/turtlebot2-kobuki-slam-rviz-eyecatch1.png
 ---
 

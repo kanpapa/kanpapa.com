@@ -2,9 +2,10 @@
 title: "KiCadで使っている自動配線ツール(freeroute.jar)をOpenJDKで動かしてみました。"
 date: 2020-05-09
 slug: "kicad-freerouter-openjdk"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
-tags: 
   - "kicad"
 image: "images/win10_system_variables8.jpg"
 ---

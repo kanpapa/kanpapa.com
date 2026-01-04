@@ -2,7 +2,9 @@
 title: "Spyderを買ってみた"
 date: 2009-02-21
 slug: "spyder"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/spyder02.jpg"
 ---

@@ -2,7 +2,9 @@
 title: "歴代のMacのスペックをiPhoneで確認できるサイト"
 date: 2008-09-10
 slug: "maciphone"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

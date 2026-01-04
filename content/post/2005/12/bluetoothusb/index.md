@@ -2,7 +2,9 @@
 title: "BluetoothのUSBアダプタ"
 date: 2005-12-16
 slug: "bluetoothusb"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

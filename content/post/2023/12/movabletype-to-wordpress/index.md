@@ -2,9 +2,10 @@
 title: "CMSをWordPressに移行しました。"
 date: 2023-12-17
 slug: "movabletype-to-wordpress"
-categories: 
+categories:
+  - "Server"
+tags:
   - "server"
-tags: 
   - "wordpress"
 image: "images/wordpress_management1.png"
 ---

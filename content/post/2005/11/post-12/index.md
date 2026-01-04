@@ -2,7 +2,9 @@
 title: "今日は京ぽん最後の日"
 date: 2005-11-23
 slug: "post-12"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

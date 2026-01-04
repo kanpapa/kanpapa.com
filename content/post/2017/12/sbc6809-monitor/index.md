@@ -2,10 +2,11 @@
 title: "SBC6809ルーズキットに6809モニタを載せてみた"
 date: 2017-12-20
 slug: "sbc6809-monitor"
-categories: 
-  - "retrocomputing"
-tags: 
+categories:
+  - "Retro Computing"
+tags:
   - "6809"
+  - "retrocomputing"
   - "sbc6809"
 image: "images/sbc6809_mon3.jpg"
 ---

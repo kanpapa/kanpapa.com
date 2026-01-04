@@ -2,10 +2,11 @@
 title: "久しぶりにLinux専用PCを組み立ててハマりました"
 date: 2023-01-08
 slug: "linux-gpu-pc-assembled"
-categories: 
-  - "pc"
-tags: 
+categories:
+  - "Server"
+tags:
   - "linux"
+  - "pc"
 image: "images/linux_gpu_pc_completed1.jpg"
 ---
 

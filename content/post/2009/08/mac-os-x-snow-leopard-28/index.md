@@ -2,7 +2,9 @@
 title: "Mac OS X Snow Leopard 出荷完了。28日到着予定。"
 date: 2009-08-27
 slug: "mac-os-x-snow-leopard-28"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

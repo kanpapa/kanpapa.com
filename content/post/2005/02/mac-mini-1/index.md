@@ -2,7 +2,9 @@
 title: "Mac miniの出荷予定日であります！"
 date: 2005-02-07
 slug: "mac-mini-1"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

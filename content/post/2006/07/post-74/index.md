@@ -2,7 +2,9 @@
 title: "気になるキーボードの使い心地と画面サイズ"
 date: 2006-07-05
 slug: "post-74"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

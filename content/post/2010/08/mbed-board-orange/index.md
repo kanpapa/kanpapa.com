@@ -2,7 +2,9 @@
 title: "mbed ☆board orangeを組み立てる"
 date: 2010-08-27
 slug: "mbed-board-orange"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/mbed_orange_board.jpg"
 ---

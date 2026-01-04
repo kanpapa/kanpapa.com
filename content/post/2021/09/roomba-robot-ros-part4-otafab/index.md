@@ -2,13 +2,13 @@
 title: "ルンバ実機とGazeboシミュレーターのオドメトリ情報を比較してみました （おおたfab 第47回 素人でもロボットをつくりたい）"
 date: 2021-09-20
 slug: "roomba-robot-ros-part4-otafab"
-categories: 
-  - "robot"
-  - "roomba"
-tags: 
-  - "roomba"
+categories:
+  - "Robot"
+tags:
   - "otafab"
   - "otafab-robot"
+  - "robot"
+  - "roomba"
 image: "images/roomba_theta.png"
 ---
 

@@ -2,7 +2,9 @@
 title: "Vaio PCG-C1にLinuxをいれる系のメモ"
 date: 2005-04-10
 slug: "vaio-pcg-c1linux"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

@@ -2,7 +2,9 @@
 title: "PENのレンズキャップを購入"
 date: 2010-01-11
 slug: "pen-lens-cap"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

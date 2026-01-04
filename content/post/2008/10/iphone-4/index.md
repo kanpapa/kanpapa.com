@@ -2,7 +2,9 @@
 title: "iPhoneでピンクの東京タワーを撮る"
 date: 2008-10-01
 slug: "iphone-4"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

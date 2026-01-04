@@ -2,7 +2,9 @@
 title: "mbedを触ってみる"
 date: 2010-05-27
 slug: "mbed"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/mbed04.jpg"
 ---

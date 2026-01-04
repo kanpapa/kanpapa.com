@@ -2,7 +2,10 @@
 title: "レスキューロボットにビデオカメラをつける"
 date: 2009-03-26
 slug: "post-155"
-categories: 
+categories:
+  - "Electronics"
+  - "Robot"
+tags:
   - "electronics"
   - "robot"
 image: "images/rescue_robo.jpg"

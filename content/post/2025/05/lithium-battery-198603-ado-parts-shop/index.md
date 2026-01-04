@@ -2,10 +2,11 @@
 title: "39年前のリチウムバッテリー"
 date: 2025-05-18
 slug: "lithium-battery-198603-ado-parts-shop"
-categories: 
-  - "electronics"
-tags: 
+categories:
+  - "Electronics"
+tags:
   - "battery"
+  - "electronics"
 image: "images/lithium_battery_86-03_2.jpg"
 ---
 

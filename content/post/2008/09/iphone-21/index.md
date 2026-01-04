@@ -2,7 +2,9 @@
 title: "iPhone 2.1をインストール"
 date: 2008-09-14
 slug: "iphone-21"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

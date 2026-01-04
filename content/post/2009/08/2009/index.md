@@ -2,7 +2,9 @@
 title: "ハムフェア2009に行ってきました"
 date: 2009-08-24
 slug: "2009"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

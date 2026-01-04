@@ -2,7 +2,9 @@
 title: "iPhone5のLEGOケースでお庭を作りました"
 date: 2013-06-29
 slug: "iphone5-lego-case"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 image: "images/iphone_lego1.jpg"
 ---

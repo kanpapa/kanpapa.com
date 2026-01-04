@@ -2,7 +2,9 @@
 title: "Advanced／W-ZERO3 [es] (WS011SH)を最新版にアップデートする"
 date: 2008-11-09
 slug: "advancedw-zero3-es-ws011sh"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 image: "images/w_zero3_update.jpg"
 ---

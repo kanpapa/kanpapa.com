@@ -2,7 +2,9 @@
 title: "Windows 7を古いノートPCにいれてみる"
 date: 2009-01-27
 slug: "windows-7pc"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

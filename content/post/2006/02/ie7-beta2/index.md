@@ -2,7 +2,9 @@
 title: "IE7 beta2 入れてみました"
 date: 2006-02-03
 slug: "ie7-beta2"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

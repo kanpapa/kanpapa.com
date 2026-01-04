@@ -2,9 +2,10 @@
 title: "Nano Pi NEOで遊んでみた"
 date: 2017-07-29
 slug: "nano-pi-neo"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
-tags: 
   - "nano-pi-neo"
 image: "images/nanopi_neo.jpg"
 ---

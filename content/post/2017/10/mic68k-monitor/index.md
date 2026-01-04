@@ -3,10 +3,11 @@ title: MIC68Kワンボードコンピュータで遊んでみた（４）モニ�
 date: 2017-10-27
 slug: mic68k-monitor
 categories:
-- retrocomputing
+  - "Retro Computing"
 tags:
-- mic68k
-- '68000'
+  - "68000"
+  - "mic68k"
+  - "retrocomputing"
 image: images/mic68k_complete.jpg
 ---
 

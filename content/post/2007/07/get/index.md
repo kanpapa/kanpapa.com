@@ -2,7 +2,9 @@
 title: "アドエスGetしました。"
 date: 2007-07-19
 slug: "get"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

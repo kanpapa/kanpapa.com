@@ -2,7 +2,9 @@
 title: "どうしてもi.softbank.jpのメールが受信できない"
 date: 2008-07-12
 slug: "isoftbankjp"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

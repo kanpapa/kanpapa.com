@@ -2,9 +2,10 @@
 title: "COSMAC VIP 4096-Bit Pictureを動かしてみました"
 date: 2020-05-01
 slug: "cosmac-vip-4096-bit-picture"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
-tags: 
   - "cosmac-mbc"
 image: "images/VIP_4096bit_picture.jpg"
 ---

@@ -2,7 +2,9 @@
 title: "EeePCのBIOSをアップグレードしてみた。"
 date: 2008-06-23
 slug: "eeepcbios"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

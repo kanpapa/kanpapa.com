@@ -2,7 +2,9 @@
 title: "verilog1802をシミュレーションしてみた"
 date: 2024-04-14
 slug: "verilog1802-simulation"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
 image: "images/verilog1802-sim2.png"
 ---

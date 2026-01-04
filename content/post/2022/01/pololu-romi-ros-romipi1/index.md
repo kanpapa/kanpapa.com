@@ -2,9 +2,10 @@
 title: "Pololu Romi ロボットカーをROSで動かしてみました"
 date: 2022-01-23
 slug: "pololu-romi-ros-romipi1"
-categories: 
+categories:
+  - "Robot"
+tags:
   - "robot"
-tags: 
   - "romi"
 image: "images/romi_ros_romipi1.jpg"
 ---

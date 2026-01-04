@@ -2,7 +2,9 @@
 title: "やっぱりもう少し試してみよう"
 date: 2005-10-25
 slug: "post-2-2"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

@@ -3,10 +3,11 @@ title: 久しぶりのMini Pupper 2
 date: 2025-02-03
 slug: mini-pupper-2-makuake
 categories:
-- robot
+  - "Robot"
 tags:
-- mini-pupper-2
-- ros2
+  - "mini-pupper-2"
+  - "robot"
+  - "ros2"
 image: images/mini-pupper-2-box1.jpg
 ---
 

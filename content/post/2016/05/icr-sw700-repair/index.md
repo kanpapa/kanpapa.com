@@ -2,11 +2,12 @@
 title: "中波短波ラジオICR-SW700の液漏れを修理してみた"
 date: 2016-05-07
 slug: "icr-sw700-repair"
-categories: 
-  - "research"
-tags: 
-  - "sony"
+categories:
+  - "Event"
+tags:
   - "radio"
+  - "research"
+  - "sony"
 image: "images/icr_sw700_06.jpg"
 ---
 

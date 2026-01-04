@@ -2,7 +2,9 @@
 title: "Apple Storeがメンテナンス開始"
 date: 2009-01-06
 slug: "apple-store"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

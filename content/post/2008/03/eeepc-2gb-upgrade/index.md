@@ -2,7 +2,9 @@
 title: "Eee PCのメモリを2GBに増設しました。"
 date: 2008-03-08
 slug: "eeepc-2gb-upgrade"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

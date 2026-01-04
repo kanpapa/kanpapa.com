@@ -2,7 +2,9 @@
 title: "Microsoft Office 2007のお試し版"
 date: 2007-11-23
 slug: "microsoft-office-2007"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

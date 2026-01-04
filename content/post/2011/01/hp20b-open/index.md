@@ -2,7 +2,10 @@
 title: "HP20bを分解しました"
 date: 2011-01-01
 slug: "hp20b-open"
-categories: 
+categories:
+  - "Electronics"
+  - "Retro Computing"
+tags:
   - "electronics"
   - "retrocomputing"
 image: "images/hp20b_open01.jpg"

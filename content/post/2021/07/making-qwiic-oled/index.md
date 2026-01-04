@@ -2,7 +2,9 @@
 title: "Qwiic OLEDを作ってみました"
 date: 2021-07-05
 slug: "making-qwiic-oled"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/qwiic_oled3.jpg"
 ---

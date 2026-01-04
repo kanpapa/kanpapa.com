@@ -2,7 +2,9 @@
 title: "Apple Store, Ginzaまで車を飛ばす"
 date: 2006-05-20
 slug: "apple-store-ginza"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

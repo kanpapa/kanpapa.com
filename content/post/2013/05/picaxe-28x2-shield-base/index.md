@@ -2,7 +2,9 @@
 title: "PICAXE-28X2シールドベースを試してみた"
 date: 2013-05-12
 slug: "picaxe-28x2-shield-base"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/picaxe_28x2_shield_base.jpg"
 ---

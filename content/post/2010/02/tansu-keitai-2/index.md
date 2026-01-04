@@ -2,7 +2,9 @@
 title: "たんすケータイあつめタイでまた当選しました"
 date: 2010-02-11
 slug: "tansu-keitai-2"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

@@ -2,7 +2,9 @@
 title: "Mac OS X Snow Leopard インストール完了"
 date: 2009-08-28
 slug: "mac-os-x-snow-leopard"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

@@ -2,7 +2,9 @@
 title: "W-ZERO3[es]のパンフレット"
 date: 2006-07-06
 slug: "w-zero3es-1"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

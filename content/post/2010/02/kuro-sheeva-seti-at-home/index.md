@@ -2,7 +2,9 @@
 title: "KURO-SHEEVA（玄柴）でSETI@homeに参加する"
 date: 2010-02-06
 slug: "kuro-sheeva-seti-at-home"
-categories: 
+categories:
+  - "Server"
+tags:
   - "server"
 ---
 

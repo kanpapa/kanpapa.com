@@ -2,7 +2,9 @@
 title: "Mac miniが今日くるかも"
 date: 2005-02-14
 slug: "mac-mini-4"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

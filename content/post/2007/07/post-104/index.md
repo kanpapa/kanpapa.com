@@ -2,7 +2,9 @@
 title: "明日はいよいよアドエス！"
 date: 2007-07-18
 slug: "post-104"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

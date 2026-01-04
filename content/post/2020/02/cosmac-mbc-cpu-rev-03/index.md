@@ -2,9 +2,10 @@
 title: "COSMAC MBC CPUボードRev. 0.3を発注しました。"
 date: 2020-02-13
 slug: "cosmac-mbc-cpu-rev-03"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
-tags: 
   - "cosmac-mbc"
 image: "images/cdp18s020_cpu_rev03.jpg"
 ---

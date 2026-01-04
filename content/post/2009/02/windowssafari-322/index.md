@@ -2,7 +2,9 @@
 title: "Windows版Safari 3.2.2のアップデート"
 date: 2009-02-18
 slug: "windowssafari-322"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

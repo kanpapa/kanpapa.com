@@ -2,7 +2,9 @@
 title: "本日、OLYMPUS PEN E-P3の発売日です。"
 date: 2011-07-21
 slug: "olympus-pen-e-p3"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 image: "images/pen_ep3_lcd_guard.jpg"
 ---

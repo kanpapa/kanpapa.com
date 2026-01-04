@@ -2,7 +2,9 @@
 title: "ダイソン(Dyson)のパーツを買ってみた"
 date: 2008-10-08
 slug: "dyson"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

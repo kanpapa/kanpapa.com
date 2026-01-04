@@ -2,7 +2,9 @@
 title: "MovableType 4.22にアップグレードしました"
 date: 2008-10-15
 slug: "movabletype-422"
-categories: 
+categories:
+  - "Server"
+tags:
   - "server"
 ---
 

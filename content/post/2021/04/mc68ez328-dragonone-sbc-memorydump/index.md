@@ -2,11 +2,11 @@
 title: "MC68EZ328 DragonOne SBCでメモリダンプができました"
 date: 2021-04-21
 slug: "mc68ez328-dragonone-sbc-memorydump"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "mc68ez328"
   - "retrocomputing"
-tags: 
-  - "mc68ez328"
 image: "images/dragonone_mdump_python2.png"
 ---
 

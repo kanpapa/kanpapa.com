@@ -2,7 +2,9 @@
 title: "W-ZERO3でロケーションフリー"
 date: 2006-05-18
 slug: "w-zero3-14"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

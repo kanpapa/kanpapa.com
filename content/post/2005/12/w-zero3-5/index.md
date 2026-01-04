@@ -2,7 +2,9 @@
 title: "「W-ZERO3」１ヶ月待ちの人気！"
 date: 2005-12-18
 slug: "w-zero3-5"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

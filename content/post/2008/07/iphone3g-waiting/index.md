@@ -2,7 +2,9 @@
 title: "iPhone3G購入表参道行列会場より"
 date: 2008-07-09
 slug: "iphone3g-waiting"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

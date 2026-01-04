@@ -3,11 +3,12 @@ title: EMUZ80でCOSMACを動かしてみました 5（仕上げ編）
 date: 2022-06-05
 slug: emuz80-cosmac-emu1802-fixed
 categories:
-- cosmac
-- retrocomputing
+  - "Retro Computing"
 tags:
-- emu1802
-- emuz80
+  - "cosmac"
+  - "emu1802"
+  - "emuz80"
+  - "retrocomputing"
 image: images/emu1802-fixed5.jpg
 ---
 

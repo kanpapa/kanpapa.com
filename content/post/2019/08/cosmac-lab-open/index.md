@@ -2,9 +2,10 @@
 title: "COSMAC研究会のサイトを開設しました"
 date: 2019-08-18
 slug: "cosmac-lab-open"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
-tags: 
   - "cosmac-lab"
   - "github"
 image: "images/cosmac-lab-top-github-io.png"

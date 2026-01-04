@@ -2,7 +2,9 @@
 title: "まだ不安定なようです。"
 date: 2007-11-01
 slug: "leopard-trouble"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

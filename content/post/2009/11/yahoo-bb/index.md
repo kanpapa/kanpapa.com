@@ -2,7 +2,9 @@
 title: "【Yahoo! BB】接続機器発送のお知らせ"
 date: 2009-11-21
 slug: "yahoo-bb"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

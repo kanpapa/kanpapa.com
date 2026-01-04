@@ -3,10 +3,10 @@ title: CISAにチャレンジしてみることにしました
 date: 2020-12-28
 slug: challenge-cisa-exam
 categories:
-- security
+  - "Server"
 tags:
-- cisa
-- security
+  - "cisa"
+  - "security"
 image: images/cisa_review_manual.jpeg
 ---
 

@@ -2,7 +2,9 @@
 title: "新しいマザーで仮組みしてみた"
 date: 2008-06-04
 slug: "desktop-pc-upgrade-part1"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

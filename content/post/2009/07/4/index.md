@@ -2,7 +2,9 @@
 title: "学研の4ビットマイコンを組み立てる"
 date: 2009-07-04
 slug: "4"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 image: "images/gmc4.jpg"
 ---

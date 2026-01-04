@@ -3,7 +3,9 @@ title: Super AKI-80でLチカをしてみました
 date: 2014-01-13
 slug: super-aki80-led-blink
 categories:
-- retrocomputing
+  - "Retro Computing"
+tags:
+  - "retrocomputing"
 image: images/aki_80_eprom.jpg
 ---
 

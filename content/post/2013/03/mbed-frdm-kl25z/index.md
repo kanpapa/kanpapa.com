@@ -2,7 +2,9 @@
 title: "mbed FRDM-KL25Zで遊んでみた"
 date: 2013-03-10
 slug: "mbed-frdm-kl25z"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/frdm-kl25z.jpg"
 ---

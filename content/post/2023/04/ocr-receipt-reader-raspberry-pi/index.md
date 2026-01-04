@@ -2,9 +2,10 @@
 title: "Raspberry Pi カメラでレシートの日時を読み取ってみました"
 date: 2023-04-11
 slug: "ocr-receipt-reader-raspberry-pi"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
-tags: 
   - "raspberry-pi"
 image: "images/ocr_receipt_reader02.jpg"
 ---

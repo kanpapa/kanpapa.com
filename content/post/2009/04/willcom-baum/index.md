@@ -2,7 +2,9 @@
 title: "WILLCOM BAUMに機種変更"
 date: 2009-04-14
 slug: "willcom-baum"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 image: "images/willcom_baum.jpg"
 ---

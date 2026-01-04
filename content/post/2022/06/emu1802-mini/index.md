@@ -3,10 +3,11 @@ title: EMU1802-mini の回路を修正しました
 date: 2022-06-23
 slug: emu1802-mini
 categories:
-- cosmac
-- retrocomputing
+  - "Retro Computing"
 tags:
-- emu1802
+  - "cosmac"
+  - "emu1802"
+  - "retrocomputing"
 image: images/emu1802-mini-added-diode_pcb_back.jpg
 ---
 

@@ -2,9 +2,9 @@
 title: "ROS2でPS4のジョイスティック（DualShock4）を使ってみました"
 date: 2022-09-24
 slug: "ros2-joy-ps4-dualshock"
-categories: 
-  - "roomba"
-tags: 
+categories:
+  - "Robot"
+tags:
   - "roomba"
 image: "images/ros2_joy_ps4_usb1.jpg"
 ---

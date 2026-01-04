@@ -2,7 +2,9 @@
 title: "WILLCOMカレンダーほしいな"
 date: 2005-12-03
 slug: "willcom-2"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

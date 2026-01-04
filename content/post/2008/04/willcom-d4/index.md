@@ -2,7 +2,9 @@
 title: "WILLCOM D4発表"
 date: 2008-04-13
 slug: "willcom-d4"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

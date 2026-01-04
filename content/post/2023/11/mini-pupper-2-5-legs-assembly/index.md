@@ -3,9 +3,10 @@ title: Mini Pupper 2 を組み立ててみました (5) 脚の組み立て
 date: 2023-11-05
 slug: mini-pupper-2-5-legs-assembly
 categories:
-- robot
+  - "Robot"
 tags:
-- mini-pupper-2
+  - "mini-pupper-2"
+  - "robot"
 image: images/MP2_5_leg_parts13.jpg
 ---
 

@@ -2,7 +2,9 @@
 title: "まけるな！ゐるこむストア！"
 date: 2005-12-10
 slug: "post-20"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

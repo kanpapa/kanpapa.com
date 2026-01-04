@@ -2,7 +2,9 @@
 title: "MTM07向けにVFDとの接続を直づけにしました"
 date: 2011-11-14
 slug: "mtm07-vfd-cable"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/vfd_flat_cable3.jpg"
 ---

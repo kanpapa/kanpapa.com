@@ -2,7 +2,9 @@
 title: "Yahoo!BB光からYahoo!BB光 with フレッツに変更らしい"
 date: 2009-08-15
 slug: "yahoobbyahoobb-with"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

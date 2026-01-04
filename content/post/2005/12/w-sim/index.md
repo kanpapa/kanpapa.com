@@ -2,7 +2,9 @@
 title: "「W-SIM」不具合修正ソフトの公開を中止"
 date: 2005-12-26
 slug: "w-sim"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

@@ -2,7 +2,9 @@
 title: "出発遅れ"
 date: 2006-01-03
 slug: "post-35"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

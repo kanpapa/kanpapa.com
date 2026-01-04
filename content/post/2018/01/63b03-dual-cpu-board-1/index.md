@@ -2,10 +2,11 @@
 title: "63B03デュアルCPUマイコンボードで遊んでみた（１）調査編"
 date: 2018-01-15
 slug: "63b03-dual-cpu-board-1"
-categories: 
-  - "retrocomputing"
-tags: 
+categories:
+  - "Retro Computing"
+tags:
   - "63b03"
+  - "retrocomputing"
 image: "images/68B03_dual_cpu_board1.jpg"
 ---
 

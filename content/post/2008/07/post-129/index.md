@@ -2,7 +2,9 @@
 title: "液晶保護シート"
 date: 2008-07-12
 slug: "post-129"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

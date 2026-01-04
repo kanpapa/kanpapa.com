@@ -2,7 +2,9 @@
 title: "ウィルコムでモバイルSuica開始"
 date: 2009-07-05
 slug: "suica-2"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

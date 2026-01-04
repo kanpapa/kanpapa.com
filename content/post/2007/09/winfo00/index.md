@@ -2,7 +2,9 @@
 title: "W+Infoの降水確率00%"
 date: 2007-09-06
 slug: "winfo00"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

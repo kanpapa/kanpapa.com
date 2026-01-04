@@ -2,7 +2,9 @@
 title: "PostToTwitterプラグインをインストールしてみた"
 date: 2009-09-14
 slug: "posttotwitter-1"
-categories: 
+categories:
+  - "Server"
+tags:
   - "server"
 ---
 

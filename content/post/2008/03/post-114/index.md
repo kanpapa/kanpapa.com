@@ -2,7 +2,9 @@
 title: "新つなぎ放題での使い勝手"
 date: 2008-03-24
 slug: "post-114"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

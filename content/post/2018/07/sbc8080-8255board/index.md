@@ -2,10 +2,11 @@
 title: "SBC8080ルーズキットに8255を接続してみた"
 date: 2018-07-16
 slug: "sbc8080-8255board"
-categories: 
-  - "retrocomputing"
-tags: 
+categories:
+  - "Retro Computing"
+tags:
   - "8080"
+  - "retrocomputing"
   - "sbc8080"
 image: "images/sbc8080_8255_completed.jpg"
 ---

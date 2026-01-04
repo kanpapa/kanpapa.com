@@ -2,7 +2,9 @@
 title: "【ビックカメラ限定 予約特典付き】Mac OS X v10.5 ”Leopard” ファミリーパック"
 date: 2007-10-17
 slug: "mac-os-x-v105-leopard-2"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

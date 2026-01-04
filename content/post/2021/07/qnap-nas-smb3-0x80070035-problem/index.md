@@ -2,10 +2,11 @@
 title: "QNAP NASにエラーコード0x80070035でつながらない問題を調査しました"
 date: 2021-07-18
 slug: "qnap-nas-smb3-0x80070035-problem"
-categories: 
-  - "server"
-tags: 
+categories:
+  - "Server"
+tags:
   - "qnap"
+  - "server"
 image: "images/qnap_nas_error_0x80070035.png"
 ---
 

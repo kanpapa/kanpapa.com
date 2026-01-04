@@ -2,7 +2,9 @@
 title: "LinkStationのDebianでMySQLがクラッシュする"
 date: 2009-01-20
 slug: "linkstation-mysql-crash"
-categories: 
+categories:
+  - "Server"
+tags:
   - "server"
 ---
 

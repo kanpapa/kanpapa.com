@@ -2,11 +2,11 @@
 title: "MC68EZ328 DragonOne SBCでブートローダーが動きました"
 date: 2021-04-18
 slug: "mc68ez328-dragonone-sbc-solder-parts"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "mc68ez328"
   - "retrocomputing"
-tags: 
-  - "mc68ez328"
 image: "images/dragonone_sbc_solder_pcb4.jpg"
 ---
 

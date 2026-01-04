@@ -3,12 +3,13 @@ title: ESP32のArduino開発環境をつくりました（おおたfab 電子工
 date: 2022-12-10
 slug: esp32-otafab-study-arduino
 categories:
-- electronics
+  - "Electronics"
 tags:
-- arduino
-- esp32
-- otafab
-- otafab-esp32
+  - "arduino"
+  - "electronics"
+  - "esp32"
+  - "otafab"
+  - "otafab-esp32"
 image: images/esp32_arduino1.png
 ---
 

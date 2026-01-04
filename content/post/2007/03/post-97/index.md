@@ -2,7 +2,9 @@
 title: "キャッシュバッククーポン"
 date: 2007-03-18
 slug: "post-97"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

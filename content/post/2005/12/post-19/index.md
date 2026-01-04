@@ -2,7 +2,9 @@
 title: "がんばれ！ゐるこむストア！"
 date: 2005-12-09
 slug: "post-19"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

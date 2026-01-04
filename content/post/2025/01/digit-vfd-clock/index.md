@@ -2,9 +2,10 @@
 title: "VFD時計を製作してみました"
 date: 2025-01-21
 slug: "digit-vfd-clock"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
-tags: 
   - "vfd"
 image: "images/digit-vfd-clock07.jpg"
 ---

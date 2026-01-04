@@ -2,7 +2,9 @@
 title: "免許状がこないぞ"
 date: 2007-07-02
 slug: "post-102"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

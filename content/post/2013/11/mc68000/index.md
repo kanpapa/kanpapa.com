@@ -3,7 +3,9 @@ title: 作りながら学ぶMC68000本を購入しました
 date: 2013-11-26
 slug: mc68000
 categories:
-- retrocomputing
+  - "Retro Computing"
+tags:
+  - "retrocomputing"
 image: images/mc68k_book.jpg
 ---
 

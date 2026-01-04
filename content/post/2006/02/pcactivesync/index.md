@@ -2,7 +2,9 @@
 title: "ノートPCとActiveSyncとの相性"
 date: 2006-02-14
 slug: "pcactivesync"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

@@ -2,10 +2,11 @@
 title: "サーバをCentOS 8.1からubuntu 20.04LTSに移行しました。"
 date: 2020-12-28
 slug: "server-transfer-ubuntu20-04-lts"
-categories: 
-  - "pc"
-tags: 
+categories:
+  - "Server"
+tags:
   - "linux"
+  - "pc"
 image: "images/ubuntu20_04_2_lts.png"
 ---
 

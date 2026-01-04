@@ -3,10 +3,11 @@ title: KiCadデータを掲載しました。
 date: 2019-09-10
 slug: publish-kicad-data1
 categories:
-- cosmac
-- retrocomputing
+  - "Retro Computing"
 tags:
-- cosmac-toy
+  - "cosmac"
+  - "cosmac-toy"
+  - "retrocomputing"
 ---
 
 [COSMAC Toy Computer (GitHub.com)](https://github.com/kanpapa/cosmac_toy)のページにKiCadデータを掲載しました。

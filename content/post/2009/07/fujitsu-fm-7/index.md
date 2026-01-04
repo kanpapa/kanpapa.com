@@ -2,7 +2,9 @@
 title: "FUJITSU FM-7を動かす"
 date: 2009-07-20
 slug: "fujitsu-fm-7"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "retrocomputing"
 image: "images/fm7_tv.jpg"
 ---

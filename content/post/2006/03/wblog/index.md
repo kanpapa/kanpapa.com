@@ -2,7 +2,9 @@
 title: "W+BLOGに登録しました。"
 date: 2006-03-14
 slug: "wblog"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

@@ -2,11 +2,11 @@
 title: "MC68EZ328 DragonOne SBCの主要パーツがそろいました"
 date: 2021-04-08
 slug: "mc68ez328-dragonone-sbc-parts"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "mc68ez328"
   - "retrocomputing"
-tags: 
-  - "mc68ez328"
 image: "images/dragonball_mc68ez328_cpu.jpg"
 ---
 

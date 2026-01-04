@@ -2,7 +2,9 @@
 title: "ファームアップは年内！"
 date: 2005-12-07
 slug: "post-17"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

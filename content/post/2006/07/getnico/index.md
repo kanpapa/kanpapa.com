@@ -2,7 +2,9 @@
 title: "総合パンフレットGET!＆nico.のモックを触る"
 date: 2006-07-08
 slug: "getnico"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

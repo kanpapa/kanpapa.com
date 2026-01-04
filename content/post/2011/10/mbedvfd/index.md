@@ -2,7 +2,9 @@
 title: "mbedでVFDに日本語フォントを表示してみました"
 date: 2011-10-10
 slug: "mbedvfd"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/vfd_font02.jpg"
 ---

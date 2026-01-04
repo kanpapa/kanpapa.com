@@ -2,7 +2,9 @@
 title: "mbed LPC1114FN28で8桁7セグLEDモジュールを制御してみた"
 date: 2013-10-06
 slug: "mbed-lpc1114fn28-7segledmod"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/mbed_7degLEDMod.jpg"
 ---

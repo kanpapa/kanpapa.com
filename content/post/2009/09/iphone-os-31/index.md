@@ -2,7 +2,9 @@
 title: "iPhone OS 3.1アップデートで冷や汗"
 date: 2009-09-12
 slug: "iphone-os-31"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

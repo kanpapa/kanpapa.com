@@ -2,7 +2,9 @@
 title: "WX310Kファーム更新完了！"
 date: 2006-06-01
 slug: "wx310k-8"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

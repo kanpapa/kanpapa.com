@@ -2,7 +2,9 @@
 title: "BootCampを導入する"
 date: 2009-02-22
 slug: "bootcamp"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 image: "images/bootcamp_startup.jpg"
 ---

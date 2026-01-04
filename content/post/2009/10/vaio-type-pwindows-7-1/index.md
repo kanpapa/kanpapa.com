@@ -2,7 +2,9 @@
 title: "VAIO type PにWindows 7をインストールしました"
 date: 2009-10-22
 slug: "vaio-type-pwindows-7-1"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

@@ -2,7 +2,9 @@
 title: "ついにW-ZERO3初回分完売！"
 date: 2005-12-11
 slug: "w-zero3-2"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

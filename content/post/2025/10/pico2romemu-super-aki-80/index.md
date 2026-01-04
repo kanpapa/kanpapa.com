@@ -3,13 +3,15 @@ title: Pico2ROMEmuでSuper AKI-80を動かしてみました
 date: 2025-10-07
 slug: pico2romemu-super-aki-80
 categories:
-- electronics
-- retrocomputing
+  - "Electronics"
+  - "Retro Computing"
 tags:
-- aki-80
-- raspberry-pi-pico2
-- pico2
-- z80
+  - "aki-80"
+  - "electronics"
+  - "pico2"
+  - "raspberry-pi-pico2"
+  - "retrocomputing"
+  - "z80"
 image: images/pico2romemu-super-aki-80-eyecache1.jpg
 ---
 

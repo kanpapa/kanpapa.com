@@ -2,7 +2,9 @@
 title: "Firefox OS FlameにNightly buildをいれて日本語表示をしてみた"
 date: 2014-08-09
 slug: "firefox-os-flame-nightly-build"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

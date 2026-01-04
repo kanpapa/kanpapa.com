@@ -3,11 +3,12 @@ title: Orangeputerを組み立てて日本語入力を試してみました
 date: 2025-11-13
 slug: orangeputer-kb-skk-japanese-editor
 categories:
-- electronics
+  - "Electronics"
 tags:
-- esp32
-- orangeputer
-- skk
+  - "electronics"
+  - "esp32"
+  - "orangeputer"
+  - "skk"
 image: images/orangeputer-skk1.jpg
 ---
 

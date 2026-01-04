@@ -2,7 +2,9 @@
 title: "AVALのROMライター PECKER-11で2732Aを焼いてみました"
 date: 2012-04-15
 slug: "avalrom-pecker-112732a"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "retrocomputing"
 image: "images/mic68k_pecker11.jpg"
 ---

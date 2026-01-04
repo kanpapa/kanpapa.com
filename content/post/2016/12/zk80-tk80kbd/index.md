@@ -2,10 +2,11 @@
 title: "ZK-80 mini (PIC32MX１チップTK-80互換機)を作ってみた"
 date: 2016-12-31
 slug: "zk80-tk80kbd"
-categories: 
-  - "retrocomputing"
-tags: 
+categories:
+  - "Retro Computing"
+tags:
   - "pic32mx"
+  - "retrocomputing"
   - "tk-80"
   - "zk-80-mini"
 image: "images/zk80_tk80kbd_4.jpg"

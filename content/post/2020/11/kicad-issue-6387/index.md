@@ -2,9 +2,10 @@
 title: "KiCadで日本語のパスが文字化けするバグを報告してみました"
 date: 2020-11-26
 slug: "kicad-issue-6387"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
-tags: 
   - "kicad"
 image: "images/kicad_footprint_library_japaese_path_error0.jpg"
 ---

@@ -2,7 +2,9 @@
 title: "WILLCOM STOREで販売開始"
 date: 2005-11-24
 slug: "willcom-store"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

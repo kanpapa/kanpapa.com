@@ -2,9 +2,10 @@
 title: "COSMAC MBC 拡張ボードRev. 0.2を製作しました。"
 date: 2019-10-27
 slug: "cosmac-mbc-ext-board-rev02"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
-tags: 
   - "cosmac-mbc"
 image: "images/cosmac_mbc_ext_rev02_prod.jpg"
 ---

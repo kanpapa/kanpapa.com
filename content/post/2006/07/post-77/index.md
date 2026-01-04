@@ -2,7 +2,9 @@
 title: "やはり単体狙いに変更！"
 date: 2006-07-15
 slug: "post-77"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

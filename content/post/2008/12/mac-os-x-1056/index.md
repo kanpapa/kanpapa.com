@@ -2,7 +2,9 @@
 title: "Mac OS X アップデート 10.5.6"
 date: 2008-12-16
 slug: "mac-os-x-1056"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 image: "images/macosx_update_10_5_6.jpg"
 ---

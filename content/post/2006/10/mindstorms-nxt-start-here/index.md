@@ -2,7 +2,9 @@
 title: "MINDSTORMS NXT START HERE!"
 date: 2006-10-16
 slug: "mindstorms-nxt-start-here"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

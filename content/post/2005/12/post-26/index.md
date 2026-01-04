@@ -2,7 +2,9 @@
 title: "ファームアップで変わった点"
 date: 2005-12-21
 slug: "post-26"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

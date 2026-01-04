@@ -2,7 +2,9 @@
 title: "W-ZERO3[es]が売れ筋No.1"
 date: 2006-08-03
 slug: "w-zero3esno1"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

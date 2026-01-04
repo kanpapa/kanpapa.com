@@ -2,9 +2,10 @@
 title: "COSMACでTVディスプレイの実験をしてみた"
 date: 2019-12-31
 slug: "cosmac-tv1"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
-tags: 
   - "cosmac-mbc"
 image: "images/cosmac_tv_random1.jpg"
 ---

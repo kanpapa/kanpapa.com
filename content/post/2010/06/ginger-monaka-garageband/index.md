@@ -2,7 +2,9 @@
 title: "Ginger-MonakaをGarageBandで制御してみた"
 date: 2010-06-02
 slug: "ginger-monaka-garageband"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 ---
 

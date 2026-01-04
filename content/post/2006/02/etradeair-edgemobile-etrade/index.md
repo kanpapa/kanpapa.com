@@ -2,7 +2,9 @@
 title: "E*TRADE証券でAIR-EDGE向け「新MOBILE E*TRADE」サービス開始"
 date: 2006-02-19
 slug: "etradeair-edgemobile-etrade"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

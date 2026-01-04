@@ -2,10 +2,11 @@
 title: "naoto64さんの1bit CPUを動かしてみました"
 date: 2024-02-04
 slug: "naoto64-1bit-cpu"
-categories: 
-  - "electronics"
-tags: 
+categories:
+  - "Electronics"
+tags:
   - "1bit-cpu"
+  - "electronics"
 image: "images/1bitcpu-universal-board-front.jpg"
 ---
 

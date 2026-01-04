@@ -2,7 +2,9 @@
 title: "さっそくビール買い出し"
 date: 2006-08-18
 slug: "post-79"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

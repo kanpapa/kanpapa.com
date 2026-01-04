@@ -2,13 +2,14 @@
 title: "メカナムロボットが障害物を回避するようになりました。（おおたfab 第37回 素人でもロボットをつくりたい）"
 date: 2021-02-11
 slug: "mecanum-wheel-robot-lesson2-fixed"
-categories: 
-  - "robot"
-tags: 
+categories:
+  - "Robot"
+tags:
   - "arduino"
   - "otafab"
-  - "メカナムホイール"
   - "otafab-robot"
+  - "robot"
+  - "メカナムホイール"
 image: "images/mecanum_lesson2_fix1.jpg"
 ---
 

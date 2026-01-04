@@ -2,7 +2,9 @@
 title: "Mac OS X Leopardを10月26日に出荷"
 date: 2007-10-15
 slug: "mac-os-x-leopard1026"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

@@ -2,11 +2,11 @@
 title: "68000用のuClinuxをUbuntu 20.04 LTS (WSL環境) でビルドしてみました"
 date: 2021-03-19
 slug: "uclinux-build-ubuntu20-04-wsl"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "mc68ez328"
   - "retrocomputing"
-tags: 
-  - "mc68ez328"
 image: "images/uClinux_build_tftperror.png"
 ---
 

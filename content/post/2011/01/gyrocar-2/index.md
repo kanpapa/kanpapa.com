@@ -2,7 +2,9 @@
 title: "今江科学さんのジャイロカーをつくってみた"
 date: 2011-01-25
 slug: "gyrocar-2"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 image: "images/gyrocar01.jpg"
 ---

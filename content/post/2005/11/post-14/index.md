@@ -2,7 +2,9 @@
 title: "通勤電車での使い心地"
 date: 2005-11-29
 slug: "post-14"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

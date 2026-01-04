@@ -2,7 +2,9 @@
 title: "新ぴぴっとフォンに機種変"
 date: 2006-01-29
 slug: "post-42"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

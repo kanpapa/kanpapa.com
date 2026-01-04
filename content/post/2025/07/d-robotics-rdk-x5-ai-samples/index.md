@@ -3,11 +3,12 @@ title: D-Robotics RDK X5のAI機能を試してみた
 date: 2025-07-22
 slug: d-robotics-rdk-x5-ai-samples
 categories:
-- robot
+  - "Robot"
 tags:
-- d-robotics
-- rdk-x5
-- rdk
+  - "d-robotics"
+  - "rdk"
+  - "rdk-x5"
+  - "robot"
 image: images/hobot_dnn-hands-point1.jpg
 ---
 

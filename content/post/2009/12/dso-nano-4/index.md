@@ -2,7 +2,9 @@
 title: "DSO nanoを使ってみました"
 date: 2009-12-27
 slug: "dso-nano-4"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/dsonano5.jpg"
 ---

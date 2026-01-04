@@ -2,7 +2,9 @@
 title: "EeePC 4GにXandrosをインストール"
 date: 2009-02-06
 slug: "eeepc-4gxandros"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

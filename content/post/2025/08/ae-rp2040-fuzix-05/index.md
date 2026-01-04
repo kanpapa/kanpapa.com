@@ -2,12 +2,13 @@
 title: "AE-RP2040で開発版FUZIX 0.5を動かしてみました"
 date: 2025-08-28
 slug: "ae-rp2040-fuzix-05"
-categories: 
+categories:
+  - "Electronics"
+tags:
+  - "akiduki-denshi"
   - "electronics"
-tags: 
   - "fuzix"
   - "rp2040"
-  - "akiduki-denshi"
 image: "images/ae-rp2040-fuzix-startmsg.png"
 ---
 

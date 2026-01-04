@@ -3,12 +3,13 @@ title: COSMAC研究会でMaker Faire Tokyo 2020に出展しました（前日編
 date: 2020-10-06
 slug: cosmac-maker-faire-tokyo-2020-day0
 categories:
-- cosmac
-- retrocomputing
+  - "Retro Computing"
 tags:
-- cosmac-mbc
-- maker-faire
-- mft2020
+  - "cosmac"
+  - "cosmac-mbc"
+  - "maker-faire"
+  - "mft2020"
+  - "retrocomputing"
 image: images/mft2020_1002_51.jpg
 ---
 

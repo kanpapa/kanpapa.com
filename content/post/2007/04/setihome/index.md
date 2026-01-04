@@ -2,7 +2,9 @@
 title: "玄箱でseti@homeに参加する"
 date: 2007-04-02
 slug: "setihome"
-categories: 
+categories:
+  - "Server"
+tags:
   - "server"
 ---
 

@@ -2,7 +2,9 @@
 title: "待ってました！NetFrontの正式版"
 date: 2006-05-17
 slug: "netfront-1"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

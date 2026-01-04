@@ -2,7 +2,9 @@
 title: "ディスク交換後にTime Machineで完全リカバリができました"
 date: 2008-09-08
 slug: "time-machine"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

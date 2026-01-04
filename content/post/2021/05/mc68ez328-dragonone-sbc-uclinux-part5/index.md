@@ -2,11 +2,11 @@
 title: "MC68EZ328 DragonOne SBCでuClinuxを動かす(5) ～initスレッドの起動まで～"
 date: 2021-05-22
 slug: "mc68ez328-dragonone-sbc-uclinux-part5"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "mc68ez328"
   - "retrocomputing"
-tags: 
-  - "mc68ez328"
 image: "images/mc68ez328_dragonone_sbc_uclinux_part5_kernel_book.jpg"
 ---
 

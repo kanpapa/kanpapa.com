@@ -2,7 +2,9 @@
 title: "プリント基板の頒布方法をいろいろ試してみました"
 date: 2025-01-07
 slug: "pcb-distribution-method"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 image: "images/cosmac-toy-v2-pcb-123.jpg"
 ---

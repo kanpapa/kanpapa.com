@@ -2,7 +2,9 @@
 title: "USIMが飛んだ"
 date: 2007-04-28
 slug: "usim"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

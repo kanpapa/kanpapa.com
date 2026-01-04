@@ -2,7 +2,9 @@
 title: "LPC800-miniに秋月電子の8桁7セグLEDモジュールを接続してみた"
 date: 2013-11-04
 slug: "lpc800-mini-7segled"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/lpc800_mini_7seg.jpg"
 ---

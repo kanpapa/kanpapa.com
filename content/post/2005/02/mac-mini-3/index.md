@@ -2,7 +2,9 @@
 title: "Mac mini出荷完了！"
 date: 2005-02-11
 slug: "mac-mini-3"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

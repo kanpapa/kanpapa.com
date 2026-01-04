@@ -2,7 +2,9 @@
 title: "W-ZERO3現在在庫あり"
 date: 2006-01-08
 slug: "w-zero3-8"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

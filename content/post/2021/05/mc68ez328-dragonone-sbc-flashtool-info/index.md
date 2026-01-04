@@ -2,11 +2,11 @@
 title: "MC68EZ328 DragonOne SBC用にフラッシュメモリ操作ツールを開発中"
 date: 2021-05-04
 slug: "mc68ez328-dragonone-sbc-flashtool-info"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "mc68ez328"
   - "retrocomputing"
-tags: 
-  - "mc68ez328"
 image: "images/dragonone_flashtools_info1.png"
 ---
 

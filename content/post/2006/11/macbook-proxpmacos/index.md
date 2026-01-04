@@ -2,7 +2,9 @@
 title: "MacBook ProでXPとMacOSを同時に動かしたい！"
 date: 2006-11-15
 slug: "macbook-proxpmacos"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

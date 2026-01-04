@@ -2,9 +2,10 @@
 title: "COSMAC研究会でMaker Faire Tokyo 2019に出展しました（準備編）"
 date: 2019-08-10
 slug: "cosmac-maker-faire-tokyo-2019-2"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
-tags: 
   - "maker-faire"
   - "mft2019"
 image: "images/cosmac_mft2019_tag1.jpg"

@@ -2,7 +2,9 @@
 title: "MARYシステムで交互にLEDを点灯させる(MB4個と音付き)"
 date: 2011-03-28
 slug: "mary-led-4mcu"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 ---
 

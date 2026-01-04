@@ -2,11 +2,12 @@
 title: "m3piで2022年の書き初めをしてみました"
 date: 2022-01-03
 slug: "m3pi-newyear2022"
-categories: 
-  - "robot"
-tags: 
+categories:
+  - "Robot"
+tags:
   - "m3pi"
   - "mbed"
+  - "robot"
   - "書き初め"
 image: "images/m3pi_newyear2022.jpg"
 ---

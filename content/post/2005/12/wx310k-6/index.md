@@ -2,7 +2,9 @@
 title: "WX310Kのファームアップデート開始"
 date: 2005-12-21
 slug: "wx310k-6"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

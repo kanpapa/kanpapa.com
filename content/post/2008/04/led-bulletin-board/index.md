@@ -2,7 +2,9 @@
 title: "電光掲示板をつくってみた"
 date: 2008-04-26
 slug: "led-bulletin-board"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 ---
 

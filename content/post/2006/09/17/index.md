@@ -2,7 +2,9 @@
 title: "17万パケット突破！"
 date: 2006-09-12
 slug: "17"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

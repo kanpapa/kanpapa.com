@@ -2,13 +2,14 @@
 title: "メカナムロボットを組み立ててみました（おおたfab 第33回 素人でもロボットをつくりたい）"
 date: 2020-11-28
 slug: "mecanum-wheel-robot-part1"
-categories: 
-  - "robot"
-tags: 
+categories:
+  - "Robot"
+tags:
   - "arduino"
   - "otafab"
-  - "メカナムホイール"
   - "otafab-robot"
+  - "robot"
+  - "メカナムホイール"
 image: "images/mecanum_robot10.jpg"
 ---
 

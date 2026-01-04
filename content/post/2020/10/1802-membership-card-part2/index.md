@@ -2,9 +2,10 @@
 title: "1802 Membership Cardを作ってみました（モニタ動作編）"
 date: 2020-10-19
 slug: "1802-membership-card-part2"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
-tags: 
   - "membership-card"
 image: "images/Mcard1802_27C256_1.jpg"
 ---

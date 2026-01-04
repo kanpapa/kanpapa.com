@@ -2,7 +2,9 @@
 title: "Movable Type 4に戻しました"
 date: 2009-12-12
 slug: "movable-type-4-2"
-categories: 
+categories:
+  - "Server"
+tags:
   - "server"
 ---
 

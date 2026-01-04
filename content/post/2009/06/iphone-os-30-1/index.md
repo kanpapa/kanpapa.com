@@ -2,7 +2,9 @@
 title: "iPhone OS 3.0のアップデートが完了しました"
 date: 2009-06-17
 slug: "iphone-os-30-1"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

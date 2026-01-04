@@ -2,7 +2,9 @@
 title: "iPad Smart Case を買ってみました"
 date: 2012-06-16
 slug: "ipad-smart-case"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 image: "images/ipad_smart_case6.jpg"
 ---

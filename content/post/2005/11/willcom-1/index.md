@@ -2,7 +2,9 @@
 title: "大江戸温泉もWILLCOM"
 date: 2005-11-20
 slug: "willcom-1"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

@@ -3,11 +3,12 @@ title: 'TurtleBot2 kobukiがやってきた #8（バッテリー接続編）'
 date: 2024-05-12
 slug: turtlebot2-kobuki-8-connect-battery
 categories:
-- robot
+  - "Robot"
 tags:
-- kobuki
-- ros2
-- turtlebot2
+  - "kobuki"
+  - "robot"
+  - "ros2"
+  - "turtlebot2"
 image: images/turtlebot2-kobuki-8-eyecatch.jpg
 ---
 

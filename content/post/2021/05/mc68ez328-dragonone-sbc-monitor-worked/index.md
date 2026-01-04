@@ -2,11 +2,11 @@
 title: "MC68EZ328 DragonOne SBCでモニタプログラムが動きました"
 date: 2021-05-02
 slug: "mc68ez328-dragonone-sbc-monitor-worked"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "mc68ez328"
   - "retrocomputing"
-tags: 
-  - "mc68ez328"
 image: "images/dragonone_monitor_command1.png"
 ---
 

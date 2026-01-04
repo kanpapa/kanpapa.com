@@ -2,9 +2,10 @@
 title: "SBC1802を組み立ててみました"
 date: 2021-05-03
 slug: "sbc1802-assembled"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
-tags: 
   - "sbc1802"
 image: "images/sbc1802_build5.jpg"
 ---

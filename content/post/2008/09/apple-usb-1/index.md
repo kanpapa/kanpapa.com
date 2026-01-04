@@ -2,7 +2,9 @@
 title: "Apple 超コンパクト USB 電源アダプタ交換プログラム"
 date: 2008-09-20
 slug: "apple-usb-1"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

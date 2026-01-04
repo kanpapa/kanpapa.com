@@ -2,7 +2,9 @@
 title: "iPhone 5に機種変更しました"
 date: 2012-09-30
 slug: "iphone-5-1"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

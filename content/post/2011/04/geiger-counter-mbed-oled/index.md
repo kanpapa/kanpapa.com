@@ -2,7 +2,9 @@
 title: "mbedガイガーカウンターの検出情報をOLEDに表示してみました"
 date: 2011-04-10
 slug: "geiger-counter-mbed-oled"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/mbed_gm_oled2.jpg"
 ---

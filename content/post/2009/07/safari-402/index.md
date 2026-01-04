@@ -2,7 +2,9 @@
 title: "Safari 4.0.2のアップデートがありました。"
 date: 2009-07-09
 slug: "safari-402"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

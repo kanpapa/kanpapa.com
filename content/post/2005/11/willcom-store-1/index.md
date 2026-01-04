@@ -2,7 +2,9 @@
 title: "【WILLCOM STORE】ご注文商品出荷完了のお知らせ"
 date: 2005-11-24
 slug: "willcom-store-1"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

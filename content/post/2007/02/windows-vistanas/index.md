@@ -2,7 +2,9 @@
 title: "ハードディスクを交換してWindows Vistaは快調。でもNASが使えない問題が！"
 date: 2007-02-03
 slug: "windows-vistanas"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

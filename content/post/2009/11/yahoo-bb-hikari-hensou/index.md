@@ -2,7 +2,9 @@
 title: "Yahoo! BB 光の接続機器を返送しました"
 date: 2009-11-28
 slug: "yahoo-bb-hikari-hensou"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

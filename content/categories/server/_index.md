@@ -1,8 +1,8 @@
 ---
-title: "server"
-description: "server に関する記事"
+title: "Server"
+description: "Server に関する記事"
 image: "/images/categories/server.jpg"
 style:
-    background: "#2a9d8f"
+    background: "#2c3e50"
     color: "#fff"
 ---

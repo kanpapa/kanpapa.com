@@ -2,9 +2,10 @@
 title: "COSMAC研究会はメイカーズフリマ2019に参加予定です。"
 date: 2019-09-29
 slug: "makersfleamarket-cosmac-lab"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
-tags: 
   - "メイカーズフリマ"
 ---
 

@@ -2,7 +2,9 @@
 title: "毎日リセットしてます！"
 date: 2006-02-14
 slug: "post-50"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

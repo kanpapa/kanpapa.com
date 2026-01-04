@@ -2,7 +2,9 @@
 title: "iPhone 2.2.1をインストール"
 date: 2009-01-28
 slug: "iphone-221"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

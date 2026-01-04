@@ -3,13 +3,14 @@ title: TangNanoDCJ11MEMとPDP11GUIでPDP-11 BASICを動かしてみました
 date: 2024-08-02
 slug: tangnanodcj11mem-pdp-11-cpu-3-pdp11basic
 categories:
-- retrocomputing
+  - "Retro Computing"
 tags:
-- dcj11
-- fpga
-- pdp-11
-- tang-nano
-- tangnanodcj11mem
+  - "dcj11"
+  - "fpga"
+  - "pdp-11"
+  - "retrocomputing"
+  - "tang-nano"
+  - "tangnanodcj11mem"
 image: images/tangnanodcj11mem-ptapebasic-running1.jpg
 ---
 

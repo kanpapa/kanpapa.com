@@ -3,10 +3,11 @@ title: アセンブルリストをGitHubに登録しました。
 date: 2019-09-29
 slug: github-add-assemle-list
 categories:
-- cosmac
-- retrocomputing
+  - "Retro Computing"
 tags:
-- cosmac-toy
+  - "cosmac"
+  - "cosmac-toy"
+  - "retrocomputing"
 image: images/cosmac_sample_program_osc1_lst.png
 ---
 

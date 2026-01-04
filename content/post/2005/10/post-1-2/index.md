@@ -2,7 +2,9 @@
 title: "ひかり電話開通！"
 date: 2005-10-22
 slug: "post-1-2"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 image: "images/hikari_denwa_20060311170155.jpg"
 ---

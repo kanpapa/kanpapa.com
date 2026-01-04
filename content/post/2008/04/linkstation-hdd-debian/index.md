@@ -2,7 +2,9 @@
 title: "LinkStation LS-H250GLのHDDをDebian PCにつなぐ"
 date: 2008-04-30
 slug: "linkstation-hdd-debian"
-categories: 
+categories:
+  - "Server"
+tags:
   - "server"
 ---
 

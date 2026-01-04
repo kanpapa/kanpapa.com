@@ -2,7 +2,9 @@
 title: "えっ！もうすでにW-ZERO3[es]を入手???いいなぁ"
 date: 2006-07-26
 slug: "w-zero3es-11"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

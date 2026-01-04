@@ -2,7 +2,9 @@
 title: "ROSのPub/SubでLチカをしてみました"
 date: 2022-05-14
 slug: "ros-pub-sub-pigpio-blink-led"
-categories: 
+categories:
+  - "Robot"
+tags:
   - "robot"
 image: "images/ros_blink_led.jpg"
 ---

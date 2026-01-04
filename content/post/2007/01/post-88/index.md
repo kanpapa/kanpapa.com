@@ -2,7 +2,9 @@
 title: "やはり使い勝手かな。"
 date: 2007-01-22
 slug: "post-88"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

@@ -2,9 +2,10 @@
 title: "COSMAC MicroBoard Computerが動き始めました"
 date: 2019-10-03
 slug: "cosmac-mbc-started"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
-tags: 
   - "cosmac-mbc"
 image: "images/cosmac_mbc1.jpg"
 ---

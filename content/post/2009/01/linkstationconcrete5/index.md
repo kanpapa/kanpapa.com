@@ -2,7 +2,9 @@
 title: "LinkStationにConcrete5をいれてみる。"
 date: 2009-01-24
 slug: "linkstationconcrete5"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

@@ -2,14 +2,14 @@
 title: "ルンバをArduinoで制御してみました。（おおたfab 第41回 素人でもロボットをつくりたい）"
 date: 2021-04-04
 slug: "roomba-robot-1"
-categories: 
-  - "robot"
-  - "roomba"
-tags: 
+categories:
+  - "Robot"
+tags:
   - "arduino"
-  - "roomba"
   - "otafab"
   - "otafab-robot"
+  - "robot"
+  - "roomba"
 image: "images/roomba620_ok.jpg"
 ---
 

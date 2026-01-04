@@ -2,9 +2,10 @@
 title: "Nano Pi NEO用NASケースキットを組み立ててみた"
 date: 2017-11-18
 slug: "nano-pi-nas-case-kit"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
-tags: 
   - "nano-pi-neo"
 image: "images/nanopi_nas10.jpg"
 ---

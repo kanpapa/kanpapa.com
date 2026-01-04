@@ -2,7 +2,9 @@
 title: "MySQLを4.0から5.1にバージョンアップしました"
 date: 2009-12-01
 slug: "mysql4-5-upgrade"
-categories: 
+categories:
+  - "Server"
+tags:
   - "server"
 ---
 

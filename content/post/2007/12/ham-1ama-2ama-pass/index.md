@@ -2,7 +2,9 @@
 title: "１アマ、２アマの国家試験結果通知書が届きました。"
 date: 2007-12-30
 slug: "ham-1ama-2ama-pass"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

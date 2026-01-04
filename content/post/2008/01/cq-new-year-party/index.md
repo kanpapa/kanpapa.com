@@ -2,7 +2,9 @@
 title: "CQ NEW YEAR PARTYに顔を出してみる"
 date: 2008-01-02
 slug: "cq-new-year-party"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

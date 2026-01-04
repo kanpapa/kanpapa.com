@@ -2,7 +2,9 @@
 title: "超簡易版ガイガーカウンタを作ってみた"
 date: 2011-04-02
 slug: "geiger-counter-1st"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/geiger_counter1.jpg"
 ---

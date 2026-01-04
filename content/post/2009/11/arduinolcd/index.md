@@ -2,7 +2,9 @@
 title: "Arduino用のLCDシールドを作る"
 date: 2009-11-23
 slug: "arduinolcd"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/lcd_shield.jpg"
 ---

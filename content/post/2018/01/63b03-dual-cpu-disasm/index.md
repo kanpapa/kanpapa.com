@@ -2,10 +2,11 @@
 title: "63B03デュアルCPUマイコンボードで遊んでみた（２）解析編"
 date: 2018-01-17
 slug: "63b03-dual-cpu-disasm"
-categories: 
-  - "retrocomputing"
-tags: 
+categories:
+  - "Retro Computing"
+tags:
   - "63b03"
+  - "retrocomputing"
 image: "images/63b03_intelhex_binary.png"
 ---
 

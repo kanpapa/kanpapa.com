@@ -3,14 +3,15 @@ title: 'ESP32でミニカーを作る #4 距離を表示する編（おおたfab
 date: 2025-07-05
 slug: otafab-esp32-minicar4
 categories:
-- electronics
+  - "Electronics"
 tags:
-- arduino
-- esp32
-- xiao
-- otafab
-- 電子工作
-- otafab-esp32
+  - "arduino"
+  - "electronics"
+  - "esp32"
+  - "otafab"
+  - "otafab-esp32"
+  - "xiao"
+  - "電子工作"
 image: images/esp32-minicar1.jpg
 ---
 

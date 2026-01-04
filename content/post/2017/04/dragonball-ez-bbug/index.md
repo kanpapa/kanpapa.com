@@ -2,11 +2,11 @@
 title: "DragonBall-EZで遊んでみた（BBUG.EXE編）"
 date: 2017-04-29
 slug: "dragonball-ez-bbug"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "mc68ez328"
   - "retrocomputing"
-tags: 
-  - "mc68ez328"
 image: "images/MC68EZ328CPU.jpg"
 ---
 

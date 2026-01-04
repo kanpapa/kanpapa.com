@@ -2,9 +2,10 @@
 title: "COSMAC MBC CPUボード Rev. 0.2が完成しました"
 date: 2019-11-16
 slug: "cosmac-mbc-cpu-rev02-finished"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
-tags: 
   - "cosmac-mbc"
 image: "images/cosmac_mbc_finished.jpg"
 ---

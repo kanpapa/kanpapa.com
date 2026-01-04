@@ -2,7 +2,9 @@
 title: "コドモバイルのイチなびでハマる"
 date: 2007-02-24
 slug: "post-94"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

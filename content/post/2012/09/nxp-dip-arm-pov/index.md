@@ -2,7 +2,9 @@
 title: "NXP DIP ARMでPOVをつくってみました"
 date: 2012-09-08
 slug: "nxp-dip-arm-pov"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 ---
 

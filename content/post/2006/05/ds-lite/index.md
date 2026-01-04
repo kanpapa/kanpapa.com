@@ -2,7 +2,9 @@
 title: "DS Liteを買いました"
 date: 2006-05-04
 slug: "ds-lite"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

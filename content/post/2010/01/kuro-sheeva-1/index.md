@@ -2,7 +2,9 @@
 title: "KURO-SHEEVA (玄柴) 1月下旬少数入荷決定しました。"
 date: 2010-01-22
 slug: "kuro-sheeva-1"
-categories: 
+categories:
+  - "Server"
+tags:
   - "server"
 ---
 

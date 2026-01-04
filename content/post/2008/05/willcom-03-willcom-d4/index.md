@@ -2,7 +2,9 @@
 title: "WILLCOM 03とWILLCOM D4を触ってきました"
 date: 2008-05-28
 slug: "willcom-03-willcom-d4"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 image: "images/willcomD4_20080528233044.jpg"
 ---

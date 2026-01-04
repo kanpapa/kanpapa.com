@@ -2,7 +2,9 @@
 title: "LPCXpresso LPC1768にVFDを接続してみました"
 date: 2011-10-31
 slug: "vfd-lpcxpresso-lpc1768"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/VFD_LPCXpresso.jpg"
 ---

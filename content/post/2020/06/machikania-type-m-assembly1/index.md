@@ -2,7 +2,9 @@
 title: "MachiKania type Mを動かしてみました"
 date: 2020-06-28
 slug: "machikania-type-m-assembly1"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/machikania_typem_7.jpg"
 ---

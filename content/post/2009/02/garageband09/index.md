@@ -2,7 +2,9 @@
 title: "GarageBand'09 アップデート"
 date: 2009-02-04
 slug: "garageband09"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

@@ -2,7 +2,9 @@
 title: "ガイガーカウンタの製作準備中"
 date: 2011-03-28
 slug: "gm-tube-1"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/gm_d3372.jpg"
 ---

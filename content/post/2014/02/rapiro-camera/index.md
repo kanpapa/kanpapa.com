@@ -2,7 +2,9 @@
 title: "RAPIROにカメラを取り付けました"
 date: 2014-02-16
 slug: "rapiro-camera"
-categories: 
+categories:
+  - "Robot"
+tags:
   - "robot"
 ---
 

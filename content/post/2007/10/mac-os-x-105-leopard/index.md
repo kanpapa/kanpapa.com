@@ -2,7 +2,9 @@
 title: "Mac OS X 10.5 Leopardをインストールしました"
 date: 2007-10-26
 slug: "mac-os-x-105-leopard"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

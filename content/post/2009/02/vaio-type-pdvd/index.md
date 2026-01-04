@@ -2,7 +2,9 @@
 title: "VAIO type PにポータブルDVDドライブをつなぐ"
 date: 2009-02-03
 slug: "vaio-type-pdvd"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

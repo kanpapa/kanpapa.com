@@ -2,7 +2,9 @@
 title: "次はタッチ＆トライイベント！"
 date: 2006-07-09
 slug: "post-75"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

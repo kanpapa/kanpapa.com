@@ -2,7 +2,9 @@
 title: "MINDSTOMS NXTの本"
 date: 2006-10-28
 slug: "mindstoms-nxt"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

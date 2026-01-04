@@ -2,10 +2,11 @@
 title: "CH552Eでモニタプログラムを動かしてみました"
 date: 2023-05-06
 slug: "ch552e-monitor"
-categories: 
-  - "electronics"
-tags: 
+categories:
+  - "Electronics"
+tags:
   - "ch55x"
+  - "electronics"
 image: "images/ch552e_monitor_startup1.png"
 ---
 

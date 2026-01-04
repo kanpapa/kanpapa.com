@@ -2,7 +2,9 @@
 title: "エレキジャック eJackino基板 当選しました"
 date: 2009-05-21
 slug: "ejackino"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/ejackino.jpg"
 ---

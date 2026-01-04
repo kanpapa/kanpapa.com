@@ -2,7 +2,9 @@
 title: "さくらのVPSにサーバを切り替えました"
 date: 2010-08-25
 slug: "switch-vps"
-categories: 
+categories:
+  - "Server"
+tags:
   - "server"
 ---
 

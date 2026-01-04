@@ -2,9 +2,10 @@
 title: "デスクトップPCをミニPC ThinkCentre M715qにリプレースしてみました"
 date: 2021-02-06
 slug: "thinkcentre-m715q"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
-tags: 
   - "windows"
 image: "images/thinkcentre_m715q.jpg"
 ---

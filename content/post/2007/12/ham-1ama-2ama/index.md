@@ -2,7 +2,9 @@
 title: "１アマ、２アマ受験しました。"
 date: 2007-12-10
 slug: "ham-1ama-2ama"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 image: "images/ham_2ama_20071210195841.jpg"
 ---

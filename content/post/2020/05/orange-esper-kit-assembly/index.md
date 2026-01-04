@@ -2,9 +2,10 @@
 title: "小さなIoTパソコン ORANGE-ESPerを組み立てました"
 date: 2020-05-03
 slug: "orange-esper-kit-assembly"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
-tags: 
   - "esp32"
 image: "images/orange_esp32er_5.jpg"
 ---

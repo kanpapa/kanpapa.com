@@ -2,7 +2,9 @@
 title: "はじめてのHCS08"
 date: 2009-02-23
 slug: "hcs08"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 image: "images/hcs08_led.jpg"
 ---

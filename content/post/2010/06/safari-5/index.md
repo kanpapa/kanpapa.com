@@ -2,7 +2,9 @@
 title: "Safari 5のアップデートがありました。"
 date: 2010-06-08
 slug: "safari-5"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

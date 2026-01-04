@@ -2,7 +2,9 @@
 title: "スイッチサイエンスさんでリフロー初体験"
 date: 2014-09-15
 slug: "ssci-openhouse-reflow"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/ssci_reflow8.jpg"
 ---

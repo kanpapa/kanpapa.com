@@ -2,9 +2,10 @@
 title: "MAX10-FB FPGAで秋月電子の球体液晶ユニットでミクさんを動かしてみた"
 date: 2016-07-18
 slug: "akizuki-globe-lcd-miku"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
-tags: 
   - "fpga"
 image: "images/globe_lcd_miku2.jpg"
 ---

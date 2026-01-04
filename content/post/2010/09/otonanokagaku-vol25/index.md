@@ -2,7 +2,9 @@
 title: "大人の科学 Vol.25 二眼レフカメラを試す"
 date: 2010-09-12
 slug: "otonanokagaku-vol25"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

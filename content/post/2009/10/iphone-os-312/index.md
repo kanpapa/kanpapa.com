@@ -2,7 +2,9 @@
 title: "iPhone OS 3.1.2アップデートがありました"
 date: 2009-10-09
 slug: "iphone-os-312"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

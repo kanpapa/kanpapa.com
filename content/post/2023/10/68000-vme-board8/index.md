@@ -3,11 +3,12 @@ title: 68000 VMEボードで遊んでみました（8）拡張ボード入手編
 date: 2023-10-08
 slug: 68000-vme-board8
 categories:
-- retrocomputing
+  - "Retro Computing"
 tags:
-- dvmecpu2
-- vme
-- '68000'
+  - "68000"
+  - "dvmecpu2"
+  - "retrocomputing"
+  - "vme"
 image: images/vme-board8_dvme_series1.jpg
 ---
 

@@ -2,11 +2,11 @@
 title: "MC68EZ328 DragonOne SBCでuClinuxを動かす(10) ～自作アプリケーションを動かす～"
 date: 2021-05-31
 slug: "mc68ez328-dragonone-sbc-uclinux-part10"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "mc68ez328"
   - "retrocomputing"
-tags: 
-  - "mc68ez328"
 image: "images/mc68ez328_dragonone_sbc_uclinux_part10_hello.png"
 ---
 

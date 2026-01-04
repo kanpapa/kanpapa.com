@@ -2,7 +2,9 @@
 title: "Mac OS X 10.6.2 アップデート"
 date: 2009-11-10
 slug: "mac-os-x-1062"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

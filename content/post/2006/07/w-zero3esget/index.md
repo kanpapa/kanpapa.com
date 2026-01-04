@@ -2,7 +2,9 @@
 title: "W-ZERO3[es]の紙モックをGET"
 date: 2006-07-13
 slug: "w-zero3esget"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

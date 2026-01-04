@@ -2,7 +2,9 @@
 title: "出ちゃいましたね。MacBook。"
 date: 2006-05-17
 slug: "macbook"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

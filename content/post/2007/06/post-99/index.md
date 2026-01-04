@@ -2,7 +2,9 @@
 title: "ハム再開"
 date: 2007-06-04
 slug: "post-99"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

@@ -2,7 +2,9 @@
 title: "VAIO type P 商品発送のお知らせ"
 date: 2009-01-31
 slug: "vaio-type-p-3"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

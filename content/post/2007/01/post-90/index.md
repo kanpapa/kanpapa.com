@@ -2,7 +2,9 @@
 title: "今日の発表"
 date: 2007-01-22
 slug: "post-90"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

@@ -3,12 +3,13 @@ title: TangConsoleDCJ11MEMを組み立てました
 date: 2025-10-26
 slug: pdp-11-tangconsole-dcj11-mem-1
 categories:
-- retrocomputing
+  - "Retro Computing"
 tags:
-- dcj11
-- pdp-11
-- tangconsole
-- tangconsoledcj11mem
+  - "dcj11"
+  - "pdp-11"
+  - "retrocomputing"
+  - "tangconsole"
+  - "tangconsoledcj11mem"
 image: images/tangconsoledcj11mem-power-on1.jpg
 ---
 

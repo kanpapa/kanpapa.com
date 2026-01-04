@@ -2,7 +2,9 @@
 title: "iPhoneの保護にW-ZERO3[es]のソフトケースを活用する。"
 date: 2008-07-13
 slug: "iphone-softcase-w-zero3es"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

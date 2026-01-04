@@ -2,7 +2,9 @@
 title: "今日はアップデート祭り"
 date: 2006-01-11
 slug: "post-38"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

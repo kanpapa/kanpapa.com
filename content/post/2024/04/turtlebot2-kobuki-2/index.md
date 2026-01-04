@@ -3,11 +3,12 @@ title: 'TurtleBot2 kobukiがやってきた #2（動作確認編）'
 date: 2024-04-25
 slug: turtlebot2-kobuki-2
 categories:
-- robot
+  - "Robot"
 tags:
-- kobuki
-- ros2
-- turtlebot2
+  - "kobuki"
+  - "robot"
+  - "ros2"
+  - "turtlebot2"
 image: images/turtlebot2-kobuki-poweron1.jpg
 ---
 

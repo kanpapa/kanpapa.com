@@ -2,7 +2,9 @@
 title: "eJackino miniでLCD温度計をつくる"
 date: 2009-06-21
 slug: "ejackino-minilcd"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/ejackino_mini_lm73.jpg"
 ---

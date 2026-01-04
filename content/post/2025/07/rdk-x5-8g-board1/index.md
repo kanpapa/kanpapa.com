@@ -3,14 +3,14 @@ title: D-Robotics RDK X5のAIでルンバを動かしてみた
 date: 2025-07-15
 slug: rdk-x5-8g-board1
 categories:
-- robot
-- roomba
+  - "Robot"
 tags:
-- ai
-- d-robotics
-- rdk-x5
-- roomba
-- rdk
+  - "ai"
+  - "d-robotics"
+  - "rdk"
+  - "rdk-x5"
+  - "robot"
+  - "roomba"
 image: images/rdk-x5-roomba-1.jpg
 ---
 

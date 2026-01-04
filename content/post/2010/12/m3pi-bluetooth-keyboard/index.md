@@ -2,7 +2,9 @@
 title: "mbed robot (m3pi)をBluetooth keyboardでコントロールしてみました"
 date: 2010-12-11
 slug: "m3pi-bluetooth-keyboard"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/m3pi-bluetooth-keyboard-1.jpg"
 ---

@@ -2,7 +2,9 @@
 title: "MovableType 4.23にアップグレードしました"
 date: 2008-12-03
 slug: "movabletype-423"
-categories: 
+categories:
+  - "Server"
+tags:
   - "server"
 ---
 

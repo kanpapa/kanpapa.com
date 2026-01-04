@@ -2,7 +2,9 @@
 title: "ようやくメール回復"
 date: 2006-02-09
 slug: "post-48"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

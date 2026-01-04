@@ -2,7 +2,9 @@
 title: "バスで移動中"
 date: 2006-01-03
 slug: "post-36"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

@@ -3,10 +3,11 @@ title: RCA CDP1802 COSMACを動かしてみた(10) シールド基板を作っ�
 date: 2019-05-31
 slug: rca-cdp1802-cosmac10
 categories:
-- cosmac
-- retrocomputing
+  - "Retro Computing"
 tags:
-- cosmac-toy
+  - "cosmac"
+  - "cosmac-toy"
+  - "retrocomputing"
 image: images/cosmac_shield_organ_lcd.jpg
 ---
 

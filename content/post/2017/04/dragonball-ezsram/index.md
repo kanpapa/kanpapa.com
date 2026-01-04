@@ -2,11 +2,11 @@
 title: "DragonBall-EZで遊んでみた（SRAM接続編）"
 date: 2017-04-29
 slug: "dragonball-ezsram"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "mc68ez328"
   - "retrocomputing"
-tags: 
-  - "mc68ez328"
 image: "images/mc68ez328_sram2.jpg"
 ---
 

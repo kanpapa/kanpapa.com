@@ -2,9 +2,10 @@
 title: "micro:bitのプログラムをmbedで開発するには"
 date: 2017-12-16
 slug: "microbit-mbed-samples"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
-tags: 
   - "mbed"
   - "micro-bit"
 image: "images/microbit_mbed_samples.png"

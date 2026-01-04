@@ -2,7 +2,9 @@
 title: "CQ NEW YEAR PARTYの結果"
 date: 2008-01-03
 slug: "cq-new-year-party-1"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 image: "images/cq-new-year-party-20080103144601.jpg"
 ---

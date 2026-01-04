@@ -2,7 +2,9 @@
 title: "シールが集まりました！３枚目！"
 date: 2006-11-23
 slug: "wsim-clock-3"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

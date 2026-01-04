@@ -3,13 +3,14 @@ title: Maker Faire Tokyo 2020の出展にむけてCOVID-19対策準備中です�
 date: 2020-08-17
 slug: mftokyo2020-covid-19-cosmac-vip-keyboard
 categories:
-- cosmac
-- retrocomputing
+  - "Retro Computing"
 tags:
-- cosmac-mbc
-- esp32
-- maker-faire
-- mft2020
+  - "cosmac"
+  - "cosmac-mbc"
+  - "esp32"
+  - "maker-faire"
+  - "mft2020"
+  - "retrocomputing"
 image: images/cosmac_vip_web_keyboard1.png
 ---
 

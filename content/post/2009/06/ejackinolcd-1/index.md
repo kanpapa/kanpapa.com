@@ -2,7 +2,9 @@
 title: "eJackinoでLCD表示温度計をつくる"
 date: 2009-06-06
 slug: "ejackinolcd-1"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/eJackino_lm73.jpg"
 ---

@@ -3,10 +3,11 @@ title: COSMAC Toy Computerの技術資料や成果物をGitHub.comに移行し�
 date: 2022-08-23
 slug: cosmac-toy-computergithubcom
 categories:
-- cosmac
-- retrocomputing
+  - "Retro Computing"
 tags:
-- cosmac-toy
+  - "cosmac"
+  - "cosmac-toy"
+  - "retrocomputing"
 image: images/cosmac_lab_slide1.jpg
 ---
 

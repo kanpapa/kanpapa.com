@@ -2,7 +2,9 @@
 title: "大人の科学 パタパタ電波時計を組み立てました"
 date: 2013-04-20
 slug: "patapata-radio-clock"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

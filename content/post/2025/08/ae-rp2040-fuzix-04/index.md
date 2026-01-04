@@ -2,12 +2,13 @@
 title: "AE-RP2040でFUZIX 0.4を動かしてみました"
 date: 2025-08-24
 slug: "ae-rp2040-fuzix-04"
-categories: 
+categories:
+  - "Electronics"
+tags:
+  - "akiduki-denshi"
   - "electronics"
-tags: 
   - "fuzix"
   - "rp2040"
-  - "akiduki-denshi"
 image: "images/ae-rp2040-fuzix2.jpg"
 ---
 

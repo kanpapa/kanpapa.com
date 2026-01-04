@@ -2,9 +2,10 @@
 title: "ROSのトピックでPololu Romi実機と3DシミュレーターGazeboを動かしてみました"
 date: 2022-01-23
 slug: "romi-ros-rosbag-gazebo"
-categories: 
+categories:
+  - "Robot"
+tags:
   - "robot"
-tags: 
   - "romi"
 image: "images/romi_ros_gazebo.png"
 ---

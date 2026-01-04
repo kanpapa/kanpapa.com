@@ -2,7 +2,9 @@
 title: "第17回 IT基礎技術勉強会に参加してみました"
 date: 2012-06-09
 slug: "itbeginner17"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

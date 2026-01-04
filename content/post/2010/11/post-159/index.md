@@ -2,7 +2,9 @@
 title: "天気を予報するカエルくん"
 date: 2010-11-11
 slug: "post-159"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

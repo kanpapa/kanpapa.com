@@ -3,13 +3,14 @@ title: TangConsoleDCJ11MEMにWS2812 LEDアレイを接続しました
 date: 2025-11-09
 slug: pdp-11-tangconsole-dcj11-mem-ws2812-led-array
 categories:
-- retrocomputing
+  - "Retro Computing"
 tags:
-- dcj11
-- pdp-11
-- tangconsole
-- tangconsoledcj11mem
-- ws2812
+  - "dcj11"
+  - "pdp-11"
+  - "retrocomputing"
+  - "tangconsole"
+  - "tangconsoledcj11mem"
+  - "ws2812"
 image: images/pdp-11-tangconsole-dcj11-mem-ws2812-led-array1.jpg
 ---
 

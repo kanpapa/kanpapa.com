@@ -2,7 +2,9 @@
 title: "BBTVのセットトップボックスが届きました"
 date: 2006-03-27
 slug: "bbtv"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

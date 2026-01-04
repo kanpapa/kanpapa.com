@@ -2,7 +2,9 @@
 title: "PSoC 5LP Prototyping Kitを動かしてみた（電圧計&amp;LCD編）"
 date: 2015-07-12
 slug: "psoc-5lp-prototyping-lit-lcd"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/psoc_adc_lcd.jpg"
 ---

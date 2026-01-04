@@ -2,7 +2,9 @@
 title: "ツクモからお手紙が来た"
 date: 2009-03-09
 slug: "post-154"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

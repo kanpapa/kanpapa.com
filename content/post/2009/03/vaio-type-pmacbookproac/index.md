@@ -2,7 +2,9 @@
 title: "VAIO type PでMacBookProのACウォールプラグを使う"
 date: 2009-03-13
 slug: "vaio-type-pmacbookproac"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 image: "images/macbook_pro_prug_vaio.jpg"
 ---

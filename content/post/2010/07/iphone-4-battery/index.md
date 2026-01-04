@@ -2,7 +2,9 @@
 title: "iPhone 4の電池の減りが速い件が解消したかも"
 date: 2010-07-01
 slug: "iphone-4-battery"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

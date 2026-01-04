@@ -2,7 +2,9 @@
 title: "キャリア設定のアップデートでエラー(0xE8000001)"
 date: 2008-08-05
 slug: "iphone-0xe8000001"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

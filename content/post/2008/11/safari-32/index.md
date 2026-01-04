@@ -2,7 +2,9 @@
 title: "Safari 3.2のアップデートがありました。"
 date: 2008-11-13
 slug: "safari-32"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

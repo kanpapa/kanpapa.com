@@ -2,9 +2,10 @@
 title: "Wio NODEでIoTセキュリティを考えさせられた"
 date: 2018-01-02
 slug: "wio-node-iot-security"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "retrocomputing"
-tags: 
   - "wio-node"
 image: "images/wio_node.jpg"
 ---

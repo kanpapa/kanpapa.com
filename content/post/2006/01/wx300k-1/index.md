@@ -2,7 +2,9 @@
 title: "WX300Kもいいよね?"
 date: 2006-01-29
 slug: "wx300k-1"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

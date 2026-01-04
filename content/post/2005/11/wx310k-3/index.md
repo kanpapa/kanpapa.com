@@ -2,7 +2,9 @@
 title: "明日のWX310Kへの機種変更に備えて"
 date: 2005-11-23
 slug: "wx310k-3"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

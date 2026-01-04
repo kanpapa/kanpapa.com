@@ -2,7 +2,9 @@
 title: "W-ZERO3の人気"
 date: 2006-04-18
 slug: "w-zero3-13"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

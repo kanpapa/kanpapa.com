@@ -2,10 +2,11 @@
 title: "メカナムロボットのLesson2で使っている超音波センサーを動かしてみました。"
 date: 2020-12-31
 slug: "mecanum-wheel-robot-github-lesson2-hc-sr04-html"
-categories: 
-  - "robot"
-tags: 
+categories:
+  - "Robot"
+tags:
   - "arduino"
+  - "robot"
   - "メカナムホイール"
 image: "images/HC-SR04_test.jpeg"
 ---

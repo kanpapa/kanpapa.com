@@ -3,12 +3,13 @@ title: ESP32でmicroSDカードを読み書きしてみました（おおたfab 
 date: 2023-01-21
 slug: esp32-otafab-study-microsd
 categories:
-- electronics
+  - "Electronics"
 tags:
-- arduino
-- esp32
-- otafab
-- otafab-esp32
+  - "arduino"
+  - "electronics"
+  - "esp32"
+  - "otafab"
+  - "otafab-esp32"
 image: images/esp32-otafab-study-microsd_sparkfun1.jpg
 ---
 

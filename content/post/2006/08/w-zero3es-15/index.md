@@ -2,7 +2,9 @@
 title: "ウィルコムストアでのW-ZERO3[es]単体販売"
 date: 2006-08-01
 slug: "w-zero3es-15"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

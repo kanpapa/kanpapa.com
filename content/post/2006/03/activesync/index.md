@@ -2,7 +2,9 @@
 title: "ウィルスバスターをお使いの母艦でActiveSyncする方法"
 date: 2006-03-14
 slug: "activesync"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

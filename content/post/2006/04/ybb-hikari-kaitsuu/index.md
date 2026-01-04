@@ -2,7 +2,9 @@
 title: "YBB光が開通しました。"
 date: 2006-04-02
 slug: "ybb-hikari-kaitsuu"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 image: "images/ybb_hikari_20060404081330.jpg"
 ---

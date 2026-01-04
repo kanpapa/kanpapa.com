@@ -3,10 +3,11 @@ title: COSMAC MBCでバス基板を使ってみました
 date: 2020-06-06
 slug: cosmac-mbc-busboard
 categories:
-- cosmac
-- retrocomputing
+  - "Retro Computing"
 tags:
-- cosmac-mbc
+  - "cosmac"
+  - "cosmac-mbc"
+  - "retrocomputing"
 image: images/tomi9s_mini_bus_board.jpg
 ---
 

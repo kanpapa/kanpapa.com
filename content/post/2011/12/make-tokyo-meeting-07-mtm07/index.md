@@ -2,7 +2,9 @@
 title: "Make: Tokyo Meeting 07 (MTM07)に出展しました"
 date: 2011-12-06
 slug: "make-tokyo-meeting-07-mtm07"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 image: "images/MTM07_02.jpg"
 ---

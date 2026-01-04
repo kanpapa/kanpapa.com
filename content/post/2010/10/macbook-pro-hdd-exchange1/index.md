@@ -2,7 +2,9 @@
 title: "MacBook Proのハードディスク換装の前準備をする"
 date: 2010-10-03
 slug: "macbook-pro-hdd-exchange1"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 image: "images/mac_diskcopy3.jpg"
 ---

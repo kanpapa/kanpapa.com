@@ -3,9 +3,10 @@ title: M5StackでModdableを試してみました
 date: 2023-04-23
 slug: m5stack-moddable-step1
 categories:
-- electronics
+  - "Electronics"
 tags:
-- m5stack
+  - "electronics"
+  - "m5stack"
 image: images/moddable_bongo_color_ng1.jpg
 ---
 

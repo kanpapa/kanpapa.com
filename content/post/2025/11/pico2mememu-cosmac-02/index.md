@@ -3,15 +3,16 @@ title: Pico2MEMEmuCosmacを基板化しました
 date: 2025-11-02
 slug: pico2mememu-cosmac-02
 categories:
-- cosmac
-- electronics
+  - "Electronics"
+  - "Retro Computing"
 tags:
-- cdp1802
-- cosmac
-- pico2mememu
-- pico2romemu
-- raspberry-pi-pico2
-- sbc1802
+  - "cdp1802"
+  - "cosmac"
+  - "electronics"
+  - "pico2mememu"
+  - "pico2romemu"
+  - "raspberry-pi-pico2"
+  - "sbc1802"
 image: images/Pico2MEMEmuCosmac.jpg
 ---
 

@@ -2,7 +2,9 @@
 title: "VAIO type P 明日発売"
 date: 2009-01-15
 slug: "vaio-type-p-2"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

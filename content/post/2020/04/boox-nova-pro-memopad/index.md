@@ -2,9 +2,10 @@
 title: "BOOX Nova Pro 電子ペーパータブレットで思いっきりメモ書きをしてみた"
 date: 2020-04-19
 slug: "boox-nova-pro-memopad"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
-tags: 
   - "ガジェット"
 image: "images/boox_memo1.jpg"
 ---

@@ -2,7 +2,9 @@
 title: "VAIO type Pの実機をみてきます"
 date: 2009-01-10
 slug: "vaio-type-p-1"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

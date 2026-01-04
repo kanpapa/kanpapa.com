@@ -2,7 +2,9 @@
 title: "ワイヤレスキーボードを買ってみました。"
 date: 2006-02-03
 slug: "post-43"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

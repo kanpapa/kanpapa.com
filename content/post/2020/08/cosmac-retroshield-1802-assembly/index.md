@@ -2,9 +2,10 @@
 title: "COSMAC RetroShield 1802を動かしてみました"
 date: 2020-08-30
 slug: "cosmac-retroshield-1802-assembly"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
-tags: 
   - "retroshield"
 image: "images/retrosheild1602_mega_connect.jpg"
 ---

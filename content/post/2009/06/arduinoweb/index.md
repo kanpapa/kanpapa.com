@@ -2,7 +2,9 @@
 title: "ArduinoでWebサーバを動かす"
 date: 2009-06-27
 slug: "arduinoweb"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/arduino_ether1.jpg"
 ---

@@ -2,7 +2,9 @@
 title: "mbed robot (m3pi)に距離センサーをつけてみました"
 date: 2011-11-23
 slug: "mbed-m3pi-distance"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/m3pi_distance_sensor.jpg"
 ---

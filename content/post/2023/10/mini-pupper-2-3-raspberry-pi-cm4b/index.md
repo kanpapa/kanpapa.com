@@ -3,9 +3,10 @@ title: Mini Pupper 2 を組み立ててみました (3) Raspberry Pi CM4をModel
 date: 2023-10-23
 slug: mini-pupper-2-3-raspberry-pi-cm4b
 categories:
-- robot
+  - "Robot"
 tags:
-- mini-pupper-2
+  - "mini-pupper-2"
+  - "robot"
 image: images/MP2_3_cm4_8.jpg
 ---
 

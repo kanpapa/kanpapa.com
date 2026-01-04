@@ -2,10 +2,11 @@
 title: "ブログテーマをRimoに変更しました"
 date: 2021-02-14
 slug: "movabletype-theme-rimo"
-categories: 
-  - "server"
-tags: 
+categories:
+  - "Server"
+tags:
   - "movable-type"
+  - "server"
 image: "images/mt_themes_rimo.png"
 ---
 

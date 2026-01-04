@@ -3,10 +3,11 @@ title: RCA CDP1802 COSMACを動かしてみた(8) 電子オルガンを作って
 date: 2019-02-17
 slug: rca-cdp1802-cosmac8
 categories:
-- cosmac
-- retrocomputing
+  - "Retro Computing"
 tags:
-- cosmac-toy
+  - "cosmac"
+  - "cosmac-toy"
+  - "retrocomputing"
 image: images/cosmac_organ1.jpg
 ---
 

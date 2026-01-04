@@ -2,7 +2,9 @@
 title: "ウィルコム「モバイルSuicaスタートキャンペーン」に当選しました"
 date: 2009-10-10
 slug: "willcom-suica-campaign"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

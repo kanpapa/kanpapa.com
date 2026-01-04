@@ -2,7 +2,9 @@
 title: "VFDでお天気情報を表示できました。"
 date: 2011-11-20
 slug: "vfd-mbed-weather"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/vfd_mbed_weather.jpg"
 ---

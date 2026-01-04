@@ -2,7 +2,9 @@
 title: "Leopardのアップデートでました！"
 date: 2007-10-28
 slug: "leopard-2"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

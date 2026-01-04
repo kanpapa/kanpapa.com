@@ -2,7 +2,9 @@
 title: "YMF825 FM音源モジュールを使ってみた"
 date: 2017-08-06
 slug: "ymf825-fm-board"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/ymf825_board.jpg"
 ---

@@ -2,7 +2,9 @@
 title: "カブト幼虫１３匹"
 date: 2005-09-18
 slug: "post-139"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

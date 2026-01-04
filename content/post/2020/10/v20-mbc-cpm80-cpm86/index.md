@@ -2,9 +2,10 @@
 title: "V20-MBCを動かしてみました"
 date: 2020-10-06
 slug: "v20-mbc-cpm80-cpm86"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "retrocomputing"
-tags: 
   - "v20"
 image: "images/v20_mbc_cpu_changed.jpg"
 ---

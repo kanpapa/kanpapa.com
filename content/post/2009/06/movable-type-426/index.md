@@ -2,7 +2,9 @@
 title: "Movable Type 4.26にアップグレードしました"
 date: 2009-06-17
 slug: "movable-type-426"
-categories: 
+categories:
+  - "Server"
+tags:
   - "server"
 ---
 

@@ -2,7 +2,9 @@
 title: "なんとOperaまでアップデート"
 date: 2006-02-21
 slug: "opera"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

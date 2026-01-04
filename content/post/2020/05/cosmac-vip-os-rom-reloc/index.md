@@ -2,9 +2,10 @@
 title: "COSMAC VIP OSをROMの空きエリアに移動しました"
 date: 2020-05-10
 slug: "cosmac-vip-os-rom-reloc"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
-tags: 
   - "cosmac-mbc"
 image: "images/cosmac_vip_os_rom_replace.jpg"
 ---

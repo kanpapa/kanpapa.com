@@ -2,7 +2,9 @@
 title: "工場ハック サマースクールに行ってきました"
 date: 2012-07-23
 slug: "factory-hack-summer"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 image: "images/fhack5.jpg"
 ---

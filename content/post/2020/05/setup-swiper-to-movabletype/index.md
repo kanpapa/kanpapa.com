@@ -2,10 +2,11 @@
 title: "Swiperを使ってCOSMAC研究会のトップページの画像をスライド表示にしてみました。"
 date: 2020-05-31
 slug: "setup-swiper-to-movabletype"
-categories: 
-  - "server"
-tags: 
+categories:
+  - "Server"
+tags:
   - "movable-type"
+  - "server"
 image: "images/cosmac_lab_swiper.jpg"
 ---
 

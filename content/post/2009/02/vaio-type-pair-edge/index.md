@@ -2,7 +2,9 @@
 title: "VAIO type PでAIR-EDGEモバイル環境をつくる"
 date: 2009-02-16
 slug: "vaio-type-pair-edge"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

@@ -2,7 +2,9 @@
 title: "Leopardはやはりちょっと不安定なところもあるかも"
 date: 2007-10-27
 slug: "leopard-1"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

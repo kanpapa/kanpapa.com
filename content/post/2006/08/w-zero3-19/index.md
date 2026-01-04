@@ -2,7 +2,9 @@
 title: "W-ZERO3メールで文字化け"
 date: 2006-08-27
 slug: "w-zero3-19"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

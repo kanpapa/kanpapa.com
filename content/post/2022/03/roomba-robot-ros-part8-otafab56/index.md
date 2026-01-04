@@ -2,14 +2,14 @@
 title: "ルンバで地図をつくってみました　その３ （おおたfab 第56回 素人でもロボットをつくりたい）"
 date: 2022-03-07
 slug: "roomba-robot-ros-part8-otafab56"
-categories: 
-  - "robot"
-  - "roomba"
-tags: 
-  - "roomba"
-  - "ros1"
+categories:
+  - "Robot"
+tags:
   - "otafab"
   - "otafab-robot"
+  - "robot"
+  - "roomba"
+  - "ros1"
 image: "images/Roomba_slam_2022-03-06_15-01-35.png"
 ---
 

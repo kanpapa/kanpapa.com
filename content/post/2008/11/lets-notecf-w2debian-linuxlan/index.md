@@ -2,7 +2,9 @@
 title: "Let's Note(CF-W2)のdebian Linuxで無線LANに接続"
 date: 2008-11-01
 slug: "lets-notecf-w2debian-linuxlan"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

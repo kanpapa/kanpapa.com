@@ -2,7 +2,9 @@
 title: "大人の科学マガジン Vol.27 テクノ工作セットで遊ぶ"
 date: 2010-05-22
 slug: "otonanokagaku-vol27"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/japanino.jpg"
 ---

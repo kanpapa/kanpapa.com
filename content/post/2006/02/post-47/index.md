@@ -2,7 +2,9 @@
 title: "真空管ラジオ"
 date: 2006-02-07
 slug: "post-47"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

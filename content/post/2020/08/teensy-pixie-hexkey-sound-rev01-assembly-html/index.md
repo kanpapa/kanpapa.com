@@ -3,10 +3,11 @@ title: Teensy Pixie Video/HEX Keyboard/Soundボード Rev. 0.1を製作しまし
 date: 2020-08-17
 slug: teensy-pixie-hexkey-sound-rev01-assembly-html
 categories:
-- cosmac
-- retrocomputing
+  - "Retro Computing"
 tags:
-- cosmac-mbc
+  - "cosmac"
+  - "cosmac-mbc"
+  - "retrocomputing"
 image: images/teensy_pixie_pcb01_3.jpg
 ---
 

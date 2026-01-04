@@ -2,9 +2,10 @@
 title: "Pixel 5a 5Gが届きました"
 date: 2021-08-28
 slug: "pixel-5a-5g-replace"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
-tags: 
   - "pixel"
 image: "images/pixel5a_5g_6.jpg"
 ---

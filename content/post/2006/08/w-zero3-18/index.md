@@ -2,7 +2,9 @@
 title: "旧W-ZERO3を解約しました。"
 date: 2006-08-20
 slug: "w-zero3-18"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

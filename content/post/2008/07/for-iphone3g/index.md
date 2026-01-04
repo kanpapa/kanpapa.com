@@ -2,7 +2,9 @@
 title: "ハンドメイドフェルトケース for iPhone3Gをオーダーしました。"
 date: 2008-07-27
 slug: "for-iphone3g"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

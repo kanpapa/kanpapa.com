@@ -2,9 +2,10 @@
 title: "ORANGE-Python（Raspberry Pi Pico版）を製作してみました"
 date: 2021-04-11
 slug: "orange-python-raspberry-pi-pico-asciiart"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
-tags: 
   - "raspberry-pi"
 image: "images/orange_python_rasppi_pico5.jpg"
 ---

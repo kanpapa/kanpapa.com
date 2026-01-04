@@ -2,7 +2,9 @@
 title: "iMacに買い替えました"
 date: 2011-05-30
 slug: "imac"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 image: "images/imac_box.jpg"
 ---

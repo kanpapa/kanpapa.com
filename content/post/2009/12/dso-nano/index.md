@@ -2,7 +2,9 @@
 title: "DSO nanoをオーダーしてみた"
 date: 2009-12-12
 slug: "dso-nano"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 ---
 

@@ -2,9 +2,9 @@
 title: "ルンバで2024年の年越しカウントダウンをしてみました"
 date: 2024-01-01
 slug: "roomba-newyear2024"
-categories: 
-  - "roomba"
-tags: 
+categories:
+  - "Robot"
+tags:
   - "humble"
   - "roomba"
   - "ros2"

@@ -2,7 +2,9 @@
 title: "IP v6のトライアルモニターに参加してみた"
 date: 2010-10-09
 slug: "ip-v6-trial"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

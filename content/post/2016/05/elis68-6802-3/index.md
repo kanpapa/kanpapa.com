@@ -3,10 +3,11 @@ title: 6802ワンボードコンピュータELIS68を動かしてみた（３）
 date: 2016-05-01
 slug: elis68-6802-3
 categories:
-- retrocomputing
+  - "Retro Computing"
 tags:
-- elis68
-- '6802'
+  - "6802"
+  - "elis68"
+  - "retrocomputing"
 image: images/elis68_cpuboard1.jpg
 ---
 

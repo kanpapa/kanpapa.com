@@ -2,7 +2,9 @@
 title: "オープンソース焼きそば"
 date: 2008-06-03
 slug: "oss-yakisoba"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 image: "images/oss_yakisoba_20080604074037.jpg"
 ---

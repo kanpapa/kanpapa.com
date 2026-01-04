@@ -2,7 +2,9 @@
 title: "Windows 7 RCでMicrosoft Security Essentialsを使う"
 date: 2009-10-03
 slug: "windows-7-rcmicrosoft-security-essentials"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 image: "images/ms_security_essentials.jpg"
 ---

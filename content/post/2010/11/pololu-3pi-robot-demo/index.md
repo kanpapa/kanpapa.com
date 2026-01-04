@@ -2,7 +2,9 @@
 title: "Pololu 3pi robotのデモプログラムを動かしてみる"
 date: 2010-11-17
 slug: "pololu-3pi-robot-demo"
-categories: 
+categories:
+  - "Robot"
+tags:
   - "robot"
 ---
 

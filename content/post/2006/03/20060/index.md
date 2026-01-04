@@ -2,7 +2,9 @@
 title: "おお、2006.0ですか！"
 date: 2006-03-07
 slug: "20060"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

@@ -3,9 +3,10 @@ title: GPT service on Mini Pupper 2 (Japanese)
 date: 2025-02-03
 slug: gpt-service-on-minipupper2-japanese
 categories:
-- robot
+  - "Robot"
 tags:
-- mini-pupper-2
+  - "mini-pupper-2"
+  - "robot"
 image: images/GPT-service-on-MiniPupper2-Japanese.png
 ---
 

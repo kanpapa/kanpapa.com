@@ -2,7 +2,9 @@
 title: "京ぽん２を持って帰省します。"
 date: 2005-12-30
 slug: "post-32"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

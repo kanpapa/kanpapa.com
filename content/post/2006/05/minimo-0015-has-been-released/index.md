@@ -2,7 +2,9 @@
 title: "minimo 0.015 Has Been Released!"
 date: 2006-05-10
 slug: "minimo-0015-has-been-released"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

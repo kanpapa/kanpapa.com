@@ -2,7 +2,9 @@
 title: "ビンテージ品と戯れる"
 date: 2006-05-04
 slug: "post-68"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

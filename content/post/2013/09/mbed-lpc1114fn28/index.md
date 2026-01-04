@@ -2,7 +2,9 @@
 title: "mbed LPC1114FN28を使ってみた"
 date: 2013-09-16
 slug: "mbed-lpc1114fn28"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/mbed_LPC1114FN28.jpg"
 ---

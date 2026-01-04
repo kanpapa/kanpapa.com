@@ -2,7 +2,9 @@
 title: "ウィルコムストアの27日出荷予約分は完売"
 date: 2006-07-15
 slug: "27"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

@@ -2,7 +2,9 @@
 title: "郵便局のATMはNTらしい"
 date: 2009-03-26
 slug: "atmnt"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

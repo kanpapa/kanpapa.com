@@ -2,7 +2,9 @@
 title: "debian Linuxを玄箱にセットアップ その１"
 date: 2007-03-25
 slug: "debian-linux"
-categories: 
+categories:
+  - "Server"
+tags:
   - "server"
 ---
 

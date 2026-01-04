@@ -2,13 +2,14 @@
 title: "メカナムロボットをスマホで制御しました。（おおたfab 第39回 素人でもロボットをつくりたい）"
 date: 2021-03-07
 slug: "mecanum-wheel-robot-lesson4-5"
-categories: 
-  - "robot"
-tags: 
+categories:
+  - "Robot"
+tags:
   - "arduino"
   - "otafab"
-  - "メカナムホイール"
   - "otafab-robot"
+  - "robot"
+  - "メカナムホイール"
 image: "images/mecanum_lesson4_5_run2.jpg"
 ---
 

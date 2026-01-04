@@ -2,7 +2,9 @@
 title: "来た！不具合発生！"
 date: 2005-11-19
 slug: "post-9"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

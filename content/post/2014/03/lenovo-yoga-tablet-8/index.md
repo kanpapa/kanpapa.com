@@ -2,7 +2,9 @@
 title: "Lenovo Yoga Tablet 8を買いました"
 date: 2014-03-08
 slug: "lenovo-yoga-tablet-8"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 image: "images/yoga8_7.jpg"
 ---

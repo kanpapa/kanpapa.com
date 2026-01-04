@@ -2,11 +2,11 @@
 title: "MC68EZ328 DragonOne SBCでDRAMが動きました"
 date: 2021-05-01
 slug: "mc68ez328-dragonone-sbc-dram-worked"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "mc68ez328"
   - "retrocomputing"
-tags: 
-  - "mc68ez328"
 image: "images/dragonone_dram_jumper1.jpg"
 ---
 

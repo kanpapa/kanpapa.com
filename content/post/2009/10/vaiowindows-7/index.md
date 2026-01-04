@@ -2,7 +2,9 @@
 title: "VAIOのWindows 7アップグレード情報が延期に"
 date: 2009-10-28
 slug: "vaiowindows-7"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

@@ -2,7 +2,9 @@
 title: "モバイルSuicaで定期券を購入"
 date: 2007-02-20
 slug: "suica"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

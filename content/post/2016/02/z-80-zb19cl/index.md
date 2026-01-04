@@ -3,10 +3,11 @@ title: Z-80マイコンボード ZB19CでLチカをしてみた
 date: 2016-02-14
 slug: z-80-zb19cl
 categories:
-- retrocomputing
+  - "Retro Computing"
 tags:
-- zb19c
-- z80
+  - "retrocomputing"
+  - "z80"
+  - "zb19c"
 image: images/ZB19C_board.jpg
 ---
 

@@ -2,10 +2,11 @@
 title: "3Dプリンタで排水溝を作ってみました"
 date: 2022-11-28
 slug: "drain-3dprint"
-categories: 
-  - "research"
-tags: 
+categories:
+  - "Event"
+tags:
   - "3d-printer"
+  - "research"
 image: "images/drain_3dprint4.jpg"
 ---
 

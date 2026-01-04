@@ -2,7 +2,9 @@
 title: "トラ技2007年4月号のオペアンプ基板で遊んでみました"
 date: 2020-07-26
 slug: "opamp-tr200704"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/opamp_tr200704_1.jpg"
 ---

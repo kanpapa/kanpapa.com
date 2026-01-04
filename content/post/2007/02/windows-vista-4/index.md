@@ -2,7 +2,9 @@
 title: "Windows Vistaでフリーズ多発"
 date: 2007-02-02
 slug: "windows-vista-4"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

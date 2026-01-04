@@ -2,7 +2,9 @@
 title: "卵？"
 date: 2007-04-14
 slug: "egg"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 image: "images/egg_20070414104116.jpg"
 ---

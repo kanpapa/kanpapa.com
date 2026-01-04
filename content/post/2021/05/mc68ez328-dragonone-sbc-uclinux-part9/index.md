@@ -2,11 +2,11 @@
 title: "MC68EZ328 DragonOne SBCでuClinuxを動かす(9) ～2002年のビルド環境を再現～"
 date: 2021-05-30
 slug: "mc68ez328-dragonone-sbc-uclinux-part9"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "mc68ez328"
   - "retrocomputing"
-tags: 
-  - "mc68ez328"
 image: "images/mc68ez328_dragonone_sbc_uclinux_part9_1stlogin.png"
 ---
 

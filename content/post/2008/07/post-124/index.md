@@ -2,7 +2,9 @@
 title: "もう行列が始まっております。"
 date: 2008-07-08
 slug: "post-124"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

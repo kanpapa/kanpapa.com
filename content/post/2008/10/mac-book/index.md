@@ -2,7 +2,9 @@
 title: "新しいMac Bookを触ってきました"
 date: 2008-10-19
 slug: "mac-book"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

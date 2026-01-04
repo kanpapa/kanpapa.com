@@ -2,9 +2,10 @@
 title: "Raspberry Pi AI Kitを試してみた"
 date: 2024-06-12
 slug: "tried-raspberry-pi-ai-kit"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
-tags: 
   - "raspberry-pi"
 image: "images/raspberry-pi-ai-kit-install-3.jpg"
 ---

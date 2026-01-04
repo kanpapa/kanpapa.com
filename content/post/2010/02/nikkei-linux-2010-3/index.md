@@ -2,7 +2,9 @@
 title: "日経Linux 2010年 3月号「玄柴」をトコトン使う"
 date: 2010-02-08
 slug: "nikkei-linux-2010-3"
-categories: 
+categories:
+  - "Server"
+tags:
   - "server"
 ---
 

@@ -2,7 +2,9 @@
 title: "iPhoneのUSB 電源アダプタ交換品が来ました"
 date: 2008-10-09
 slug: "iphoneusb"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 image: "images/iphone_usb_ps3.jpg"
 ---

@@ -2,7 +2,9 @@
 title: "ロケーションフリーテレビ"
 date: 2005-12-16
 slug: "post-22"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

@@ -2,9 +2,9 @@
 title: "ルンバの簡易シリアルケーブルを作りました"
 date: 2022-09-19
 slug: "roomba-serial-cable"
-categories: 
-  - "roomba"
-tags: 
+categories:
+  - "Robot"
+tags:
   - "roomba"
 image: "images/roomba_serial_connect1.jpg"
 ---

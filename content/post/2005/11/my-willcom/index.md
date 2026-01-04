@@ -2,7 +2,9 @@
 title: "気になるMy WILLCOMの出荷状況の表示"
 date: 2005-11-11
 slug: "my-willcom"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

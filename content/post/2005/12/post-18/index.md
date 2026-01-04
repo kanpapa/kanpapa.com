@@ -2,7 +2,9 @@
 title: "はてなダイヤリーにも慣れてきました。"
 date: 2005-12-07
 slug: "post-18"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

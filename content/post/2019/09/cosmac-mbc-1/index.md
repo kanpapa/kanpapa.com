@@ -2,9 +2,10 @@
 title: "COSMAC MicroBoard Computerの製作開始"
 date: 2019-09-24
 slug: "cosmac-mbc-1"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
-tags: 
   - "cosmac-mbc"
 image: "images/cosmac_mbc_pcb1.jpg"
 ---

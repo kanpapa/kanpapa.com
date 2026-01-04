@@ -2,10 +2,11 @@
 title: "組み立てたGPU搭載Linuxマシンで機械学習の環境構築を行ってみました"
 date: 2023-01-22
 slug: "linux-gpu-pc-cuda12-pytorch"
-categories: 
-  - "research"
-tags: 
+categories:
+  - "Event"
+tags:
   - "ml"
+  - "research"
 image: "images/CUDA_FFT_Ocean_Simulation_1.png"
 ---
 

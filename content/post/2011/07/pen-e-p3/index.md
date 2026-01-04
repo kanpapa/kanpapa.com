@@ -2,7 +2,9 @@
 title: "PEN E-P3が到着しました"
 date: 2011-07-22
 slug: "pen-e-p3"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 image: "images/pen-e-p3.jpg"
 ---

@@ -2,9 +2,10 @@
 title: "Z8K CP/M ボードを組み立てました（その１）"
 date: 2021-12-27
 slug: "z8k-cpm-board-assembly1"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "retrocomputing"
-tags: 
   - "z8000"
 image: "images/z8kcpm_pcb3.jpg"
 ---

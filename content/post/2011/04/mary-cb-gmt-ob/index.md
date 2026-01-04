@@ -2,7 +2,9 @@
 title: "MARY CB基板にガイガーカウンタを載せました"
 date: 2011-04-15
 slug: "mary-cb-gmt-ob"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/mary_gmtube_ob.jpg"
 ---

@@ -2,12 +2,13 @@
 title: "LinkStation LS-H250GLを分解してみた"
 date: 2008-04-29
 slug: "linkstation-disassembly"
-categories: 
-  - "server"
+categories:
+  - "Server"
 tags:
-  - "nas"
-  - "linkstation"
   - "debian"
+  - "linkstation"
+  - "nas"
+  - "server"
 image: "images/linkstation_disassembly_20080429072019.jpg"
 ---
 

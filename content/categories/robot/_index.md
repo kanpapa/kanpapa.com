@@ -1,8 +1,8 @@
 ---
-title: "robot"
-description: "robot に関する記事"
+title: "Robot"
+description: "Robot に関する記事"
 image: "/images/categories/robot.jpg"
 style:
-    background: "#2a9d8f"
+    background: "#0984e3"
     color: "#fff"
 ---

@@ -2,7 +2,9 @@
 title: "MINDSTORMS NXTのファームウェア"
 date: 2006-10-28
 slug: "mindstorms-nxt-1"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

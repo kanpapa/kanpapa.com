@@ -2,7 +2,9 @@
 title: "コドモバイルを予約しました。"
 date: 2007-02-19
 slug: "post-91"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

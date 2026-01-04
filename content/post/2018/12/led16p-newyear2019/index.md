@@ -2,9 +2,10 @@
 title: "クソマゾLEDマトリックス バッヂで2019年の書き初めをしてみた"
 date: 2018-12-31
 slug: "led16p-newyear2019"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
-tags: 
   - "led-matrix"
   - "書き初め"
 image: "images/ny2019_led16p.jpg"

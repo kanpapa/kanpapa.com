@@ -2,7 +2,9 @@
 title: ".macに加入しました。"
 date: 2008-06-15
 slug: "mac-1"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

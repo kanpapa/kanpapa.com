@@ -2,7 +2,9 @@
 title: "iPhone 4のアクセサリをオーダーしました"
 date: 2010-06-18
 slug: "iphone-4-accessory"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

@@ -2,7 +2,9 @@
 title: "真空管ラジオ完売！"
 date: 2006-05-10
 slug: "post-69"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

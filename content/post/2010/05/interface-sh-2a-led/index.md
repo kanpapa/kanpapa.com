@@ -2,7 +2,9 @@
 title: "Interface 6月号付録 SH-2A基板を動かす"
 date: 2010-05-10
 slug: "interface-sh-2a-led"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/SH7262_LED.jpg"
 ---

@@ -2,7 +2,9 @@
 title: "ロケーションフリーテレビはやはり買いかな"
 date: 2005-12-25
 slug: "post-29"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

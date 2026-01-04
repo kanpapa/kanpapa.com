@@ -2,9 +2,10 @@
 title: "COSMAC VIPをCOSMAC MBCで動かしてみました"
 date: 2020-04-05
 slug: "cosmac-mbc-vip-proto1"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
-tags: 
   - "cosmac-mbc"
 image: "images/cosmac_vip_rom.jpg"
 ---

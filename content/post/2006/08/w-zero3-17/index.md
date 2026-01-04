@@ -2,7 +2,9 @@
 title: "これぞW-ZERO3に欲しい機能！"
 date: 2006-08-07
 slug: "w-zero3-17"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

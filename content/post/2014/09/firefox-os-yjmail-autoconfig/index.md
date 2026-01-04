@@ -2,7 +2,9 @@
 title: "Firefox OS 2.2 NightlyにYahoo!メールの自動設定を組み込んでみた"
 date: 2014-09-21
 slug: "firefox-os-yjmail-autoconfig"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

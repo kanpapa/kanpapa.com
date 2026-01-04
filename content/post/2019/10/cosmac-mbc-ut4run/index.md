@@ -2,9 +2,10 @@
 title: "COSMAC MicroBoard ComputerでUT4モニタが動きました"
 date: 2019-10-04
 slug: "cosmac-mbc-ut4run"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
-tags: 
   - "cosmac-mbc"
 image: "images/cosmac_mbc_serial_fix.jpg"
 ---

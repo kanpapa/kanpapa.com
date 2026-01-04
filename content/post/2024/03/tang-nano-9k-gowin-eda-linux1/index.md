@@ -2,9 +2,10 @@
 title: "Tang Nano 9Kで秋月電子の球体液晶を動かしてみた"
 date: 2024-03-20
 slug: "tang-nano-9k-gowin-eda-linux1"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
-tags: 
   - "fpga"
   - "gowin"
   - "sipeed"

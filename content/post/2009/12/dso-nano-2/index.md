@@ -2,7 +2,9 @@
 title: "DSO nanoが日本に到着"
 date: 2009-12-19
 slug: "dso-nano-2"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 ---
 

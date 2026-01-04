@@ -2,9 +2,10 @@
 title: "COSMAC MBC CPUボード Rev. 0.4の基板を発注しました。"
 date: 2020-05-07
 slug: "cosmac-mbc-cpu-rev04-pcborder"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
-tags: 
   - "cosmac-mbc"
 image: "images/cdp18s020_cpu_rev04_gerber_view.jpg"
 ---

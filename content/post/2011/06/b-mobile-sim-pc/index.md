@@ -2,7 +2,9 @@
 title: "b-mobile SIM イオン専用 プランAをPCで使ってみる"
 date: 2011-06-19
 slug: "b-mobile-sim-pc"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

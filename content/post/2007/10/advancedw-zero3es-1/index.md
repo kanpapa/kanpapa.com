@@ -2,7 +2,9 @@
 title: "久々にAdvanced/W-ZERO3[es]を完全初期化"
 date: 2007-10-28
 slug: "advancedw-zero3es-1"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

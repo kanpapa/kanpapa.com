@@ -2,7 +2,9 @@
 title: "新しい免許状がきました。"
 date: 2008-03-02
 slug: "post-112"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

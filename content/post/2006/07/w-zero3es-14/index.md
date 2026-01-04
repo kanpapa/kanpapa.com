@@ -2,7 +2,9 @@
 title: "店頭でのW-ZERO3[es]単体販売"
 date: 2006-07-29
 slug: "w-zero3es-14"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

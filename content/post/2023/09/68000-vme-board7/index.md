@@ -3,11 +3,12 @@ title: 68000 VMEボードで遊んでみました（7）モニタ・BASIC実装�
 date: 2023-09-09
 slug: 68000-vme-board7
 categories:
-- retrocomputing
+  - "Retro Computing"
 tags:
-- dvmecpu2
-- vme
-- '68000'
+  - "68000"
+  - "dvmecpu2"
+  - "retrocomputing"
+  - "vme"
 image: images/vme-board7-serial-cable1.jpg
 ---
 

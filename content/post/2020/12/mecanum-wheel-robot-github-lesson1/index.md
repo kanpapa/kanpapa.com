@@ -2,10 +2,11 @@
 title: "メカナムロボットのLesson1（モーター制御）のソースコードを読んでみました。"
 date: 2020-12-31
 slug: "mecanum-wheel-robot-github-lesson1"
-categories: 
-  - "robot"
-tags: 
+categories:
+  - "Robot"
+tags:
   - "arduino"
+  - "robot"
   - "メカナムホイール"
 image: "images/docofab_github.png"
 ---

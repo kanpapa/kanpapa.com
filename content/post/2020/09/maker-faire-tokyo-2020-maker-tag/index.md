@@ -2,9 +2,10 @@
 title: "Maker Faire Tokyo 2020の出展者タグが届きました"
 date: 2020-09-02
 slug: "maker-faire-tokyo-2020-maker-tag"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
-tags: 
   - "maker-faire"
   - "mft2020"
 image: "images/MFTokyo2020_maker_tag.jpg"

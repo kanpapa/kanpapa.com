@@ -2,7 +2,9 @@
 title: "TTの単体販売を目撃！"
 date: 2006-04-28
 slug: "tt"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

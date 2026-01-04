@@ -2,9 +2,10 @@
 title: "COSMAC MBC用 TVディスプレイボード Rev. 0.2のプリント基板が到着しました。"
 date: 2020-01-10
 slug: "cosmac-mbc-tv-rev-02-pcb-delivery"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
-tags: 
   - "cosmac-mbc"
 image: "images/cosmac_tv_pcb1_0110.jpg"
 ---

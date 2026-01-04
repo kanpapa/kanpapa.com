@@ -2,7 +2,9 @@
 title: "来た！WX310K！！"
 date: 2005-11-26
 slug: "wx310k-5"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

@@ -2,7 +2,9 @@
 title: "最近ネタ切れ"
 date: 2006-01-24
 slug: "post-41"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

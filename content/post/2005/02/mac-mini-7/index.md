@@ -2,7 +2,9 @@
 title: "そろそろ Mac mini到着？"
 date: 2005-02-05
 slug: "mac-mini-7"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

@@ -2,7 +2,9 @@
 title: "Yahoo!BB光の宅内機器が届きました"
 date: 2006-03-19
 slug: "yahoobb"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 image: "images/yahoobb_20060319152308.jpg"
 ---

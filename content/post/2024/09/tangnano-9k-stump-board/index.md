@@ -2,9 +2,10 @@
 title: "Tang Nano 9K用学習用基板を組み立ててみました"
 date: 2024-09-14
 slug: "tangnano-9k-stump-board"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
-tags: 
   - "fpga"
   - "gowin"
   - "tangnano9k"

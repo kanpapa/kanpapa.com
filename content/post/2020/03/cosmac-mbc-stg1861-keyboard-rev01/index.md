@@ -2,9 +2,10 @@
 title: "COSMAC MBC STG1861 DISPLAY/HEX KEYBOARD Rev.0.1の基板を発注しました"
 date: 2020-03-31
 slug: "cosmac-mbc-stg1861-keyboard-rev01"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
-tags: 
   - "cosmac-mbc"
 image: "images/cosmac_stg1861_rev0_1.jpg"
 ---

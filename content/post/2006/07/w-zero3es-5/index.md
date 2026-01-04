@@ -2,7 +2,9 @@
 title: "やはり、W-ZERO3[es]実機での体感速度向上に間違いは無かった"
 date: 2006-07-15
 slug: "w-zero3es-5"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

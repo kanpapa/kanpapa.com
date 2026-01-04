@@ -2,7 +2,9 @@
 title: "さようなら、Windows Vista"
 date: 2007-02-03
 slug: "windows-vista-5"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

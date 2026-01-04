@@ -3,10 +3,11 @@ title: RCA CDP1802 COSMACを動かしてみた(2) 動作確認編
 date: 2018-11-23
 slug: rca-cdp1802-cosmac2
 categories:
-- cosmac
-- retrocomputing
+  - "Retro Computing"
 tags:
-- cosmac-toy
+  - "cosmac"
+  - "cosmac-toy"
+  - "retrocomputing"
 image: images/cosmac_osc1.jpg
 ---
 

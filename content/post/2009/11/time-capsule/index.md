@@ -2,7 +2,9 @@
 title: "Time Capsuleを導入しました"
 date: 2009-11-02
 slug: "time-capsule"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

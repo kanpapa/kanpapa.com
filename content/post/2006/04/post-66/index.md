@@ -2,7 +2,9 @@
 title: "明日から連休"
 date: 2006-04-27
 slug: "post-66"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

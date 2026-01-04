@@ -2,12 +2,12 @@
 title: "ルンバに載せるものを作り始めました （おおたfab 第59回 素人でもロボットをつくりたい）"
 date: 2022-04-24
 slug: "roomba-robot-ros-part12-otafab59"
-categories: 
-  - "roomba"
-tags: 
-  - "roomba"
+categories:
+  - "Robot"
+tags:
   - "otafab"
   - "otafab-robot"
+  - "roomba"
 image: "images/roomba_otafab59_navi_base.jpg"
 ---
 

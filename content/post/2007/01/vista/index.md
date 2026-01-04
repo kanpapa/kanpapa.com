@@ -2,7 +2,9 @@
 title: "Vistaを予約しました。"
 date: 2007-01-06
 slug: "vista"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

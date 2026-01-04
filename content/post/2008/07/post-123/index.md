@@ -2,7 +2,9 @@
 title: "秋葉原に買い出しに出かけた"
 date: 2008-07-06
 slug: "post-123"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

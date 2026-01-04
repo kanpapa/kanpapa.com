@@ -2,7 +2,9 @@
 title: "Eトレード証券がWILLCOMに対応！"
 date: 2005-12-21
 slug: "ewillcom"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

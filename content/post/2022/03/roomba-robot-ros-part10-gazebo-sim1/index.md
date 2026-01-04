@@ -2,10 +2,10 @@
 title: "ルンバで作成した環境空間（Gazebo World）でシミュレーションしてみました"
 date: 2022-03-15
 slug: "roomba-robot-ros-part10-gazebo-sim1"
-categories: 
+categories:
+  - "Robot"
+tags:
   - "robot"
-  - "roomba"
-tags: 
   - "roomba"
 image: "images/roomba_slam_otafab_gazebo_sim1.png"
 ---

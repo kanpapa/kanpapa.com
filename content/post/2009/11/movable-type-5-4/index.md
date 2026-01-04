@@ -2,7 +2,9 @@
 title: "Movable Type 5が出荷開始"
 date: 2009-11-26
 slug: "movable-type-5-4"
-categories: 
+categories:
+  - "Server"
+tags:
   - "server"
 ---
 

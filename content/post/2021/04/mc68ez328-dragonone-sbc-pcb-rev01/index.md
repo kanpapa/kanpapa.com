@@ -2,11 +2,11 @@
 title: "MC68EZ328 DragonOne SBCの基板が到着しました"
 date: 2021-04-14
 slug: "mc68ez328-dragonone-sbc-pcb-rev01"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "mc68ez328"
   - "retrocomputing"
-tags: 
-  - "mc68ez328"
 image: "images/dragonone_rev01_pcb_photo.jpg"
 ---
 

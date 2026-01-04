@@ -2,7 +2,9 @@
 title: "BASIC搭載カラーテレビゲームシステムMachiKaniaのパックマンで遊んでみた"
 date: 2016-02-14
 slug: "machikania-pacman"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/MachiKania_finish.jpg"
 ---

@@ -3,10 +3,11 @@ title: SBC4004を組み立ててみました（３）動作確認編
 date: 2023-07-15
 slug: sbc4004-part3
 categories:
-- retrocomputing
+  - "Retro Computing"
 tags:
-- sbc4004
-- '4004'
+  - "4004"
+  - "retrocomputing"
+  - "sbc4004"
 image: images/sbc4004_startup1.jpg
 ---
 

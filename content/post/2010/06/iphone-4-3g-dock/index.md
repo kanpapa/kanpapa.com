@@ -2,7 +2,9 @@
 title: "iPhone 4を使ってみたけど、Dockに気になる点が。"
 date: 2010-06-26
 slug: "iphone-4-3g-dock"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

@@ -2,11 +2,11 @@
 title: "DragonBall-EZで遊んでみた（初めてのプログラム編）"
 date: 2017-04-29
 slug: "dragonball-ez-program1"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "mc68ez328"
   - "retrocomputing"
-tags: 
-  - "mc68ez328"
 image: "images/bbug_memtest2.png"
 ---
 

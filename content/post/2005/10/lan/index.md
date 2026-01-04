@@ -2,7 +2,9 @@
 title: "無線LANカードをレンタルしてみるかな"
 date: 2005-10-25
 slug: "lan"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

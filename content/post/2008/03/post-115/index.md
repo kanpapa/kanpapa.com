@@ -2,7 +2,9 @@
 title: "新つなぎ放題にしたら"
 date: 2008-03-30
 slug: "post-115"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

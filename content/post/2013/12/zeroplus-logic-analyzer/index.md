@@ -2,7 +2,9 @@
 title: "秋月電子のロジアナZEROPLUSを使ってみました"
 date: 2013-12-15
 slug: "zeroplus-logic-analyzer"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/zeroplus_2.jpg"
 ---

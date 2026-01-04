@@ -2,7 +2,9 @@
 title: "iMovie '09 のアップデートがありました"
 date: 2009-10-14
 slug: "imovie-09"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

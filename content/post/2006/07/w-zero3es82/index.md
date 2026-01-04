@@ -2,7 +2,9 @@
 title: "W-ZERO3[es]はウィルコムストアでは8月2日以降にお届け"
 date: 2006-07-29
 slug: "w-zero3es82"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

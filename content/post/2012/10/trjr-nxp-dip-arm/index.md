@@ -2,7 +2,9 @@
 title: "トラ技Jr.の音声合成マシンをDIP ARMで作ってみました"
 date: 2012-10-13
 slug: "trjr-nxp-dip-arm"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/nxp_dip_arm_aquestalk.jpg"
 ---

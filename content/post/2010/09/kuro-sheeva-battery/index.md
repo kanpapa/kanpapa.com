@@ -2,7 +2,9 @@
 title: "玄柴(KURO SHEEVA)でボタン電池が液漏れしていた"
 date: 2010-09-23
 slug: "kuro-sheeva-battery"
-categories: 
+categories:
+  - "Server"
+tags:
   - "server"
 image: "images/kuro-sheeva-battery01.jpg"
 ---

@@ -3,11 +3,12 @@ title: 'TurtleBot3がやってきた #3（ROS1セットアップ編）'
 date: 2022-02-05
 slug: turtlebot3-burger-assembly3
 categories:
-- robot
+  - "Robot"
 tags:
-- melodic
-- ros1
-- turtlebot3
+  - "melodic"
+  - "robot"
+  - "ros1"
+  - "turtlebot3"
 image: images/turtlebot3_burger_battery_charge1.jpg
 ---
 

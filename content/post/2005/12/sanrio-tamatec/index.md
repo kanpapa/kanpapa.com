@@ -2,7 +2,9 @@
 title: "今日は多摩方面"
 date: 2005-12-11
 slug: "sanrio-tamatec"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

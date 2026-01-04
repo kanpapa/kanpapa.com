@@ -2,9 +2,10 @@
 title: "SBC1802近日発売"
 date: 2021-04-04
 slug: "sbc1802"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
-tags: 
   - "sbc1802"
 image: "images/cosmac_cdp1802ace.jpg"
 ---

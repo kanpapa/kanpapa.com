@@ -2,9 +2,10 @@
 title: "2台めの1802 Membership Card を組み立てました"
 date: 2020-11-02
 slug: "2nd-1802-membership-card"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
-tags: 
   - "membership-card"
 image: "images/mc2nd_5.jpg"
 ---

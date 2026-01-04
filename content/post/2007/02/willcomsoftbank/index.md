@@ -2,7 +2,9 @@
 title: "WILLCOM×Softbank"
 date: 2007-02-05
 slug: "willcomsoftbank"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

@@ -2,7 +2,9 @@
 title: "KURO-SHEEVA (玄柴) その後"
 date: 2010-02-05
 slug: "kuro-sheeva-4"
-categories: 
+categories:
+  - "Server"
+tags:
   - "server"
 ---
 

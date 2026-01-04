@@ -2,7 +2,9 @@
 title: "メール遅延期間の対応発表"
 date: 2006-02-09
 slug: "post-49"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

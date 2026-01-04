@@ -2,7 +2,9 @@
 title: "ウィルコムストアでのW-ZERO3[es]7月分予約販売終了"
 date: 2006-07-22
 slug: "w-zero3es7"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

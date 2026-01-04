@@ -2,7 +2,9 @@
 title: "GR-SAKURAボードが届きました"
 date: 2012-07-29
 slug: "gr-sakura-board"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/GR-SAKURA04.jpg"
 ---

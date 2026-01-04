@@ -2,7 +2,9 @@
 title: "大人の科学マガジン11号 『ニュートンの反射望遠鏡』"
 date: 2006-04-05
 slug: "11"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

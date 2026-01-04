@@ -2,7 +2,9 @@
 title: "噂のW-ZERO3[es]発表"
 date: 2006-07-03
 slug: "w-zero3es"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

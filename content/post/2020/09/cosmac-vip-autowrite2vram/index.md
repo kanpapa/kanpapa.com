@@ -3,11 +3,12 @@ title: COSMAC VIPのVRAMに自動キー入力で書き込んでみました
 date: 2020-09-30
 slug: cosmac-vip-autowrite2vram
 categories:
-- cosmac
-- retrocomputing
+  - "Retro Computing"
 tags:
-- cosmac-mbc
-- esp32
+  - "cosmac"
+  - "cosmac-mbc"
+  - "esp32"
+  - "retrocomputing"
 image: images/cosmac_vip_auto_vram1.jpg
 ---
 

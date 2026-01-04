@@ -2,9 +2,10 @@
 title: "Raspberry Pi 5を使ってみました"
 date: 2024-02-18
 slug: "raspberry-pi-5-1st-impression"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
-tags: 
   - "raspberry-pi"
 image: "images/raspberrypi5-1st-impression-10.jpg"
 ---

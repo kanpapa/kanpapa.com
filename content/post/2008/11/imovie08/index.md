@@ -2,7 +2,9 @@
 title: "iMovie'08を全力で使う"
 date: 2008-11-04
 slug: "imovie08"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

@@ -2,7 +2,9 @@
 title: "PENのファームウェアを1.4にアップデートしました"
 date: 2010-04-23
 slug: "pen-firm-14"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

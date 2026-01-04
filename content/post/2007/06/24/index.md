@@ -2,7 +2,9 @@
 title: "今日からホワイト家族24です！"
 date: 2007-06-01
 slug: "24"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

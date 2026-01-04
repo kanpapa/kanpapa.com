@@ -2,7 +2,9 @@
 title: "KitKatベースのFirefox OS 2.1 Flameに日本語IMEをいれてみた"
 date: 2014-10-13
 slug: "firefox-os-21-kitkat-flame-ime-jp"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

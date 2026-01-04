@@ -2,7 +2,9 @@
 title: "GR-SAKURAをiMacで動かしてみました"
 date: 2012-07-29
 slug: "gr-sakura-ledtest"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/GR-SAKURA10.jpg"
 ---

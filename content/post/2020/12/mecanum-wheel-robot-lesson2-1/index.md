@@ -2,13 +2,14 @@
 title: "メカナムロボットに超音波センサーを取り付けました（おおたfab 第35回 素人でもロボットをつくりたい）"
 date: 2020-12-20
 slug: "mecanum-wheel-robot-lesson2-1"
-categories: 
-  - "robot"
-tags: 
+categories:
+  - "Robot"
+tags:
   - "arduino"
   - "otafab"
-  - "メカナムホイール"
   - "otafab-robot"
+  - "robot"
+  - "メカナムホイール"
 image: "images/mecanum_hcsr04.jpeg"
 ---
 

@@ -2,7 +2,9 @@
 title: "ココログ重い"
 date: 2005-11-29
 slug: "post-13"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

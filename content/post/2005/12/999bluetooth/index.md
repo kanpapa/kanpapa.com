@@ -2,7 +2,9 @@
 title: "999円のBluetoothアダプタ"
 date: 2005-12-09
 slug: "999bluetooth"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

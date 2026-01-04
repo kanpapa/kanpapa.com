@@ -2,7 +2,9 @@
 title: "みんなの科学 たのしい実験室「バケツ鉱石ラジオ」を見る"
 date: 2012-04-27
 slug: "minnano-kagaku"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

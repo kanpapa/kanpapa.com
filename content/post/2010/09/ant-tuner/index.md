@@ -2,7 +2,9 @@
 title: "HF帯アンテナチューナーを試す"
 date: 2010-09-05
 slug: "ant-tuner"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

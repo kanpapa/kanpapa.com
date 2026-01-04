@@ -2,7 +2,9 @@
 title: "ウィルコムストアからメールが来ないなぁ"
 date: 2006-07-14
 slug: "post-76"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

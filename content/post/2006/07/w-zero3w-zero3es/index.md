@@ -2,7 +2,9 @@
 title: "W-ZERO3からW-ZERO3[es]のデータ移行ツール"
 date: 2006-07-30
 slug: "w-zero3w-zero3es"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

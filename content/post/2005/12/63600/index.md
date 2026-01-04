@@ -2,7 +2,9 @@
 title: "純増は63,600ですか"
 date: 2005-12-07
 slug: "63600"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

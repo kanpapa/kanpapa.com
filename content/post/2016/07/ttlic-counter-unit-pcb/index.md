@@ -2,7 +2,9 @@
 title: "NHK みんなの科学 たのしい実験室のカウンタユニット基板を作ってみた"
 date: 2016-07-28
 slug: "ttlic-counter-unit-pcb"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/counter_pcb5.jpg"
 ---

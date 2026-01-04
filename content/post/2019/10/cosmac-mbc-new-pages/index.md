@@ -2,9 +2,10 @@
 title: "COSMAC MicroBoard Computerのページを作成しました。"
 date: 2019-10-06
 slug: "cosmac-mbc-new-pages"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
-tags: 
   - "cosmac-mbc"
 image: "images/cosmac_mbc_pcb1.jpg"
 ---

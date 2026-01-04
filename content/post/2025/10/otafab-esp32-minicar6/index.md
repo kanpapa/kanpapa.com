@@ -3,14 +3,15 @@ title: 'ESP32でミニカーを作る #6 ミニカーの動きの実装と電源
 date: 2025-10-03
 slug: otafab-esp32-minicar6
 categories:
-- electronics
+  - "Electronics"
 tags:
-- arduino
-- esp32
-- xiao
-- otafab
-- 電子工作
-- otafab-esp32
+  - "arduino"
+  - "electronics"
+  - "esp32"
+  - "otafab"
+  - "otafab-esp32"
+  - "xiao"
+  - "電子工作"
 image: images/otafab-esp32-minicar6-car2.jpg
 ---
 

@@ -2,14 +2,15 @@
 title: "M1  MacBook Air 2020 でArduino IDEを動かしてみました"
 date: 2020-11-18
 slug: "m1-macbook-air-2020-arduino-ide"
-categories: 
-  - "pc"
-tags: 
+categories:
+  - "Server"
+tags:
   - "arduino"
   - "esp32"
   - "m1-mac"
   - "mac"
   - "macbook-air"
+  - "pc"
 image: "images/M1_arduino_usb.jpeg"
 ---
 

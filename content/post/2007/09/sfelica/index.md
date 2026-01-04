@@ -2,7 +2,9 @@
 title: "S!Felicaの空きメモリが無くなったっ！"
 date: 2007-09-30
 slug: "sfelica"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

@@ -2,7 +2,9 @@
 title: "ZhuZhu Pets がやってきた"
 date: 2010-05-22
 slug: "zhuzhu-pets"
-categories: 
+categories:
+  - "Robot"
+tags:
   - "robot"
 ---
 

@@ -2,7 +2,9 @@
 title: "Logicoolのトラックボール"
 date: 2007-03-03
 slug: "trackball"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

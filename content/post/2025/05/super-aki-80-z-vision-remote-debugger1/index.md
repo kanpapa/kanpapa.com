@@ -3,11 +3,12 @@ title: Super AKI-80をZ-Visionリモートデバッカで使ってみました
 date: 2025-05-03
 slug: super-aki-80-z-vision-remote-debugger1
 categories:
-- retrocomputing
+  - "Retro Computing"
 tags:
-- aki-80
-- z-vision
-- z80
+  - "aki-80"
+  - "retrocomputing"
+  - "z-vision"
+  - "z80"
 image: images/aki80-testing1.jpg
 ---
 

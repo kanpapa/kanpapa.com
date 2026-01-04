@@ -2,7 +2,9 @@
 title: "PDFが読めるのは実に便利だ。"
 date: 2007-12-12
 slug: "pdf"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

@@ -2,11 +2,11 @@
 title: "MC68EZ328 DragonOne SBCの基版をKiCadで設計中です。"
 date: 2021-03-14
 slug: "mc68ez328-dragonone-sbc-kicad"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "mc68ez328"
   - "retrocomputing"
-tags: 
-  - "mc68ez328"
 image: "images/DragonOne_rev00_kicad.jpg"
 ---
 

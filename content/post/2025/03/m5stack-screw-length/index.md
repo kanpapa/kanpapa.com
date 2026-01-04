@@ -3,9 +3,10 @@ title: M5Stackのネジの長さの求め方
 date: 2025-03-22
 slug: m5stack-screw-length
 categories:
-- electronics
+  - "Electronics"
 tags:
-- m5stack
+  - "electronics"
+  - "m5stack"
 image: images/m5stack_screwkit1.jpg
 ---
 

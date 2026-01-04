@@ -2,7 +2,9 @@
 title: "Parallels Desktopを購入しました"
 date: 2006-12-16
 slug: "parallels-desktop-1"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

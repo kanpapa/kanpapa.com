@@ -2,7 +2,9 @@
 title: "ワンセグ付きW-SIM対応腕時計(?)の応募シールが集まりました！"
 date: 2006-10-08
 slug: "wsim-clock-1"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

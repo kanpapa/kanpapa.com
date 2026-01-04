@@ -2,7 +2,9 @@
 title: "太鼓の達人 ぽーたぶる"
 date: 2005-08-12
 slug: "post-140"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

@@ -2,7 +2,9 @@
 title: "W-ZERO3[es]用卓上充電台を注文しました"
 date: 2006-08-24
 slug: "w-zero3es-24"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

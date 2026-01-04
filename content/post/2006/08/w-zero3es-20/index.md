@@ -2,7 +2,9 @@
 title: "京ぽん２からW-ZERO3[es]への移行作業"
 date: 2006-08-12
 slug: "w-zero3es-20"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

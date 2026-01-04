@@ -2,7 +2,9 @@
 title: "Mac miniの出荷完了メールが来ない"
 date: 2005-02-08
 slug: "mac-mini-2"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

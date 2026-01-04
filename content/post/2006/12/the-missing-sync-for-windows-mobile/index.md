@@ -2,7 +2,9 @@
 title: "The Missing Sync for Windows Mobileを購入しました。"
 date: 2006-12-05
 slug: "the-missing-sync-for-windows-mobile"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

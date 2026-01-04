@@ -2,7 +2,9 @@
 title: "KURO-SHEEVA (玄柴) 入手できました"
 date: 2010-01-31
 slug: "kuro-sheeva-2"
-categories: 
+categories:
+  - "Server"
+tags:
   - "server"
 image: "images/kuro-sheeva1.jpg"
 ---

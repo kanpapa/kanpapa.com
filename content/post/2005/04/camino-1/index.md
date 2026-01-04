@@ -2,7 +2,9 @@
 title: "Caminoいい感じ"
 date: 2005-04-04
 slug: "camino-1"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 image: "images/mac_camino.jpg"
 ---

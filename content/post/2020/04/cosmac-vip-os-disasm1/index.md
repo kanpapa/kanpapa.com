@@ -2,9 +2,10 @@
 title: "COSMAC VIP OSを調べてみました"
 date: 2020-04-19
 slug: "cosmac-vip-os-disasm1"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
-tags: 
   - "cosmac-mbc"
 image: "images/vip_os_sample_display1.jpg"
 ---

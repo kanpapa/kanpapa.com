@@ -3,11 +3,12 @@ title: EMUZ80でCOSMACを動かしてみました 1（Lチカ編）
 date: 2022-05-29
 slug: emuz80-cosmac-blink-led
 categories:
-- cosmac
-- retrocomputing
+  - "Retro Computing"
 tags:
-- emu1802
-- emuz80
+  - "cosmac"
+  - "emu1802"
+  - "emuz80"
+  - "retrocomputing"
 image: images/emuz80_cosmac_blink1.jpg
 ---
 

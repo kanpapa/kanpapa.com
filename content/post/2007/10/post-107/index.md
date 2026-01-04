@@ -2,7 +2,9 @@
 title: "初音ミク試用中"
 date: 2007-10-14
 slug: "post-107"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

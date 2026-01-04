@@ -2,7 +2,9 @@
 title: "京ぽん２が週末に帰ってきます！"
 date: 2006-04-13
 slug: "post-64"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

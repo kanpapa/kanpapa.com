@@ -2,7 +2,9 @@
 title: "debian Linuxを玄箱にセットアップ その2"
 date: 2007-03-27
 slug: "debian-linux-2"
-categories: 
+categories:
+  - "Server"
+tags:
   - "server"
 ---
 

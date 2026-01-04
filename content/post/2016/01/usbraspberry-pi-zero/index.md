@@ -2,7 +2,9 @@
 title: "USBシリアルでRaspberry Pi Zeroの設定をしてみた"
 date: 2016-01-02
 slug: "usbraspberry-pi-zero"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/zero-serial-usbwifi.jpg"
 ---

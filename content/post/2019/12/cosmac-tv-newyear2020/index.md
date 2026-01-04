@@ -2,9 +2,10 @@
 title: "COSMACとTVディスプレイ回路で2020年の書き初めをしてみた"
 date: 2019-12-31
 slug: "cosmac-tv-newyear2020"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
-tags: 
   - "cosmac-mbc"
   - "書き初め"
 image: "images/tvdisp_ny2020.jpg"

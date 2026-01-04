@@ -2,7 +2,9 @@
 title: "iPhoto '09でオーダーしたフォトブックが到着しました"
 date: 2010-05-08
 slug: "iphoto-09-photobook2"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 image: "images/iphoto_photobook3.jpg"
 ---

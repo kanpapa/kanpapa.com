@@ -2,9 +2,10 @@
 title: "micro:bitにMI:proケースをつけてみた"
 date: 2017-12-12
 slug: "microbit-mipro-case"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
-tags: 
   - "micro-bit"
 image: "images/microbit_mipro6.jpg"
 ---

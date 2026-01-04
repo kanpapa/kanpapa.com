@@ -2,7 +2,9 @@
 title: "真空管ラジオを組み立てました"
 date: 2006-03-26
 slug: "post-56"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

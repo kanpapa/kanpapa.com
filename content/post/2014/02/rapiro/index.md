@@ -2,7 +2,9 @@
 title: "RAPIROを組み立てました"
 date: 2014-02-09
 slug: "rapiro"
-categories: 
+categories:
+  - "Robot"
+tags:
   - "robot"
 ---
 

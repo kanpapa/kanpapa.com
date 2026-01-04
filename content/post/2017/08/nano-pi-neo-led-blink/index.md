@@ -2,9 +2,10 @@
 title: "Nano Pi NEOでLチカをしてみた"
 date: 2017-08-02
 slug: "nano-pi-neo-led-blink"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
-tags: 
   - "nano-pi-neo"
 image: "images/nanopi_neo_led.jpg"
 ---

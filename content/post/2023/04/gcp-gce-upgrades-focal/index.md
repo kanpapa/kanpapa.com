@@ -2,10 +2,11 @@
 title: "GCPのVMを新しいOSのVMに移行しました"
 date: 2023-04-01
 slug: "gcp-gce-upgrades-focal"
-categories: 
-  - "server"
-tags: 
+categories:
+  - "Server"
+tags:
   - "gcp"
+  - "server"
 image: "images/gcp-gce-log-explorer.jpg"
 ---
 

@@ -2,10 +2,11 @@
 title: "秋月電子のSoC基板でyocto-linuxを動かしてみました（その１ 環境構築編）"
 date: 2023-03-24
 slug: "aesoc-yocto-dunfell"
-categories: 
-  - "electronics"
-tags: 
+categories:
+  - "Electronics"
+tags:
   - "arm"
+  - "electronics"
 image: "images/aesoc-case1.jpg"
 ---
 

@@ -2,7 +2,9 @@
 title: "GPSロガー組み立て中"
 date: 2010-07-18
 slug: "gps"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 ---
 

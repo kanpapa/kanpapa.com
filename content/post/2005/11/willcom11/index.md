@@ -2,7 +2,9 @@
 title: "WILLCOMの11月版のカタログ"
 date: 2005-11-03
 slug: "willcom11"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

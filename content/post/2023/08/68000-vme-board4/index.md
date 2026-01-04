@@ -3,11 +3,12 @@ title: 68000 VMEボードで遊んでみました（4）メモリマップ調査
 date: 2023-08-29
 slug: 68000-vme-board4
 categories:
-- retrocomputing
+  - "Retro Computing"
 tags:
-- dvmecpu2
-- vme
-- '68000'
+  - "68000"
+  - "dvmecpu2"
+  - "retrocomputing"
+  - "vme"
 image: images/vme_board_4_rom2.jpg
 ---
 

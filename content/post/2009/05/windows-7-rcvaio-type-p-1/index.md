@@ -2,7 +2,9 @@
 title: "Windows 7 RCをVAIO type Pにインストールする（その２）"
 date: 2009-05-06
 slug: "windows-7-rcvaio-type-p-1"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

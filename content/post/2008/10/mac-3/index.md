@@ -2,7 +2,9 @@
 title: "Macのソフトウェアアップデートがありました"
 date: 2008-10-28
 slug: "mac-3"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

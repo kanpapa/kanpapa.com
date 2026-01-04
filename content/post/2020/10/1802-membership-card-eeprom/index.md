@@ -2,9 +2,10 @@
 title: "1802 Membership Cardを作ってみました（EEPROM問題解決編）"
 date: 2020-10-20
 slug: "1802-membership-card-eeprom"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
-tags: 
   - "membership-card"
 image: "images/MCard1802_eeprom1.jpg"
 ---

@@ -2,7 +2,9 @@
 title: "mbedにハムフェアで買った500円VFDを接続できました"
 date: 2011-10-08
 slug: "mbed-500yen-vfd"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/mbed_vfd_test.jpg"
 ---

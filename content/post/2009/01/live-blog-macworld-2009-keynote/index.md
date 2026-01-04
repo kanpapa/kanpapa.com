@@ -2,7 +2,9 @@
 title: "Live blog: Macworld 2009 keynote"
 date: 2009-01-06
 slug: "live-blog-macworld-2009-keynote"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

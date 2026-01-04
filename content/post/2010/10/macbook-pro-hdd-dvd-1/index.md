@@ -2,7 +2,9 @@
 title: "MacBook ProのHDDとDVDを換装する（HDD編）"
 date: 2010-10-09
 slug: "macbook-pro-hdd-dvd-1"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 image: "images/mac_hdd_dvd6.jpg"
 ---

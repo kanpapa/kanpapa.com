@@ -2,7 +2,9 @@
 title: "Apple iPhone 4 Dockの商品出荷のお知らせ"
 date: 2010-06-23
 slug: "apple-iphone-4-dock"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

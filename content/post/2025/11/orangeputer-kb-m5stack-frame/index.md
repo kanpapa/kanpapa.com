@@ -3,12 +3,13 @@ title: M5Stack用日本語入力キーボードに専用フレームを取り付
 date: 2025-11-24
 slug: orangeputer-kb-m5stack-frame
 categories:
-- electronics
+  - "Electronics"
 tags:
-- esp32
-- orangeputer
-- skk
-- m5stack
+  - "electronics"
+  - "esp32"
+  - "m5stack"
+  - "orangeputer"
+  - "skk"
 image: images/orangeputer-kb-m5stack-frame2.jpg
 ---
 

@@ -2,13 +2,14 @@
 title: "Raspberry Pi 4とKinectでRGB-D SLAMを試してみました （おおたfab 第51回 素人でもロボットをつくりたい）"
 date: 2021-11-29
 slug: "rasberrypi4-kinect-rgb-d-slam-otafab51"
-categories: 
-  - "robot"
-tags: 
+categories:
+  - "Robot"
+tags:
   - "kinect"
-  - "slam"
   - "otafab"
   - "otafab-robot"
+  - "robot"
+  - "slam"
 image: "images/kinect_slam4_2021-11-28-190057_pp.png"
 ---
 

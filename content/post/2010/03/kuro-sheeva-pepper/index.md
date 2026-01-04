@@ -2,7 +2,9 @@
 title: "KURO-SHEEVA（玄柴）でGainer互換のPepperを使ってみる"
 date: 2010-03-20
 slug: "kuro-sheeva-pepper"
-categories: 
+categories:
+  - "Server"
+tags:
   - "server"
 image: "images/kuro-sheeva-pepper.jpg"
 ---

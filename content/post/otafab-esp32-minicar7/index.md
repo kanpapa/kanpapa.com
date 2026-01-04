@@ -3,15 +3,16 @@ title: "ESP32でミニカーを作る #7 マイクロマウスに挑戦（おお
 date: 2025-12-20
 slug: otafab-esp32-minicar7
 categories:
-- electronics
+  - "Electronics"
 tags:
-- arduino
-- esp32
-- xiao
-- otafab
-- 電子工作
-- otafab-esp32
-- gemini
+  - "arduino"
+  - "electronics"
+  - "esp32"
+  - "gemini"
+  - "otafab"
+  - "otafab-esp32"
+  - "xiao"
+  - "電子工作"
 image: otafab-esp32-minicar7.jpg
 ---
 

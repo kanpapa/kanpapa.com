@@ -2,7 +2,9 @@
 title: "Make: Tokyo Meeting 04に行ってきました"
 date: 2009-11-23
 slug: "make-tokyo-meeting-04"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

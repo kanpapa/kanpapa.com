@@ -2,7 +2,9 @@
 title: "Make: Tokyo Meeting 06に行ってきました"
 date: 2010-11-22
 slug: "mtm06"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 image: "images/mtm06_signboard.jpg"
 ---

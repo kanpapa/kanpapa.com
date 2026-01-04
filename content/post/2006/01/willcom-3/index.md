@@ -2,7 +2,9 @@
 title: "WILLCOMのご利用料金にびっくらこいた！"
 date: 2006-01-03
 slug: "willcom-3"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

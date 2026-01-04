@@ -2,7 +2,9 @@
 title: "iPhone 4のオンラインショップの予約確認ページでキャンセル不可？じゃなかった。"
 date: 2010-06-19
 slug: "iphone-4-cant-cancel"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

@@ -2,7 +2,9 @@
 title: "W-ZERO3に触らせてもらいました"
 date: 2005-12-19
 slug: "w-zero3-6"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

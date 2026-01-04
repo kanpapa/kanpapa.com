@@ -2,7 +2,9 @@
 title: "WX310K PERFECT GUIDEを入手"
 date: 2005-12-26
 slug: "wx310k-perfect-guide-1"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

@@ -3,10 +3,11 @@ title: EMU1802-mini でPICのUARTを使用してみました
 date: 2022-07-09
 slug: emu1802-mini-uart
 categories:
-- cosmac
-- retrocomputing
+  - "Retro Computing"
 tags:
-- emu1802
+  - "cosmac"
+  - "emu1802"
+  - "retrocomputing"
 image: images/emu1802-mini-uart-test0703.jpg
 ---
 

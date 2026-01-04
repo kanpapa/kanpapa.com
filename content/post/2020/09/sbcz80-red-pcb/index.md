@@ -3,10 +3,11 @@ title: SBCZ80を動かしてみました
 date: 2020-09-06
 slug: sbcz80-red-pcb
 categories:
-- retrocomputing
+  - "Retro Computing"
 tags:
-- sbcz80
-- z80
+  - "retrocomputing"
+  - "sbcz80"
+  - "z80"
 image: images/SBCZ80_red1.jpg
 ---
 

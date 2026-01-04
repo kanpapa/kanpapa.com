@@ -3,10 +3,11 @@ title: 専用プリント基板のガーバーデータをGitHubに掲載しま�
 date: 2019-09-29
 slug: cosmac-pcb-gerber-data
 categories:
-- cosmac
-- retrocomputing
+  - "Retro Computing"
 tags:
-- cosmac-toy
+  - "cosmac"
+  - "cosmac-toy"
+  - "retrocomputing"
 image: images/cosmac_cpu_rev1_4_gerber_viewer1.png
 ---
 

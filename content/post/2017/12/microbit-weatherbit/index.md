@@ -2,9 +2,10 @@
 title: "weather:bitを使ってみた"
 date: 2017-12-13
 slug: "microbit-weatherbit"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
-tags: 
   - "micro-bit"
 image: "images/weather_bit1.jpg"
 ---

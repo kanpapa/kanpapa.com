@@ -2,7 +2,9 @@
 title: "PSoC 5LP Prototyping Kitを動かしてみた（Lチカ編）"
 date: 2015-07-05
 slug: "psoc-5lp-prototyping-kit-blink"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/cy8ckit_059_blink.jpg"
 ---

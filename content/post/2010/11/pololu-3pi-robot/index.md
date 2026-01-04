@@ -2,7 +2,9 @@
 title: "Pololu 3pi robotをオーダーしました"
 date: 2010-11-12
 slug: "pololu-3pi-robot"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 ---
 

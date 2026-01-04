@@ -2,7 +2,9 @@
 title: "WX310Kを使ってみて"
 date: 2005-11-26
 slug: "wx310k-4"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

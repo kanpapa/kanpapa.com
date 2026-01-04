@@ -3,11 +3,12 @@ title: EMUZ80でCOSMACを動かしてみました 2（基板改造編）
 date: 2022-06-03
 slug: emuz80-cosmac-modified-pcb
 categories:
-- cosmac
-- retrocomputing
+  - "Retro Computing"
 tags:
-- emu1802
-- emuz80
+  - "cosmac"
+  - "emu1802"
+  - "emuz80"
+  - "retrocomputing"
 image: images/emuz80_cosmac_modpcb7.jpg
 ---
 

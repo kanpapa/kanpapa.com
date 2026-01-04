@@ -2,7 +2,9 @@
 title: "Bフレッツ→Yahoo!BB hikari乗り換え開始"
 date: 2006-03-11
 slug: "byahoobb-hikari"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

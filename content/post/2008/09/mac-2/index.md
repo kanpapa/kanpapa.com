@@ -2,7 +2,9 @@
 title: "Macで携帯電話のアドレス帳を移行する"
 date: 2008-09-20
 slug: "mac-2"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

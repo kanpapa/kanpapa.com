@@ -2,7 +2,9 @@
 title: "Mac Miniオーダー中"
 date: 2005-01-31
 slug: "mac-mini"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 image: "images/apple_keyboard.jpg"
 ---

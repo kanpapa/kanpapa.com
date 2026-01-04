@@ -2,7 +2,9 @@
 title: "iLife サポート 9.0.4 アップデート"
 date: 2010-02-15
 slug: "ilife-904"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

@@ -2,11 +2,11 @@
 title: "MC68EZ328 SBCのリアルタイムクロックを動かしました"
 date: 2021-08-22
 slug: "mc68ez328-sbc-ds1306-rtc-part1"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "mc68ez328"
   - "retrocomputing"
-tags: 
-  - "mc68ez328"
 image: "images/ds1306_cs_probe.jpg"
 ---
 

@@ -2,7 +2,9 @@
 title: "羊毛フェルトでふわピカ動物をつくってみました"
 date: 2013-02-07
 slug: "fuwapika"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 image: "images/fuwapika.jpg"
 ---

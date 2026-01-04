@@ -2,7 +2,9 @@
 title: "卓上充電ホルダ販売開始"
 date: 2007-07-26
 slug: "post-105"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

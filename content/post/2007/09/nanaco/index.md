@@ -2,7 +2,9 @@
 title: "ようやくnanacoが開始"
 date: 2007-09-11
 slug: "nanaco"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

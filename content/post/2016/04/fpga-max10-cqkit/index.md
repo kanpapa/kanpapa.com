@@ -2,9 +2,10 @@
 title: "MAX10-FB FPGA電子工作スーパーキットで遊んでみた"
 date: 2016-04-29
 slug: "fpga-max10-cqkit"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
-tags: 
   - "fpga"
 image: "images/fpga_max10_cqqkit11.jpg"
 ---

@@ -2,7 +2,9 @@
 title: "京ぽんリーク情報？"
 date: 2006-06-20
 slug: "post-71"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

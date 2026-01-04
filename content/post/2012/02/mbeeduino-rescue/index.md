@@ -2,7 +2,10 @@
 title: "MBeeDuinoでタミヤの模型を制御してみた"
 date: 2012-02-04
 slug: "mbeeduino-rescue"
-categories: 
+categories:
+  - "Electronics"
+  - "Robot"
+tags:
   - "electronics"
   - "robot"
 image: "images/rescue_crawler5.jpg"

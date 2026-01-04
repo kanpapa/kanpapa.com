@@ -3,9 +3,10 @@ title: Mini pupper 2 object tracking
 date: 2025-02-03
 slug: minipupper2-object-tracking
 categories:
-- robot
+  - "Robot"
 tags:
-- mini-pupper-2
+  - "mini-pupper-2"
+  - "robot"
 image: images/minipupper2-object-tracking.png
 ---
 

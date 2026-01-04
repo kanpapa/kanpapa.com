@@ -2,9 +2,10 @@
 title: "COSMACでCHIP-8インタプリタを動かしてみました"
 date: 2020-04-29
 slug: "cosmac-vip-chip-8-startup"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
-tags: 
   - "cosmac-mbc"
 image: "images/cosmac_vip_chip_8_1strun.jpg"
 ---

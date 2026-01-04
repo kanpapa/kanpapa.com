@@ -2,7 +2,9 @@
 title: "月額980円のb-mobile SIMをスマートフォンXperiaで使ってみる"
 date: 2011-06-26
 slug: "980yen-b-mobile-xperia"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 image: "images/b-mobile-xperia01.jpg"
 ---

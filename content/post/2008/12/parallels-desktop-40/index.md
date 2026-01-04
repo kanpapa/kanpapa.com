@@ -2,7 +2,9 @@
 title: "Parallels Desktop 4.0にアップグレード"
 date: 2008-12-02
 slug: "parallels-desktop-40"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 image: "images/parallels_desktop_4_0.jpg"
 ---

@@ -2,9 +2,9 @@
 title: "ROS2 Foxyでルンバを動かしてみました(2) SLAM編"
 date: 2022-07-24
 slug: "ros2-foxy-roomba-slam"
-categories: 
-  - "roomba"
-tags: 
+categories:
+  - "Robot"
+tags:
   - "roomba"
 image: "images/ros2-foxy-roomba-slam-rviz.jpg"
 ---

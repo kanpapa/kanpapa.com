@@ -2,7 +2,9 @@
 title: "iPhone 4は6月25日到着予定。おまけに保護シートも同日到着か。"
 date: 2010-06-22
 slug: "iphone-4-0625"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

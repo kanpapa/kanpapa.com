@@ -2,7 +2,9 @@
 title: "新しいW-ZERO3"
 date: 2006-06-05
 slug: "w-zero3-15"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

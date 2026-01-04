@@ -2,7 +2,9 @@
 title: "真空管アンプを本格的に使ってみた"
 date: 2010-11-01
 slug: "gakken-tube-amp"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

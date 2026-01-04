@@ -2,9 +2,10 @@
 title: "NVIDIA Jetson Nanoを動かしてみました"
 date: 2020-03-08
 slug: "nvidia-jetson-nano-setup1"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
-tags: 
   - "jetson-nano"
   - "nvidia"
 image: "images/jetsonnano_setup1.jpg"

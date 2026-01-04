@@ -2,7 +2,9 @@
 title: "W-ZERO3[es]事前登録終了"
 date: 2006-07-13
 slug: "w-zero3es-3"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

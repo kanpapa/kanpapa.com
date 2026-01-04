@@ -2,7 +2,9 @@
 title: "MINDSTORMS NXTでボールをつかむ"
 date: 2006-10-28
 slug: "mindstorms-nxt-2"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 image: "images/20061028110634.jpg"
 ---

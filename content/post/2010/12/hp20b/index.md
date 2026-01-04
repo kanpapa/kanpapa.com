@@ -2,7 +2,10 @@
 title: "HP20bがおもしろそう"
 date: 2010-12-28
 slug: "hp20b"
-categories: 
+categories:
+  - "Electronics"
+  - "Retro Computing"
+tags:
   - "electronics"
   - "retrocomputing"
 ---

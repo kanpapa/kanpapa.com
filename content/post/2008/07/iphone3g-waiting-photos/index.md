@@ -2,7 +2,9 @@
 title: "行列のときのスナップ写真"
 date: 2008-07-12
 slug: "iphone3g-waiting-photos"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

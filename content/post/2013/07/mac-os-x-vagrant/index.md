@@ -2,7 +2,9 @@
 title: "Mac OS XにVagrantをインストールしました"
 date: 2013-07-07
 slug: "mac-os-x-vagrant"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

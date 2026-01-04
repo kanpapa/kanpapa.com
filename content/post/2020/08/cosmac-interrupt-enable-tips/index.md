@@ -3,9 +3,10 @@ title: "COSMACで割り込み許可にしたい場合はどうするか？"
 date: 
 2020-08-23
 slug: "cosmac-interrupt-enable-tips"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
-tags: 
   - "tips"
 image: "images/cosmac_cdp1802ace.jpg"
 ---

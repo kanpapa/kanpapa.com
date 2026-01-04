@@ -2,10 +2,11 @@
 title: "armbianでNano Pi NEO NASをSSDベースのサーバにしてみた"
 date: 2018-09-09
 slug: "armbian-nano-pi-neo-nas-ssd"
-categories: 
-  - "electronics"
-tags: 
+categories:
+  - "Electronics"
+tags:
   - "armbian"
+  - "electronics"
   - "nano-pi-neo"
 image: "images/nano_pi_neo_serial_console.jpg"
 ---

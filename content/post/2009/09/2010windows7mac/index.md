@@ -2,7 +2,9 @@
 title: "ウイルスバスター2010をWindows7 RCとMacで試す"
 date: 2009-09-04
 slug: "2010windows7mac"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

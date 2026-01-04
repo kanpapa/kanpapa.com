@@ -2,7 +2,9 @@
 title: "ホワイトプラン"
 date: 2007-01-06
 slug: "post-85"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

@@ -2,7 +2,9 @@
 title: "MacBook Proのハードディスク交換を準備中"
 date: 2008-09-06
 slug: "macbook-pro"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

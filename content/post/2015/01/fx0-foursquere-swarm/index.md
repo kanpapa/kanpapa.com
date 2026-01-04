@@ -2,7 +2,9 @@
 title: "au Firefox OS Fx0でFoursquareにチェックインしたい"
 date: 2015-01-17
 slug: "fx0-foursquere-swarm"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 image: "images/firefox_os_fx0.jpg"
 ---

@@ -2,7 +2,9 @@
 title: "LinkStation LS-H250GLのdebian化完了"
 date: 2008-05-03
 slug: "linkstation-hackkit-debian"
-categories: 
+categories:
+  - "Server"
+tags:
   - "server"
 ---
 

@@ -2,13 +2,14 @@
 title: "メカナムロボットでライントレーサを作りました。（おおたfab 第38回 素人でもロボットをつくりたい）"
 date: 2021-02-21
 slug: "mecanum-wheel-robot-lesson3"
-categories: 
-  - "robot"
-tags: 
+categories:
+  - "Robot"
+tags:
   - "arduino"
   - "otafab"
-  - "メカナムホイール"
   - "otafab-robot"
+  - "robot"
+  - "メカナムホイール"
 image: "images/mecanum_lesson3_run1.jpg"
 ---
 

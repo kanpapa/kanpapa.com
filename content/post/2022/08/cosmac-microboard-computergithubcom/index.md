@@ -3,10 +3,11 @@ title: COSMAC MicroBoard Computerの技術資料や成果物をGitHub.comに移�
 date: 2022-08-23
 slug: cosmac-microboard-computergithubcom
 categories:
-- cosmac
-- retrocomputing
+  - "Retro Computing"
 tags:
-- cosmac-mbc
+  - "cosmac"
+  - "cosmac-mbc"
+  - "retrocomputing"
 image: images/VIP_Space_-Intercept.jpg
 ---
 

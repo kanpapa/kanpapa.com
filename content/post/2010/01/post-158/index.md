@@ -2,7 +2,9 @@
 title: "たんすケータイあつめタイ"
 date: 2010-01-11
 slug: "post-158"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 image: "images/tansu_keitai.jpg"
 ---

@@ -2,12 +2,12 @@
 title: "ルンバで自律走行を行ってみました （おおたfab 第57回 素人でもロボットをつくりたい）"
 date: 2022-03-21
 slug: "roomba-robot-ros-part11-otafab57"
-categories: 
-  - "roomba"
-tags: 
-  - "roomba"
+categories:
+  - "Robot"
+tags:
   - "otafab"
   - "otafab-robot"
+  - "roomba"
 image: "images/roomba_otafab57_baseplate.jpg"
 ---
 

@@ -2,9 +2,10 @@
 title: "COSMAC MBCのガーバーデータとBOMを登録しました。"
 date: 2019-11-17
 slug: "cosmac-mbc-gerber-bom-released"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
-tags: 
   - "cosmac-mbc"
 image: "images/cosmac_mbc_rev02_gerber_viewer.jpg"
 ---

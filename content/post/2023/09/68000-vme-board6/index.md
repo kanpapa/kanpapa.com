@@ -3,11 +3,12 @@ title: 68000 VMEボードで遊んでみました（6）アドレスデコーダ
 date: 2023-09-04
 slug: 68000-vme-board6
 categories:
-- retrocomputing
+  - "Retro Computing"
 tags:
-- dvmecpu2
-- vme
-- '68000'
+  - "68000"
+  - "dvmecpu2"
+  - "retrocomputing"
+  - "vme"
 image: images/vme-board5-cpusocket-mbed68k1.jpg
 ---
 

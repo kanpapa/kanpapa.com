@@ -2,9 +2,10 @@
 title: "COSMAC MBC CPUボード Rev. 0.2のプリント基板が到着しました。"
 date: 2019-11-10
 slug: "cosmac-mbc-cpu-rev02-pcb-delivery"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
-tags: 
   - "cosmac-mbc"
 image: "images/cosmac_mbc_cpu_rev02_pcb1.jpg"
 ---

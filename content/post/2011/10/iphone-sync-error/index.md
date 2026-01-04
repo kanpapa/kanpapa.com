@@ -2,7 +2,9 @@
 title: "iPhoneの同期エラーの解消方法"
 date: 2011-10-08
 slug: "iphone-sync-error"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

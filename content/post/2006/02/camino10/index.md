@@ -2,7 +2,9 @@
 title: "Camino1.0リリース！"
 date: 2006-02-19
 slug: "camino10"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

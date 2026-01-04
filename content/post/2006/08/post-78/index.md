@@ -2,7 +2,9 @@
 title: "液晶保護シールを床に落としてしまいました・・・"
 date: 2006-08-12
 slug: "post-78"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

@@ -2,7 +2,9 @@
 title: "第18回 IT基礎技術勉強会に参加してきました"
 date: 2012-07-01
 slug: "itbeginner18-html"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

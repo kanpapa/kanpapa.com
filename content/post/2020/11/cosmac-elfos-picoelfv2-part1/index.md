@@ -2,9 +2,10 @@
 title: "COSMACでElf/OSを動かしてみました（Pico/Elf V2製作編）"
 date: 2020-11-12
 slug: "cosmac-elfos-picoelfv2-part1"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
-tags: 
   - "elf-os"
 image: "images/picoelfv2_finished.jpg"
 ---

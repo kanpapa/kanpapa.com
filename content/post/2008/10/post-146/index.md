@@ -2,7 +2,9 @@
 title: "お会式にでかける"
 date: 2008-10-13
 slug: "post-146"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 image: "images/oeshiki_2008_1.jpg"
 ---

@@ -3,12 +3,13 @@ title: 'TurtleBot3がやってきた #5（Navigationで自律走行編）'
 date: 2022-02-06
 slug: turtlebot3-burger-navigation1
 categories:
-- robot
+  - "Robot"
 tags:
-- melodic
-- navigation
-- ros1
-- turtlebot3
+  - "melodic"
+  - "navigation"
+  - "robot"
+  - "ros1"
+  - "turtlebot3"
 image: images/turtlebot3-burger-navigation-rviz3.png
 ---
 

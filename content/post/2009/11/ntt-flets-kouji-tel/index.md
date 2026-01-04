@@ -2,7 +2,9 @@
 title: "NTTからフレッツ光の工事日の電話がありました"
 date: 2009-11-23
 slug: "ntt-flets-kouji-tel"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

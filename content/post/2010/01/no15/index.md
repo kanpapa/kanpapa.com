@@ -2,7 +2,9 @@
 title: "エレキジャックNo.15 プリント基板プレゼント当選しました"
 date: 2010-01-24
 slug: "no15"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/ej_no15_pcb.jpg"
 ---

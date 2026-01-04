@@ -2,7 +2,9 @@
 title: "京ぽん２関連本の状況"
 date: 2006-01-07
 slug: "post-37"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

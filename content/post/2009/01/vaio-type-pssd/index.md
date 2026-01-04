@@ -2,7 +2,9 @@
 title: "VAIO type PのSSDデバイス"
 date: 2009-01-12
 slug: "vaio-type-pssd"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

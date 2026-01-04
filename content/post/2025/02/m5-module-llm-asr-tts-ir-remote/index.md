@@ -3,12 +3,13 @@ title: M5 Module LLMで音声制御リモコンを作ってみました
 date: 2025-02-02
 slug: m5-module-llm-asr-tts-ir-remote
 categories:
-- electronics
+  - "Electronics"
 tags:
-- arduino
-- ir
-- llm
-- m5stack
+  - "arduino"
+  - "electronics"
+  - "ir"
+  - "llm"
+  - "m5stack"
 image: images/m5-llm-ir-remote1.jpg
 ---
 

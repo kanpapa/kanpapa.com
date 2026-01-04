@@ -2,7 +2,9 @@
 title: "ようやく免許状がきました。"
 date: 2007-07-08
 slug: "post-103"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

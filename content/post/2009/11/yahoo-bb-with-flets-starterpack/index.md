@@ -2,7 +2,9 @@
 title: "Yahoo! BB 光 with フレッツのスターターパックが届きました"
 date: 2009-11-27
 slug: "yahoo-bb-with-flets-starterpack"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

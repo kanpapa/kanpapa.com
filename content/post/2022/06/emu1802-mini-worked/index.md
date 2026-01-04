@@ -3,10 +3,11 @@ title: EMU1802 miniを作ってみました
 date: 2022-06-19
 slug: emu1802-mini-worked
 categories:
-- cosmac
-- retrocomputing
+  - "Retro Computing"
 tags:
-- emu1802
+  - "cosmac"
+  - "emu1802"
+  - "retrocomputing"
 image: images/emu1802-mini_final.jpg
 ---
 

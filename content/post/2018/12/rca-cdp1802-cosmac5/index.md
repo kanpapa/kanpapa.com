@@ -3,10 +3,11 @@ title: RCA CDP1802 COSMACを動かしてみた(5) 基板発注編
 date: 2018-12-15
 slug: rca-cdp1802-cosmac5
 categories:
-- cosmac
-- retrocomputing
+  - "Retro Computing"
 tags:
-- cosmac-toy
+  - "cosmac"
+  - "cosmac-toy"
+  - "retrocomputing"
 image: images/cosmac_cpu_board_3dview.png
 ---
 

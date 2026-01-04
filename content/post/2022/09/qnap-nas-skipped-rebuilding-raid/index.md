@@ -2,10 +2,11 @@
 title: "QNAP NASでRAID1の再構築中にハードディスクが故障しました"
 date: 2022-09-27
 slug: "qnap-nas-skipped-rebuilding-raid"
-categories: 
-  - "server"
-tags: 
+categories:
+  - "Server"
+tags:
   - "qnap"
+  - "server"
 image: "images/qnap_nas_photo2.jpg"
 ---
 

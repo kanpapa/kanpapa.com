@@ -2,9 +2,9 @@
 title: "ルンバをROS2 Humbleに移行しました"
 date: 2024-01-07
 slug: "roomba-ros2-humble1"
-categories: 
-  - "roomba"
-tags: 
+categories:
+  - "Robot"
+tags:
   - "humble"
   - "roomba"
   - "ros2"

@@ -2,7 +2,9 @@
 title: "Mac OS X v10.5 Leopard(仮称)"
 date: 2007-10-14
 slug: "mac-os-x-v105-leopard"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

@@ -2,7 +2,9 @@
 title: "おサイフケータイ脱出完了"
 date: 2008-09-27
 slug: "post-143"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

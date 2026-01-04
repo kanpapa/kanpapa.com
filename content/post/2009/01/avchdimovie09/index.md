@@ -2,7 +2,9 @@
 title: "AVCHDビデオカメラの画像をiMovie'09に取り込む"
 date: 2009-01-29
 slug: "avchdimovie09"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

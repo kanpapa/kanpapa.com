@@ -2,7 +2,9 @@
 title: "さくらインターネット会員向けの仮想サーバ無料トライアル"
 date: 2010-07-15
 slug: "sakura-vps-trial"
-categories: 
+categories:
+  - "Server"
+tags:
   - "server"
 ---
 

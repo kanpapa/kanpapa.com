@@ -2,7 +2,9 @@
 title: "NetFront 3.3の設定"
 date: 2006-09-12
 slug: "netfront-33"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

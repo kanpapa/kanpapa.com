@@ -2,7 +2,9 @@
 title: "ISOイメージデータをCD-Rに焼く方法"
 date: 2005-04-10
 slug: "isocd-r"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 image: "images/mac_iso_image_write.jpg"
 ---

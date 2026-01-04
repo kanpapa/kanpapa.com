@@ -2,7 +2,9 @@
 title: "ひさびさにW-ZERO3[es]を使ってみる"
 date: 2008-09-29
 slug: "w-zero3es-29"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

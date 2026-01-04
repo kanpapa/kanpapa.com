@@ -2,7 +2,9 @@
 title: "Make: Tokyo Meeting(MTM)07に出展します。"
 date: 2011-11-08
 slug: "make-tokyo-meetingmtm07"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 ---
 

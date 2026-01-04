@@ -2,7 +2,9 @@
 title: "PCにフロントI/Oパネルを取り付ける"
 date: 2008-09-21
 slug: "pcio"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

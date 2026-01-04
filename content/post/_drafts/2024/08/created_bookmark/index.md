@@ -3,11 +3,11 @@ title: ブックマークを整理中
 date: 2024-08-07
 slug: created_bookmark
 categories:
-- security
+  - "Server"
 image: images/security-bookmark-1.png
 draft: true
 tags:
-- security
+  - "security"
 ---
 
 手始めにブックマークを整理し始めました。どこにでもあるものですが。

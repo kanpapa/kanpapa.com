@@ -2,11 +2,11 @@
 title: "MC68EZ328 DragonOne SBCでLAN接続に挑戦中"
 date: 2021-07-25
 slug: "mc68ez328-dragonone-sbc-uclinux-network1"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "mc68ez328"
   - "retrocomputing"
-tags: 
-  - "mc68ez328"
 image: "images/cs8900a_board.jpg"
 ---
 

@@ -3,14 +3,15 @@ title: 'TurtleBot2 kobukiがやってきた #9（ROS2 NAV2編）'
 date: 2024-09-07
 slug: turtlebot2-kobuki-9-ros2-nav2
 categories:
-- robot
+  - "Robot"
 tags:
-- humble
-- kobuki
-- nav2
-- ros2
-- slam
-- turtlebot2
+  - "humble"
+  - "kobuki"
+  - "nav2"
+  - "robot"
+  - "ros2"
+  - "slam"
+  - "turtlebot2"
 image: images/turtlebot2-kobuki-9-ros2-nav2-09051753.jpg
 ---
 

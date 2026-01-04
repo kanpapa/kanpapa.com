@@ -2,7 +2,9 @@
 title: "おサイフケータイ脱出計画"
 date: 2008-09-24
 slug: "post-142"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

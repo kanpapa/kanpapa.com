@@ -2,7 +2,9 @@
 title: "RAPIROをpythonで動かしてみました"
 date: 2014-03-08
 slug: "rapiro-python-uart"
-categories: 
+categories:
+  - "Robot"
+tags:
   - "robot"
 image: "images/rapiro_uart.jpg"
 ---

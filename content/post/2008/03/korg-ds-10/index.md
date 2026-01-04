@@ -2,7 +2,9 @@
 title: "KORG DS-10"
 date: 2008-03-11
 slug: "korg-ds-10"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 image: "images/20060520162849.jpg"
 ---

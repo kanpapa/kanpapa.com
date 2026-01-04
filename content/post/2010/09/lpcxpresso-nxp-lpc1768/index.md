@@ -2,7 +2,9 @@
 title: "LPCXpresso NXP LPC1768評価キットをいじってみる"
 date: 2010-09-19
 slug: "lpcxpresso-nxp-lpc1768"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/lpcxpresso-lpc1768.jpg"
 ---

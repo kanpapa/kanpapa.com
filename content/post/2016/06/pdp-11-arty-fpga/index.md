@@ -3,11 +3,12 @@ title: PDP-11をARTY FPGAボードで動かしてみた
 date: 2016-06-05
 slug: pdp-11-arty-fpga
 categories:
-- retrocomputing
+  - "Retro Computing"
 tags:
-- arty
-- fpga
-- pdp-11
+  - "arty"
+  - "fpga"
+  - "pdp-11"
+  - "retrocomputing"
 image: images/arty_fpga_board.jpg
 ---
 

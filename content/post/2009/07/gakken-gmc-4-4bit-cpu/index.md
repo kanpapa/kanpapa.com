@@ -2,7 +2,9 @@
 title: "学研の4ビットマイコン GMC-4 で遊ぶ"
 date: 2009-07-04
 slug: "gakken-gmc-4-4bit-cpu"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 image: "images/gmc4_1stpgm.jpg"
 ---

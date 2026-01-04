@@ -2,7 +2,9 @@
 title: "iPhone 3GをiOS4にアップデートしました"
 date: 2010-06-23
 slug: "iphone-3g-ios4"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

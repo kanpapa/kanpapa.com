@@ -2,7 +2,9 @@
 title: "いよいよ明日ですなぁ"
 date: 2005-11-07
 slug: "post-4-2"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

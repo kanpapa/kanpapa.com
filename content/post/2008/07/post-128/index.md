@@ -2,7 +2,9 @@
 title: "行列に孫さんがきました"
 date: 2008-07-10
 slug: "post-128"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

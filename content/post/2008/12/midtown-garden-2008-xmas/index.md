@@ -2,7 +2,9 @@
 title: "ミッドタウンガーデンに出かける"
 date: 2008-12-23
 slug: "midtown-garden-2008-xmas"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 image: "images/midtown_garden_20081221175006.jpg"
 ---

@@ -2,7 +2,9 @@
 title: "おきにいりブログ"
 date: 2007-01-22
 slug: "post-89"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

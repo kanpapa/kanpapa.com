@@ -2,7 +2,9 @@
 title: "ココログから移動しました"
 date: 2005-12-03
 slug: "post-15"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

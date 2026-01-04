@@ -2,9 +2,10 @@
 title: "1802 Membership Cardを作ってみました（トグルスイッチ編）"
 date: 2020-10-19
 slug: "1802-membership-card-part1"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
-tags: 
   - "membership-card"
 image: "images/MCard1802_Q_pluse.jpg"
 ---

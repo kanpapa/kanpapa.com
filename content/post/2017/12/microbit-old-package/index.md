@@ -2,9 +2,10 @@
 title: "昔のmicro:bitのパッケージ"
 date: 2017-12-19
 slug: "microbit-old-package"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
-tags: 
   - "micro-bit"
 image: "images/microbit_pkg_old1.jpg"
 ---

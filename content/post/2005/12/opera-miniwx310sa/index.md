@@ -2,7 +2,9 @@
 title: "Opera miniってWX310SAに載るのかな？"
 date: 2005-12-21
 slug: "opera-miniwx310sa"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

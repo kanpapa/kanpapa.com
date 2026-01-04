@@ -2,7 +2,9 @@
 title: "トランジスタ技術2007年4月号"
 date: 2007-03-13
 slug: "toragi-2007-04"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/toragi_20070313170421.jpg"
 ---

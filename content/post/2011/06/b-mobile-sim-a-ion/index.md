@@ -2,7 +2,9 @@
 title: "b-mobile SIM イオン専用 プランAを契約しました"
 date: 2011-06-14
 slug: "b-mobile-sim-a-ion"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

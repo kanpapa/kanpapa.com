@@ -3,11 +3,13 @@ title: ROS2とM5Stackをmicro-ROSで通信してみました (2) subscriber編
 date: 2022-10-01
 slug: ros2-m5stack-microros-subscriber
 categories:
-- electronics
-- robot
+  - "Electronics"
+  - "Robot"
 tags:
-- m5stack
-- ros2
+  - "electronics"
+  - "m5stack"
+  - "robot"
+  - "ros2"
 image: images/ros2-m5stack-microros_subscriber2.jpg
 ---
 

@@ -2,7 +2,9 @@
 title: "あけましておめでとうございます"
 date: 2006-01-01
 slug: "post-33"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

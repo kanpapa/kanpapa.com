@@ -2,7 +2,9 @@
 title: "Parallels DesktopでWindows 7 RCを動かす"
 date: 2009-05-16
 slug: "parallels-desktopwindows-7-rc"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

@@ -2,7 +2,9 @@
 title: "Parallels Desktop 3.0 for Mac Build 5540 Beta"
 date: 2007-10-29
 slug: "parallels-desktop-30-for-mac-build-5540-beta"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

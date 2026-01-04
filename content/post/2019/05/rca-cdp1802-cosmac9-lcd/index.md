@@ -3,10 +3,11 @@ title: RCA CDP1802 COSMACを動かしてみた(9) LCDに文字を表示してみ
 date: 2019-05-31
 slug: rca-cdp1802-cosmac9-lcd
 categories:
-- cosmac
-- retrocomputing
+  - "Retro Computing"
 tags:
-- cosmac-toy
+  - "cosmac"
+  - "cosmac-toy"
+  - "retrocomputing"
 image: images/cosmac_lcd_proto.jpg
 ---
 

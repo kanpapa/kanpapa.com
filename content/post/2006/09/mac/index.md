@@ -2,7 +2,9 @@
 title: "Macの場所を移動"
 date: 2006-09-30
 slug: "mac"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

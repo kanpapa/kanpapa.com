@@ -2,7 +2,9 @@
 title: "Windows 7 betaを試す"
 date: 2009-01-13
 slug: "windows-7-beta"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

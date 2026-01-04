@@ -2,7 +2,9 @@
 title: "はんだづけカフェに行ってみました"
 date: 2010-05-09
 slug: "handazukecafe"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/hndcafe.jpg"
 ---

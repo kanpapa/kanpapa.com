@@ -3,12 +3,14 @@ title: D-Robotics RDK X3 マイコンボードを試してみた
 date: 2024-09-26
 slug: rdk-x3-4g-board1
 categories:
-- electronics
-- robot
+  - "Electronics"
+  - "Robot"
 tags:
-- ai
-- rdk-x3
-- rdk
+  - "ai"
+  - "electronics"
+  - "rdk"
+  - "rdk-x3"
+  - "robot"
 image: images/rdk-x3-4g-startup1.jpg
 ---
 

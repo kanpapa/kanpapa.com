@@ -2,7 +2,9 @@
 title: "MARY OB基板(OLED)をmbedに接続してみました"
 date: 2011-04-10
 slug: "mbed-oled"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/mbed_oled2.jpg"
 ---

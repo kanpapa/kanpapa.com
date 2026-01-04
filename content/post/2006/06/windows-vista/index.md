@@ -2,7 +2,9 @@
 title: "Windows Vista ベータ２"
 date: 2006-06-08
 slug: "windows-vista"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

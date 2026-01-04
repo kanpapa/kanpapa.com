@@ -2,7 +2,9 @@
 title: "秋月電子のパルスオキシセンサで脈波を見てみた"
 date: 2015-07-13
 slug: "njl5501r-pulse-oximeter"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/njl5501r02.jpg"
 ---

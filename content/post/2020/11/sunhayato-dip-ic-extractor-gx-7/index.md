@@ -2,7 +2,9 @@
 title: "サンハヤトのDIP IC EXTRACTOR 引き抜き治具 GX-7を使ってみました"
 date: 2020-11-09
 slug: "sunhayato-dip-ic-extractor-gx-7"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/sunhayato_gx7.jpg"
 ---

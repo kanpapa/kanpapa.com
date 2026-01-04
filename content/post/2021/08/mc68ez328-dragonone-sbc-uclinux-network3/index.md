@@ -2,11 +2,11 @@
 title: "MC68EZ328 SBCのネットワーク環境を改善しました"
 date: 2021-08-03
 slug: "mc68ez328-dragonone-sbc-uclinux-network3"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "mc68ez328"
   - "retrocomputing"
-tags: 
-  - "mc68ez328"
 image: "images/uclinux_wifi_router1.jpg"
 ---
 

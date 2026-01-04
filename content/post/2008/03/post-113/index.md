@@ -2,7 +2,9 @@
 title: "新つなぎ放題に料金プランを変えました。"
 date: 2008-03-23
 slug: "post-113"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

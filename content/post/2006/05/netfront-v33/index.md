@@ -2,7 +2,9 @@
 title: "NetFront v3.3発売！"
 date: 2006-05-30
 slug: "netfront-v33"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

@@ -2,7 +2,9 @@
 title: "トラ技付録のLPC810実験基板で遊んでみた"
 date: 2014-01-13
 slug: "lpc810-toragi"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/toragi_lpc810_1.jpg"
 ---

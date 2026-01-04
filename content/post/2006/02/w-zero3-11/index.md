@@ -2,7 +2,9 @@
 title: "W-ZERO3のパケット数グラフを追加しました。"
 date: 2006-02-17
 slug: "w-zero3-11"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

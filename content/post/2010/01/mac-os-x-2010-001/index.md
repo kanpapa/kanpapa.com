@@ -2,7 +2,9 @@
 title: "Mac OS X セキュリティアップデート 2010-001"
 date: 2010-01-20
 slug: "mac-os-x-2010-001"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

@@ -2,7 +2,9 @@
 title: "iPhone OS 3.0のアクティベートができない"
 date: 2009-06-17
 slug: "iphone-os-30"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

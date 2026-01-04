@@ -2,7 +2,9 @@
 title: "私のは5A345でした！"
 date: 2008-07-16
 slug: "5a345"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

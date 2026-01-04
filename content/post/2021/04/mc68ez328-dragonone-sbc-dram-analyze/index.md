@@ -2,11 +2,11 @@
 title: "MC68EZ328 DragonOne SBCのDRAMの信号をロジアナで確認しました"
 date: 2021-04-29
 slug: "mc68ez328-dragonone-sbc-dram-analyze"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "mc68ez328"
   - "retrocomputing"
-tags: 
-  - "mc68ez328"
 image: "images/dragonone_dram_analyze1.jpg"
 ---
 

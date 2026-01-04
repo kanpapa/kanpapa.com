@@ -2,7 +2,9 @@
 title: "行列疲れでメール設定もせずに爆睡"
 date: 2008-07-12
 slug: "post-130"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

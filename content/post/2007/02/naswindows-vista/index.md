@@ -2,7 +2,9 @@
 title: "NAS接続のために、Windows Vistaのレジストリをいじることに。"
 date: 2007-02-03
 slug: "naswindows-vista"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

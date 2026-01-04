@@ -2,7 +2,9 @@
 title: "10万パケット突破です"
 date: 2006-01-07
 slug: "10"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

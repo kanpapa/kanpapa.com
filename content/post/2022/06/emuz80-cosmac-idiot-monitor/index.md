@@ -3,11 +3,12 @@ title: EMUZ80でCOSMACを動かしてみました 4（モニタ動作編）
 date: 2022-06-04
 slug: emuz80-cosmac-idiot-monitor
 categories:
-- cosmac
-- retrocomputing
+  - "Retro Computing"
 tags:
-- emu1802
-- emuz80
+  - "cosmac"
+  - "emu1802"
+  - "emuz80"
+  - "retrocomputing"
 image: images/emuz80_cosmac_serial_usb1.jpg
 ---
 

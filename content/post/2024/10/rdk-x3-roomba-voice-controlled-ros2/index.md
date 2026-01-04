@@ -3,13 +3,13 @@ title: D-Robotics RDK X3でルンバを音声制御してみた
 date: 2024-10-18
 slug: rdk-x3-roomba-voice-controlled-ros2
 categories:
-- robot
-- roomba
+  - "Robot"
 tags:
-- rdk-x3
-- roomba
-- ros2
-- rdk
+  - "rdk"
+  - "rdk-x3"
+  - "robot"
+  - "roomba"
+  - "ros2"
 image: images/rdk-x3-roomba-voice-control.jpg
 ---
 

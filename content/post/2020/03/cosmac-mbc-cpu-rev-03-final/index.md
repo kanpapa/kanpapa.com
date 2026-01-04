@@ -2,9 +2,10 @@
 title: "COSMAC MBC CPUボードRev. 0.3を製作しました。"
 date: 2020-03-01
 slug: "cosmac-mbc-cpu-rev-03-final"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
-tags: 
   - "cosmac-mbc"
 image: "images/cosmac_mbc_cpu_rev03_4.jpg"
 ---

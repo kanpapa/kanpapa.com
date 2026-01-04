@@ -2,9 +2,9 @@
 title: "ROS2 FoxyでルンバのLEDとサウンドを制御してみました"
 date: 2022-08-12
 slug: "roomba-ros2-led-song"
-categories: 
-  - "roomba"
-tags: 
+categories:
+  - "Robot"
+tags:
   - "roomba"
 image: "images/roomba_all_led_on.jpg"
 ---

@@ -2,7 +2,9 @@
 title: "リビングの夜景"
 date: 2009-01-17
 slug: "post-152"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 image: "images/living_led_20090115020159.jpg"
 ---

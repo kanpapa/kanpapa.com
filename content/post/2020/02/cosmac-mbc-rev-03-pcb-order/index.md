@@ -2,9 +2,10 @@
 title: "COSMAC MBC 拡張ボードRev. 0.3を発注しました。"
 date: 2020-02-02
 slug: "cosmac-mbc-rev-03-pcb-order"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
-tags: 
   - "cosmac-mbc"
 image: "images/cdp18s020_ex_rev03_pcb_3d.jpg"
 ---

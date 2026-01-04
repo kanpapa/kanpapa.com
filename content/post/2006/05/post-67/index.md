@@ -2,7 +2,9 @@
 title: "彗星を見てきました"
 date: 2006-05-02
 slug: "post-67"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

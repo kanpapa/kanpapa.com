@@ -2,9 +2,10 @@
 title: "LiDARが壊れました"
 date: 2022-07-19
 slug: "slamtec-rplidar-stopped"
-categories: 
+categories:
+  - "Robot"
+tags:
   - "robot"
-tags: 
   - "roomba"
 image: "images/slamtec_rplidar_a1m8_z.jpg"
 ---

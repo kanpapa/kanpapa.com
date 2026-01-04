@@ -2,7 +2,9 @@
 title: "MINDSTORMS NXTで遊ぶ"
 date: 2008-12-13
 slug: "mindstorms-nxt-robot"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

@@ -2,7 +2,9 @@
 title: "iLife'09が到着しました"
 date: 2009-01-29
 slug: "ilife09"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

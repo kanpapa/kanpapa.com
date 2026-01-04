@@ -2,11 +2,12 @@
 title: "Arduino MEGAでSRAMのメモリチェックをやってみた"
 date: 2018-08-18
 slug: "arduino-mega-memory-check"
-categories: 
-  - "electronics"
-tags: 
+categories:
+  - "Electronics"
+tags:
   - "arduino"
   - "arduino-mega"
+  - "electronics"
   - "sram"
 image: "images/HM6264checker.jpg"
 ---

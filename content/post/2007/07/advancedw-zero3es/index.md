@@ -2,7 +2,9 @@
 title: "Advanced/W-ZERO3[es]予約しました"
 date: 2007-07-01
 slug: "advancedw-zero3es"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

@@ -2,7 +2,9 @@
 title: "「さくらのVPS」（ベータ版）の会員様向け無料トライアルお申し込み受付一時停止"
 date: 2010-07-16
 slug: "sakura-vps-stop"
-categories: 
+categories:
+  - "Server"
+tags:
   - "server"
 ---
 

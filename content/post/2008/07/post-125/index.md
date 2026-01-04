@@ -2,7 +2,9 @@
 title: "ビックカメラで販売開始カウントダウンセレモニー"
 date: 2008-07-08
 slug: "post-125"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

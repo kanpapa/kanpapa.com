@@ -2,7 +2,9 @@
 title: "ウィルコムストアでW-ZERO3[es]通常商品の予約開始！"
 date: 2006-07-18
 slug: "w-zero3es-7"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

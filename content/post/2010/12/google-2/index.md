@@ -2,7 +2,9 @@
 title: "Google翻訳の謎にはまる"
 date: 2010-12-15
 slug: "google-2"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

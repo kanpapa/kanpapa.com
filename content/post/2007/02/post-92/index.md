@@ -2,7 +2,9 @@
 title: "イチなび動きました！"
 date: 2007-02-24
 slug: "post-92"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

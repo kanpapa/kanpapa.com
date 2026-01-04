@@ -2,7 +2,9 @@
 title: "VAIO PCG-C1/XEにVineLinux 3.1をインストールしたメモ（1024x480と無線LAN)"
 date: 2005-04-10
 slug: "vaio-pcg-c1xevinelinux-311024x480lan"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

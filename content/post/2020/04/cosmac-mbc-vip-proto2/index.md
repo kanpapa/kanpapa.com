@@ -2,9 +2,10 @@
 title: "COSMAC VIP互換のHEX Keyboardをユニバーサル基板に実装してみました"
 date: 2020-04-05
 slug: "cosmac-mbc-vip-proto2"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
-tags: 
   - "cosmac-mbc"
 image: "images/cosmac_vip_hexkey3.jpg"
 ---

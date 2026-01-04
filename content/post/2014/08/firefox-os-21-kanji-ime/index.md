@@ -2,7 +2,9 @@
 title: "日本語IMEを組み込んだFirefox OS 2.1をFlameに書き込んでみた"
 date: 2014-08-16
 slug: "firefox-os-21-kanji-ime"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 image: "images/fxos21_kanji_ime.jpg"
 ---

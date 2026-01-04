@@ -2,9 +2,10 @@
 title: "COSMAC TVディスプレイボードを発注しました"
 date: 2020-01-04
 slug: "cosmac-tv-pcb-order"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
-tags: 
   - "cosmac-mbc"
 image: "images/cosmac_tv_rev0_2_pcb_3d.jpg"
 ---

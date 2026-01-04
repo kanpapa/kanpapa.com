@@ -2,7 +2,9 @@
 title: "Yahoo!BB hikari スターターパックが届きました。"
 date: 2006-03-20
 slug: "yahoobb-hikari"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 image: "images/yahoobb-hikari_20060321171208.jpg"
 ---

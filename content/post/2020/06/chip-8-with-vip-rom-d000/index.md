@@ -3,10 +3,11 @@ title: リロケートしたVIP OS ROMでCHIP-8が動くようにしました
 date: 2020-06-21
 slug: chip-8-with-vip-rom-d000
 categories:
-- cosmac
-- retrocomputing
+  - "Retro Computing"
 tags:
-- cosmac-mbc
+  - "cosmac"
+  - "cosmac-mbc"
+  - "retrocomputing"
 image: images/cosmac_cdp1802ace.jpg
 ---
 

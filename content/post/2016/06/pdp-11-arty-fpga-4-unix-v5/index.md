@@ -3,11 +3,12 @@ title: PDP-11をARTY FPGAボードで動かしてみた(4) UNIX V5を動かす
 date: 2016-06-05
 slug: pdp-11-arty-fpga-4-unix-v5
 categories:
-- retrocomputing
+  - "Retro Computing"
 tags:
-- arty
-- fpga
-- pdp-11
+  - "arty"
+  - "fpga"
+  - "pdp-11"
+  - "retrocomputing"
 image: images/logingamen.png
 ---
 

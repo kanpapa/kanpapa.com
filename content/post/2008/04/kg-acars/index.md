@@ -2,7 +2,9 @@
 title: "ACARSで飛行中の航空機情報を見る"
 date: 2008-04-08
 slug: "kg-acars"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

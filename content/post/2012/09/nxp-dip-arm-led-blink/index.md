@@ -2,7 +2,9 @@
 title: "NXP DIP ARMでLED点滅ができました"
 date: 2012-09-05
 slug: "nxp-dip-arm-led-blink"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/dip_arm_lpclink.jpg"
 ---

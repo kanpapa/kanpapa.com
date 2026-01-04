@@ -2,9 +2,10 @@
 title: "COSMAC RetroShield 1802基板をいただきました"
 date: 2020-08-27
 slug: "cosmac-retroshield-1802"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
-tags: 
   - "retroshield"
 image: "images/RetroShield_1802_RevB.jpg"
 ---

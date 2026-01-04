@@ -2,9 +2,9 @@
 title: "ROS2 Foxyでルンバのバッテリー電圧を表示するノードを作ってみました。"
 date: 2022-08-13
 slug: "roomba-ros2-display-voltage-node"
-categories: 
-  - "roomba"
-tags: 
+categories:
+  - "Robot"
+tags:
   - "roomba"
 image: "images/roomba_dispvolv_led.jpg"
 ---

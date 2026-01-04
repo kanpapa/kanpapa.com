@@ -2,7 +2,9 @@
 title: "Parallels Desktopを試用中"
 date: 2006-12-10
 slug: "parallels-desktop"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

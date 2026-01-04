@@ -2,7 +2,9 @@
 title: "販売はソフトバンクショップ"
 date: 2008-07-08
 slug: "post-126"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

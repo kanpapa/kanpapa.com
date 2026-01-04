@@ -2,7 +2,9 @@
 title: "W-ZERO3でロケフリ！"
 date: 2006-03-29
 slug: "w-zero3-12"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

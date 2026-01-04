@@ -2,10 +2,11 @@
 title: "ANYCUBIC Kobra Go 3Dプリンタを組み立てました"
 date: 2022-12-04
 slug: "anycubic-kobra-go-3dprinter-assembly"
-categories: 
-  - "research"
-tags: 
+categories:
+  - "Event"
+tags:
   - "3d-printer"
+  - "research"
 image: "images/kobura_go_assembly16.jpg"
 ---
 

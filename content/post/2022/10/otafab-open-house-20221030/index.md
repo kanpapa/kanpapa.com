@@ -2,13 +2,13 @@
 title: "おおたfabオープンハウスでルンバロボットの自律走行を実演しました"
 date: 2022-10-30
 slug: "otafab-open-house-20221030"
-categories: 
-  - "roomba"
-tags: 
-  - "roomba"
-  - "ros2"
+categories:
+  - "Robot"
+tags:
   - "otafab"
   - "otafab-robot"
+  - "roomba"
+  - "ros2"
 image: "images/roomba_otafab_open_house_20221030_4.jpg"
 ---
 

@@ -2,7 +2,9 @@
 title: "大人の科学 Vol.24で4bitマイコンが付録"
 date: 2009-04-17
 slug: "otonanokagaku-vol24-4bit"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

@@ -2,7 +2,9 @@
 title: "Leopardの【ビックカメラ限定 予約特典付き】の表示が無くなっている・・・"
 date: 2007-10-16
 slug: "leopard"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

@@ -3,10 +3,11 @@ title: RCA CDP1802 COSMACを動かしてみた(3) アセンブラ編
 date: 2018-11-23
 slug: rca-cdp1802-cosmac3
 categories:
-- cosmac
-- retrocomputing
+  - "Retro Computing"
 tags:
-- cosmac-toy
+  - "cosmac"
+  - "cosmac-toy"
+  - "retrocomputing"
 ---
 
 [ブレッドボードに組み上げたCOSMACマイコンの動作確認](https://kanpapa.com/2018/11/rca-cdp1802-cosmac2.html "COSMAC 動作確認")ができましたので、参考にしている書籍「トラ技別冊　つくるシリーズ７　手作りコンピュータ入門」にあるサンプルプログラムを動かしていこうと思います。

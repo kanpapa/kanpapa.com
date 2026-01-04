@@ -2,7 +2,9 @@
 title: "VirusBarrier X5を試用中"
 date: 2008-12-06
 slug: "virusbarrier-x5"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

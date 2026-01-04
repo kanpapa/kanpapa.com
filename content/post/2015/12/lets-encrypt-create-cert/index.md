@@ -2,7 +2,9 @@
 title: "Let's Encryptのサーバ証明書でhttps対応サイトにしてみた"
 date: 2015-12-23
 slug: "lets-encrypt-create-cert"
-categories: 
+categories:
+  - "Server"
+tags:
   - "server"
 ---
 

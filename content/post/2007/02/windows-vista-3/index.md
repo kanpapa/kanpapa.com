@@ -2,7 +2,9 @@
 title: "Windows Vistaフリーズはやはりドライバかな？"
 date: 2007-02-02
 slug: "windows-vista-3"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

@@ -3,11 +3,12 @@ title: Ubuntuデスクトップの開発環境でKIM Unoを製作してみまし
 date: 2023-01-31
 slug: kim-uno-linux-ubuntu-pc-devenv
 categories:
-- retrocomputing
+  - "Retro Computing"
 tags:
-- kim-uno
-- ubuntu
-- '6502'
+  - "6502"
+  - "kim-uno"
+  - "retrocomputing"
+  - "ubuntu"
 image: images/kim_uno_prototype_1.jpg
 ---
 

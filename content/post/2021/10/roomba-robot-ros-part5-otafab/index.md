@@ -2,13 +2,13 @@
 title: "オドメトリ情報を使ってルンバ実機を動かしてみました （おおたfab 第48回 素人でもロボットをつくりたい）"
 date: 2021-10-10
 slug: "roomba-robot-ros-part5-otafab"
-categories: 
-  - "robot"
-  - "roomba"
-tags: 
-  - "roomba"
+categories:
+  - "Robot"
+tags:
   - "otafab"
   - "otafab-robot"
+  - "robot"
+  - "roomba"
 image: "images/Roomba-robot-ros-part5-turtlesim.jpg"
 ---
 

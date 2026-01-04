@@ -2,7 +2,9 @@
 title: "久しぶりにTK-85で遊ぶ"
 date: 2009-07-04
 slug: "tk-85"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "retrocomputing"
 image: "images/tk85_1.jpg"
 ---

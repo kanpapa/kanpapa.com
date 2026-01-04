@@ -2,7 +2,9 @@
 title: "HP 15cを買っちゃいました"
 date: 2012-01-30
 slug: "hp-15c"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 image: "images/hp15c_2.jpg"
 ---

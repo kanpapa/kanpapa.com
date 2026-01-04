@@ -3,10 +3,11 @@ title: COSMAC MBC BUSボードにサウンド回路を実装しました
 date: 2020-09-14
 slug: cosmac-mbc-bus-sound
 categories:
-- cosmac
-- retrocomputing
+  - "Retro Computing"
 tags:
-- cosmac-mbc
+  - "cosmac"
+  - "cosmac-mbc"
+  - "retrocomputing"
 image: images/cosmac_sound_bus3.jpg
 ---
 

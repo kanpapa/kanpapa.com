@@ -2,7 +2,9 @@
 title: "WILLCOM STOREからの電話"
 date: 2006-08-10
 slug: "willcom-store-3"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

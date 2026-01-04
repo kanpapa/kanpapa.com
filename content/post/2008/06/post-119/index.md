@@ -2,7 +2,9 @@
 title: "山手線でフォクすけ君を見た"
 date: 2008-06-19
 slug: "post-119"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

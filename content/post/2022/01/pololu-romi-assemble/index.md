@@ -2,10 +2,11 @@
 title: "Pololu Romi ロボットカーを組み立ててみました"
 date: 2022-01-23
 slug: "pololu-romi-assemble"
-categories: 
-  - "robot"
-tags: 
+categories:
+  - "Robot"
+tags:
   - "pololu"
+  - "robot"
   - "romi"
 image: "images/Romi_raspberrypi_test1.jpg"
 ---

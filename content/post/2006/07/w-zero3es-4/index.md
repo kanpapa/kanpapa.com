@@ -2,7 +2,9 @@
 title: "W-ZERO3[es]の実機を触った！"
 date: 2006-07-14
 slug: "w-zero3es-4"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

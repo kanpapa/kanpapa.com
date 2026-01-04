@@ -2,7 +2,9 @@
 title: "はてなからインポート"
 date: 2008-08-31
 slug: "post-21"
-categories: 
+categories:
+  - "Server"
+tags:
   - "server"
 ---
 

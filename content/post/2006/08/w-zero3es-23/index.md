@@ -2,7 +2,9 @@
 title: "音が出ないW-ZERO3[es]"
 date: 2006-08-20
 slug: "w-zero3es-23"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

@@ -2,7 +2,9 @@
 title: "Make: Ogaki Meetingに行ってきました"
 date: 2010-09-28
 slug: "make-ogaki-meeting"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/orange_kanbai.jpg"
 ---

@@ -2,7 +2,9 @@
 title: "おもちゃのカンヅメ 冒険缶が届きました"
 date: 2008-09-28
 slug: "post-145"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 image: "images/omocha_no_kanzume1.jpg"
 ---

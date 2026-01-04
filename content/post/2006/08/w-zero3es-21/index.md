@@ -2,7 +2,9 @@
 title: "W-ZERO3[es]用の液晶保護シールの装着完了！"
 date: 2006-08-12
 slug: "w-zero3es-21"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

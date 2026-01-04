@@ -2,7 +2,9 @@
 title: "がんばれ！九十九電機"
 date: 2008-10-30
 slug: "post-148"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 image: "images/DSCN0285.jpg"
 ---

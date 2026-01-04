@@ -2,7 +2,9 @@
 title: "Pepperの新ファームウェアで数字を表示する"
 date: 2010-04-11
 slug: "pepper-7seg-led"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/pepper_newfarm5.jpg"
 ---

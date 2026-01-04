@@ -2,11 +2,12 @@
 title: "Maker Faire Kyoto 2023に行ってみました"
 date: 2023-05-04
 slug: "maker-faire-kyoto-2023"
-categories: 
-  - "research"
-tags: 
+categories:
+  - "Event"
+tags:
   - "maker-faire"
   - "mfkyoto2023"
+  - "research"
 image: "images/mfk2023_20230430_011130486.jpg"
 ---
 

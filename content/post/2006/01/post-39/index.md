@@ -2,7 +2,9 @@
 title: "ぴぴっとフォンのここだよナビ"
 date: 2006-01-15
 slug: "post-39"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

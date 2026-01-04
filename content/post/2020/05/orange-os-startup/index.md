@@ -2,10 +2,11 @@
 title: "BASICでtelnetが書けるというORANGE-OSを動かしました"
 date: 2020-05-09
 slug: "orange-os-startup"
-categories: 
-  - "electronics"
-tags: 
+categories:
+  - "Electronics"
+tags:
   - "basic"
+  - "electronics"
   - "esp32"
 image: "images/orange-os-wifi.jpg"
 ---

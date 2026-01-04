@@ -2,7 +2,9 @@
 title: "VAIO type PとiPhoneでN700系新幹線のインターネットサービスを使う"
 date: 2009-04-01
 slug: "vaio-type-piphonen700"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 image: "images/vaio_type_p_n700.jpg"
 ---

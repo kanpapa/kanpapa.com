@@ -3,9 +3,10 @@ title: Mini Pupper 2 を組み立ててみました (1) 組み立て準備編
 date: 2023-10-09
 slug: mini-pupper-2-part1
 categories:
-- robot
+  - "Robot"
 tags:
-- mini-pupper-2
+  - "mini-pupper-2"
+  - "robot"
 image: images/MP2_1_package.jpg
 ---
 

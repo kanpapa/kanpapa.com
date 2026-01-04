@@ -2,7 +2,9 @@
 title: "大人の科学マガジン Vol.24 (4ビットマイコン) 発送のお知らせ"
 date: 2009-06-29
 slug: "vol24-4"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

@@ -3,11 +3,12 @@ title: 'TurtleBot2 kobukiがやってきた #4（ROS2 Rviz2編）'
 date: 2024-04-30
 slug: turtlebot2-kobuki-4-ros2-rviz2
 categories:
-- robot
+  - "Robot"
 tags:
-- kobuki
-- ros2
-- turtlebot2
+  - "kobuki"
+  - "robot"
+  - "ros2"
+  - "turtlebot2"
 image: images/turtlebot2-kobuki-4-ros2-rviz2-eyecatch.png
 ---
 

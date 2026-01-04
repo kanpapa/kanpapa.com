@@ -3,12 +3,13 @@ title: RISC-Vマイコン CH32X035G8U6 ブレークアウトモジュールとAr
 date: 2025-07-03
 slug: blink-risc-v-ch32x035-arduino
 categories:
-- electronics
+  - "Electronics"
 tags:
-- arduino
-- ch32x035
-- risc-v
-- akiduki-denshi
+  - "akiduki-denshi"
+  - "arduino"
+  - "ch32x035"
+  - "electronics"
+  - "risc-v"
 image: images/ch32x035g8u6-breakout-blinking.jpg
 ---
 

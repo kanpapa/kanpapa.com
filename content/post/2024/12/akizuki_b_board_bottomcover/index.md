@@ -2,12 +2,13 @@
 title: "秋月電子B基板サイズのボトムカバーを作ってみました"
 date: 2024-12-29
 slug: "akizuki_b_board_bottomcover"
-categories: 
-  - "research"
-tags: 
+categories:
+  - "Event"
+tags:
   - "3d-printer"
-  - "b-board"
   - "akiduki-denshi"
+  - "b-board"
+  - "research"
 image: "images/akizuki_b_board_bottomcover1-1.jpg"
 ---
 

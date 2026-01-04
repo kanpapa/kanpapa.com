@@ -2,7 +2,9 @@
 title: "近所のウィルコムカウンターが消えた"
 date: 2006-03-31
 slug: "post-59"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

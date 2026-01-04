@@ -2,10 +2,11 @@
 title: "いろんなCPUをサポートしているSB-Assembler V3をつかってみた"
 date: 2018-08-16
 slug: "sb-assembler-v3"
-categories: 
-  - "retrocomputing"
-tags: 
+categories:
+  - "Retro Computing"
+tags:
   - "assembler"
+  - "retrocomputing"
 image: "images/sbasm2.png"
 ---
 

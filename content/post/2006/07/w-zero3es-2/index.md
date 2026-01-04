@@ -2,7 +2,9 @@
 title: "W-ZERO3[es]事前予約完敗"
 date: 2006-07-12
 slug: "w-zero3es-2"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

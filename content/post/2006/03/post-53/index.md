@@ -2,7 +2,9 @@
 title: "環境整備中のためパケ数増えず"
 date: 2006-03-07
 slug: "post-53"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

@@ -2,13 +2,13 @@
 title: "ルンバをROSで動かしてみました。（おおたfab 第43回 素人でもロボットをつくりたい）"
 date: 2021-07-04
 slug: "roomba-robot-ros-part1-otafab"
-categories: 
-  - "robot"
-  - "roomba"
-tags: 
-  - "roomba"
+categories:
+  - "Robot"
+tags:
   - "otafab"
   - "otafab-robot"
+  - "robot"
+  - "roomba"
 image: "images/roomba_robot_ros_rasppi_connect1.jpg"
 ---
 

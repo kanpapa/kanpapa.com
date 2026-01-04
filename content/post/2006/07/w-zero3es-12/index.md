@@ -2,7 +2,9 @@
 title: "W-ZERO3[es]発売日のようす"
 date: 2006-07-27
 slug: "w-zero3es-12"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

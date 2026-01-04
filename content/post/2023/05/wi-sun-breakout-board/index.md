@@ -2,9 +2,10 @@
 title: "Wi-SUNモジュールのブレークアウト基板を作ってみました"
 date: 2023-05-14
 slug: "wi-sun-breakout-board"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
-tags: 
   - "kicad"
 image: "images/wisun_prototype_v02_pcb_image.png"
 ---

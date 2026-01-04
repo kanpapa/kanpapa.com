@@ -2,7 +2,9 @@
 title: "WX310Kの有償アプリの価格"
 date: 2005-11-04
 slug: "wx310k"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

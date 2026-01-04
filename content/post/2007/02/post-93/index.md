@@ -2,7 +2,9 @@
 title: "コドモバイルのバグかも"
 date: 2007-02-24
 slug: "post-93"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

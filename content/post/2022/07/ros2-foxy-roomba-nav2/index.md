@@ -2,9 +2,9 @@
 title: "ROS2 Foxyでルンバを動かしてみました(3) 自律走行編"
 date: 2022-07-24
 slug: "ros2-foxy-roomba-nav2"
-categories: 
-  - "roomba"
-tags: 
+categories:
+  - "Robot"
+tags:
   - "roomba"
   - "ros2"
 image: "images/ros2-foxy-roomba-nav2-goal1.jpg"

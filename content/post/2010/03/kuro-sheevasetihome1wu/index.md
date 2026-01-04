@@ -2,7 +2,9 @@
 title: "KURO-SHEEVA（玄柴）でSETI@homeの1WUが終わりました"
 date: 2010-03-21
 slug: "kuro-sheevasetihome1wu"
-categories: 
+categories:
+  - "Server"
+tags:
   - "server"
 ---
 

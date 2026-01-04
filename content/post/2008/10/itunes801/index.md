@@ -2,7 +2,9 @@
 title: "iTunes8.0.1がリリースされました"
 date: 2008-10-03
 slug: "itunes801"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

@@ -2,11 +2,11 @@
 title: "MC68EZ328 DragonOne SBCのフラッシュメモリからモニタを起動できました"
 date: 2021-05-09
 slug: "mc68ez328-dragonone-sbc-flash-monitor"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "mc68ez328"
   - "retrocomputing"
-tags: 
-  - "mc68ez328"
 image: "images/mc68ez328-dragonone-sbc-flash-boot.jpg"
 ---
 

@@ -2,7 +2,9 @@
 title: "debianの環境設定"
 date: 2008-05-06
 slug: "debian"
-categories: 
+categories:
+  - "Server"
+tags:
   - "server"
 ---
 

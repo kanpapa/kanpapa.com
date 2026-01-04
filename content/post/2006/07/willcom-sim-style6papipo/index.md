@@ -2,7 +2,9 @@
 title: "WILLCOM SIM STYLEで6番目は「papipo！」だった。"
 date: 2006-07-08
 slug: "willcom-sim-style6papipo"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

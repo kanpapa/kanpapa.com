@@ -2,7 +2,9 @@
 title: "来ました！正式発表です！"
 date: 2005-11-07
 slug: "willcom-newlineup"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

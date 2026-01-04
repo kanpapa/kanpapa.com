@@ -2,7 +2,9 @@
 title: "iPhoneでGoogle Earthを動かす"
 date: 2008-10-28
 slug: "iphonegoogle-earth"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

@@ -2,7 +2,9 @@
 title: "テオ・ヤンセン展にいってきました"
 date: 2010-12-23
 slug: "theo-jansen-exhibition"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

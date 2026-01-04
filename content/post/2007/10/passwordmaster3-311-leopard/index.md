@@ -2,7 +2,9 @@
 title: "PasswordMaster3 3.1.1 アップデータでLeopardで動きました！"
 date: 2007-10-30
 slug: "passwordmaster3-311-leopard"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

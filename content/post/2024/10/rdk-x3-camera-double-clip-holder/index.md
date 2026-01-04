@@ -3,13 +3,15 @@ title: RDK X3カメラ用ダブルクリップホルダーを作ってみまし�
 date: 2024-10-18
 slug: rdk-x3-camera-double-clip-holder
 categories:
-- electronics
-- robot
+  - "Electronics"
+  - "Robot"
 tags:
-- camera
-- freecad
-- rdk-x3
-- rdk
+  - "camera"
+  - "electronics"
+  - "freecad"
+  - "rdk"
+  - "rdk-x3"
+  - "robot"
 image: images/rdk-x3-camera-double-clip-holder3.jpg
 ---
 

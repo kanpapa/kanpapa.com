@@ -2,9 +2,10 @@
 title: "micro:bitでモーターを動かしてみた"
 date: 2017-08-13
 slug: "microbit-motor-driver"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
-tags: 
   - "micro-bit"
 image: "images/microbit_motor1.jpg"
 ---

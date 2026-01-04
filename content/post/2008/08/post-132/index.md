@@ -2,7 +2,9 @@
 title: "お気に入りアプリ"
 date: 2008-08-07
 slug: "post-132"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

@@ -2,7 +2,9 @@
 title: "iPhone 4が到着か！"
 date: 2010-06-24
 slug: "iphone-4-box"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

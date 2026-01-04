@@ -2,7 +2,9 @@
 title: "ようやくPENのプロテクトフィルターを入手"
 date: 2009-08-27
 slug: "pen"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

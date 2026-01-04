@@ -2,7 +2,9 @@
 title: "マカフィー・ウィルス対策ソフトに不具合"
 date: 2006-04-28
 slug: "post-65"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

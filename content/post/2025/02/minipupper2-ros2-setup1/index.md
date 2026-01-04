@@ -3,11 +3,12 @@ title: Mini Pupper 2のROS2を再セットアップしました
 date: 2025-02-04
 slug: minipupper2-ros2-setup1
 categories:
-- robot
+  - "Robot"
 tags:
-- humble
-- mini-pupper-2
-- ros2
+  - "humble"
+  - "mini-pupper-2"
+  - "robot"
+  - "ros2"
 image: images/minipupper2-ros2-setup1-eyecatch1.jpg
 ---
 

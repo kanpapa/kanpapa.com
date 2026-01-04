@@ -3,11 +3,12 @@ title: COSMAC VIP OSをスマートフォンで操作してみました
 date: 2020-09-06
 slug: cosmac-vip-os-esp32-remote-keypad
 categories:
-- cosmac
-- retrocomputing
+  - "Retro Computing"
 tags:
-- cosmac-mbc
-- esp32
+  - "cosmac"
+  - "cosmac-mbc"
+  - "esp32"
+  - "retrocomputing"
 image: images/esp32_relay_controller_3d.jpg
 ---
 

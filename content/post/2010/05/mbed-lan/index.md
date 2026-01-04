@@ -2,7 +2,9 @@
 title: "mbedにLANを接続してみた"
 date: 2010-05-29
 slug: "mbed-lan"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/mbed_ether.jpg"
 ---

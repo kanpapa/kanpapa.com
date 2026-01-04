@@ -2,9 +2,10 @@
 title: "COSMAC MBC用 TVディスプレイボード Rev. 0.2が完成しました。"
 date: 2020-01-12
 slug: "cosmac-mbc-tv-rev02-finished"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
-tags: 
   - "cosmac-mbc"
 image: "images/cosmac_tv_rev02_connect_cpu1.jpg"
 ---

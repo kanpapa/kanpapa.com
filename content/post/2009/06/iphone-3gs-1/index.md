@@ -2,7 +2,9 @@
 title: "iPhone 3GSを見た感想"
 date: 2009-06-29
 slug: "iphone-3gs-1"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

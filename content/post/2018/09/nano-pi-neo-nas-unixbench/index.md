@@ -2,10 +2,11 @@
 title: "Nano Pi NEO NASベースの自宅サーバーに負荷をかけてみた"
 date: 2018-09-17
 slug: "nano-pi-neo-nas-unixbench"
-categories: 
-  - "electronics"
-tags: 
+categories:
+  - "Electronics"
+tags:
   - "armbian"
+  - "electronics"
   - "nano-pi-neo"
 image: "images/nanopineo-cpu1.png"
 ---

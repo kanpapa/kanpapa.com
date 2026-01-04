@@ -2,7 +2,9 @@
 title: "今夜はMacWorld 2009"
 date: 2009-01-06
 slug: "macworld-2009"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

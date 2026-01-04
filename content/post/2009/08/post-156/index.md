@@ -2,7 +2,9 @@
 title: "ソフトウェアアップデートがありました"
 date: 2009-08-21
 slug: "post-156"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

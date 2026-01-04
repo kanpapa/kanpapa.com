@@ -2,7 +2,9 @@
 title: "学研の「科学」と「学習」が休刊"
 date: 2009-12-04
 slug: "gakken-kagaku"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

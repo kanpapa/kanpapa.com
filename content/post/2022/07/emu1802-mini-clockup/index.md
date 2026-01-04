@@ -3,10 +3,11 @@ title: EMU1802-mini の高速化に挑戦しました
 date: 2022-07-06
 slug: emu1802-mini-clockup
 categories:
-- cosmac
-- retrocomputing
+  - "Retro Computing"
 tags:
-- emu1802
+  - "cosmac"
+  - "emu1802"
+  - "retrocomputing"
 image: images/emu1802_clockup_testing1.jpg
 ---
 

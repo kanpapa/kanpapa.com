@@ -3,10 +3,11 @@ title: COSMAC TOY V2を開発中です
 date: 2024-12-12
 slug: cosmac-toy-v2-rev02-dev1
 categories:
-- cosmac
-- retrocomputing
+  - "Retro Computing"
 tags:
-- cosmac-toy-v2
+  - "cosmac"
+  - "cosmac-toy-v2"
+  - "retrocomputing"
 image: images/cosmac-toy-v2-rev02-dev1-photo1.jpg
 ---
 

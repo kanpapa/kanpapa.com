@@ -3,11 +3,12 @@ title: 68000 VMEボードで遊んでみました（3）電源投入編
 date: 2023-08-27
 slug: 68000-vme-board3
 categories:
-- retrocomputing
+  - "Retro Computing"
 tags:
-- dvmecpu2
-- vme
-- '68000'
+  - "68000"
+  - "dvmecpu2"
+  - "retrocomputing"
+  - "vme"
 image: images/vme_board_3_power_on_led1.jpg
 ---
 

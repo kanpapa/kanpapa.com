@@ -2,9 +2,10 @@
 title: "COSMACの命令セットはどこに書いてありますか"
 date: 2019-09-14
 slug: "tips-cosmac-instruction"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
-tags: 
   - "tips"
 image: "images/cosmac_cdp1802ace.jpg"
 ---

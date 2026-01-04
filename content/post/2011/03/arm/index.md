@@ -2,7 +2,9 @@
 title: "トラ技増刊超小型ARMマイコン基板を試す"
 date: 2011-03-19
 slug: "arm"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/MARY_MB_2.jpg"
 ---

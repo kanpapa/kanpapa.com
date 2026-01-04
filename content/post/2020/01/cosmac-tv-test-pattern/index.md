@@ -2,9 +2,10 @@
 title: "COSMAC MBC用 TVディスプレイボードでいろいろ表示してみました"
 date: 2020-01-18
 slug: "cosmac-tv-test-pattern"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
-tags: 
   - "cosmac-mbc"
 image: "images/cosmac_tv_test_pattern1.jpg"
 ---

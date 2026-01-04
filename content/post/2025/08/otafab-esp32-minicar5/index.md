@@ -3,14 +3,15 @@ title: 'ESP32でミニカーを作る #5 走行中に障害物を検知する（
 date: 2025-08-02
 slug: otafab-esp32-minicar5
 categories:
-- electronics
+  - "Electronics"
 tags:
-- arduino
-- esp32
-- xiao
-- otafab
-- 電子工作
-- otafab-esp32
+  - "arduino"
+  - "electronics"
+  - "esp32"
+  - "otafab"
+  - "otafab-esp32"
+  - "xiao"
+  - "電子工作"
 image: images/otafab-esp32-minicar5-cars.jpg
 ---
 

@@ -2,7 +2,9 @@
 title: "ケータイを買っちゃいました"
 date: 2007-01-14
 slug: "post-86"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

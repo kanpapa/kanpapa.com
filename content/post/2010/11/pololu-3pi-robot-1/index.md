@@ -2,7 +2,9 @@
 title: "Pololu 3pi robotが到着しました"
 date: 2010-11-16
 slug: "pololu-3pi-robot-1"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/pololu_3pi_2.jpg"
 ---

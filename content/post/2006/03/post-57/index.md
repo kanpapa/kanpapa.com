@@ -2,7 +2,9 @@
 title: "京ぽん２は修理行きのようです。"
 date: 2006-03-28
 slug: "post-57"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

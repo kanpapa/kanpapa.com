@@ -2,9 +2,10 @@
 title: "COSMAC MBC 拡張ボードのプリント基板が到着しました"
 date: 2019-10-18
 slug: "cosmac-mbc-ex-pcb2"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
-tags: 
   - "cosmac-mbc"
 image: "images/cdp18s020_ex_pcb1.jpg"
 ---

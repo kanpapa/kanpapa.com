@@ -2,7 +2,9 @@
 title: "Movable Type 4.261にアップグレードしました"
 date: 2009-06-19
 slug: "movable-type-4261"
-categories: 
+categories:
+  - "Server"
+tags:
   - "server"
 ---
 

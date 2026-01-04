@@ -2,10 +2,11 @@
 title: "63B03デュアルCPUマイコンボードで遊んでみた（３）モニタ実装編"
 date: 2018-01-21
 slug: "63b03-dual-cpu-lilbug"
-categories: 
-  - "retrocomputing"
-tags: 
+categories:
+  - "Retro Computing"
+tags:
   - "63b03"
+  - "retrocomputing"
 image: "images/63b03_lilbug_07.jpg"
 ---
 

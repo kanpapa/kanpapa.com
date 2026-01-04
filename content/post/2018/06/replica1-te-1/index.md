@@ -3,10 +3,11 @@ title: Apple1レプリカのreplica1 TEを組み立ててみる（１）
 date: 2018-06-01
 slug: replica1-te-1
 categories:
-- retrocomputing
+  - "Retro Computing"
 tags:
-- apple1
-- '6502'
+  - "6502"
+  - "apple1"
+  - "retrocomputing"
 image: images/replica1_te_1.jpg
 ---
 

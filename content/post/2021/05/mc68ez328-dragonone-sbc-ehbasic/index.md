@@ -2,11 +2,11 @@
 title: "MC68EZ328 DragonOne SBCでEnhanced 68k BASICを動かしました"
 date: 2021-05-10
 slug: "mc68ez328-dragonone-sbc-ehbasic"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "mc68ez328"
   - "retrocomputing"
-tags: 
-  - "mc68ez328"
 image: "images/mc68ez328_dragonone_sbc_ehbasic_asciiart.png"
 ---
 

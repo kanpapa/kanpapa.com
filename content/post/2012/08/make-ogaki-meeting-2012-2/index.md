@@ -2,7 +2,9 @@
 title: "Make: Ogaki Meeting 2012に行ってきました (2)"
 date: 2012-08-31
 slug: "make-ogaki-meeting-2012-2"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 image: "images/mom2012_masu2.jpg"
 ---

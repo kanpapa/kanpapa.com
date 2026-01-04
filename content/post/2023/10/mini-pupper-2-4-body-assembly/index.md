@@ -3,9 +3,10 @@ title: Mini Pupper 2 を組み立ててみました (4) ボディの組み立て
 date: 2023-10-24
 slug: mini-pupper-2-4-body-assembly
 categories:
-- robot
+  - "Robot"
 tags:
-- mini-pupper-2
+  - "mini-pupper-2"
+  - "robot"
 image: images/MP2_4_body_fin2.jpg
 ---
 

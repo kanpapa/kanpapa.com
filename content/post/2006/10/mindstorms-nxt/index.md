@@ -2,7 +2,9 @@
 title: "MINDSTORMS NXTが来ました！"
 date: 2006-10-15
 slug: "mindstorms-nxt"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 image: "images/mindstorms-nxt_20061016232610.jpg"
 ---

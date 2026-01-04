@@ -2,7 +2,9 @@
 title: "フレッツ光メンバーズクラブに入ってみました"
 date: 2010-02-17
 slug: "flets-members"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

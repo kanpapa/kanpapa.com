@@ -3,10 +3,11 @@ title: 専用プリント基板、オレンジピコショップから販売予�
 date: 2019-09-12
 slug: orangepicoshop-pcb
 categories:
-- cosmac
-- retrocomputing
+  - "Retro Computing"
 tags:
-- cosmac-toy
+  - "cosmac"
+  - "cosmac-toy"
+  - "retrocomputing"
 image: images/cosmac_cpu_rev1_4_viewer.png
 ---
 

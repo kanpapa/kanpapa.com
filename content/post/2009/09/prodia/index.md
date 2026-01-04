@@ -2,7 +2,9 @@
 title: "ピクセラの低価格地デジチューナPRODIAを試す"
 date: 2009-09-19
 slug: "prodia"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 image: "images/pixela_prodia02.jpg"
 ---

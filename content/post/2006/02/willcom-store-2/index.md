@@ -2,7 +2,9 @@
 title: "WILLCOM STOREの定額プラン特価で実質値下げ"
 date: 2006-02-09
 slug: "willcom-store-2"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

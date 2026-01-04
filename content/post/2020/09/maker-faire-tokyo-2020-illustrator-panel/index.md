@@ -3,12 +3,13 @@ title: Maker Faire Tokyo 2020の出展にむけて説明資料を準備中です
 date: 2020-09-22
 slug: maker-faire-tokyo-2020-illustrator-panel
 categories:
-- cosmac
-- retrocomputing
+  - "Retro Computing"
 tags:
-- cosmac-mbc
-- maker-faire
-- mft2020
+  - "cosmac"
+  - "cosmac-mbc"
+  - "maker-faire"
+  - "mft2020"
+  - "retrocomputing"
 image: images/illustrator_panel1.jpg
 ---
 

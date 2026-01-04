@@ -2,7 +2,9 @@
 title: "マインドストームNXT"
 date: 2006-09-02
 slug: "nxt"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

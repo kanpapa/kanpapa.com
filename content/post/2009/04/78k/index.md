@@ -2,7 +2,9 @@
 title: "78Kマイコンを使おう"
 date: 2009-04-29
 slug: "78k"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "retrocomputing"
 image: "images/78k_2.jpg"
 ---

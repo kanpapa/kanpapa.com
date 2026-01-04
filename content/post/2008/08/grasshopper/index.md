@@ -2,7 +2,9 @@
 title: "バッタと戯れる"
 date: 2008-08-24
 slug: "grasshopper"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 image: "images/grasshopper_20080822111042.jpg"
 ---

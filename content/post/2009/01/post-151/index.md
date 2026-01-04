@@ -2,7 +2,9 @@
 title: "はてなダイアリーを削除しました"
 date: 2009-01-03
 slug: "post-151"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

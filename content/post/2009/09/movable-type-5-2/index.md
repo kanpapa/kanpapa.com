@@ -2,7 +2,9 @@
 title: "Movable Type 5 ベータ2を試す"
 date: 2009-09-26
 slug: "movable-type-5-2"
-categories: 
+categories:
+  - "Server"
+tags:
   - "server"
 ---
 

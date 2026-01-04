@@ -2,7 +2,9 @@
 title: "大人の科学 真空管アンプを作る"
 date: 2008-09-28
 slug: "post-144"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

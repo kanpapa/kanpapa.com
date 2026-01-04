@@ -2,7 +2,9 @@
 title: "Yahoo! BB 光 with フレッツへの切り替え完了"
 date: 2009-11-28
 slug: "yahoo-bb-with-1"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

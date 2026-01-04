@@ -2,7 +2,9 @@
 title: "VFDシールドを修理しました"
 date: 2014-07-21
 slug: "repair-vfd-shield"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/repair_vfd1.jpg"
 ---

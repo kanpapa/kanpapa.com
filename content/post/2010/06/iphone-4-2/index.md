@@ -2,7 +2,9 @@
 title: "iPhone 4のアクティベーションまであと２時間！"
 date: 2010-06-25
 slug: "iphone-4-2"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 image: "images/iphone4_no_sim.jpg"
 ---

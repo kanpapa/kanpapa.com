@@ -2,7 +2,9 @@
 title: "Movable Type 4.25にアップグレードしました"
 date: 2009-04-01
 slug: "movable-type-425"
-categories: 
+categories:
+  - "Server"
+tags:
   - "server"
 ---
 

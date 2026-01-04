@@ -2,7 +2,9 @@
 title: "茶室で楽しむKOZOS拡張基板に参加してきました"
 date: 2012-09-30
 slug: "kozos-expbrd"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "retrocomputing"
 image: "images/kozos_expbrd6.jpg"
 ---

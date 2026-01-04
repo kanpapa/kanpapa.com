@@ -2,10 +2,11 @@
 title: "新しいConoHaサーバに移行しました"
 date: 2020-05-06
 slug: "update-new-server-centos81"
-categories: 
-  - "server"
-tags: 
+categories:
+  - "Server"
+tags:
   - "conoha"
+  - "server"
 image: "images/tlstestpage.jpg"
 ---
 

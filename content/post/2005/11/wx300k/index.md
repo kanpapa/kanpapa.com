@@ -2,7 +2,9 @@
 title: "WX300K販売再開"
 date: 2005-11-21
 slug: "wx300k"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

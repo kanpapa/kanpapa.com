@@ -2,7 +2,9 @@
 title: "Spamhausのブロックリストに誤登録されて困ってしまった"
 date: 2016-03-01
 slug: "spamhaus-trouble"
-categories: 
+categories:
+  - "Server"
+tags:
   - "server"
 image: "images/kanpapa_twieet.png"
 ---

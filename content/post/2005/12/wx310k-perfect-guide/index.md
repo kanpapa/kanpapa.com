@@ -2,7 +2,9 @@
 title: "WX310K PERFECT GUIDEの発売日"
 date: 2005-12-21
 slug: "wx310k-perfect-guide"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

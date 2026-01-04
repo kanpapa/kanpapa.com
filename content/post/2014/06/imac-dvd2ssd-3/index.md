@@ -2,7 +2,9 @@
 title: "iMacのDVDドライブをSSDに交換してみた（換装編）"
 date: 2014-06-01
 slug: "imac-dvd2ssd-3"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 image: "images/imacstep14.jpg"
 ---

@@ -3,13 +3,14 @@ title: PDP-11 DCJ11 CPUでUNIX v6を動かしてみました
 date: 2024-08-03
 slug: tangnanodcj11mem-pdp-11-cpu-4-unix-v6
 categories:
-- retrocomputing
+  - "Retro Computing"
 tags:
-- dcj11
-- fpga
-- pdp-11
-- tang-nano
-- tangnanodcj11mem
+  - "dcj11"
+  - "fpga"
+  - "pdp-11"
+  - "retrocomputing"
+  - "tang-nano"
+  - "tangnanodcj11mem"
 image: images/pdp-11-unix-v6-eyecatch1.jpg
 ---
 

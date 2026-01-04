@@ -2,7 +2,9 @@
 title: "Leopardのすごいところ"
 date: 2007-10-27
 slug: "leopard-3"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

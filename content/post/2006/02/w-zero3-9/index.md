@@ -2,7 +2,9 @@
 title: "W-ZERO3購入の待ち時間に"
 date: 2006-02-13
 slug: "w-zero3-9"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

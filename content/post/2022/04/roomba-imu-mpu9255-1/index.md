@@ -2,9 +2,9 @@
 title: "ルンバに慣性計測ユニット（IMU）を取り付けてみました"
 date: 2022-04-02
 slug: "roomba-imu-mpu9255-1"
-categories: 
-  - "roomba"
-tags: 
+categories:
+  - "Robot"
+tags:
   - "roomba"
 image: "images/roomba_imu2.jpg"
 ---

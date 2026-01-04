@@ -2,9 +2,10 @@
 title: "Sonyのtoioを買ってみました"
 date: 2022-06-19
 slug: "toio-helloworld"
-categories: 
+categories:
+  - "Robot"
+tags:
   - "robot"
-tags: 
   - "toio"
 image: "images/toio_back.jpg"
 ---

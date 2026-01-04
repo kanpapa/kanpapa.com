@@ -2,7 +2,9 @@
 title: "京ぽん２で書いてみるテスト"
 date: 2005-12-05
 slug: "post-16"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

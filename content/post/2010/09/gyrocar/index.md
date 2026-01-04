@@ -2,7 +2,9 @@
 title: "夏休みの自由研究のジャイロカー"
 date: 2010-09-06
 slug: "gyrocar"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 image: "images/gyrocar.jpg"
 ---

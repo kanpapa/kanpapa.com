@@ -2,7 +2,9 @@
 title: "W-ZERO3[es]出荷完了！"
 date: 2006-08-11
 slug: "w-zero3es-19"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

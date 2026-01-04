@@ -2,13 +2,13 @@
 title: "ルンバで地図をつくってみました　その４（Gazebo worldを作る）"
 date: 2022-03-10
 slug: "roomba-robot-ros-part9-map2gazebo"
-categories: 
-  - "robot"
-  - "roomba"
-tags: 
-  - "roomba"
+categories:
+  - "Robot"
+tags:
   - "otafab"
   - "otafab-robot"
+  - "robot"
+  - "roomba"
 image: "images/map2world_otafab1.png"
 ---
 

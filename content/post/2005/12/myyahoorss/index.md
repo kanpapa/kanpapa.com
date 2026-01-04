@@ -2,7 +2,9 @@
 title: "My!Yahoo!のRSSリーダでリンクできないなぁ"
 date: 2005-12-11
 slug: "myyahoorss"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

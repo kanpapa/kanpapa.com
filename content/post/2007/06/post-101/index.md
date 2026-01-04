@@ -2,7 +2,9 @@
 title: "金曜日はビックカメラに行くぞ！"
 date: 2007-06-23
 slug: "post-101"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

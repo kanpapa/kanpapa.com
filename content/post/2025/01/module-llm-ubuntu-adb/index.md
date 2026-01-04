@@ -3,13 +3,14 @@ title: ubuntuのadbでModule LLMに接続してみました
 date: 2025-01-30
 slug: module-llm-ubuntu-adb
 categories:
-- electronics
+  - "Electronics"
 tags:
-- ax620
-- llm
-- m5stack
-- ubuntu
-- udev
+  - "ax620"
+  - "electronics"
+  - "llm"
+  - "m5stack"
+  - "ubuntu"
+  - "udev"
 image: images/m5stack-module-llm1.jpg
 ---
 

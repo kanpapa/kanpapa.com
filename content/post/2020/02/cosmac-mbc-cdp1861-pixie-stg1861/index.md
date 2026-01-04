@@ -2,9 +2,10 @@
 title: "COSMAC MBCにCDP1861 Pixie 互換のSTG1861を接続してみました"
 date: 2020-02-11
 slug: "cosmac-mbc-cdp1861-pixie-stg1861"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
-tags: 
   - "cosmac-mbc"
 image: "images/stg1861_tv_sony.jpg"
 ---

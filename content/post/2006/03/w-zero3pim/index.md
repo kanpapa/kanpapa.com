@@ -2,7 +2,9 @@
 title: "W-ZERO3的PIM活用法"
 date: 2006-03-03
 slug: "w-zero3pim"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

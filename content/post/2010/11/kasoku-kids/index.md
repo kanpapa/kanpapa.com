@@ -2,7 +2,9 @@
 title: "カソクキッズを読んでみる"
 date: 2010-11-11
 slug: "kasoku-kids"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

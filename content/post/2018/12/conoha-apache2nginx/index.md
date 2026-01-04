@@ -2,11 +2,12 @@
 title: "ApacheからNginxに移行してパフォーマンスが良くなったお話"
 date: 2018-12-18
 slug: "conoha-apache2nginx"
-categories: 
-  - "server"
-tags: 
+categories:
+  - "Server"
+tags:
   - "apache"
   - "nginx"
+  - "server"
 image: "images/conoha_cpu_monitor.png"
 ---
 

@@ -3,10 +3,11 @@ title: オレンジピコショップさんから試作基板が到着しまし�
 date: 2019-09-28
 slug: cosmac-pcb-picosoft1
 categories:
-- cosmac
-- retrocomputing
+  - "Retro Computing"
 tags:
-- cosmac-toy
+  - "cosmac"
+  - "cosmac-toy"
+  - "retrocomputing"
 image: images/cosmac_pcb_picosoft1.jpg
 ---
 

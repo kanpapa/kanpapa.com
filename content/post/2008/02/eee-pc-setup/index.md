@@ -2,7 +2,9 @@
 title: "Eee PCセットアップ中"
 date: 2008-02-29
 slug: "eee-pc-setup"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

@@ -2,9 +2,10 @@
 title: "COSMAC MBC 拡張ボードにLCDを接続してみました"
 date: 2019-10-21
 slug: "cosmac-mbc-ext-lcd2"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "cosmac"
-tags: 
   - "cosmac-mbc"
 image: "images/cosmac_mbc_ext_lcd2_run.jpg"
 ---

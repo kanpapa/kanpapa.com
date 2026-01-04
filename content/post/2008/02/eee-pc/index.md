@@ -2,7 +2,9 @@
 title: "Eee PCを触ってきました"
 date: 2008-02-24
 slug: "eee-pc"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

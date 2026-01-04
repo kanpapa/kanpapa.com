@@ -2,7 +2,9 @@
 title: "QuickTime MPEG-2 再生コンポーネントを購入する"
 date: 2008-11-16
 slug: "quicktime-mpeg-2"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

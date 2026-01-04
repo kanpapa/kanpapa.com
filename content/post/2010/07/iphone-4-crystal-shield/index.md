@@ -2,7 +2,9 @@
 title: "iPhone 4の保護シートCrystal Shieldはバッチリです"
 date: 2010-07-09
 slug: "iphone-4-crystal-shield"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

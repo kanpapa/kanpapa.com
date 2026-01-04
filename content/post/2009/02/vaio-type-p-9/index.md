@@ -2,7 +2,9 @@
 title: "VAIO type Pを速くする方法"
 date: 2009-02-28
 slug: "vaio-type-p-9"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

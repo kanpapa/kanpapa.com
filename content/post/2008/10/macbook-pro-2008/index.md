@@ -2,7 +2,9 @@
 title: "MacBook Pro 2008"
 date: 2008-10-15
 slug: "macbook-pro-2008"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

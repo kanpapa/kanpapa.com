@@ -2,7 +2,9 @@
 title: "次は７月４日！"
 date: 2006-06-30
 slug: "post-73"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

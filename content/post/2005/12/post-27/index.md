@@ -2,7 +2,9 @@
 title: "チャレンジしてたら電池切れ"
 date: 2005-12-22
 slug: "post-27"
-categories: 
+categories:
+  - "Event"
+tags:
   - "mobile"
 ---
 

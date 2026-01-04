@@ -2,7 +2,9 @@
 title: "久々にデスクトップPCをアップグレード"
 date: 2008-06-01
 slug: "desktop-pc-upgrade-parts"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 ---
 

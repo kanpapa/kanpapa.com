@@ -2,11 +2,11 @@
 title: "MC68EZ328 uCsimmを動かしてみました(1) ～uClinuxを起動する～"
 date: 2021-06-13
 slug: "mc68ez328-ucsimm-1"
-categories: 
+categories:
+  - "Retro Computing"
+tags:
   - "mc68ez328"
   - "retrocomputing"
-tags: 
-  - "mc68ez328"
 image: "images/uCsimm_front.jpg"
 ---
 

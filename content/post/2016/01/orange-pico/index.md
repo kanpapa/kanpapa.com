@@ -2,9 +2,10 @@
 title: "ORANGE picoを組み立ててみた"
 date: 2016-01-04
 slug: "orange-pico"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
-tags: 
   - "orange-pico"
   - "pic32mx"
 image: "images/orange_pico04.jpg"

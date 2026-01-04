@@ -2,7 +2,9 @@
 title: "エレキジャック基板プレゼントに当選しました"
 date: 2009-10-03
 slug: "post-157"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/ej_no14_pcb.jpg"
 ---

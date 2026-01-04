@@ -3,11 +3,12 @@ title: L-STAR PLUS（Apple1レプリカ）を動かしてみた（１）
 date: 2018-07-01
 slug: l-star-plus-build-1
 categories:
-- retrocomputing
+  - "Retro Computing"
 tags:
-- apple1
-- l-star
-- '6502'
+  - "6502"
+  - "apple1"
+  - "l-star"
+  - "retrocomputing"
 image: images/l_star_plus_finish.jpg
 ---
 

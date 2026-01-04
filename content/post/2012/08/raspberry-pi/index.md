@@ -2,7 +2,9 @@
 title: "Raspberry Piが到着しました"
 date: 2012-08-08
 slug: "raspberry-pi"
-categories: 
+categories:
+  - "Electronics"
+tags:
   - "electronics"
 image: "images/raspberry_pi_1.jpg"
 ---

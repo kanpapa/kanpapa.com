@@ -2,7 +2,9 @@
 title: "ヤマトヌマエビとタニシが仲間入り"
 date: 2005-05-08
 slug: "post-137"
-categories: 
+categories:
+  - "Event"
+tags:
   - "research"
 ---
 

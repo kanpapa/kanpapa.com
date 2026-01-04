@@ -2,7 +2,9 @@
 title: "2万円のChromebookを使ってみた"
 date: 2016-01-08
 slug: "chromebook"
-categories: 
+categories:
+  - "Server"
+tags:
   - "pc"
 image: "images/chromebook02.jpg"
 ---
