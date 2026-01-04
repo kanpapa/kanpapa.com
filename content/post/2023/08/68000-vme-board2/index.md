@@ -6,7 +6,7 @@ categories:
   - "Retro Computing"
 tags:
   - "68000"
-  - "Dvmecpu2"
+  - "DVME-CPU2"
   - "VME"
 image: images/vme_board_power_pcb_jlcpcb1.jpg
 ---

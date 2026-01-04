@@ -6,7 +6,7 @@ categories:
   - "Retro Computing"
 tags:
   - "68000"
-  - "Dvmecpu2"
+  - "DVME-CPU2"
   - "VME"
 image: images/vme-board5-logic_analyzer2.jpg
 ---
