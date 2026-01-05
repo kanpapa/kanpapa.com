@@ -1,7 +1,6 @@
 +++
 date = '2026-01-05T10:22:32+09:00'
 slug = 'v53-vme-system-1'
-draft = true
 title = 'V53 VMEシステムで遊んでみました #1'
 tags = ["V53", "DVE-V53", "VME"]
 categories = ["Retro Computing"]
