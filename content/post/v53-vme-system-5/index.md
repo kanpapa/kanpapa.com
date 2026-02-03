@@ -53,7 +53,7 @@ image = 'v53-vme-system-5-peripheral.jpg'
 | Input | 指定したI/Oアドレスから入力した値を表示する | I address | I 2000 | |
 | Output| 指定したI/Oアドレスに指定した値を出力する | O address value | O 2000 00 | |
 | Scan | 指定したI/Oアドレスの範囲でinp命令を実行し取得できた値が0FFH以外の場合にI/Oアドレスと値を表示する | S start end | S 0000 00FF | |
-| Write | 指定したIOアドレスに値を書き込む | W Segment offset value  | W 3000 0000 44 | |
+| Write | 指定したアドレスのメモリに値を書き込む | W Segment offset value  | W 3000 0000 44 | |
 | Help | コマンドの一覧表示 | ? | | |
 
 RAM版モニタのソースはGitHubに置きました。

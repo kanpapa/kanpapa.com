@@ -87,8 +87,8 @@ E000:0030 EE BA FC FF B0 12 EE BA F8 FF B0 60 EE BA FD FF
 |:---|:---|:---|:---|
 |00000-7FFFF|512KB|RAM|オンボードRAM。ベクタテーブルやRAMモニタで使用|
 |80000-DFFFF|384KB|RAM|VMEバスの拡張RAMボード|
-|E0000-FFFEF|128KB(-256B)|ROM|オンボードのROMモニタだが、大部分は未使用|
-|FFFF0-FFFFF|256B|V53|V53システムエリア|
+|E0000-FFFEF|128KB(-16B)|ROM|オンボードのROMモニタだが、大部分は未使用|
+|FFFF0-FFFFF|16B|V53|V53システムエリア|
 
 ## I/Oアドレスの確認
 
@@ -231,6 +231,7 @@ Scanning I/O (Press any key to abort)...
 |Analog Input #3|VME#6|未検出|他の方法でアクセス?|
 |Digital Input #1|VME#7|1110-111x|デジタル入力結果がこの範囲に展開?|
 |Digital Input #2|VME#8|1120-113x|デジタル入力結果がこの範囲に展開?|
+|CPU|VME#1|FF00-FFFF|V53システム制御I/O|
 
 このようにI/Oアドレスで制御できるボードもありそうですが、そうでないボードもあるようです。
 
