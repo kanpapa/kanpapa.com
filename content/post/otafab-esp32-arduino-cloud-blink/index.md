@@ -45,7 +45,7 @@ graph TD
 
     subgraph Internet ["Arduino IoT Cloud(サーバ)"]
         direction TB
-        CloudBox(("<B>変数の保管場所</B><br><br>ledSwitch<br>")):::cloud
+        CloudBox(("<B>変数の保管場所</B><br><br>ledswitch<br>")):::cloud
     end
 
     subgraph PC_Smartphone ["PC・スマホ（操作画面）"]
@@ -57,7 +57,7 @@ graph TD
 
     %% 通信の流れ
     SwitchWidget == "① スイッチ操作" ==> CloudBox
-    CloudBox == "② Wi-Fi経由で受信<br>ledSwitch変更" ==> ESP32C3
+    CloudBox == "② Wi-Fi経由で受信<br>ledswitch変更" ==> ESP32C3
 ```
 
 ## 開発の流れ
@@ -77,7 +77,9 @@ graph TD
 
 ## 実際に作ってみる
 
-### Thingsを作る
+先ほどの順序に従ってArduino Cloudで開発を進めてみます。
+
+### Thingを作る
 
 左サイドバーにある`Things`をクリックすると次の画面になります。
 
@@ -357,13 +359,11 @@ void setup() {
   ArduinoCloud.printDebugInfo();
 
   // LEDのピンを出力モードに設定
-  // XIAO ESP32C3のD10, D9にLEDを接続
+  // XIAO ESP32C3のD10にLEDを接続
   pinMode(D10, OUTPUT);
-  pinMode(D9, OUTPUT);
 
   // 初期状態はOFF
   digitalWrite(D10, LOW);
-  digitalWrite(D9, LOW);
 
   unsigned status;
 
@@ -397,12 +397,10 @@ void onLedswitchChange()  {
     if (ledswitch) {
     // スイッチONのとき
     digitalWrite(D10, HIGH); 
-    digitalWrite(D9, LOW); 
     Serial.println("LED ON");
   } else {
     // スイッチOFFのとき
     digitalWrite(D10, LOW);
-    digitalWrite(D9, HIGH);
     Serial.println("LED OFF");
   }
 }
