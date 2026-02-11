@@ -388,7 +388,7 @@ void loop() {
   unsigned long currentMillis = millis();
 
   // 1000ミリ秒（1秒）経過したかチェック
-  if (currentMillis - lastUpdate >= 1000) {
+  if (currentMillis - lastUpdate >= delayTime) {
     lastUpdate = currentMillis;
     
     // 1秒ごとの処理
