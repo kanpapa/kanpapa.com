@@ -304,7 +304,9 @@ BME280の値を読み取るライブラリは[Adafruits BME280 Library](https://
 
 ![Adafruit BME280 Library](adafruit-bme280-library.png)
 
-作成したスケッチは以下の通りです。
+作成したスケッチは以下の通りです。  
+loop()関数内で1秒間隔でセンサーのデータを変数に設定しており、この際にmillis()を使ったノンブロッキング処理を行っています。  
+うっかりここでdelay()などのブロッキング処理を行ってしまうと、ArduinoCloud.update()関数の実行頻度が下がってしまいクラウドとの通信が途切れてしまうためです。
 
 ```C
 /* 
@@ -415,7 +417,7 @@ void onLedswitchChange()  {
 }
 ```
 
-ダッシュボードはchartを2つ追加して、以下のようになりました。
+ダッシュボードはValueとChartを2つずつ追加して、以下のようになりました。
 
 ![完成したダッシュボード](dashboard-esp32c3-bme280-led.png)
 
