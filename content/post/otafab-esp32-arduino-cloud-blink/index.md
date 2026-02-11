@@ -16,7 +16,7 @@ image = 'esp32c3-bme280-led.jpg'
 文章ではピンとこないので実際にLEDをArduino Cloudで制御してみます。
 
 ## ターゲットを準備する
-今回のターゲットマイコンは[XIAO ESP32-C3](https://wiki.seeedstudio.com/ja/XIAO_ESP32C3_Getting_Started/)を使用しました。これまでマイコンカーではXIAO ESP32-C6を使ってきたのですが、Arduio CloudではESP32-C6は未対応のようです。
+今回のターゲットマイコンは[XIAO ESP32-C3](https://wiki.seeedstudio.com/ja/XIAO_ESP32C3_Getting_Started/)を使用しました。これまでマイコンカーではXIAO ESP32-C6を使ってきたのですが、Arduino CloudではESP32-C6は未対応のようです。
 
 ![XIAO ESP32-C3](xiao-esp32c3-wifi.jpg)
 
@@ -382,10 +382,19 @@ void setup() {
 
 void loop() {
   ArduinoCloud.update();
-  // Your code here 
-  pressure = bme.readPressure() / 100.0F;
-  temperature = bme.readTemperature();
-  delay(delayTime);
+
+  // 現在時刻を取得
+  static unsigned long lastUpdate = 0;
+  unsigned long currentMillis = millis();
+
+  // 1000ミリ秒（1秒）経過したかチェック
+  if (currentMillis - lastUpdate >= 1000) {
+    lastUpdate = currentMillis;
+    
+    // 1秒ごとの処理
+    pressure = bme.readPressure() / 100.0F;
+    temperature = bme.readTemperature();
+  }
 }
 
 /*
@@ -412,6 +421,6 @@ void onLedswitchChange()  {
 
 10秒ごとにリアルタイムで気温と気圧がグラフとして表示されていることがわかります。
 
-## 終わりに
+## まとめ
 Arduino Cloudを使用することにより、IoTデバイスが簡単にインターネットに接続できることがわかりました。対応デバイスも豊富で、ダッシュボードにも様々な機能があるのでいろいろなことに応用できそうです。  
 ただし、Arduino Cloud 無料版の場合はThingsは２個、変数は５個、データ保持は1日という制約があります。インターネット上のリソースを使用するため、無料で使える機能が制限されているのはやむを得ませんが、お試しであれば十分使えるでしょう。
