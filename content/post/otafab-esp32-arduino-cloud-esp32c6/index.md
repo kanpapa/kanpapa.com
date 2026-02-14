@@ -13,7 +13,7 @@ image = 'esp32-c6-bme280-board.jpg'
 
 ## Arduino CloudではESP32C6は未対応
 
-Arduino CloudのデバイスでESP32C6は表示されません。多分ESP32C6用のクラウド版コンパイル環境を準備していないのではと思われます。  
+Arduino Cloudのデバイス登録画面ではESP32C6は表示されません。多分ESP32C6用のクラウド版コンパイル環境が準備されていないのではと思われます。  
 それならば、Arduino Cloudで生成したスケッチをArduino IDEでコンパイルすればESP32C6でも使えるかもしれません。  
 これまで[ミニカー製作](/2025/10/otafab-esp32-minicar6.html)で使用していた[XIAO ESP32C6](https://wiki.seeedstudio.com/ja/xiao_esp32c6_getting_started/)はXIAO ESP32C3の後発品でもあり、WiFiアンテナが内蔵されたり、利用できるポートが増えている等便利なのでできればこれを使いたいものです。
 
@@ -29,7 +29,7 @@ ESP32C3で動く状態にしたスケッチはZIPファイルでダウンロー�
 
 ## Arduino IDEでArduino Cloudのスケッチをコンパイルする
 
-このZIPファイルを展開して、Arduino IDEで開きます。
+このZIPファイルを展開してArduino IDEで開き、ボードを`XIAO_ESP32C6`に設定します。
 
 ![Arduino IDEで開いたArduino Cloudのスケッチ](arduino-ide-editor.png)
 
@@ -48,7 +48,7 @@ ESP32C3で動く状態にしたスケッチはZIPファイルでダウンロー�
 
 ## WiFi情報と秘密鍵を設定する
 
-次にarduino_secrets.hを修正します。
+次に`arduino_secrets.h`を修正します。
 
 ```C
 #define SECRET_DEVICE_KEY ""
@@ -58,7 +58,7 @@ ESP32C3で動く状態にしたスケッチはZIPファイルでダウンロー�
 
 このように空の状態になっているので、Arduino Cloudのスケッチ画面のSketch Secretsで設定されている３つの項目の内容を設定します。
 
-![秘密の情報を確認](secsitive-data.png)
+![秘密の情報を確認](sensitive-data.png)
 
 これでコンパイルが正常に通ります。
 
@@ -94,4 +94,4 @@ XIAO ESP32C3の時と同様に表示されています。
 
 ## まとめ
 
-今回試した範囲ではXIAO ESP32C6がArduino Cloudで利用できていますが、あくまでも実験ですので、他のESP32C6デバイスや機能が同じように動作するかはわかりません。しかし、ライブラリ自体はArduino IDEで準備されているので、動作する可能性は高いと思われます。今後ESP32C6もArduio Cloudで手軽にコンパイルできるように正式サポートいただけるのを期待します。
+今回試した範囲ではXIAO ESP32C6がArduino Cloudで利用できていますが、あくまでも実験ですので、他のESP32C6デバイスや機能が同じように動作するかはわかりません。しかし、ライブラリ自体はArduino IDEで準備されているので、動作する可能性は高いと思われます。今後ESP32C6もArduino Cloudで手軽にコンパイルできるように正式サポートいただけるのを期待します。
