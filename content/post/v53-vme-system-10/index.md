@@ -432,7 +432,7 @@ uPD71059(PIC)で発生した割り込みはすべてベクタ27hとして処理�
 
 ベクタ27hの割り込みハンドラではuPD71059(PIC)のISR (In-Service Register) を見て割り込み信号に対応した処理に分岐します。
 
-|PICのISR|割り込み入力端子|接続先|
+|PICのISRビット|PICの割り込み入力|接続先|
 |:---|:---|:---|
 |bit 0|INTP0|V53 TCU Timer0|
 |bit 1|INTP1|SCSIC INT|
