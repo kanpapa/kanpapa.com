@@ -415,29 +415,33 @@ d** PIC INTP5 **
 
 ![割り込み周辺の回路図](v53-vme-system-10-pic-icu-fix.png)
 
-割り込みマップは以下のようになります。
+V53 ICUの割り込みマップは以下のようになります。
 
-|uPD71059(PIC)割り込み入力|接続先|
-|:---|:---|
-|INTP0|V53 TCU Timer0|
-|INTP1|SCSIC INT|
-|INTP2|V53 TCU Timer1|
-|INTP3|USART RxREADY|
-|INTP4|USART TxREADY|
-|INTP5|V53 SCU RxREADY|
-|INTP6|V53 SCU TxREADY|
-|INTP7|PPI|
+|ベクタ番号|V53 ICU割り込み入力|接続先|
+|:---|:---|:---|
+|0x20|INTP0|不明|
+|0x21|INTP1|VMEバス IRQ6|
+|0x22|INTP2|VMEバス IRQ5|
+|0x23|INTP3|VMEバス IRQ4|
+|0x24|INTP4|VMEバス IRQ3|
+|0x25|INTP5|VMEバス IRQ2|
+|0x26|INTP6|VMEバス IRQ1|
+|0x27|INTP7|PIC INT出力|
 
-|V53 ICU割り込み入力|接続先|
-|:---|:---|
-|INTP0|不明|
-|INTP1|VMEバス IRQ6|
-|INTP2|VMEバス IRQ5|
-|INTP3|VMEバス IRQ4|
-|INTP4|VMEバス IRQ3|
-|INTP5|VMEバス IRQ2|
-|INTP6|VMEバス IRQ1|
-|INTP7|PIC INT出力|
+uPD71059(PIC)で発生した割り込みはすべてベクタ27hとして処理されます。
+
+ベクタ27hの割り込みハンドラではuPD71059(PIC)のISR (In-Service Register) を見て割り込み信号に対応した処理に分岐します。
+
+|PICのISR|割り込み入力端子|接続先|
+|:---|:---|:---|
+|bit 0|INTP0|V53 TCU Timer0|
+|bit 1|INTP1|SCSIC INT|
+|bit 2|INTP2|V53 TCU Timer1|
+|bit 3|INTP3|USART RxREADY|
+|bit 4|INTP4|USART TxREADY|
+|bit 5|INTP5|V53 SCU RxREADY|
+|bit 6|INTP6|V53 SCU TxREADY|
+|bit 7|INTP7|PPI|
 
 この割り込み関係の機能を含めたRAMモニタのソースはGitHubに置きました。
 
