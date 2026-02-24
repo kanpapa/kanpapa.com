@@ -1,6 +1,6 @@
 +++
 date = '2026-02-06T07:25:21+09:00'
-title = 'V53 VMEシステムで遊んでみました #12 RAMボードを理解する'
+title = 'V53 VMEシステムで遊ぶ #12 RAMボードを理解する'
 slug = 'v53-vme-system-12'
 tags = ["V53", "DVE-V53", "VME"]
 categories = ["Retro Computing"]

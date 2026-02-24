@@ -7,7 +7,7 @@ categories = ["Retro Computing"]
 image = 'v53-vme-elks-login1.png'
 +++
 
-[前回](/2026/02/v53-vme-system-13.html)は、V53 VMEボードでNASCOM BASICを動かしてベンチマークテストを行ってみました。今回はVMEシステムで8086系の組み込み向けLinuxである[ELKS](https://github.com/ghaerr/elks)を動かしてみます。
+[前回](/2026/02/v53-vme-system-13.html)は、NASCOM BASICをV53 VMEボードで動かしてベンチマークテストを行いました。今回は8086系の組み込み向けLinuxである[ELKS](https://github.com/ghaerr/elks)をV53 VMEシステムで動かしてみます。
 
 ## ELKSとは
 
@@ -77,7 +77,7 @@ ELKSのconsoleドライバは送信はポーリングですが、受信は割り
 
 ## 動作確認
 
-ELKSを起動するには以下のようにバイナリをロードして実行します。
+ELKSを起動するには生成されたバイナリを[ツールでHEXファイルに変換](https://github.com/kanpapa/elks/blob/v53-rom/image2hex.sh)したものをモニタでロードして実行します。
 
 ```
 **  V53 MONITOR v0.1 2026-01-12  **
@@ -122,7 +122,7 @@ ELKS 0.9.0-dev
 ```
 見慣れたlogin:プロンプトです。ここにrootと入力してログインするとシェルが使えるようになりました。
 
-![ログイン画面](v53-vme-elks-login1.png)
+![ELKSにログインした画面](v53-vme-elks-login1.png)
 
 ## まとめ
 

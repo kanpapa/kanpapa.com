@@ -1,6 +1,6 @@
 +++
 date = '2026-01-23T08:18:55+09:00'
-title = 'V53 VMEシステムで遊んでみました #6 USARTを攻略する'
+title = 'V53 VMEシステムで遊ぶ #6 USARTを攻略する'
 slug = 'v53-vme-system-6'
 tags = ["V53", "DVE-V53", "VME"]
 categories = ["Retro Computing"]
@@ -205,4 +205,4 @@ RAMモニタ起動直後にUSARTのデータポートにデータを書き込む
 
 ここにGPIOが引き出されているのではないかと推測しています。Lチカできるか楽しみです。
 
-次の記事：[V53 VMEシステムで遊んでみました #7 Lチカを試す](/2026/01/v53-vme-system-7.html)
+次の記事：[V53 VMEシステムで遊ぶ #7 Lチカを試す](/2026/01/v53-vme-system-7.html)

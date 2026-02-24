@@ -1,7 +1,7 @@
 +++
 date = '2026-01-06T13:04:00+09:00'
 slug = 'v53-vme-system-2'
-title = 'V53 VMEシステムで遊んでみました #2 CPUボードの概要'
+title = 'V53 VMEシステムで遊ぶ #2 CPUボードの概要'
 tags = ["V53", "DVE-V53", "VME"]
 categories = ["Retro Computing"]
 image = 'v53-vme-system-2-cpu-board1.jpg'
@@ -76,4 +76,4 @@ V53はペリフェラルを内蔵していますが、`D7105x` シリーズ（PP
 
 次のステップとしてV53の内蔵ペリフェラルを使用した簡単な動作確認用のプログラムをROMに焼いてCPUボードに取り付けてみます。ここでも[VMEバス用電源供給基板](/2023/08/68000-vme-board2.html)が役立ちそうです。
 
-次の記事：[V53 VMEシステムで遊んでみました #3 Hello world](/2026/01/v53-vme-system-3.html)
+次の記事：[V53 VMEシステムで遊ぶ #3 Hello world](/2026/01/v53-vme-system-3.html)

@@ -1,7 +1,7 @@
 +++
 date = '2026-01-05T10:22:32+09:00'
 slug = 'v53-vme-system-1'
-title = 'V53 VMEシステムで遊んでみました #1 VMEラックの入手'
+title = 'V53 VMEシステムで遊ぶ #1 VMEラックの入手'
 tags = ["V53", "DVE-V53", "VME"]
 categories = ["Retro Computing"]
 image = 'v53-vme-system-1.jpg'
@@ -62,4 +62,4 @@ CPUボードに何等かのROMが搭載されていれば、それを読みだ�
 もし、ROMが取り外されているとしても、搭載されていると思われるV53 CPUはV33 CPUに周辺インターフェースが統合されたものなので、V53のユーザマニュアルに記載されているIOアドレスにアクセスすればシリアルポートに容易にアクセスできるはずです。シリアルポートにアクセスできればあとはモニタを書くだけです。  
 いずれにしても長く楽しめそうなプロジェクトになりそうです。
 
-次の記事：[V53 VMEシステムで遊んでみました #2 CPUボードの概要](https://kanpapa.com/2026/01/v53-vme-system-2.html)
+次の記事：[V53 VMEシステムで遊ぶ #2 CPUボードの概要](https://kanpapa.com/2026/01/v53-vme-system-2.html)

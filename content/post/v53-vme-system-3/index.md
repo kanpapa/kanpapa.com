@@ -1,6 +1,6 @@
 +++
 date = '2026-01-12T08:26:41+09:00'
-title = 'V53 VMEシステムで遊んでみました #3 Hello world'
+title = 'V53 VMEシステムで遊ぶ #3 Hello world'
 slug = 'v53-vme-system-3'
 tags = ["V53", "DVE-V53", "VME"]
 categories = ["Retro Computing"]
@@ -108,4 +108,4 @@ Hello worldのプログラムをベースに修正後、アセンブルし、ROM
 
 ただし、新たな課題として想定した場所にメモリが存在しない可能性もでてきました。次回はRAMやスタックを使わずにメモリを探索するプログラムを書いてメモリマップを確定させます。
 
-次の記事：[V53 VMEシステムで遊んでみました #4 オンボードRAMを探す](/2026/01/v53-vme-system-4.html)
+次の記事：[V53 VMEシステムで遊ぶ #4 オンボードRAMを探す](/2026/01/v53-vme-system-4.html)
