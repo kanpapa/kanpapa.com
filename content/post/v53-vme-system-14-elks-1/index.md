@@ -35,7 +35,7 @@ menuconfigで今回作成したconfigファイルはGitHubに置きました。
 
 |Area|Address|Max Size|ファイル名|機能|メモ|
 |:---|:---|:---|:---|:---|:---|
-|RAM|00000-7FFFF|512KB RAM|-|ベクタ, スタック, ヒープ|-|
+|RAM|00000-7FFFF|512KB RAM|-|ベクタ,スタック,ヒープ,アプリケーション|-|
 |ELKS ROMFS|80000-AFFFF|192KB RAM|romfs.hex|ルートファイルシステム|-|
 |ELKS KERNEL ROM|C0000-CFFFF|64KB RAM|image.hex|ELKSカーネル本体|実行アドレス C000:0014|
 |RAM MONITOR|D0000-DFFFF|64KB RAM|v53_ram_mon.hex|拡張モニタ(基本モニタにペリフェラルを追加)|実行アドレス D000:0000|
