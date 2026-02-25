@@ -81,15 +81,15 @@ ELKSを起動するには生成されたバイナリを[ツールでHEXファイ
 
 ```
 **  V53 MONITOR v0.1 2026-01-12  **
-> l d000                RAMモニタv0.9をロード
+> l d000                RAMモニタv0.10をロード
 Load HEX...D000:0
 .....
 OK> 
 
-> g d000 0000　　　　　　モニタv0.9を実行　メモリWait, USART, 割り込みなど初期化される
+> g d000 0000　　　　　　RAMモニタv0.10を実行　メモリWait, USART, 割り込みなど初期化される
 Go!
 
-**  V53 RAM MONITOR v0.9 2026-02-07  **
+**  V53 RAM MONITOR v0.10 2026-02-15  **
 > l 8000                ROMディスク(romfs.hex)をロード
 Load HEX...8000:0
 .
