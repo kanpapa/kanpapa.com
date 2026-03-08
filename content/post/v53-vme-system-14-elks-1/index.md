@@ -131,3 +131,5 @@ ELKS 0.9.0-dev
 まだまだ楽しめそうです。
 
 ![ELKS稼働中のV53 VMEシステム](v53-vme-system-elks.jpg)
+
+次の記事：[V53 VMEシステムで遊ぶ #15 ELKSをV53対応にする](/2026/03/v53-vme-system-15-elks-2.html)
