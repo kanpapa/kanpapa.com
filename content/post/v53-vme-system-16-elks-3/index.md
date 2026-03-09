@@ -23,7 +23,7 @@ ELKSのドキュメントを確認したところ、以下の手順でRAMDISKが
 
 ## RAMDISKを設定してみる
 
-カーネルのコンフィグレーションは以下のようになっています。
+すでにカーネルのコンフィグレーションでは`RAM disk support`にチェックをいれています。
 
 ![RAMDISK Support設定画面](elks-config-ramdisk-support.jpg)
 
