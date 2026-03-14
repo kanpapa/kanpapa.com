@@ -7,7 +7,7 @@ categories:
 tags:
   - "Akiduki Denshi"
   - "Arduino"
-  - "Ch32x035"
+  - "CH32X035"
   - "Risc V"
 image: images/ch32x035g8u6-breakout-blinking.jpg
 ---

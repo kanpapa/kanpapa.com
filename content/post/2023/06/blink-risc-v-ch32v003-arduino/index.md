@@ -8,6 +8,7 @@ tags:
   - "Arduino"
   - "Ch32v"
   - "Risc V"
+  - "CH32V003"
 image: images/CH32V003J4M6_SOP8-DIP8.jpg
 ---
 
