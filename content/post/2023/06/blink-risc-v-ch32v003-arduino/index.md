@@ -64,6 +64,8 @@ https://github.com/openwch/board_manager_files/raw/main/package_ch32v_index.json
 
 ![](images/ch32_mcu_evt_boards.jpg)
 
+※2026/3/15 追記：私のWindows環境では1.0.4はインストールエラーとなったため、1.0.3で使用しています。
+
 ボードはCH32V00xを選択し、ポートはWCH-LinkEが割り当てられているCOMxを設定します。私の場合はCOM10にみえました。
 
 ![](images/ch32v00x_board_port.jpg)
