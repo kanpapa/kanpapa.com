@@ -22,7 +22,7 @@ mini rootが入ったUSBメモリの書き込みは、MacBook ProのParallels De
 > Starting kernel ...  
 > Uncompressing Linux...................................................................................................................................................................................... done, booting the kernel.  
 > Linux version 2.6.32.3 (yoneda@debian) (gcc version 4.3.2 (Debian 4.3.2-1.1) ) #1 PREEMPT Sun Jan 10 15:45:24 JST 2010  
-> CPU: Feroceon 88FR131 \[56251311\] revision 1 (ARMv5TE), cr=00053177  
+> CPU: Feroceon 88FR131 [56251311] revision 1 (ARMv5TE), cr=00053177  
 > CPU: VIVT data cache, VIVT instruction cache  
 > Machine: Marvell SheevaPlug Reference Board  
 > 　：  

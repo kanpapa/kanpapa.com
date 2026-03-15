@@ -74,7 +74,7 @@ initプロセスの状態を確認するために、simpleinit.cでコメント�
 
 なぜ、ログインプロンプトが表示されないのか。同様な問題が報告されていないか、過去のuClinux-devアーカイブをみたところ以下の記事が見つかりました。
 
-- [\[uClinux-dev\] No Shell or Login Prompt on uCdimm Running 2.4 Kernel](http://mailman.uclinux.org/pipermail/uclinux-dev/2002-June/009168.html "[uClinux-dev] No Shell or Login Prompt on uCdimm Running 2.4 Kernel")
+- [[uClinux-dev] No Shell or Login Prompt on uCdimm Running 2.4 Kernel](http://mailman.uclinux.org/pipermail/uclinux-dev/2002-June/009168.html "[uClinux-dev] No Shell or Login Prompt on uCdimm Running 2.4 Kernel")
 
 どうもinitに問題があるようで、simpleinit.cを完全に書き換えたようです。こちらのソースを反映して再びビルドです。
 

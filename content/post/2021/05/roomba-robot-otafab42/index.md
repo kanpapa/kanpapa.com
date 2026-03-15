@@ -37,7 +37,7 @@ image: "images/Roomba-robot-otafab42_enorder2.jpg"
 
 このコマンドのあとに取得するデータの種類をPacket IDで指定します。
 
-- Serial sequence: \[142\] \[Packet ID\]
+- Serial sequence: [142] [Packet ID]
 
 Packet IDの仕様によると、左側と右側で別々に値がとれるようです。
 

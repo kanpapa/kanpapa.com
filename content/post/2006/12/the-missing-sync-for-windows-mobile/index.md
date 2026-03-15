@@ -14,7 +14,7 @@ tags: []
 > MacBookとWindows Mobileを同期させるアプリケーションThe Missing Sync for Windows Mobileを使ってみました。最新バージョンの3.0はまだ日本語版もなく、試用版もありませんが、なかなか高機能なようなので、購入してしまいました。40ドル弱でした。
 > 
 >   
-> [伊藤浩一のW-ZERO3応援団(esとhTc ZとX01HTも応援中） - MacBookレビュー７??W-ZERO3\[es\]と同期、The Missing Sync for Windows Mobile](http://d.hatena.ne.jp/itokoichi/20061202/p3)
+> [伊藤浩一のW-ZERO3応援団(esとhTc ZとX01HTも応援中） - MacBookレビュー７??W-ZERO3[es]と同期、The Missing Sync for Windows Mobile](http://d.hatena.ne.jp/itokoichi/20061202/p3)
 
 確かに想像以上に使えそうです。
 

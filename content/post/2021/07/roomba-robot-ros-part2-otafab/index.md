@@ -64,7 +64,7 @@ Pythonで書いたmoveノードをルンバ実機で動かしてみます。
     $ roscd move/src
     $ rosrun move move.py
     ```
-起動時のパラメタはlinear velocity (並進速度)：0.2 \[m/s\]、Angular velocity（角速度）: 0.2 \[rad/s\]としました。
+起動時のパラメタはlinear velocity (並進速度)：0.2 [m/s]、Angular velocity（角速度）: 0.2 [rad/s]としました。
 
 ![otafab_robot43_ros_pi4.png](images/otafab_robot43_ros_pi4.png)
 

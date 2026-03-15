@@ -12,7 +12,7 @@ image: "images/nanopi_neo_buster_server_case.jpg"
 
 ## Nano Pi NEO自宅サーバがクラッシュ
 
-4cm角のマイコン[Nano Pi NEO \[M-12301\]](https://akizukidenshi.com/ "Nano Pi NEO")を使った[自宅Linuxサーバ](https://kanpapa.com/2018/09/armbian-nano-pi-neo-nas-ssd.html "armbianでNano Pi NEO NASをSSDベースのサーバにしてみた")を2018年9月から稼働しています。これまで全くトラブルもなく連続稼働していたのですが、昨日rebootしたところ起動しなくなってしまいました。
+4cm角のマイコン[Nano Pi NEO [M-12301]](https://akizukidenshi.com/ "Nano Pi NEO")を使った[自宅Linuxサーバ](https://kanpapa.com/2018/09/armbian-nano-pi-neo-nas-ssd.html "armbianでNano Pi NEO NASをSSDベースのサーバにしてみた")を2018年9月から稼働しています。これまで全くトラブルもなく連続稼働していたのですが、昨日rebootしたところ起動しなくなってしまいました。
 
 久しぶりにケースを開けて、3.3Vのシリアルコンソールを接続したところ、ファイルシステムが壊れていてbootの途中でpanicになっていました。
 

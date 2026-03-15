@@ -9,13 +9,13 @@ tags: []
 
 ウィルコムストアの[よくある質問](http://faq.willcom-inc.com/faq/1052/app/servlet/qasearch)にこのような質問が載っていた。
 
-> Q.単体での販売はありますか？（W-ZERO3\[es\]）
+> Q.単体での販売はありますか？（W-ZERO3[es]）
 > 
 > A.はい。あります。
 > 
 > ウィルコムストアでは36,800円で、8月初旬より発売予定です。
 > 
-> [WILLCOM｜単体での販売はありますか？（W-ZERO3\[es\]）](http://faq.willcom-inc.com/faq/1052/app/servlet/qasearch)
+> [WILLCOM｜単体での販売はありますか？（W-ZERO3[es]）](http://faq.willcom-inc.com/faq/1052/app/servlet/qasearch)
 
 こう明言されては。待つしかあるまい。
 

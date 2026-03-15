@@ -52,7 +52,7 @@ LPCXpressoを立ち上げて、左下のQuickstartのメニューにあるImport
 
 **6\. LPC-Linkデバッカで動かす。**
 
-ビルドができたら、左下のQuickstartのメニューにあるDebug and RunのDebug 'LPC1114_cmsis_systick' \[debug\]をクリックすると、LPC-Link経由でプログラムがマイコンに書き込まれます。あとはRunメニューでステップ実行をするもよし、動かしてみてください。
+ビルドができたら、左下のQuickstartのメニューにあるDebug and RunのDebug 'LPC1114_cmsis_systick' [debug]をクリックすると、LPC-Link経由でプログラムがマイコンに書き込まれます。あとはRunメニューでステップ実行をするもよし、動かしてみてください。
 
 動作中の画像はこちらです。ゆっくり点滅していますが、systick.cを修正して点滅速度を変えることもできます。
 

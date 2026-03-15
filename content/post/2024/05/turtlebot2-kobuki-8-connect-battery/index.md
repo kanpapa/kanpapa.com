@@ -89,8 +89,8 @@ voltageがバッテリー電圧で、この例では14.39Vのようです。perc
 
 | **Variable name** | **Value** | **Memo** |
 | --- | --- | --- |
-| voltage | バッテリーの電圧\[V\] |  |
-| percentage | バッテリー残り容量\[%\] | 電圧範囲を16.5V〜13.2Vと定義し、現在の電圧から残り容量を計算している。 |
+| voltage | バッテリーの電圧[V] |  |
+| percentage | バッテリー残り容量[%] | 電圧範囲を16.5V〜13.2Vと定義し、現在の電圧から残り容量を計算している。 |
 | power_supply_status | POWER_SUPPLY_STATUS_DISCHARGING = 2   POWER_SUPPLY_STATUS_FULL = 4   POWER_SUPPLY_STATUS_CHARGING = 1 | ドライバではこの3種類しか使用されていない。 |
 | power_supply_health | POWER_SUPPLY_HEALTH_UNKNOWN = 0 | 固定値でした。 |
 | power_supply_technology | POWER_SUPPLY_TECHNOLOGY_LION = 2 | リチウムイオン電池であることを示しており固定値でした。 |

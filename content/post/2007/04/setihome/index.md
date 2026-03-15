@@ -35,7 +35,7 @@ boinc-clientで検索したところ、testingとunstableのパッケージし�
 
 > $ sudo apt-get update
 > 
-> Get:1 [http://cdn.debian.or.jp](http://cdn.debian.or.jp) testing/main Packages \[5555kB\]
+> Get:1 [http://cdn.debian.or.jp](http://cdn.debian.or.jp) testing/main Packages [5555kB]
 > 
 > Hit [http://security.debian.org](http://security.debian.org) stable/updates/main Packages
 > 
@@ -49,27 +49,27 @@ boinc-clientで検索したところ、testingとunstableのパッケージし�
 > 
 > Hit [http://security.debian.org](http://security.debian.org) stable/updates/non-free Release
 > 
-> Get:2 [http://cdn.debian.or.jp](http://cdn.debian.or.jp) testing/main Release \[84B\]
+> Get:2 [http://cdn.debian.or.jp](http://cdn.debian.or.jp) testing/main Release [84B]
 > 
-> Get:3 [http://cdn.debian.or.jp](http://cdn.debian.or.jp) testing/contrib Packages \[56.4kB\]
+> Get:3 [http://cdn.debian.or.jp](http://cdn.debian.or.jp) testing/contrib Packages [56.4kB]
 > 
-> Get:4 [http://cdn.debian.or.jp](http://cdn.debian.or.jp) testing/contrib Release \[87B\]
+> Get:4 [http://cdn.debian.or.jp](http://cdn.debian.or.jp) testing/contrib Release [87B]
 > 
-> Get:5 [http://cdn.debian.or.jp](http://cdn.debian.or.jp) testing/non-free Packages \[74.7kB\]
+> Get:5 [http://cdn.debian.or.jp](http://cdn.debian.or.jp) testing/non-free Packages [74.7kB]
 > 
-> Get:6 [http://cdn.debian.or.jp](http://cdn.debian.or.jp) testing/non-free Release \[88B\]
+> Get:6 [http://cdn.debian.or.jp](http://cdn.debian.or.jp) testing/non-free Release [88B]
 > 
-> Get:7 [http://cdn.debian.or.jp](http://cdn.debian.or.jp) testing/main Sources \[1653kB\]
+> Get:7 [http://cdn.debian.or.jp](http://cdn.debian.or.jp) testing/main Sources [1653kB]
 > 
-> Get:8 [http://cdn.debian.or.jp](http://cdn.debian.or.jp) testing/main Release \[83B\]
+> Get:8 [http://cdn.debian.or.jp](http://cdn.debian.or.jp) testing/main Release [83B]
 > 
-> Get:9 [http://cdn.debian.or.jp](http://cdn.debian.or.jp) testing/contrib Sources \[21.1kB\]
+> Get:9 [http://cdn.debian.or.jp](http://cdn.debian.or.jp) testing/contrib Sources [21.1kB]
 > 
-> Get:10 [http://cdn.debian.or.jp](http://cdn.debian.or.jp) testing/contrib Release \[86B\]
+> Get:10 [http://cdn.debian.or.jp](http://cdn.debian.or.jp) testing/contrib Release [86B]
 > 
-> Get:11 [http://cdn.debian.or.jp](http://cdn.debian.or.jp) testing/non-free Sources \[33.2kB\]
+> Get:11 [http://cdn.debian.or.jp](http://cdn.debian.or.jp) testing/non-free Sources [33.2kB]
 > 
-> Get:12 [http://cdn.debian.or.jp](http://cdn.debian.or.jp) testing/non-free Release \[87B\]
+> Get:12 [http://cdn.debian.or.jp](http://cdn.debian.or.jp) testing/non-free Release [87B]
 > 
 > Fetched 7394kB in 20s (361kB/s)
 > 

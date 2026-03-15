@@ -7,7 +7,7 @@ categories:
 tags: []
 ---
 
-[伊藤浩一のW-ZERO3応援団](http://d.hatena.ne.jp/itokoichi/)さんによると、W-ZERO3\[es\]のおすすめ機能が載っていました。
+[伊藤浩一のW-ZERO3応援団](http://d.hatena.ne.jp/itokoichi/)さんによると、W-ZERO3[es]のおすすめ機能が載っていました。
 
 これなんですよ。私もW-ZERO3にほしいです。スクロール機能ボタン。
 
@@ -17,7 +17,7 @@ tags: []
 
 よーし、機種変しちゃうかぁ?？
 
-> ■\[W-ZERO3\]\[es\]既存のW-ZERO3ユーザーにとって嬉しい点
+> ■[W-ZERO3][es]既存のW-ZERO3ユーザーにとって嬉しい点
 > 
 > ２．音量ボタンをスクロールに変更可能
 > 

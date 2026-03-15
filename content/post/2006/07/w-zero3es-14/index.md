@@ -13,4 +13,4 @@ tags: []
 
 > Ｗ?ＳＩＭ抜きの端末本体だけなら何とか確保出来ますとの事。  
 > 
-> [King of ▲ ［HKRYMD］ - W-ZERO3 \[es\]/WS007SH入手！](http://d.hatena.ne.jp/HKRYMD/20060729/1154191171)
+> [King of ▲ ［HKRYMD］ - W-ZERO3 [es]/WS007SH入手！](http://d.hatena.ne.jp/HKRYMD/20060729/1154191171)

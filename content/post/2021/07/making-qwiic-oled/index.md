@@ -8,7 +8,7 @@ tags: []
 image: "images/qwiic_oled3.jpg"
 ---
 
-あるプロジェクトで[Qwiic](https://www.mouser.jp/new/sparkfun/sparkfun-qwiic-connect-system/ "Qwiic")が使われていました。プロジェクトでは[Qwiic Micro OLED](https://www.sparkfun.com/products/14532 "SparkFun Micro OLED Breakout (Qwiic)")が使われているのですが、[手持ちのOLED \[P-15870\]](https://akizukidenshi.com/ "0.96インチ 128x64ドット有機ELディスプレイ(OLED)")をこのQwiic対応にできればお安くできるのではと思いつきました。
+あるプロジェクトで[Qwiic](https://www.mouser.jp/new/sparkfun/sparkfun-qwiic-connect-system/ "Qwiic")が使われていました。プロジェクトでは[Qwiic Micro OLED](https://www.sparkfun.com/products/14532 "SparkFun Micro OLED Breakout (Qwiic)")が使われているのですが、[手持ちのOLED [P-15870]](https://akizukidenshi.com/ "0.96インチ 128x64ドット有機ELディスプレイ(OLED)")をこのQwiic対応にできればお安くできるのではと思いつきました。
 
 都合の良いことに[Qwiic対応用の小さなコネクタ付き基板](https://www.sparkfun.com/products/14495 "SparkFun Qwiic Adapter")も売られていましたので、これをOLEDにはんだ付けすれば良いだろうと思ったのですが・・・
 

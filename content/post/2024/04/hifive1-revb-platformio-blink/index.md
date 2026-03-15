@@ -70,11 +70,11 @@ Configrationが終わるとビルドできる状態になります。エクス�
 
 ![](images/hifive1-revb-platformio-general-menu-1.png)
 
-正常にビルドが完了すればTERMINAL画面に\[SUCCESS\]と表示されます。
+正常にビルドが完了すればTERMINAL画面に[SUCCESS]と表示されます。
 
 ![](images/hifive1-revb-platformio-general-build-success-1024x565.png)
 
-次にUploadを選択すると、ビルド後にマイコンボードにプログラムが書き込まれTERMINAL画面に\[SUCCESS\]と表示されます。
+次にUploadを選択すると、ビルド後にマイコンボードにプログラムが書き込まれTERMINAL画面に[SUCCESS]と表示されます。
 
 ![](images/hifive1-revb-platformio-general-upload-success-1024x565.png)
 

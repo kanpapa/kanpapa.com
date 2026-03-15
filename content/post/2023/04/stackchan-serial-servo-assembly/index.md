@@ -31,11 +31,11 @@ PWM用に組み立てた基板のパーツを付け替えることでシリア�
     - 10kΩ \* 1pc
     - 100Ω \* 1pc
     - 0Ω \* 3pc（内2個はPWM用の設定で使っているものを付け替えます）
-- [TC7WH241FK \[I-10884\]](https://akizukidenshi.com/ "２回路入３ステートバスバッファ　ＴＣ７ＷＨ２４１ＦＫ") \* 1pc
+- [TC7WH241FK [I-10884]](https://akizukidenshi.com/ "２回路入３ステートバスバッファ　ＴＣ７ＷＨ２４１ＦＫ") \* 1pc
 
 ## シリアルサーボの動作確認
 
-スタックチャン基板にシリアルサーボを接続して、シリアルサーボが問題なく使えるかの確認を行います。[秋月電子のホームページ \[M-16312\]](https://akizukidenshi.com "ＦＥＥＴＥＣＨサーボ　ＳＴＳ３２１５")に[Arduino用のシリアルサーボライブラリ(SCServo.zip)](https://akizukidenshi.com/download/ds/feetech/SCServo.zip "SCServo.zip")がありましたので、これを使います。
+スタックチャン基板にシリアルサーボを接続して、シリアルサーボが問題なく使えるかの確認を行います。[秋月電子のホームページ [M-16312]](https://akizukidenshi.com "ＦＥＥＴＥＣＨサーボ　ＳＴＳ３２１５")に[Arduino用のシリアルサーボライブラリ(SCServo.zip)](https://akizukidenshi.com/download/ds/feetech/SCServo.zip "SCServo.zip")がありましたので、これを使います。
 
 Arduino IDEをM5Stack用に設定し、シリアルサーボライブラリのサンプルプログラムをM5Stack＋スタックチャン基板用に書き換えました。
 

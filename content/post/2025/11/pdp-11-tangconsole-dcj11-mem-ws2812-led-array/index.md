@@ -56,7 +56,7 @@ WS2812 LED Arrayに情報の表示はできているのですが、表示方向�
 | 34 | (pt_error !=0 ) \| ~pt_mosi | 未使用 | ~pt_miso & (sd2_dev == DEV_PT) |
 | 33 | IRQ2 | IRQ1 | IRQ0 |
 | 32 | sw1_count (3bit counter) |  |  |
-| 31〜16 | address\[15:0\] |  |  |
+| 31〜16 | address[15:0] |  |  |
 | 15〜0 | d_cpu_to_ram |  |  |
 
 top.vを変更したあとにRerun Allを実行し、生成されたbitstreamをTangConsoleに書き込みました。電源を投入したところ予定通りに8桁×5行のビットマップとして表示できました。

@@ -7,7 +7,7 @@ categories:
 tags: []
 ---
 
-[ウィルコムストアのW-ZERO3\[es\]キャンペーンページ](https://store.willcom-inc.com/ec/faces/lstlscp000906/)ですが、構成が変わっています。
+[ウィルコムストアのW-ZERO3[es]キャンペーンページ](https://store.willcom-inc.com/ec/faces/lstlscp000906/)ですが、構成が変わっています。
 
 予約販売も再開され、単体販売の開始は８月初旬ということで時期が明確に示されました。
 

@@ -12,15 +12,15 @@ tags:
 image: images/CH32V003J4M6_SOP8-DIP8.jpg
 ---
 
-[秋月電子](https://akizukidenshi.com/ "秋月電子通商")さんに新商品のマイコンが入荷したようです。1個40円の[32ビットRISC-Vマイコン CH32V003J4M6 \[販売コード:118062\]](https://akizukidenshi.com/catalog/g/g118062/)です。あまりの安さとSOP8の可愛さで気になってしまいます。開発環境は公式のものもあるのですが、[Arduino IDE](https://www.arduino.cc/en/software "Arduino IDE")もサポートしているようです。今回はお手軽なArduino IDEでセットアップをしてみます。
+[秋月電子](https://akizukidenshi.com/ "秋月電子通商")さんに新商品のマイコンが入荷したようです。1個40円の[32ビットRISC-Vマイコン CH32V003J4M6 [販売コード:118062]](https://akizukidenshi.com/catalog/g/g118062/)です。あまりの安さとSOP8の可愛さで気になってしまいます。開発環境は公式のものもあるのですが、[Arduino IDE](https://www.arduino.cc/en/software "Arduino IDE")もサポートしているようです。今回はお手軽なArduino IDEでセットアップをしてみます。
 
-他にも1個50円の[CH32V003F4P6 \[販売コード:118061\]](https://akizukidenshi.com/catalog/g/g118061/)もあり、こちらはピン数も多く高機能のようですが、まずはSOP8で扱いやすそうなCH32V003J4M6で試してみます。マイコンに書き込むためのツールの[WCH-LinkEエミュレータ \[販売コード:118065\]](https://akizukidenshi.com/catalog/g/g118065/)も販売されていましたのでこちらも購入しました。
+他にも1個50円の[CH32V003F4P6 [販売コード:118061]](https://akizukidenshi.com/catalog/g/g118061/)もあり、こちらはピン数も多く高機能のようですが、まずはSOP8で扱いやすそうなCH32V003J4M6で試してみます。マイコンに書き込むためのツールの[WCH-LinkEエミュレータ [販売コード:118065]](https://akizukidenshi.com/catalog/g/g118065/)も販売されていましたのでこちらも購入しました。
 
 ![](images/CH32V003J4M6_WCHLinkE.jpg)
 
 ## マイコンで簡単な回路を作ってみる
 
-CH32V003J4M6はSOP8なのでピン間隔も1.27mmと広く表面実装部品の中でもはんだ付けはしやすいと思います。まずはブレッドボードで実験ができるように[SOP8変換基板 \[販売コード:105154\]](https://akizukidenshi.com/catalog/g/g105154/)にはんだ付けしました。
+CH32V003J4M6はSOP8なのでピン間隔も1.27mmと広く表面実装部品の中でもはんだ付けはしやすいと思います。まずはブレッドボードで実験ができるように[SOP8変換基板 [販売コード:105154]](https://akizukidenshi.com/catalog/g/g105154/)にはんだ付けしました。
 
 ![](images/CH32V003J4M6_SOP8-DIP8.jpg)
 

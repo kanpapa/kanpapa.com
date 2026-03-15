@@ -19,7 +19,7 @@ image: "images/mecanum_hcsr04.jpeg"
 
 この超音波距離センサーはよく見かけるもので秋月電子でも販売されています。
 
-- [超音波距離センサー HC-SR04 \[M-11009\]](https://akizukidenshi.com/ "超音波距離センサー HC-SR04")
+- [超音波距離センサー HC-SR04 [M-11009]](https://akizukidenshi.com/ "超音波距離センサー HC-SR04")
 
 
 

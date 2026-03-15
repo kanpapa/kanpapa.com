@@ -7,7 +7,7 @@ categories:
 tags: []
 ---
 
-[ウィルコムストア](https://store.willcom-inc.com/)の売れ筋No.1がW-ZERO3\[es\]になっていました。
+[ウィルコムストア](https://store.willcom-inc.com/)の売れ筋No.1がW-ZERO3[es]になっていました。
 
 さすがに売れているんでしょうね。
 
@@ -17,6 +17,6 @@ tags: []
 
 > ウィルコムストア 総合売れ筋ランキング！
 > 
-> W-ZERO3 \[es\]が圧倒的1位に。
+> W-ZERO3 [es]が圧倒的1位に。
 > 
 > [WILLCOM STORE｜ウィルコムストア 総合売れ筋ランキング！](https://store.willcom-inc.com/ec/faces/lstlsht000140/)

@@ -24,7 +24,7 @@ UART経由でコマンドを入力することで、連続して計測したり�
 
 ![adc_uart_lcd_design.png](images/adc_uart_lcd_design.png)
 
-次にPSoCのどのポートにLCDを接続するかを設定します。今回はP2\[0-6\]を使っています。こちらも図で確認できます。
+次にPSoCのどのポートにLCDを接続するかを設定します。今回はP2[0-6]を使っています。こちらも図で確認できます。
 
 ![lcd_psoc_port.png](images/lcd_psoc_port.png)
 

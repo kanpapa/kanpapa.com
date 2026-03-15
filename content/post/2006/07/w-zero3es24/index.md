@@ -7,7 +7,7 @@ categories:
 tags: []
 ---
 
-[ウィルコムストアでのW-ZERO3\[es\]の注文ページ](https://store.willcom-inc.com/ec/faces/lstlscp000906/)に大きく表示されていた「８月３日以降のお届けになります」という文字が消えました。
+[ウィルコムストアでのW-ZERO3[es]の注文ページ](https://store.willcom-inc.com/ec/faces/lstlscp000906/)に大きく表示されていた「８月３日以降のお届けになります」という文字が消えました。
 
 もしかして、「通常24時間以内に発送可能」な状態になったのでしょうか。
 

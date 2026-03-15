@@ -11,7 +11,7 @@ tags: []
 
 こちらのほうがお安いです。
 
-> ■\[W-ZERO3\]USB接続型SIM STYLE ジャケットCommentsAdd Star
+> ■[W-ZERO3]USB接続型SIM STYLE ジャケットCommentsAdd Star
 > 
 > これは楽しみな商品です。
 > 

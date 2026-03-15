@@ -9,7 +9,7 @@ tags:
 image: "images/wisun_prototype_v02_pcb_image.png"
 ---
 
-[秋月のWi-SUNモジュール付きSoC基板](https://kanpapa.com/2023/03/aesoc-yocto-dunfell.html "秋月電子のSoC基板でyocto-linuxを動かしてみました（その１ 環境構築編）")を私は２台買いました。１台はそのままの状態で[Linuxを載せてMackerelで瞬間電力量を表示](https://kanpapa.com/2023/04/aesoc-yocto-broute-mackerel.html "秋月電子のSoC基板で瞬時電力値のグラフが表示できるようにしてみました")して運用しています。もう１台はまだ手付かずでしたが、SoC基板に実装されている[Wi-SUNモジュール MB-RL7023-11/DSS \[M-17450\]](https://akizukidenshi.com/ "ＨＥＭＳ用　Ｗｉ－ＳＵＮモジュール　Ｒｏｕｔｅ－Ｂ／ＨＡＮ　デュアル対応")を取り外し、それを活用できないかと考えています。
+[秋月のWi-SUNモジュール付きSoC基板](https://kanpapa.com/2023/03/aesoc-yocto-dunfell.html "秋月電子のSoC基板でyocto-linuxを動かしてみました（その１ 環境構築編）")を私は２台買いました。１台はそのままの状態で[Linuxを載せてMackerelで瞬間電力量を表示](https://kanpapa.com/2023/04/aesoc-yocto-broute-mackerel.html "秋月電子のSoC基板で瞬時電力値のグラフが表示できるようにしてみました")して運用しています。もう１台はまだ手付かずでしたが、SoC基板に実装されている[Wi-SUNモジュール MB-RL7023-11/DSS [M-17450]](https://akizukidenshi.com/ "ＨＥＭＳ用　Ｗｉ－ＳＵＮモジュール　Ｒｏｕｔｅ－Ｂ／ＨＡＮ　デュアル対応")を取り外し、それを活用できないかと考えています。
 
 そのためにはWi-SUNモジュールを手軽に使えるようにブレークアウト基板を作ることにしました。
 

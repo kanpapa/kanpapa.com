@@ -15,4 +15,4 @@ tags: []
 
 とりあえず、MacBookのキーボードで打ち込みをするのも大変なので、安いMIDIキーボードはないかなと物色していたら、KORGのK25というものが目に入ったので、オーダしてしまいました。今週末には到着かなと。KORGといえば実家になぜか名機MS-20があったりします。まだちゃんと音はでますぞ。
 
-[\[rakuten:chuya-online:10015776:detail\]](http://d.hatena.ne.jp/rakuten/chuya-online/10015776)
+[[rakuten:chuya-online:10015776:detail]](http://d.hatena.ne.jp/rakuten/chuya-online/10015776)

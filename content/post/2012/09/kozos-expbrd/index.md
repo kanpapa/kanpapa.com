@@ -49,7 +49,7 @@ $ diff -rc task_fileio.c.org task_fileio.c
 --- 109,115 ---- 
                 break;  
             }  
-            while (!pf_readdir(&dir, &filinfo) && filinfo.fname\[0\]) {  
+            while (!pf_readdir(&dir, &filinfo) && filinfo.fname[0]) {  
 +               ipc_menu_set_filename("               ");  
                 ipc_menu_set_filename(filinfo.fname);  
                 if (!(filinfo.fattrib & (AM_DIR | AM_HID))) {  
@@ -71,7 +71,7 @@ $ diff -rc task_menu.c.org task_menu.c
 +           ipc_display_draw_text(24, 20, "---");  
           }  
       }  
-      if (p\[2\]) {  
+      if (p[2]) {  
 ***************  
 *** 85,90 ****  
 --- 86,92 ---- 

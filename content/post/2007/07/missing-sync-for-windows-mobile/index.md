@@ -7,7 +7,7 @@ categories:
 tags: []
 ---
 
-この前の日記でMac用SyncソフトのMissing SyncでAdvanced/W-ZERO3\[es\]と同期できないと言っていましたが、次期バージョンの案内がありました。これでWindows Mobile 6のアドエスでもSyncできるようになりそうです。
+この前の日記でMac用SyncソフトのMissing SyncでAdvanced/W-ZERO3[es]と同期できないと言っていましたが、次期バージョンの案内がありました。これでWindows Mobile 6のアドエスでもSyncできるようになりそうです。
 
 まだ、試していませんが後ほどインストールしてみようと思います。
 

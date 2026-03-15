@@ -30,8 +30,8 @@ image: images/hdsp-2121-udc_rabbit_test.jpg
 
 | **LED Display** | **ESP32-DEVKITC** |
 | --- | --- |
-| D\[7:0\] | GPIO\[19:12\] |
-| A\[2:0\] | GPIO\[23:21\] |
+| D[7:0] | GPIO[19:12] |
+| A[2:0] | GPIO[23:21] |
 | A3 | GPIO25 |
 | A4 | GPIO26 |
 | ~FL | GPIO27 |

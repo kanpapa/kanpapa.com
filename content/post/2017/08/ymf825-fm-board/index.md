@@ -14,7 +14,7 @@ Maker Faire Tokyo 2017でヤマハの[YMF825 FM音源モジュール](https://ww
 
 ![ymf825_board.jpg](images/ymf825_board.jpg) 
 
-少し音色を変えたいなとArduinoのサンプルスケッチ（ymf825board_sample1.ino）とデータシートを見比べたところ、tone_data\[35\] が音色の情報で、7byte並んでいるところがOperator1〜4の値のようです。
+少し音色を変えたいなとArduinoのサンプルスケッチ（ymf825board_sample1.ino）とデータシートを見比べたところ、tone_data[35] が音色の情報で、7byte並んでいるところがOperator1〜4の値のようです。
 
 ```
 void set_tone(void){

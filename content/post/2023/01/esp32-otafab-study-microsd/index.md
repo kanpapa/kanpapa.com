@@ -17,17 +17,17 @@ image: images/esp32-otafab-study-microsd_sparkfun1.jpg
 
 ## 材料
 
-- [ブレッドボード 6穴版 \[112366\]](https://akizukidenshi.com/catalog/g/g112366/)
+- [ブレッドボード 6穴版 [112366]](https://akizukidenshi.com/catalog/g/g112366/)
 
-- [ESP32-DevKitC-32E ESP32-WROOM-32E開発ボード 4MB \[115673\]](https://akizukidenshi.com/catalog/g/g115673/)
+- [ESP32-DevKitC-32E ESP32-WROOM-32E開発ボード 4MB [115673]](https://akizukidenshi.com/catalog/g/g115673/)
 
 - microSDカードスロット変換基板
 
 - microSDカード
 
-- [ブレッドボード用ワイヤー \[105159\]](https://akizukidenshi.com/catalog/g/g105159/)
+- [ブレッドボード用ワイヤー [105159]](https://akizukidenshi.com/catalog/g/g105159/)
 
-- [USBケーブル \[109313\]](https://akizukidenshi.com/catalog/g/g109313/)
+- [USBケーブル [109313]](https://akizukidenshi.com/catalog/g/g109313/)
 
 - [Arduino IDE ESP32がインストールされたPC](https://kanpapa.com/2022/12/esp32-otafab-study-arduino.html "ESP32のArduino開発環境をつくりました（おおたfab 電子工作初心者勉強会）")
 
@@ -51,7 +51,7 @@ ESP32-DEVKITCとmicroSDカードスロット変換基板の接続は以下のよ
 
 ![](images/esp32-otafab-study-microsd_sparkfun1.jpg)
 
-秋月電子の[マイクロSDカードスロットDIP化キット \[105488\]](https://akizukidenshi.com/catalog/g/g105488/)を使う場合は以下のように接続します。
+秋月電子の[マイクロSDカードスロットDIP化キット [105488]](https://akizukidenshi.com/catalog/g/g105488/)を使う場合は以下のように接続します。
 
 | **MicroSD DIP化キット** | **ESP32-DEVKITC** |
 | --- | --- |

@@ -13,8 +13,8 @@ tags: []
 
 いい感じです。
 
-> ■\[W-ZERO3\]\[es\]NetFront3.3設定覚書 このエントリーを含むブックマーク
+> ■[W-ZERO3][es]NetFront3.3設定覚書 このエントリーを含むブックマーク
 > 
-> W-ZERO3\[es\]のブラウザですが、Internet Explorer Mobileをメインで使っています。
+> W-ZERO3[es]のブラウザですが、Internet Explorer Mobileをメインで使っています。
 > 
 > [伊藤浩一のW-ZERO3応援団(esも応援中）](http://d.hatena.ne.jp/itokoichi/20060912#p1)

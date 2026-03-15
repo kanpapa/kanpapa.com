@@ -9,13 +9,13 @@ tags: []
 
 このような記事をみつけました。もう祭りが始まっているとは・・・
 
-> ■\[覗き窓\]もうすでに【W-ZERO3\[es\]】を入手！(笑)
+> ■[覗き窓]もうすでに【W-ZERO3[es]】を入手！(笑)
 > 
-> W-ZERO3 \[es\]祭り ：）
+> W-ZERO3 [es]祭り ：）
 > 
 > pocketgames::PDA秘宝館（W-ZERO3応援団）
 > 
-> [【\*RIKENのW-ZERO3を愛しむ毎日\*】 - もうすでに【W-ZERO3\[es\]】を入手！(笑)](http://d.hatena.ne.jp/RIKEN/20060726/p13)
+> [【\*RIKENのW-ZERO3を愛しむ毎日\*】 - もうすでに【W-ZERO3[es]】を入手！(笑)](http://d.hatena.ne.jp/RIKEN/20060726/p13)
 
 いいなぁ?もう触ってるんですねぇ。
 

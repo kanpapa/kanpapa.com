@@ -14,7 +14,7 @@ image: images/ros2-m5stack-microros_sample.jpg
 
 ESP32をつかってmicro-ROS for ArduinoでROS2と通信できるという記事を見かけました。
 
-- [\[ROS2 foxy\] ESP32を使ってmicro-ROS for Arduinoで遊ぼう](https://qiita.com/ousagi_sama/items/b4eb3d9c6b337cbe1b05 "[ROS2 foxy] ESP32を使ってmicro-ROS for Arduinoで遊ぼう")
+- [[ROS2 foxy] ESP32を使ってmicro-ROS for Arduinoで遊ぼう](https://qiita.com/ousagi_sama/items/b4eb3d9c6b337cbe1b05 "[ROS2 foxy] ESP32を使ってmicro-ROS for Arduinoで遊ぼう")
 
 ESP32でできるならM5Stackでも同じことができそうだと試してみました。
 

@@ -20,7 +20,7 @@ KIM Unoという名前からある程度想像できますが、KIM-1の機能�
 
 ## プロトタイプの製作
 
-KIM Unoの製作に必要なパーツは秋月電子で揃えました。KIM Unoで使用しているArduino Pro Miniと7セグメントLEDは秋月電子で入手できる同等品（ [AE-ATMEGA328-MINI \[K-10347\]](https://akizukidenshi.com/ "AE-ATMEGA-328 MINI"), [OSL40363-IRYG \[I-15998\]](https://akizukidenshi.com/ "OSL40363-IRYG") ）を使っています。回路図はGitHubに載せておきました。
+KIM Unoの製作に必要なパーツは秋月電子で揃えました。KIM Unoで使用しているArduino Pro Miniと7セグメントLEDは秋月電子で入手できる同等品（ [AE-ATMEGA328-MINI [K-10347]](https://akizukidenshi.com/ "AE-ATMEGA-328 MINI"), [OSL40363-IRYG [I-15998]](https://akizukidenshi.com/ "OSL40363-IRYG") ）を使っています。回路図はGitHubに載せておきました。
 
 - [kanpapa/kim_uno_ae/schematics/kimuno4_ae_sch.pdf](https://github.com/kanpapa/kim_uno_ae/blob/main/schematics/kimuno4_ae_sch.pdf)
 
@@ -36,7 +36,7 @@ Arduino Pro MiniにはKIM-1のスケッチを書き込みます。最新のフ�
 
 ## 専用基板の製作
 
-KIM Unoは専用基板を使って、電卓のようにコンパクトに仕上げています。公式サイトでKiCadデータとガーバーデータが公開されていますので、これをそのまま使おうとしたのですが、7セグメントLEDが秋月電子で入手できるものとやや仕様が異なります。このため、KiCadデータを改変することにしました。ついでにArduino Pro Miniも秋月電子で販売している[AE-ATMEGA328-MINI \[K-10347\]](https://akizukidenshi.com/ "AE－ATMEGA328－MINI （Arduino Pro Mini上位互換）")に置き換えています。また、KiCadデータはやや古い形式で互換性に課題があったのでKiCad6で作り直しました。
+KIM Unoは専用基板を使って、電卓のようにコンパクトに仕上げています。公式サイトでKiCadデータとガーバーデータが公開されていますので、これをそのまま使おうとしたのですが、7セグメントLEDが秋月電子で入手できるものとやや仕様が異なります。このため、KiCadデータを改変することにしました。ついでにArduino Pro Miniも秋月電子で販売している[AE-ATMEGA328-MINI [K-10347]](https://akizukidenshi.com/ "AE－ATMEGA328－MINI （Arduino Pro Mini上位互換）")に置き換えています。また、KiCadデータはやや古い形式で互換性に課題があったのでKiCad6で作り直しました。
 
 ![kim_uno_kicad6_2.png](images/kim_uno_kicad6_2.png)
 

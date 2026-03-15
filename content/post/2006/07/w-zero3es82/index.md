@@ -7,7 +7,7 @@ categories:
 tags: []
 ---
 
-[ウィルコムストアでのW-ZERO3\[es\]の販売](https://store.willcom-inc.com/ec/faces/lstlscp000906/)ですが、順調に注文があるようで、ついに8月2日以降のお届けになりました。
+[ウィルコムストアでのW-ZERO3[es]の販売](https://store.willcom-inc.com/ec/faces/lstlscp000906/)ですが、順調に注文があるようで、ついに8月2日以降のお届けになりました。
 
 先日から、31日以降、1日以降、そして2日以降と進んでいます。
 

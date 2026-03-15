@@ -9,7 +9,7 @@ tags: []
 
 WILLCOMのFAQページにこんなのがありました。
 
-> Q:なぜWS004SHの次がWS007SH（W-ZERO3\[es\]）なのでしょうか？
+> Q:なぜWS004SHの次がWS007SH（W-ZERO3[es]）なのでしょうか？
 > 
 > A.WILLCOM SIM STYLEの型番で、7種類目という意味です。
 > 

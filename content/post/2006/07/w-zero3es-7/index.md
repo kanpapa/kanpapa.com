@@ -7,13 +7,13 @@ categories:
 tags: []
 ---
 
-ウィルコムストアでW-ZERO3\[es\]の通常商品(SIMあり)の予約が開始しています。
+ウィルコムストアでW-ZERO3[es]の通常商品(SIMあり)の予約が開始しています。
 
 そのうえ次のような説明が・・・
 
 > ※ 単体商品（SIMなし）については、事前登録されたお客さまの予約期間終了後に通常予約を開始いたします。
 > 
-> [WILLCOM｜W-ZERO3 \[es\] 予約販売について](http://www.willcom-inc.com/ja/lineup/ws/007sh/store/index.html)
+> [WILLCOM｜W-ZERO3 [es] 予約販売について](http://www.willcom-inc.com/ja/lineup/ws/007sh/store/index.html)
 
 おお。事前予約に失敗した人にも敗者復活戦があるようです！
 
