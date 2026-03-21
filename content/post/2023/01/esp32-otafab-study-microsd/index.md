@@ -8,6 +8,7 @@ tags:
   - "Arduino"
   - "ESP32"
   - "Otafab"
+  - "microSD"
 image: images/esp32-otafab-study-microsd_sparkfun1.jpg
 ---
 
@@ -17,44 +18,29 @@ image: images/esp32-otafab-study-microsd_sparkfun1.jpg
 
 ## 材料
 
-- [ブレッドボード 6穴版 [112366]](https://akizukidenshi.com/catalog/g/g112366/)
+材料は秋月電子で揃えました。
+|販売コード|商品名|価格|数量|
+|:--|:--|:--|:--|
+|115673|[ESP32-DevKitC-32E ESP32-WROOM-32E開発ボード 4MB](https://akizukidenshi.com/catalog/g/g115673/)|1800|1|
+|112366|[ブレッドボード 6穴版 EIC-3901](https://akizukidenshi.com/catalog/g/g112366/)|520|1|
+|105488|[マイクロSDカードスロットDIP化キット](https://akizukidenshi.com/catalog/g/g105488/) または同等品|300|1|
+|109313|[USBケーブル USB2.0 Aオス-マイクロBオス 0.3m A-microB](https://akizukidenshi.com/catalog/g/g109313/)|140|1|
+|130088|[ブレッドボード・ジャンパーワイヤセット(60本以上)](https://akizukidenshi.com/catalog/g/g130088/)|300|1|
+| |microSDカード| |1|
 
-- [ESP32-DevKitC-32E ESP32-WROOM-32E開発ボード 4MB [115673]](https://akizukidenshi.com/catalog/g/g115673/)
-
-- microSDカードスロット変換基板
-
-- microSDカード
-
-- [ブレッドボード用ワイヤー [105159]](https://akizukidenshi.com/catalog/g/g105159/)
-
-- [USBケーブル [109313]](https://akizukidenshi.com/catalog/g/g109313/)
-
-- [Arduino IDE ESP32がインストールされたPC](https://kanpapa.com/2022/12/esp32-otafab-study-arduino.html "ESP32のArduino開発環境をつくりました（おおたfab 電子工作初心者勉強会）")
+これに加えて[Arduino IDE ESP32がインストールされたPC](https://kanpapa.com/2022/12/esp32-otafab-study-arduino.html "ESP32のArduino開発環境をつくりました（おおたfab 電子工作初心者勉強会）")が必要です。
 
 ## microSDカードスロットの接続
 
-ESP32-DEVKITCとmicroSDカードスロット変換基板の接続は以下のようにしました。microSDカードスロット基板は各社でピン名称が異なるようですので注意してください。
+ESP32-DEVKITCとmicroSDカードスロット変換基板の接続は以下のようにしました。  
+microSDカードスロット基板は各社でピン名称が異なるようですので注意してください。
 
-[SparkFun マイクロSDカードスロット・ピッチ変換基板](https://www.switch-science.com/products/36)を使う場合は以下のように接続します。
+### [秋月電子 マイクロSDカードスロットDIP化キット](https://akizukidenshi.com/catalog/g/g105488/)の場合
 
-| **MicroSD Breakout** | **ESP32-DEVKITC** |
-| --- | --- |
-| 1 CS | 4 (DigitalOut cs) |
-| 2 DI | 23 (SPI mosi) |
-| 3 VCC | +3.3V |
-| 4 SCK | 18 (SPI sclk) |
-| 5 GND | GND |
-| 6 DO | 19 (SPI miso) |
-| 7 CD | 未使用 |
+以下のように接続します。
 
-[SparkFun マイクロSDカードスロット・ピッチ変換基板](https://www.switch-science.com/products/36)を使った接続例です。
-
-![](images/esp32-otafab-study-microsd_sparkfun1.jpg)
-
-秋月電子の[マイクロSDカードスロットDIP化キット [105488]](https://akizukidenshi.com/catalog/g/g105488/)を使う場合は以下のように接続します。
-
-| **MicroSD DIP化キット** | **ESP32-DEVKITC** |
-| --- | --- |
+| MicroSD DIP化キット | ESP32-DEVKITC |
+|:--|:--|
 | 1 DAT2 | 未使用 |
 | 2 CD/DAT3 | 4 (DigitalOut cs) |
 | 3 CMD | 23 (SPI mosi) |
@@ -66,6 +52,24 @@ ESP32-DEVKITCとmicroSDカードスロット変換基板の接続は以下のよ
 | 9 SWB | 未使用 |
 | 10 SWA | 未使用 |
 
+### [SparkFun マイクロSDカードスロット・ピッチ変換基板](https://www.switch-science.com/products/36)の場合
+
+以下のように接続します。
+
+| MicroSD Breakout | ESP32-DEVKITC |
+|:--|:--|
+| 1 CS | 4 (DigitalOut cs) |
+| 2 DI | 23 (SPI mosi) |
+| 3 VCC | +3.3V |
+| 4 SCK | 18 (SPI sclk) |
+| 5 GND | GND |
+| 6 DO | 19 (SPI miso) |
+| 7 CD | 未使用 |
+
+[SparkFun マイクロSDカードスロット・ピッチ変換基板](https://www.switch-science.com/products/36)を使った接続例です。
+
+![SparkFun マイクロSDカードスロット・ピッチ変換基板の接続例](images/esp32-otafab-study-microsd_sparkfun1.jpg)
+
 ## サンプルプログラムの書き込み
 
 Arduino IDEでmicroSD用のサンプルプログラムがSD_Test.inoが用意されているのでこれを使います。プログラムは以下の場所にあります。
@@ -75,14 +79,10 @@ Arduino IDEでmicroSD用のサンプルプログラムがSD_Test.inoが用意さ
 以下の手順で確認します。
 
 1. [SD_Test.ino](https://github.com/espressif/arduino-esp32/blob/master/libraries/SD/examples/SD_Test/SD_Test.ino "SD_Test.ino")を開いたらそのままコンパイルしてESP32 DevKit-Cに書き込みます。
-
-3. microSDカードをセットしてリセットボタンを押し、シリアルモニタの表示を確認します。通信速度は115200baudにしてください。
-
-5. microSDカードが読めない場合はCard Mount FailedあるいはNo SD card attachedと表示されます。microSDカードに問題がないようであれば、配線が正しいかを確認してください。
-
-7. 正常にmicroSDカードが使えれば、まずSD Card Type: でカードの種類が表示されます。
-
-9. そのあとmicroSDカードの容量が表示され、ディレクトリとファイルの作成、読み書き、削除の操作が行われます。
+1. microSDカードをセットしてリセットボタンを押し、シリアルモニタの表示を確認します。通信速度は115200baudにしてください。
+1. microSDカードが読めない場合はCard Mount FailedあるいはNo SD card attachedと表示されます。microSDカードに問題がないようであれば、配線が正しいかを確認してください。
+1. 正常にmicroSDカードが使えれば、まずSD Card Type: でカードの種類が表示されます。
+1. そのあとmicroSDカードの容量が表示され、ディレクトリとファイルの作成、読み書き、削除の操作が行われます。
 
 シリアルモニタの表示例は以下のようになります。
 
