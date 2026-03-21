@@ -80,7 +80,12 @@ $ ls -l *.bit
 $ ls -l *.bit
 -rw-rw-r-- 1 ocha ocha 2192125  6月  4 15:45 sys_w11a_br_arty.bit
 $ make
-sys_w11a_br_arty.vconfigxtwv vivado -mode batch \        -source /home/ocha/oc_w11/trunk/rtl/make_viv/viv_init.tcl \        -source /home/ocha/oc_w11/trunk/rtl/bplib/arty/arty_setup.tcl \        -source /home/ocha/oc_w11/trunk/rtl/make_viv/viv_default_config.tcl \        -tclargs sys_w11a_br_artyXILINX_VIVADO already defined
+sys_w11a_br_arty.vconfigxtwv vivado -mode batch \
+-source /home/ocha/oc_w11/trunk/rtl/make_viv/viv_init.tcl \
+-source /home/ocha/oc_w11/trunk/rtl/bplib/arty/arty_setup.tcl \
+-source /home/ocha/oc_w11/trunk/rtl/make_viv/viv_default_config.tcl \
+-tclargs sys_w11a_br_arty
+XILINX_VIVADO already defined
 ****** Vivado v2016.1 (64-bit)  ****
 SW Build 1538259 on Fri Apr  8 15:45:23 MDT 2016
 **** IP Build 1537824 on Fri Apr  8 04:28:57 MDT 2016

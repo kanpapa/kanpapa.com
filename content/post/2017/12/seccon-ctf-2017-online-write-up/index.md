@@ -230,7 +230,10 @@ static unsigned char mem[memsize] = {
 0019     0x3d, 0x7b          3E 7B            LD A,'{'  
 001b     0x77             　 77               LD (HL),A  
 001c     0x23                23               INC HL  
-001d     0x39, 0x44, 0x00    3A 44 00  LOOP1: LD A,(0x0044)      A <= 0x03  0020     0x47,               47               LD B,A             B <= 0x03  0021     0xc5, 0x46          C6 45            ADD A,0x45         A <= 0x45 + 0x03   0023     0x31, 0x44, 0x00    32 44 00         LD (0x0044),A  
+001d     0x39, 0x44, 0x00    3A 44 00  LOOP1: LD A,(0x0044)      A <= 0x03  
+0020     0x47,               47               LD B,A             B <= 0x03  
+0021     0xc5, 0x46          C6 45            ADD A,0x45         A <= 0x45 + 0x03   
+0023     0x31, 0x44, 0x00    32 44 00         LD (0x0044),A  
 0026     0x78,               78               LD A,B  
 0027     0x31, 0x46, 0x00,   32 45 00         LD (0x0045),A  
 002a     0xfd, 0x22,         FE 21            CP 0x21  
@@ -245,7 +248,8 @@ static unsigned char mem[memsize] = {
 003d     0xc1, 0x1e, 0x00,   C2 1D 00         JP NZ,LOOP1  
 0040     0x3d, 0x7d          3E 7E            LD A,0x7e    　　　 下位2ビット入替で7E -> 7D = '}'     
 0042     0x77                77               LD (HL),A   
-0043     0x75,               76               HALT                停止（さすが！）  0044     0x03                03               DB 0x03  
+0043     0x75,               76               HALT                停止（さすが！）  
+0044     0x03                03               DB 0x03  
 0045     0x0b                0B               DB 0x0b  
 0046     0x09,               0A               DB 0x0a
 ```
