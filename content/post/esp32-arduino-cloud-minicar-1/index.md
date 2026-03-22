@@ -5,7 +5,6 @@ slug = 'otafab-esp32-arduino-cloud-minicar-1'
 tags = ["Arduino","ESP32","Otafab","Xiao","電子工作","IoT"]
 categories = ["Electronics"]
 image = 'esp32-arduino-cloud-minicar-1.jpg'
-draft = true
 +++
 
 [おおたfab](https://ot-fb.com/event)さんでは電子工作初心者勉強会を定期的に開催しています。
