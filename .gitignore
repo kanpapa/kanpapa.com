@@ -17,6 +17,18 @@ generate_categories.py
 category_plan.yaml
 add_slug.py
 run.log
+cleanup_tags.py
+detect_broken_code.py
+migrate_categories_v2.py
+migrate_categories_v5.py
+cleanup_tags_v2.py
+level_check.py
+migrate_categories_v3.py
+remove_redundant_tags.py
+cleanup_tags_v3.py
+migrate_categories.py
+migrate_categories_v4_debug.py
+remove_tags_force.py
 
 # 不要データ
 unused_images/
