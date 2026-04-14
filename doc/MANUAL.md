@@ -69,23 +69,35 @@ draft = true
 画像ファイルはWebp形式にするとサイズが小さくなりSEOにも反映されるようです。
 以下のようにしてwebpに変換します。
 
-変換ツールの導入
+#### 変換ツールの導入
 
 ```
 sudo apt-get install webp
 ```
 
-変換方法
+#### 変換方法
+
+横800pxにリサイズし、メタデータを削除(デフォルトは none)する場合
 
 ```
-cwebp test.png -o test.webp
+cwebp -resize 800 0 -metadata none input.jpg -o output.webp
 ```
 
-一括変換の例
+#### 一括変換の例
 
-```
-find . -name "*.jpg" -print -exec cwebp \{\} -o \{\}.webp \;
-```
+* findコマンド
+
+    ```
+    find . -name "*.jpg" -print -exec cwebp \{\} -resize 800 0 -metadata none -o \{\}.webp \;
+    ```
+
+* bash
+
+    ```bash
+    for f in *.jpg; do
+      cwebp -resize 800 0 -metadata none "$f" -o "${f%.*}.webp"
+    done
+    ```
 
 ## 4. YouTube動画の埋め込み
 Hugo標準のショートコードを使用することで、簡単にYouTube動画を埋め込むことができます。
