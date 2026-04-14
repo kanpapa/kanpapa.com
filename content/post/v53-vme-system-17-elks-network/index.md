@@ -254,3 +254,5 @@ ARP Cache Adds         0
 ELKS本体の実装はここでひと段落して、まだ未解明のSIOボード、DINボード、AINボードの解析を進めたいと思います。その解析作業にもこのELKSが役立つはずです。
 
 ![IPネットワークに接続されたV53 VMEシステム](v53-vme-elks-network.jpg)
+
+次の記事：[V53 VMEシステムで遊ぶ #18 SIOボードの解析](/2026/04/v53-vme-system-18-sio-1.html)
