@@ -4,7 +4,7 @@ title = 'V53 VMEシステムで遊ぶ #18 SIOボードの解析'
 slug = 'v53-vme-system-18-sio-1'
 tags = ["V53", "DVE-V53", "VME", "ELKS"]
 categories = ["Retro Computing"]
-image = 'v53-vme-sio-board-1.jpg'
+image = 'v53-vme-sio-board-1.webp'
 +++
 
 [前回](/2026/03/v53-vme-system-17-elks-network.html)は、V53 CPUボードに[ELKS](https://github.com/ghaerr/elks)を載せてSLIPでネットワークに接続しました。これでV53 VMEシステムが本格的に稼働しました。
@@ -14,19 +14,19 @@ image = 'v53-vme-sio-board-1.jpg'
 
 SIOボードの外観です。
 
-![SIOボードの外観](v53-vme-sio-board-1.jpg)
+![SIOボードの外観](v53-vme-sio-board-1.webp)
 
 SIOという名前の通りシリアルIOボードです。4つのコネクタがありますので4回線分と思われます。
 
-![4つのシリアルコネクタ](v53-vme-sio-board-2.jpg)
+![4つのシリアルコネクタ](v53-vme-sio-board-2.webp)
 
 中身をのぞいてみると、なんとV53 CPUが存在します。SIOボードは単なるシリアルIOではなく、このV53が自律的に処理していると思われます。
 
-![V53 CPU](v53-vme-sio-board-v53cpu.jpg)
+![V53 CPU](v53-vme-sio-board-v53cpu.webp)
 
 シリアル通信を行うデバイスはuPD72001というあまり聞いたことがないものでした。
 
-![シリアル通信デバイスuPD72001](v53-vme-sio-board-upd72001.jpg)
+![シリアル通信デバイスuPD72001](v53-vme-sio-board-upd72001.webp)
 
 このデバイスを調べてみると調歩同期だけでなくHDLCなどの高度な通信まで対応しているようです。  
 
@@ -36,7 +36,7 @@ SIOという名前の通りシリアルIOボードです。4つのコネクタ�
 
 ROMにはシールがべったり張り付けられており無理にはがすことはやめました。このためROMの型番は不明なのですが、ROMライターで読んでみたところどうやら27C1024のようです。
 
-![ROMライターの情報](v53-vme-sio-board-rom-type.png)
+![ROMライターの情報](v53-vme-sio-board-rom-type.webp)
 
 実際のバイナリは18000-1A3EFに書かれており、最後の16バイトにはV53のリセットベクタが書き込まれていました。アドレスはF000:8100となっていたので、ROMのアドレスとも一致します。
 
@@ -55,7 +55,7 @@ ROMにはシールがべったり張り付けられており無理にはがす�
 
 このボードのシリアルコネクタはD-SUB15ピンです。D-SUB15ピンといえばX.21が思い当たりますが、シリアルコネクタ近辺には多数のジャンパーピンがあり、コネクタへの接続が柔軟に設定できるように見えます。
 
-![シリアルドライバICとジャンパーピン](v53-vme-sio-board-serial-driver.jpg)
+![シリアルドライバICとジャンパーピン](v53-vme-sio-board-serial-driver.webp)
 
 またシリアルドライバICは2種類あり、1つはRS-422用、もう1つはRS-232C用が搭載されています。これもジャンパー設定で選択できると思われます。
 
@@ -90,10 +90,9 @@ ROMから得られた情報を元にSIOボードのテストプログラムを�
 シリアルポートから連続して"A"を出力するものです。V53の初期設定はROMの内容に沿った形で行いましたが、シリアル通信デバイスの設定がBiSyncだったため、ASyncになるように書き直しました。  
 テスト版のROMを取り付けて、D-SUB15ピンのGND、TXD、RXDをシリアルターミナルに接続して電源を投入したところ、RUN LEDとTX LEDが点灯し、無事シリアルポートに"A"のデータが出力されました。また、ターミナルから連続してキー入力をするとRX LEDも点灯しました。
 
-![RUN/TX/RX LEDが点灯した](v53-vme-sio-board-run-tx-rx-led.jpg)
+![RUN/TX/RX LEDが点灯した](v53-vme-sio-board-run-tx-rx-led.webp)
 
-![ターミナルに出力された"A"の文字](v53-vme-sio-board-hello-world.png)
-
+![ターミナルに出力された"A"の文字](v53-vme-sio-board-hello-world.webp)
 
 ## まとめ
 
