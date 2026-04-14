@@ -65,6 +65,28 @@ draft = true
   * 画像サイズが小さいと拡大表示をしようとしてぼんやりした画像になることがあります。その場合は以下で画像を挿入すると改善されます。
   * Markdown記述: `{{< figure src="gazou.png" width="467px" height="285px" caption="説明">}}`
 
+### 3.1 Webpの適用
+画像ファイルはWebp形式にするとサイズが小さくなりSEOにも反映されるようです。
+以下のようにしてwebpに変換します。
+
+変換ツールの導入
+
+```
+sudo apt-get install webp
+```
+
+変換方法
+
+```
+cwebp test.png -o test.webp
+```
+
+一括変換の例
+
+```
+find . -name "*.jpg" -print -exec cwebp \{\} -o \{\}.webp \;
+```
+
 ## 4. YouTube動画の埋め込み
 Hugo標準のショートコードを使用することで、簡単にYouTube動画を埋め込むことができます。
 HTMLのiframeタグを直接書くよりも、スマホ表示などで崩れにくいため推奨されます。
