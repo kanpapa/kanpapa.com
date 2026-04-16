@@ -55,6 +55,8 @@ services:
     # GA Tracking ID
     googleAnalytics:
         id: G-2PLD7SF0FC
+    rss:
+        limit: 20
 
 pagination:
     pagerSize: 6
@@ -224,9 +226,9 @@ params:
 
     imageProcessing:
         cover:
-            enabled: true
+            enabled: false
         content:
-            enabled: true
+            enabled: false
 
 ### Custom menu
 ### See https://stack.jimmycai.com/config/menu
@@ -287,4 +289,13 @@ markup:
         lineNos: false
         lineNumbersInTable: true
         tabWidth: 4
+
+imaging:
+  resampleFilter: lanczos
+  quality: 60                # 75から60に下げる（見た目はほぼ変わりませんが軽量化に効きます）
+  hint: photo                # エラー修正：webpではなくphotoを指定
+
+build:
+  renderUnusedResources: false
+  useResourceCacheWhenPossible: true
 
