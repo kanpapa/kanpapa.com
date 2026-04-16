@@ -8,17 +8,7 @@ tags: []
 image: "images/mac_mini_1st.jpg"
 ---
 
-<figure>
-
-![mac_mini_1st.jpg](images/mac_mini_1st.jpg)
-
-<figcaption>
-
-これまで活躍したWindowsPCの上にちょこんと載ったMac mini
-
-</figcaption>
-
-</figure>
+![これまで活躍したWindowsPCの上にちょこんと載ったMac mini](images/mac_mini_1st.jpg)
 
 　Mac miniが到着した日、手持ちの14インチの液晶ディスプレイとWindowsノートで使っていた小さなマウスと、すでに買っておいたApple純正キーボードを接続して電源をいれました。画面にはぼや〜っとした文字が表示されていました。なんでこんなにぼや〜っとした表示なんだ壊れてるのか？　とシステム環境設定のディスプレイで解像度を確認したところ、1024×768の解像度になっていなかったためでした。正しい解像度に設定したところ問題なく表示されて一安心です。
 

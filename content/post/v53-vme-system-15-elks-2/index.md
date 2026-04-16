@@ -59,7 +59,7 @@ image = 'v53-vme-monitor-rom.jpg'
 
 ROMモニタの書き換えが完了しバージョン0.1が0.2になりました。
 
-{{< figure src="v53-rom-monitor-v02.png" width="467px" height="285px" caption="新しいROMモニタ v0.2">}}
+![新しいROMモニタ v0.2](v53-rom-monitor-v02.png)
 
 これで64KBを超えるELKSのimage.hexとromfs.hexの読み込みがROMモニタでもできるようになりました。
 
@@ -67,11 +67,11 @@ ROMモニタの書き換えが完了しバージョン0.1が0.2になりまし�
 
 V53版ELKSはソースコードの大幅な修正を行ったので、やはり一発では動きません。これまでと同様にprintk()を使いながらデバッグを進めました。
 
-{{< figure src="v53-vme-elks-2-debug.png" width="659px" height="438px" caption="デバッグ中の画面">}}
+![デバッグ中の画面](v53-vme-elks-2-debug.png)
 
 ほぼ動作するようになったところでデバッグ表示を削除しました。
 
-{{< figure src="v53-vme-elks-2-v53-startup.png" width="659px" height="438px" caption="V53版ELKSの起動画面">}}
+![V53版ELKSの起動画面](v53-vme-elks-2-v53-startup.png)
 
 ConsoleはV53 SCUと表示され、NECV53 machineと表示されています。
 

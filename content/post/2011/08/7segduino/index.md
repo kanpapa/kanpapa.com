@@ -35,17 +35,7 @@ JP1(Sparkfun FTDIアダプタ)　CN2(秋月FTDIモジュール）
 なお、秋月のFTDIモジュールのJ2はショート（USBから電源）、J1は2-3ショート(5V)とします。  
 実際に接続するとこのようになります。
 
-<figure>
-
 ![](images/7segduino_3.jpg)
-
-<figcaption>
-
-OLYMPUS DIGITAL CAMERA
-
-</figcaption>
-
-</figure>
 
 この状態でiMacのUSBに接続したあとに、Arduino IDEを起動しLilypad Arduino 328とすることで、スケッチのアップロードもできました。  
 サンプルプログラムを動かしてみました。

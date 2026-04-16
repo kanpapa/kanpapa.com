@@ -11,17 +11,7 @@ image: "images/microbit_motor_tamiya1.jpg"
 
 [micro:bitでモーターを制御](https://kanpapa.com/2017/08/microbit-motor-driver.html "micro:bitでモーターを動かしてみた")できることを確認しましたが、この[モータードライバ](https://www.switch-science.com/catalog/3229/ "micro:bit用モータードライバ V2")はモーターを2つ接続することができます。モーターが2つといえばタミヤのキャタピラー車です。早速、タミヤのキャタピラー車にmicro:bitのモータードライバを実装してみました。
 
-<figure>
-
 ![](images/microbit_motor_tamiya1.jpg)
-
-<figcaption>
-
-dav
-
-</figcaption>
-
-</figure>
 
 モータードライバ基板の取り付け穴とタミヤのプレートの穴は若干ずれますのでリーマーと棒やすりでプレートの穴を少し広げて取り付けました。電池ボックスは適当に針金でくくりつけています。
 

@@ -23,28 +23,8 @@ iPhone 4のアクティベーションができるようになるまでに、保
 
 次はケースです。iPhone 3Gで使っていたbuzzhouse designさんの[ハンドメイドフェルトケース](http://www.buzz-house.com/iphone.html)が、iPhone 4でそのまま使えるかという不安があったのですが、buzzhouse designさんに問い合わせたところ、「生地や縫い目が馴染んでいるので、恐らくお使いのケースにiPhone4を入れるとぴったり位かと思います。」という回答通り本当にピッタリでした。慣れているケースがそのまま使い続けられるので良かったです。
 
-<figure>
-
 ![](images/iphone4_case.jpg)
-
-<figcaption>
-
-OLYMPUS DIGITAL CAMERA
-
-</figcaption>
-
-</figure>
 
 さて、準備は整いました。のんびり充電をしながら、電話機の切り替えができる9時を待つことにします。とりあえず記念写真。
 
-<figure>
-
 ![](images/iphone4_zero3.jpg)
-
-<figcaption>
-
-OLYMPUS DIGITAL CAMERA
-
-</figcaption>
-
-</figure>

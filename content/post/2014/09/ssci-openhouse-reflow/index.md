@@ -54,16 +54,6 @@ image: "images/ssci_reflow8.jpg"
 
 ちなみに、スイッチサイエンスさんではチップパーツの取り付けはこんな機械で行っていました。すごいですね。
 
-<figure>
-
 ![](images/ssci_reflow9.jpg)
-
-<figcaption>
-
-OLYMPUS DIGITAL CAMERA
-
-</figcaption>
-
-</figure>
 
 貴重な体験をさせていただいたスイッチサイエンスさんに感謝です。

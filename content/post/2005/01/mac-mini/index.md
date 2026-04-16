@@ -16,14 +16,4 @@ Mac MiniをApple Storeでオーダー中です。
 さあ、いつ到着しても準備万端！  
 SE/30, PowerBook140, PowerMac PHX(7500+G3改造) に続くひさびさのMacです。
 
-<figure>
-
-![](images/apple_keyboard.jpg)
-
-<figcaption>
-
-Mac Miniの到着を待つAppleキーボード君
-
-</figcaption>
-
-</figure>
+![Mac Miniの到着を待つAppleキーボード君](images/apple_keyboard.jpg)

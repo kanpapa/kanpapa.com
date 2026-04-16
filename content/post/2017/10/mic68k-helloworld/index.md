@@ -122,17 +122,7 @@ PECKER-11にEPROMを２個セットして書き込みます。間違えないよ
 
 書き込んだEPROMをMIC68Kに取り付け、シリアルポートにターミナルを接続し、電源を投入してリセットをしたところ・・・
 
-<figure>
-
 ![](images/mic68k_helloworld.jpg)
-
-<figcaption>
-
-dav
-
-</figcaption>
-
-</figure>
 
 見事に「HELLO WORLD」の文字が表示されました！
 

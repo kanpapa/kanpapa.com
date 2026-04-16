@@ -31,17 +31,7 @@ mbed拡張ボードの拡大写真。配線はほんの少しです。
 
 Pololu 3pi robotとの接続コネクタはこのようになっています。
 
-<figure>
-
 ![](images/m3pi_5.jpg)
-
-<figcaption>
-
-OLYMPUS DIGITAL CAMERA
-
-</figcaption>
-
-</figure>
 
 MTM06に間に合わせるために急いで拡張基板のハンダ付けを行い、3piのATmega328Pに[serial slaveプログラム](http://www.pololu.com/docs/0J21/10.a)を書き込み、[m3pi_HelloWorld](http://mbed.org/users/chris/programs/m3pi_HelloWorld/lhnzxb/docs/main_8cpp_source.html)のサンプルプログラムをコンパイルしてmbedに転送すると、あっさり動いてしまいました。
 

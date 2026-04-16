@@ -27,18 +27,7 @@ DSO nanoをようやく開封しました。
 
 とりあえず、KORG DS-10というソフトウェアシンセの出力を接続してみました。VCOの波形を三角波にして表示してみます。
 
-<figure>
-
 ![](images/dsonano6.jpg)
-
-<figcaption>
-
-OLYMPUS DIGITAL CAMERA
-
-</figcaption>
-
-</figure>
-
   
 動作は問題なさそうなので、裏蓋を貼付けることにしました。
 

@@ -18,31 +18,12 @@ image: "images/7segduino_pressure_front.jpg"
 
 表面
 
-<figure>
-
 ![](images/pressure_board_front.jpg)
-
-<figcaption>
-
-OLYMPUS DIGITAL CAMERA
-
-</figcaption>
-
-</figure>
 
 裏面
 
-<figure>
-
 ![](images/pressure_board_back.jpg)
 
-<figcaption>
-
-OLYMPUS DIGITAL CAMERA
-
-</figcaption>
-
-</figure>
 
 7segduinoに取り付けるとこんな感じです。
 
