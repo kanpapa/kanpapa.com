@@ -3,8 +3,8 @@ title: "MINDSTORMS NXTが来ました！"
 date: 2006-10-15
 slug: "mindstorms-nxt"
 categories:
-  - "Event"
-tags: []
+  - "Robot"
+tags: ["LEGO","MINDSTORMS"]
 image: "images/mindstorms-nxt_20061016232610.jpg"
 ---
 

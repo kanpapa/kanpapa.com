@@ -3,8 +3,8 @@ title: "MINDSTORMS NXTで遊ぶ"
 date: 2008-12-13
 slug: "mindstorms-nxt-robot"
 categories:
-  - "Event"
-tags: []
+  - "Robot"
+tags: ["LEGO","MINDSTORMS"]
 ---
 
 ひさしぶりにMINDSTORMS NXTをひっぱりだしてきました。二足歩行ロボを組み立てて実験開始です。
