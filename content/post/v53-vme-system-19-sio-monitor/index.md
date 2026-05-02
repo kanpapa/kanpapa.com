@@ -93,3 +93,5 @@ V53 CPUが2つ同時に動いている状態です。
 https://github.com/kanpapa/VMEbus-V53
 
 このSIOボードをどのように活用するかはまだはっきりしませんが、まだ機能が判明していないIOアドレスが存在しますので、IOスキャンを行ってみて、もう少し機能を探ってみようと思います。
+
+次の記事：[V53 VMEシステムで遊ぶ #20 SIOボードとCPUボードを連携する](/2026/04/v53-vme-system-20-sio-cpu-handshake.html)
