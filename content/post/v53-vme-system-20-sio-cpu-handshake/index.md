@@ -119,7 +119,21 @@ Scanning I/O (Press any key to abort)...
 
 確定ではありませんが、以下の図のような仕様ではないかと思われます。
 
-![外部ボード通信用レジスタ](v53-vme-system-20-sio-cpu-handshake-regster.jpg)
+```
+        1300h              0080h        
+┌──────┐     ┌────────────┐     ┌──────┐
+│      │WRITE│ REGISTER-A │READ │      │
+│      │────>│  CPU->SIO  │────>│      │
+│      │     └────────────┘     │      │
+│ CPU  │                        │ SIO  │
+│ V53  │                        │ V53  │
+│      │                        │      │
+│      │     ┌────────────┐     │      │
+│      │READ │ REGISTER-B │WRITE│      │
+│      │<────│  CPU<-SIO  │<────│      │
+└──────┘     └────────────┘     └──────┘
+                                        
+```
 
 * レジスタA-レジスタBのD0～D5は書き込んだ値がそのまま見える
 * レジスタAのD7はSIOボードのBUSY LEDのON/OFFに対応
