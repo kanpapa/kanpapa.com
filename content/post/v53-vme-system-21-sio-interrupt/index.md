@@ -5,7 +5,6 @@ slug = 'v53-vme-system-21-sio-interrupt'
 tags = ["V53", "DVE-V53", "VME", "uPD72001"]
 categories = ["Retro Computing"]
 image = 'v53-vme-system-21-sio-interrupt.jpg'
-draft = true
 +++
 
 [前回](/2026/04/v53-vme-system-20-sio-cpu-handshake.html)は、V53搭載のSIOボードのIOポートについて調べました。今回は割り込みハンドラの動作確認を行い、モニタで割り込み機能を使用したシリアル入出力ルーチンを実装します。
