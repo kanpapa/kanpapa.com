@@ -280,3 +280,5 @@ Messengerウイジェットをクリックすると、`Link Variable`ボタン�
 
 これまでOLEDに表示されていた情報がスマホで簡単に見ることができるようになりました。
 次はスマホからミニカーを制御してみます。
+
+次の記事：[ESP32ミニカーをArduino Cloudで動かす #2（おおたfab 電子工作初心者勉強会 第44回）](/2026/05/otafab-esp32-arduino-cloud-minicar-2.html)
