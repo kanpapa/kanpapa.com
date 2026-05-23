@@ -2,7 +2,7 @@
 date = '2026-04-12T12:40:07+09:00'
 title = 'V53 VMEシステムで遊ぶ #18 SIOボードの解析'
 slug = 'v53-vme-system-18-sio-1'
-tags = ["V53", "DVE-V53", "VME", "ELKS"]
+tags = ["V53", "DVE-V53", "VME", "uPD72001"]
 categories = ["Retro Computing"]
 image = 'v53-vme-sio-board-1.webp'
 +++
