@@ -5,7 +5,6 @@ slug = 'v53-vme-system-22-sio-elks-1'
 tags = ["V53", "DVE-V53", "VME", "uPD72001", "ELKS"]
 categories = ["Retro Computing"]
 image = 'v53-vme-system-sio-elks-login1.png'
-draft = true
 +++
 
 [前回](/2026/05/v53-vme-system-21-sio-interrupt.html)は、V53搭載のSIO VMEボードで割り込み機能の確認をおこないました。今回は8086系の組み込み向けLinuxである[ELKS](https://github.com/ghaerr/elks)をこのSIO VMEボードで動かしてみます。
