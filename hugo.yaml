@@ -1,5 +1,5 @@
 baseurl: https://kanpapa.com/
-languageCode: ja 
+locale: ja 
 theme: hugo-theme-stack
 title: きょうのかんぱぱ
 copyright: kanpapa.com
@@ -16,7 +16,7 @@ hasCJKLanguage: true
 
 languages:
     ja:
-        languageName: Japanese
+        label: Japanese
         title: きょうのかんぱぱ
         weight: 1
         params:
@@ -90,10 +90,7 @@ params:
     sidebar:
     #    emoji: 🍥
         subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-        avatar:
-            enabled: true
-            local: true
-            src: img/avatar.png
+        avatar: "img/avatar.png"
 
     article:
         math: false
