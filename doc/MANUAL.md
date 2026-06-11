@@ -13,6 +13,17 @@ cd ~/kanpapa.com
 git pull origin main
 ```
 
+テーマをsubmoduleにしている場合
+
+```bash
+# submoduleの取得
+git submodule init
+git submodule update
+
+# submoduleの更新
+git submodule update --remote
+```
+
 ## 1. 記事ファイルの作成
 Hugoのコマンドを使用して、記事の雛形（Markdownファイル）を生成します。
 
