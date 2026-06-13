@@ -1,6 +1,5 @@
 +++
 date = '2026-06-12T10:12:56+09:00'
-draft = true
 title = 'DEC AXPvme230で遊ぶ #2 Breakoutボードの設計'
 slug = 'axpvme-vme-2'
 tags = ["DEC", "AXPvme", "VME", "Alpha-CPU"]
