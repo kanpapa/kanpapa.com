@@ -83,7 +83,7 @@ CPUの放熱フィンの下にCPUパッケージが少し見えていて大き�
 |機能|部品番号|仕様|
 |:--|:--|:--|
 |CPU|54-24120-01|6U VME AXP CPU 230(Alpha 21066 233 MHz)|    
-|RAM|54-22625-DA|VME SBC 64 MB MEMORY|
+|RAM|54-22625-01|VME SBC 64 MB MEMORY|
 |Network|DE520-AA|Fast EtherWORKS/PMCAdapter(10/100BASE-T)|
 |SCSI|-|P2コネクタ経由で接続可能|
 
@@ -92,3 +92,5 @@ CPUの放熱フィンの下にCPUパッケージが少し見えていて大き�
 今回、AXPvme230ボードの実機を入手して外観からボードの仕様を確認しました。レガシーなVMEボードですので実際に動作させるためにはいくつかの課題が見つかりましたが、１つずつ問題をつぶしていくことにします。
 
 最終的な目標としては[NetBSD/alpha](https://wiki.netbsd.org/ports/alpha/)や[OpenVMS alpha](https://www.openvmshobby.com/alpha-vms/)などを動作させてみたいと考えています。
+
+次の記事：[DEC AXPvme230で遊ぶ #2 Breakoutボードの設計](/2026/06/axpvme-vme-2.html)
