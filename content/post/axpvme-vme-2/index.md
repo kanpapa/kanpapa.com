@@ -2,7 +2,7 @@
 date = '2026-06-12T10:12:56+09:00'
 title = 'DEC AXPvme230で遊ぶ #2 Breakoutボードの設計'
 slug = 'axpvme-vme-2'
-tags = ["DEC", "AXPvme", "VME", "Alpha-CPU"]
+tags = ["DEC", "AXPvme", "VME", "DECAlpha", "AlphaAXP"]
 categories = ["Retro Computing"]
 image = 'axpvme230_p2_breakout_board_3d.jpg'
 +++
