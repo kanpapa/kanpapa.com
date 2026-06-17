@@ -3,10 +3,10 @@ title: SECCON 2017 Online CTF のWrite-upをまとめました
 date: 2017-12-10
 slug: seccon-ctf-2017-online-write-up
 categories:
-  - "Server"
-tags:
-  - "Seccon"
   - "Security"
+tags:
+  - "SECCON"
+  - "CTF"
 image: images/seccon-ctf-2017-1.png
 ---
 

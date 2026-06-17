@@ -3,10 +3,9 @@ title: CISAの試験に合格しました
 date: 2021-03-27
 slug: cisa-exam-pass
 categories:
-  - "Server"
+  - "Security"
 tags:
   - "Cisa"
-  - "Security"
 image: images/cisa_exam_pass1.jpeg
 ---
 

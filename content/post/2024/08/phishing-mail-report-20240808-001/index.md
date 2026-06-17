@@ -3,10 +3,9 @@ title: 久しぶりにフィッシングメールが来た
 date: 2024-08-09
 slug: phishing-mail-report-20240808-001
 categories:
-  - "Server"
+  - "Security"
 tags:
   - "Phishing"
-  - "Security"
 image: images/phishing-mail-report-20240808-001.png
 ---
 

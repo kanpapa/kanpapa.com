@@ -3,9 +3,10 @@ title: SECCON 2014 CTFに初めて参加しました
 date: 2014-07-21
 slug: seccon-2014-ctf
 categories:
-  - "Server"
-tags:
   - "Security"
+tags:
+  - "SECCON"
+  - "CTF"
 image: images/WS000000.jpg
 ---
 

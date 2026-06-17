@@ -3,9 +3,10 @@ title: SECCON 2015 Online CTFのWrite-upをまとめました
 date: 2015-12-06
 slug: seccon-ctf-2015-online-write-up
 categories:
-  - "Server"
-tags:
   - "Security"
+tags:
+  - "SECCON"
+  - "CTF"
 image: images/entry_form1.png
 ---
 

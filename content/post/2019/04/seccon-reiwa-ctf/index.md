@@ -3,10 +3,10 @@ title: SECCON 令和CTFのWrite-upをまとめました
 date: 2019-04-30
 slug: seccon-reiwa-ctf
 categories:
-  - "Server"
-tags:
-  - "Seccon"
   - "Security"
+tags:
+  - "SECCON"
+  - "CTF"
 image: images/reiwa_ctf_cat.jpg
 ---
 

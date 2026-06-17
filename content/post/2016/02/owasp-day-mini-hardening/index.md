@@ -3,10 +3,11 @@ title: OWASP DAYのMini Hardeningに参加してみた
 date: 2016-02-28
 slug: owasp-day-mini-hardening
 categories:
-  - "Server"
+  - "Security"
 image: images/mini_hardening.png
 tags:
-  - "Security"
+  - "OWASP"
+  - "Hardening"
 ---
 
 OWASP DAY in TOKYO 2016 Spring!!でMini Hardeningがあるということで申し込みをしたところ、運良く参加することができました。

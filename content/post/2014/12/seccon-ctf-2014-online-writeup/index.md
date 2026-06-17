@@ -3,9 +3,10 @@ title: SECCON 2014 online CTF 予選のWrite-upをまとめました
 date: 2014-12-07
 slug: seccon-ctf-2014-online-writeup
 categories:
-  - "Server"
-tags:
   - "Security"
+tags:
+  - "SECCON"
+  - "CTF"
 image: images/ucom82_manual.jpg
 ---
 

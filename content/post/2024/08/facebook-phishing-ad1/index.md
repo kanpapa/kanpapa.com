@@ -3,10 +3,9 @@ title: Facebookのフィッシング広告
 date: 2024-08-13
 slug: facebook-phishing-ad1
 categories:
-  - "Server"
+  - "Security"
 tags:
   - "Phishing"
-  - "Security"
 image: images/facebook-phishing-ad-2024-08-12-181410-1.png
 ---
 
