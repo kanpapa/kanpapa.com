@@ -112,3 +112,5 @@ AXPvme230用のDual-slot breakout moduleはTechnical Descriptionドキュメン�
 ## まとめ
 
 今回はAXMvme230用のブレイクアウトボードの設計と基板の発注まで行いました。次回は到着した基板を組み立てていよいよAXPvme230ボードに電源を投入してみます。
+
+次の記事：[DEC AXPvme230で遊ぶ #3 AXPvme230の起動確認](/2026/06/axpvme-vme-3.html)
