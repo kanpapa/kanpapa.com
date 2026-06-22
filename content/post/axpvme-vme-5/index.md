@@ -38,7 +38,7 @@ The AXPvme breakout modules provide the following functions:
 * Connection to manufacturing test port　→ SROM関係のピンと思われる
 * External VME Master Selector Pin (AXPvme 66, AXPvme 100, and AXPvme231 modules only) → VME_Master_SW Lと思われる
 
-## 第一世代と第二世代の違い
+## 第１世代と第２世代の違い
 
 情報を集めているうちにAXPvmeのモデルは第１世代と第２世代があることがわかりました。CPUがアップデートされています。
 
@@ -51,7 +51,7 @@ The AXPvme breakout modules provide the following functions:
 |AXPvme166|21066A|Gen2|1995?|Dual|54-22621-01|M_Sense H|VME_Master_SW L(?)|
 |AXPvme230|21066A|Gen2|1995?|Dual|54-22621-01|M_Sense H|VME_Master_SW L|
 
-ブレークアウトボードは第１世代も第２世代も同じものを使うため、P2ピンの仕様は同じはずなのですが、第１世代と第２世代でP2ピンの仕様が変更されていている可能性も無いとは言い切れません。これがピン仕様のブレの原因かもしれません。
+ブレークアウトボードは第１世代も第２世代も同じものを使うため、P2ピンの仕様は同じはずなのですが、第１世代と第２世代でP2ピンの仕様が変更されている可能性も無いとは言い切れません。これがピン仕様のブレの原因かもしれません。
 
 ## 怪しいピンの調査
 
