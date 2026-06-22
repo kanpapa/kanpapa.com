@@ -57,39 +57,43 @@ The AXPvme breakout modules provide the following functions:
 
 不用意にピンに5VやGNDに接続してボード本体を壊すわけにはいきません。まずは現在の電圧を確認しました。
 
-|Pin|機能|測定電圧|
+|Pin|機能|測定電圧(DM40Aで測定)|
 |:--|:--|:--|
-|C14|Ext_Reset L|5V|
-|C15|Tmr2_Ext_Op L|4.4V|
-|C16|Tmr1_Ext_Op L|4.4V|
-|C17|Tmr_Minor_Ip L|4.8V|
-|C18|Tmr_Major_Ip L|4.8V|
-|C19|M_Sense H|不定|
-|C20|Port_Enb H|3.3V|
-|C21|Tx_Data H|3.3V|
-|C22|Gnd|0V |	
-|C23|VME_Master_SW L|Low|
+|C14|Ext_Reset L|4.852V|
+|C15|Tmr2_Ext_Op L|4.758V|
+|C16|Tmr1_Ext_Op L|4.758V|
+|C17|Tmr_Minor_Ip L|4.852V|
+|C18|Tmr_Major_Ip L|4.843V|
+|C19|M_Sense H|0V付近で不定|
+|C20|Port_Enb H|3.3054V|
+|C21|Tx_Data H|3.3053V|
+|C22|Gnd|0.0029V|	
+|C23|VME_Master_SW L|0.0071V|
 
 * C14はプルダウンするとリセットすることを確認していますので、ここは関係ありません。
 * C15～C18のタイマー系はHIGHになっています。ここも関係ないでしょう。
-* C20～C21のMROM系は3.3Vの電圧が出ているようです。ここも関係ないので触らないことにします。
+* C20～C21のSROM系は3.3Vの電圧が出ているようです。ここも関係ないので触らないことにします。
 * C19の`M_Sense`は浮いているような気配です。0V近辺でふらふらしています。ここは怪しいです。
 * C23の`VME_Master_SW`はLowを示しています。もともと負論理ですので正常な状態かもしれません。ここも触らないことにします。
 
 一番疑わしいのは`M_Sense H`です。Breakout Module Senseの略なのかなとも思い、ここに10KΩの抵抗でプルアップしてHIGHにしてみました。しかしこの状態で再起動しても残念ながら全く変化はありませんでした。
 
 他に疑わしいピンといえば`VME_Master_SW L`しかありません。この機能はドキュメントにも存在することが明記されていたので、ここを触るとVME SLAVEに切り替わってしまうのではと不安に思ったのですが、思い切ってHIGHにプルアップしてみました。
+
 この状態で再起動したところ、`Breakout module test`のエラーは出なくなりました。
 
 ![POSTが順調に進みMが表示されているLED](axpvme230-front-panel-led-m.jpg)
 
 今は`M_Sense`と`VME_Master_SW`の両方をプルアップしている状態なので、`M_Sense`のプルアップを外しOPENにして再起動したところ、`Breakout module test`のエラーは発生しません。結局 C23のピンだけをプルアップするだけで良いことがわかりました。
 
+![P2 C23をプルアップしている状態](axpvme230-p2-c23-pullup.jpg)
+
 ## 残った謎
 
 この結果から若干の謎は残ります。
 * ドキュメントやピン配置に書かれていたVME_Master_SWのピンはどこにあるのか？
 * M_Senseの役割は何なのか。このピンはどうしておくべきなのか？
+
 この２点の疑問は残ったままですが、これらはissueに挙げておくことにして先に進みたいと思います。
 
 ## まとめ
