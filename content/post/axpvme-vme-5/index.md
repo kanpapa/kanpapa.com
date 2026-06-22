@@ -1,6 +1,5 @@
 +++
 date = '2026-06-22T07:38:49+09:00'
-draft = true
 title = 'DEC AXPvme230で遊ぶ #5 Breakout moduleエラーを攻略する'
 slug = 'axpvme-vme-5'
 tags = ["DEC", "AXPvme", "VME", "DECAlpha", "AlphaAXP"]
