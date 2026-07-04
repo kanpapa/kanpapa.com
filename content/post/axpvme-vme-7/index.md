@@ -8,11 +8,11 @@ image = 'axpvme-netbsd-workbench-photo.jpg'
 +++
 
 [前回](/2026/06/axpvme-vme-6.html)はネットワークブートの環境構築を行いましたが、カーネルがAXPvmeをサポートしておらずポーティングが必要なことがわかりました。  
-NetBSD/Alphaでは多数のAlpha搭載機種がサポートされていますので、これらのコードやAXPvme Tecnical Descriptonなどの公式ドキュメントを参考に生成AIに手伝ってもらってNetBSD/alphaが動くようにします。
+[NetBSD/alpha](https://wiki.netbsd.org/ports/alpha/)では多数のalpha搭載機種がサポートされていますので、これらのコードやAXPvme Tecnical Descriptonなどの公式ドキュメントを参考に生成AIに手伝ってもらってNetBSD/alphaが動くようにします。
 
 ## AXPvmeでのOS起動の流れ
 
-DEC Alphaは64bit RISCプロセッサであり、これまで経験してきたm68kやV53とは仕組みが大きく異なります。PALcodeやSROMなど耳慣れないキーワードもあり単純ではありません。  
+DEC alphaは64bit RISCプロセッサであり、これまで経験してきたm68kやV53とは仕組みが大きく異なります。PALcodeやSROMなど耳慣れないキーワードもあり単純ではありません。  
 前回のネットワークブートの起動時にも気になるバージョン表示がたくさんありました。
 
 ```
@@ -32,7 +32,7 @@ Digital AXPvme Model 230 Common Console V17.0-0
 
 ## 生成AIの活用
 
-最初にAlphaアーキテクチャやAXPvmeのマニュアルを集めて[NotebookLM](https://notebooklm.google.com/)に登録しました。これでAXPvmeに関する強力な知識データベースができました。
+最初にalphaアーキテクチャやAXPvmeのマニュアルを集めて[NotebookLM](https://notebooklm.google.com/)に登録しました。これでAXPvmeに関する強力な知識データベースができました。
 あとは作業用のブランチを作成し、ソースコードを見ながら、他の機種の情報を参考にして[Gemini](https://gemini.google.com/)や[Claude](https://claude.ai/)の無料枠の範囲で利用しながらコードを書き換えて行く方法で進めてみました。
 その結果ある程度は動作するようになったのですが起動途中でハングアップしてしまいます。
 
@@ -112,7 +112,7 @@ Claude Codeが作成したドキュメントもコミットしていますので
 * [DEC AXPvme 230 NetBSD/alpha テストガイド](https://github.com/kanpapa/src/blob/axpvme-v2/test_guide.md)
 * [AXPvme 230 ポーティング開発ジャーナル](https://github.com/kanpapa/src/blob/axpvme-v2/journal.md)
 
-これらを見るとわかりますが、Clade Codeは本当にすごい力を秘めていると思います。ただし任せきりにすると想定外の方向に突き進むこともあるので、適切な情報を与えながらターゲットに向かってプロンプトを与えて微調整していくことが必要だと感じました。
+これらを見るとわかりますが、Clade Codeは本当にすごい力を秘めていると思います。ただし任せきりにすると想定外の方向に突き進むこともあるので、正確な情報と適切なプロンプトを与えることでターゲットに向かって正しい方向に突き進めるように手助けすることが必要だと感じました。
 
 ## まとめ
 
