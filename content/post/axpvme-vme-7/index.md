@@ -32,7 +32,7 @@ Digital AXPvme Model 230 Common Console V17.0-0
 
 ## 生成AIの活用
 
-最初にAplhaアーキテクチャやAXPvmeのマニュアルを集めて[NotebookLM](https://notebooklm.google.com/)に登録しました。これでAXPvmeに関する強力な知識データベースができました。
+最初にAlphaアーキテクチャやAXPvmeのマニュアルを集めて[NotebookLM](https://notebooklm.google.com/)に登録しました。これでAXPvmeに関する強力な知識データベースができました。
 あとは作業用のブランチを作成し、ソースコードを見ながら、他の機種の情報を参考にして[Gemini](https://gemini.google.com/)や[Claude](https://claude.ai/)の無料枠の範囲で利用しながらコードを書き換えて行く方法で進めてみました。
 その結果ある程度は動作するようになったのですが起動途中でハングアップしてしまいます。
 
@@ -40,7 +40,7 @@ Digital AXPvme Model 230 Common Console V17.0-0
 
 ここまでたどり着くためにはソースコードの一部を抜き出してClaudeやGeminiに貼り付けたり、NotebookLMの結果を貼り付けたりなど、かなりの手間がかかることもわかりました。
 
-## Clade Codeを導入(6月25日)
+## Claude Codeを導入(6月25日)
 
 ここでブランチを新規作成して、[Claude Code](https://claude.com/ja/product/claude-code)を使ってみることにしました。有料にはなりますが、まだ使ったことが無く何がどの程度できるのかを体験する良い機会と考えました。今回はVSCodeで作業しましたが、カーネルのソースコードにClaude Codeが直接アクセスできるため、作業の効率が格段によくなり、あっという間にカーネルが動き始めました。
 
@@ -112,7 +112,7 @@ Claude Codeが作成したドキュメントもコミットしていますので
 * [DEC AXPvme 230 NetBSD/alpha テストガイド](https://github.com/kanpapa/src/blob/axpvme-v2/test_guide.md)
 * [AXPvme 230 ポーティング開発ジャーナル](https://github.com/kanpapa/src/blob/axpvme-v2/journal.md)
 
-これらを見るとわかりますが、Clade Codeは本当にすごい力を秘めていると思います。
+これらを見るとわかりますが、Clade Codeは本当にすごい力を秘めていると思います。ただし任せきりにすると想定外の方向に突き進むこともあるので、適切な情報を与えながらターゲットに向かってプロンプトを与えて微調整していくことが必要だと感じました。
 
 ## まとめ
 
