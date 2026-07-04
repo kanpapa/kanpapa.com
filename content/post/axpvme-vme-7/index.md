@@ -46,13 +46,13 @@ Digital AXPvme Model 230 Common Console V17.0-0
 
 ![動き出したNetBSDカーネル](axpvme-netbsd-porting-2.png)
 
-途中でハードウェアの情報も確認しながら作業を進められるように、Tecnical DescriptionのPDFもコードツリーに入れて、それも参照しながらポーティングを進め、ついにrootファイルシステムのNFS mountの直前まで動かすことができました。
+途中でハードウェアの情報も確認しながら作業を進められるように、Technical DescriptionのPDFもコードツリーに入れて、それも参照しながらポーティングを進め、ついにrootファイルシステムのNFS mountの直前まで動かすことができました。
 
 ![rootのmountで停止したカーネル](axpvme-netbsd-porting-3.png)
 
 ## NICとの通信ができない(6月28日)
 
-NICからの割り込みがどうしてもCPUに届かないため方針を変更してポーリング方式に変更したところエラーメッセージも無くなり通信できるようになりました。tcpdumpのログからも正常にNFS mountができているように見受けられました。
+NICからの割り込みがどうしてもCPUに届かないため、処理をポーリング方式へと切り替えたところ、エラーメッセージも無くなり通信できるようになりました。tcpdumpのログからも正常にNFS mountができているように見受けられました。
 
 ![rootのmountが完了したカーネル](axpvme-netbsd-porting-4.png)
 
@@ -104,7 +104,7 @@ mountしているファイルシステムの設定ファイルを調整し、ssh
 
 ポーティングしたソースコードはGitHubにいれておきました。axpvme-v2ブランチで作業しています。
 
-* https://github.com/kanpapa/src
+* https://github.com/kanpapa/src/tree/axpvme-v2
 
 Claude Codeが作成したドキュメントもコミットしていますので参考にしてください。
 
@@ -112,7 +112,7 @@ Claude Codeが作成したドキュメントもコミットしていますので
 * [DEC AXPvme 230 NetBSD/alpha テストガイド](https://github.com/kanpapa/src/blob/axpvme-v2/test_guide.md)
 * [AXPvme 230 ポーティング開発ジャーナル](https://github.com/kanpapa/src/blob/axpvme-v2/journal.md)
 
-これらを見るとわかりますが、Clade Codeは本当にすごい力を秘めていると思います。ただし任せきりにすると想定外の方向に突き進むこともあるので、正確な情報と適切なプロンプトを与えることでターゲットに向かって正しい方向に突き進めるように手助けすることが必要だと感じました。
+これらを見るとわかりますが、Claude Codeは本当にすごい力を秘めていると思います。ただし任せきりにすると想定外の方向に突き進むこともあるので、正確な情報と適切なプロンプトを与えることでターゲットに向かって正しい方向に突き進めるように手助けすることが必要だと感じました。
 
 ## まとめ
 
