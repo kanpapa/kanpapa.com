@@ -7,8 +7,8 @@ categories = ["Retro Computing"]
 image = 'axpvme-netbsd-workbench-photo.jpg'
 +++
 
-[前回](/2026/06/axpvme-vme-6.html)はネットワークブートの環境構築を行いましたが、カーネルがAXPvmeをサポートしておらずポーティングが必要なことがわかりました。  
-[NetBSD/alpha](https://wiki.netbsd.org/ports/alpha/)では多数のalpha搭載機種がサポートされていますので、これらのコードやAXPvme Tecnical Descriptonなどの公式ドキュメントを参考に生成AIに手伝ってもらってNetBSD/alphaが動くようにします。
+[前回](/2026/06/axpvme-vme-6.html)はネットワークブートの環境構築を行いましたが、カーネルが[AXPvme](/2026/06/axpvme-vme-1.html)をサポートしておらずポーティングが必要なことがわかりました。  
+[NetBSD/alpha](https://wiki.netbsd.org/ports/alpha/)では多数のalpha搭載機種がサポートされていますので、これらのコードやAXPvme Technical Descriptonなどの公式ドキュメントを参考に生成AIに手伝ってもらってNetBSD/alphaが動くようにします。
 
 ## AXPvmeでのOS起動の流れ
 
@@ -32,21 +32,21 @@ Digital AXPvme Model 230 Common Console V17.0-0
 
 ## 生成AIの活用
 
-最初にalphaアーキテクチャやAXPvmeのマニュアルを集めて[NotebookLM](https://notebooklm.google.com/)に登録しました。これでAXPvmeに関する強力な知識データベースができました。
+最初にalphaアーキテクチャやAXPvmeのマニュアルを集めて[NotebookLM](https://notebooklm.google.com/)に登録しました。これでAXPvmeに関する強力な知識データベースができました。  
 あとは作業用のブランチを作成し、ソースコードを見ながら、他の機種の情報を参考にして[Gemini](https://gemini.google.com/)や[Claude](https://claude.ai/)の無料枠の範囲で利用しながらコードを書き換えて行く方法で進めてみました。
 その結果ある程度は動作するようになったのですが起動途中でハングアップしてしまいます。
 
 ![起動途中でハングアップ](axpvme-netbsd-porting-1.png)
 
-ここまでたどり着くためにはソースコードの一部を抜き出してClaudeやGeminiに貼り付けたり、NotebookLMの結果を貼り付けたりなど、かなりの手間がかかることもわかりました。
+この状態にたどり着くまでにはソースコードの一部を抜き出してClaudeやGeminiに貼り付けたり、NotebookLMの結果を貼り付けたりなど、必要な情報を生成AIに伝えるためにかなりの手間がかかることがわかりました。
 
 ## Claude Codeを導入(6月25日)
 
-ここでブランチを新規作成して、[Claude Code](https://claude.com/ja/product/claude-code)を使ってみることにしました。有料にはなりますが、まだ使ったことが無く何がどの程度できるのかを体験する良い機会と考えました。今回はVSCodeで作業しましたが、カーネルのソースコードにClaude Codeが直接アクセスできるため、作業の効率が格段によくなり、あっという間にカーネルが動き始めました。
+ここでブランチを新規作成して、[Claude Code](https://claude.com/ja/product/claude-code)を使ってみることにしました。有料にはなりますが、まだ使ったことが無いため、どんなことがどの程度できるのかを体験する良い機会と考えました。今回はVSCodeで作業しましたが、カーネルのソースコードにClaude Codeが直接アクセスできるため、作業の効率が格段によくなり、あっという間にカーネルが動き始めました。
 
 ![動き出したNetBSDカーネル](axpvme-netbsd-porting-2.png)
 
-途中でハードウェアの情報も確認しながら作業を進められるように、Technical DescriptionのPDFもコードツリーに入れて、それも参照しながらポーティングを進め、ついにrootファイルシステムのNFS mountの直前まで動かすことができました。
+途中でハードウェアの情報も確認しながら作業を進められるように、AXPvme Technical DescriptionのPDFもコードツリーに入れて、それも参照しながらポーティングを進め、ついにrootファイルシステムのNFS mountの直前まで動かすことができました。
 
 ![rootのmountで停止したカーネル](axpvme-netbsd-porting-3.png)
 
@@ -102,7 +102,7 @@ mountしているファイルシステムの設定ファイルを調整し、ssh
     * FTP / sshd / cron
     * マルチユーザー起動
 
-ポーティングしたソースコードはGitHubにいれておきました。axpvme-v2ブランチで作業しています。
+ポーティングしたソースコードはGitHubにコミットしておきました。axpvme-v2ブランチで作業しています。
 
 * https://github.com/kanpapa/src/tree/axpvme-v2
 
@@ -110,7 +110,7 @@ Claude Codeが作成したドキュメントもコミットしていますので
 
 * [DEC AXPvme 230 NetBSD/alpha ポーティング記録](https://github.com/kanpapa/src/blob/axpvme-v2/porting_summary.md)
 * [DEC AXPvme 230 NetBSD/alpha テストガイド](https://github.com/kanpapa/src/blob/axpvme-v2/test_guide.md)
-* [AXPvme 230 ポーティング開発ジャーナル](https://github.com/kanpapa/src/blob/axpvme-v2/journal.md)
+* [DEC AXPvme 230 ポーティング開発ジャーナル](https://github.com/kanpapa/src/blob/axpvme-v2/journal.md)
 
 これらを見るとわかりますが、Claude Codeは本当にすごい力を秘めていると思います。ただし任せきりにすると想定外の方向に突き進むこともあるので、正確な情報と適切なプロンプトを与えることでターゲットに向かって正しい方向に突き進めるように手助けすることが必要だと感じました。
 
