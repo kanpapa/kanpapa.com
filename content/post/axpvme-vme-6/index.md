@@ -182,3 +182,5 @@ NetBSDの公式サイトのドキュメントをよくみたところAXPvmeは�
 カーネルも起動はしたもののそのままでは動かずAXPvme用のポーティングが必要のようです。  
 Alpha CPUは64bit RISCプロセッサであり、これまで経験してきたm68kやV53とは桁違いに複雑です。  
 しかし、すでにNetBSD/Alphaでは多数のAlpha CPU搭載機種がサポートされていますので、これらの情報を参考にしてAXPvmeへのポーティングにチャレンジしてみます。
+
+次の記事：[DEC AXPvme230で遊ぶ #7 NetBSD/alphaを起動する](/2026/07/axpvme-vme-7.html)
