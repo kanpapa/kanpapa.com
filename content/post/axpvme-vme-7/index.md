@@ -23,10 +23,10 @@ Digital AXPvme Model 230 Common Console V17.0-0
 これらのキーワードとハードウェアの起動の流れを簡単にまとめておきます。
 
 1. 電源ON / リセット
-1. CPUの初期化：SROM(Serial ROM)に格納された小さなコードをCPUのキャッシュに読み込み、CPU周辺デバイスを初期化する
-1. コンソール起動: フラッシュROMに書かれているCommon Consoleプログラム(SRMなど)が動き出す
-1. PALcodeの展開: OS（OpenVMSやUNIX）に応じたPALcodeがメモリにロードされ、CPUの特権処理を行う準備が整う
-1. OS起動: PALcodeの抽象化レイヤーの上で、OSが稼働する
+1. CPUの初期化：8KBのSROM(Serial ROM)に格納された小さなコードをCPUのキャッシュに読み込み、CPUの自己診断や最低限のメモリのテストを行います。
+1. SRMコンソール起動: フラッシュROMに書かれている[SRM Console](https://en.wikipedia.org/wiki/SRM_firmware)プログラムが動き出し、ハードウェアのテストや初期化をします。
+1. PALcodeの展開: OS（OpenVMSやUNIX）に応じた[PALcode](https://en.wikipedia.org/wiki/PALcode)がメモリにロードされ、CPUの特権処理を行う準備が整います。
+1. OS起動: SRMがOSのブートローダーを読み出して制御を渡します。OSはPALcodeの抽象化レイヤーの上で動き出します。
 
 最後のステップのOSの起動開始までは確認できている状況です。
 
