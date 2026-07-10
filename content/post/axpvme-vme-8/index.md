@@ -1,6 +1,6 @@
 +++
 date = '2026-07-07T19:49:04+09:00'
-title = 'DEC AXPvme230で遊ぶ #8 AXPvme230をインターネットに接続する'
+title = 'DEC AXPvme230で遊ぶ #8 インターネットに接続する'
 slug = 'axpvme-vme-8'
 tags = ["DEC", "AXPvme", "VME", "DECalpha", "AlphaAXP", "NetBSD"]
 categories = ["Retro Computing"]
