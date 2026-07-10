@@ -122,4 +122,4 @@ Claude Codeが作成したドキュメントもコミットしていますので
 
 ![ポーティング作業中のワークベンチ環境](axpvme-netbsd-workbench-photo.jpg)
 
-次の記事：[DEC AXPvme230で遊ぶ #8 NetBSD/alphaをインターネットに接続する](/2026/07/axpvme-vme-8.html)
+次の記事：[DEC AXPvme230で遊ぶ #8 AXPvme230をインターネットに接続する](/2026/07/axpvme-vme-8.html)

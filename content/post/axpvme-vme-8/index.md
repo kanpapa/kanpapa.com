@@ -1,8 +1,8 @@
 +++
 date = '2026-07-07T19:49:04+09:00'
-title = 'DEC AXPvme230で遊ぶ #8 NetBSD/alphaをインターネットに接続する'
+title = 'DEC AXPvme230で遊ぶ #8 AXPvme230をインターネットに接続する'
 slug = 'axpvme-vme-8'
-tags = ["DEC", "AXPvme", "VME", "DECAlpha", "AlphaAXP", "NetBSD"]
+tags = ["DEC", "AXPvme", "VME", "DECalpha", "AlphaAXP", "NetBSD"]
 categories = ["Retro Computing"]
 image = 'asciiart-basic.png'
 +++
@@ -40,7 +40,7 @@ graph LR
 ![新しくUbuntuデスクトップに搭載したi210 LANアダプタ](intel210-nic.jpg)
 
 
-## NetBSD（AXPvme）側の設定手順
+## NetBSD（AXPvme230）側の設定手順
 
 以下の作業はAXPvmeにログインして行います。
 
@@ -66,7 +66,7 @@ graph LR
     nameserver 8.8.8.8
     ```
 
-## Ubuntu 側の設定手順（ルーター化）
+## Ubuntu 側の設定手順
 
 次にUbuntuデスクトップにログインして、NetBSDから送られてきたパケットの転送とアドレス変換を設定します。
 
@@ -136,11 +136,8 @@ PING kanpapa.com (172.67.203.155): 56 data bytes
 round-trip min/avg/max/stddev = 14.187002/14.487805/14.788608/0.425400 ms
 ```
 
-無事インターネットとの接続ができたことが確認できました。
-
-## パッケージのインストール
-
-インターネットに接続できたので、AXPvmeのNetBSDからnetbsd.orgにftpをしてみます。
+無事インターネットとの接続ができたことが確認できました。  
+試しにftp.netbsd.orgにFTPで接続してみます。
 
 ```plain
 client# ftp ftp.netbsd.org
@@ -199,7 +196,9 @@ ftp>
 
 NetBSDのFTPサーバにアクセスできてデーモンくんが確認できました。これでFTPサーバから各種リソースが入手できます。
 
-次はパッケージをインストールしてみます。今回はbwBASICをインストールして実行してみました。
+## パッケージのインストール
+
+次はNetBSDのパッケージをインストールしてみます。今回はbwBASICをインストールして実行してみました。
 
 ```plain
 client# PKG_PATH="https://netbsd.org(uname -p)/$(uname -r)/All/"
@@ -233,7 +232,7 @@ Copyright (c) 2014-2016, Howard Wulf, AF5NE
 bwBASIC: 
 ```
 
-無事bwBASICが起動したので、いつものプログラムを入力して実行です。
+無事bwBASICが起動したので、いつもの[ASCIIART(マンデルブロ集合)ベンチマーク](https://haserin09.la.coocan.jp/asciiart.html)プログラムを入力して実行です。
 
 ![いつものASCIIART](asciiart-basic.png)
 
