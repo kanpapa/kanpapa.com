@@ -73,3 +73,5 @@ KiCadでDual Slot Breakout Moduleを設計したところ、10cm×5cmの基板�
 
 今回はVMEラックの搭載にむけてBreakoutボードの設計と発注を行いました。  
 もうしばらくは平置きの状態が続きますが、いずれVMEラックで安定した稼働ができるように準備していきます。
+
+次の記事：[DEC AXPvme230で遊ぶ #10 VMEラックに実装する](/2026/07/axpvme-vme-10.html)
