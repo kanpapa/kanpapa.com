@@ -11,11 +11,20 @@ image = 'axpvme-pci-lan-100m.jpg'
 
 ## PCI LANカードのコネクタ
 
-入手したAXPvme230ボードにはLANカードが搭載されていました。しかし、このLANカードのコネクタが特殊なもので見たことが無いものでした。
+入手したAXPvme230ボードにはLANカードが搭載されていました。しかし、このLANカードのコネクタが特殊で見たことが無いものでした。
 
 ![PCI LANカードの特殊コネクタ](rj45-low-profile-connector.jpg)
 
-いろいろ調べた結果、現在適合するプラグは無さそうですので、このコネクタは使わずに基板から直接ワイヤーで引き出すことにしました。
+いろいろ調べた結果、適合するプラグは見当たらないため、このコネクタは使わずに基板から直接ワイヤーで引き出すことにしました。
+
+## PCI LANカードの確認
+
+LANコネクタを接続するにあたって１点気になったのはパルストランスの存在です。現在販売されているLANコネクタにはパルストランス内蔵のものと無しのものがあります。多分この時代であればパルストランスは外付けと思われますが、念のため確認する必要があります。  
+PCI LANカードの裏面からではわからないので、PCI LANカードを取り外して確認しました。
+
+![PCI LANカードのパーツ面](axpvme-pci-lan-card-front.jpg)
+
+LANコネクタの周りにパルストランスが実装されています。この結果からワイヤーで引き出して接続するLANコネクタはパルストランス無しのものを使用します。
 
 ## コネクタ外付け用のパーツ
 
@@ -30,6 +39,35 @@ image = 'axpvme-pci-lan-100m.jpg'
 次にフラットケーブルをPCI LANカードのコネクタのハンダ面にはんだ付けして完成です。
 
 ![PCI LANカードにケーブルを接続](axpvme-pci-lan-cable.jpg)
+
+## LANコネクタのピンの推測
+
+PCI LANカードのコネクタは特殊なものでRJ45のピン配置と必ずしも一致しているとは限りません。
+コネクタ部分を確認すると写真のようになっています。
+
+![PCI LANカードのコネクタはんだ面](axpvme-pci-lan-card-back.jpg)
+
+プリントパターンで接続されているピンがいくつかありますので、これが目印になりそうです。  
+参考としてパルストランス内蔵RJ45のデータシートをみてみると図のように記載されていました。
+
+![パルストランス内蔵RJ45の回路図(参考)](rj45-pin-number.jpg)
+
+この回路図ではJ4, J5, J7, J8が抵抗とコンデンサを経由してGNDに接続されていることから、ピン番号は図のように推測できます。
+
+```
+|　〇
+|  　     (8)
+|    (7)--/
+|     |   (6)---- RX-
+|    (5)
+|      \--(4)
+|    (3)--------- RX+
+|         (2)---- TX-
+|    (1)--------- TX+
+|　〇
+```
+
+これに従ってRJ45コネクタのフラットケーブルを接続することにしました。
 
 ## LANの接続確認
 
@@ -87,7 +125,7 @@ HUBも100Mbpsになっています。
 ## ネットワークブートの準備
 
 ネットワークブートを行う場合は今回接続したLANインターフェースのMACアドレスと付与するIPアドレスをTFTPサーバに設定する必要があります。  
-実験用ネットワークのUbuntuデスクトップのdnsmasq.confにPCI LANカードに対応する１行を追加しました。
+実験用ネットワークのUbuntuデスクトップの`/etc/dnsmasq.conf`にPCI LANカードに対応する１行を追加し、PCI LANカードのMACアドレスには192.168.99.11のIPアドレスが割り当てられるようにしました。
 
 ```plain
 interface=enp5s0
@@ -95,16 +133,16 @@ bind-interfaces
 port=0
 dhcp-range=192.168.99.10,192.168.99.50,255.255.255.0
 dhcp-host=00:00:f8:25:76:fc,192.168.99.10
-dhcp-host=00:00:f8:1a:06:15,192.168.99.11     ←この行を追加
+dhcp-host=00:00:f8:1a:06:15,192.168.99.11  # ←この行を追加
 dhcp-boot=netboot
 dhcp-option=17,/export/client/root
 enable-tftp
 tftp-root=/srv/tftp
 ```
 
-## NetBSD/alphaをネットワークブート
+## NetBSDをネットワークブート
 
-SRMコンソールからbootコマンドを投入してネットワークブートが始まりました。  
+SRMコンソールからbootコマンドを投入してネットワークブートをしてみました。
 ブートストラップローダーやカーネルの読み込み時間が短くなったように思います。
 
 ```plain
@@ -113,8 +151,8 @@ SRMコンソールからbootコマンドを投入してネットワークブー�
 
 Trying MOP boot.
 ..^C
->>>^C                           ←MOP bootを中断
->>>set ewb0_protocols bootp     ←プロトコルがMOPになっていたので、BOOTPに変更
+>>>^C                           ←MOP bootを手動で中断
+>>>set ewb0_protocols bootp     ←プロトコルがMOPだったので、BOOTPに変更
 >>>show ewb0_protocols
 ewb0_protocols          BOOTP
 >>>boot ewb0　　　　　　　　　　　←再びboot
@@ -183,10 +221,36 @@ Entering netbsd at 0xfffffc0000a014d0...
 　　：
 ```
 
-しかし、NetBSD/alphaがブートした直後に10Mbpsに切り替わってしまいました。  
-TFTPの時は100Mbpsで動いていたのでNetBSD/alphaでの通信モードが10Mbps前提になっているかもしれません。これは今後調査してみます。
+しかし、NetBSDがブートした直後に10Mbpsに切り替わってしまいました。NetBSDでのデフォルトが10Mbpsになっているようです。
+
+## NetBSDで100Mbpsに設定する
+
+まずは手動でifconfigコマンドを入力して100Mbpsにできるかを試してみました。
+
+```
+# ifconfig tlp1 media 100baseTX mediaopt full-duplex
+# ifconfig tlp1
+tlp1: flags=0x8843<UP,BROADCAST,RUNNING,SIMPLEX,MULTICAST> mtu 1500
+        ec_capabilities=0x1<VLAN_MTU>
+        ec_enabled=0
+        address: 00:00:f8:1a:06:15
+        media: Ethernet 100baseTX full-duplex
+        status: active
+        inet6 fe80::200:f8ff:fe1a:615%tlp1/64 flags 0 scopeid 0x2
+        inet 192.168.99.11/24 broadcast 192.168.99.255 flags 0
+#
+```
+
+リレーの音がカチッとして100Mbpsに切り替わりました。NetBSDでのハードウェアのサポートは問題なさそうです。
+起動のたびにこのコマンドを入力するのは面倒ですので、`/etc/rc.local`で自動的に切り替えるように設定しました。
+
+```
+# echo 'ifconfig tlp1 media 100baseTX mediaopt full-duplex' >> /etc/rc.local
+```
+
+これでNetBSDの起動時に強制的に100Mbpsに設定されるようになりました。
 
 ## まとめ
 
-これまで使用できなかったPCI LANカードが100Mbpsの速度でネットワークに接続できました。これまでは外付けトランシーバを使用して10Mbpsで接続していましたが、これも不要になり見た目もスッキリです。
-まだNetBSD/alphaの設定でPCI LANカードが100Mbpsになるように調整する必要はありますが、100Mbpsの速度でNFSが使えるのももうすぐでしょう。
+AXPvme230に搭載されていたPCI LANカードを使って100Mbpsの速度でネットワークに接続できました。これまでは外付けトランシーバを使用して10Mbpsで接続していましたが、これも不要になり見た目もスッキリです。  
+せっかく100Mbpsの速度になったので次はX11アプリケーションを動かしてGUI環境を試してみます。
