@@ -252,3 +252,5 @@ tlp1: flags=0x8843<UP,BROADCAST,RUNNING,SIMPLEX,MULTICAST> mtu 1500
 
 AXPvme230に搭載されていたPCI LANカードを使って100Mbpsの速度でネットワークに接続できました。これまでは外付けトランシーバを使用して10Mbpsで接続していましたが、これも不要になり見た目もスッキリです。  
 せっかく100Mbpsの速度になったので次はX11アプリケーションを動かしてGUI環境を試してみます。
+
+次の記事：[DEC AXPvme230で遊ぶ #12 VMEラックを整備する](/2026/07/axpvme-vme-12.html)

@@ -113,4 +113,4 @@ RAMボード分電力を消費してしまいますが、一旦この状態で�
 
 AXPvme230をVMEラックに搭載した状態でNetBSDを動かしつつ次のテーマを探してみます。まずはSCSIを動かすか、それともPCIのLANカードを動かすか、まだまだ試すことはありそうです。
 
-次の記事：[DEC AXPvme230で遊ぶ #11 #11 PCI LANカードで100Mbpsにする](/2026/07/axpvme-vme-11.html)
+次の記事：[DEC AXPvme230で遊ぶ #11 PCI LANカードで100Mbpsにする](/2026/07/axpvme-vme-11.html)
