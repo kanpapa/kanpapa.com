@@ -7,7 +7,7 @@ categories = ["Electronics"]
 image = 'grove-vision-ai-v2.jpg'
 +++
 
-[電子工作初心者勉強会でESP32S3 SenseとSenseCraft AIを試してみました](/2026/08/otafab-esp32-arduino-sensecraft-ai-1.html)が、他にもエッジデバイスとして[Grove Vision AI V2](https://wiki.seeedstudio.com/ja/grove_vision_ai_v2/)というものがあることを知りました。こちらはNLPを搭載していて高速化が期待できそうなので、こちらも試してみることにしました。
+[電子工作初心者勉強会でESP32S3 SenseとSenseCraft AIを試してみました](/2026/08/otafab-esp32-arduino-sensecraft-ai-1.html)が、他にもエッジデバイスとして[Grove Vision AI V2](https://wiki.seeedstudio.com/ja/grove_vision_ai_v2/)というものがあることを知りました。こちらはNPUを搭載していて高速化が期待できそうなので、こちらも試してみることにしました。
 
 ## Grove Vision AI V2の入手
 
