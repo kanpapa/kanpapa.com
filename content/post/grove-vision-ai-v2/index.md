@@ -1,6 +1,5 @@
 +++
 date = '2026-08-09T08:11:53+09:00'
-draft = true
 title = 'Grove Vision AI V2でSenseCraft AIを試す'
 slug = 'grove-vision-ai-v2'
 tags = ["ESP32","Xiao","grove","電子工作","IoT","SenseCraftAI"]
