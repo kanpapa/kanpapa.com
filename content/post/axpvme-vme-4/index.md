@@ -1,11 +1,17 @@
-+++
-date = '2026-06-21T15:10:06+09:00'
-title = 'DEC AXPvme230で遊ぶ #4 コンソールを接続する'
-slug = 'axpvme-vme-4'
-tags = ["DEC", "AXPvme", "VME", "DECAlpha", "AlphaAXP"]
-categories = ["Retro Computing"]
-image = 'axpvme-console-connect.jpg'
-+++
+---
+date: '2026-06-21T15:10:06+09:00'
+title: 'DEC AXPvme230で遊ぶ #4 コンソールを接続する'
+slug: 'axpvme-vme-4'
+tags:
+  - 'DEC'
+  - 'AXPvme'
+  - 'VME'
+  - 'DECAlpha'
+  - 'AlphaAXP'
+categories:
+  - 'Retro Computing'
+image: 'axpvme-console-connect.jpg'
+---
 
 [前回](/2026/06/axpvme-vme-3.html)はAXPvme230ボードに電源を投入してPOSTが動作することを確認しましたが、残念ながら`Breakout module test`エラーになってしまいました。
 詳細を調査するために、シリアルコンソールを接続し状況を確認します。

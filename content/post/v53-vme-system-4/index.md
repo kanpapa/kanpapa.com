@@ -1,11 +1,15 @@
-+++
-date = '2026-01-13T18:07:37+09:00'
-title = 'V53 VMEシステムで遊ぶ #4 オンボードRAMを探す'
-slug = 'v53-vme-system-4'
-tags = ["V53", "DVE-V53", "VME"]
-categories = ["Retro Computing"]
-image = 'v53-vme-system-4-onboard-ram.jpg'
-+++
+---
+date: '2026-01-13T18:07:37+09:00'
+title: 'V53 VMEシステムで遊ぶ #4 オンボードRAMを探す'
+slug: 'v53-vme-system-4'
+tags:
+  - 'V53'
+  - 'DVE-V53'
+  - 'VME'
+categories:
+  - 'Retro Computing'
+image: 'v53-vme-system-4-onboard-ram.jpg'
+---
 
 [前回](/2026/01/v53-vme-system-3.html)はV53 CPUボードでシリアル入出力ができることが確認できました。これでモニタを動かせる可能性が開けました。ただし、新たにスタックが正常に動作しないのではという課題もでてきました。今回はRAMやスタックを使わずにRAM領域を探索するプログラムを書いてメモリマップを確定させます。
 

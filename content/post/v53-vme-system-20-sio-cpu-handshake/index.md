@@ -1,11 +1,16 @@
-+++
-date = '2026-04-25T06:58:41+09:00'
-title = 'V53 VMEシステムで遊ぶ #20 SIOボードとCPUボードを連携する'
-slug = 'v53-vme-system-20-sio-cpu-handshake'
-tags = ["V53", "DVE-V53", "VME", "uPD72001"]
-categories = ["Retro Computing"]
-image = 'v53-vme-system-20-sio-port1.jpg'
-+++
+---
+date: '2026-04-25T06:58:41+09:00'
+title: 'V53 VMEシステムで遊ぶ #20 SIOボードとCPUボードを連携する'
+slug: 'v53-vme-system-20-sio-cpu-handshake'
+tags:
+  - 'V53'
+  - 'DVE-V53'
+  - 'VME'
+  - 'uPD72001'
+categories:
+  - 'Retro Computing'
+image: 'v53-vme-system-20-sio-port1.jpg'
+---
 
 
 [前回](/2026/04/v53-vme-system-19-sio-monitor.html)は、V53搭載のSIOボードに簡易モニタを実装しプログラムの実行ができる環境になりました。今回は本格的なモニタを実装し、SIOボードとCPUボードがどのように連携しているのかを探ります。

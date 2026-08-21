@@ -1,11 +1,15 @@
-+++
-date = '2026-02-06T07:25:21+09:00'
-title = 'V53 VMEシステムで遊ぶ #12 RAMボードを理解する'
-slug = 'v53-vme-system-12'
-tags = ["V53", "DVE-V53", "VME"]
-categories = ["Retro Computing"]
-image = 'v53-vme-system-12-ram-battery-holder.jpg'
-+++
+---
+date: '2026-02-06T07:25:21+09:00'
+title: 'V53 VMEシステムで遊ぶ #12 RAMボードを理解する'
+slug: 'v53-vme-system-12'
+tags:
+  - 'V53'
+  - 'DVE-V53'
+  - 'VME'
+categories:
+  - 'Retro Computing'
+image: 'v53-vme-system-12-ram-battery-holder.jpg'
+---
 
 [前回](/2026/02/v53-vme-system-11.html)で、VMEシステムの仕様をI/Oアドレスから調査してみましたが、まだまだ不明な点が多い状況です。各ボードについて仕様や設定などをモニタを使って解析を進めてみます。今回はRAMボードです。
 

@@ -1,11 +1,16 @@
-+++
-date = '2026-03-08T13:13:08+09:00'
-title = 'V53 VMEシステムで遊ぶ #15 ELKSをV53対応にする'
-slug = 'v53-vme-system-15-elks-2'
-tags = ["V53", "DVE-V53", "VME", "ELKS"]
-categories = ["Retro Computing"]
-image = 'v53-vme-monitor-rom.jpg'
-+++
+---
+date: '2026-03-08T13:13:08+09:00'
+title: 'V53 VMEシステムで遊ぶ #15 ELKSをV53対応にする'
+slug: 'v53-vme-system-15-elks-2'
+tags:
+  - 'V53'
+  - 'DVE-V53'
+  - 'VME'
+  - 'ELKS'
+categories:
+  - 'Retro Computing'
+image: 'v53-vme-monitor-rom.jpg'
+---
 
 [前回](/2026/02/v53-vme-system-14-elks-1.html)は、8086系の組み込み向けLinuxである[ELKS](https://github.com/ghaerr/elks)をV53 VMEシステムで動かしてみました。ただしこの環境は暫定的なものでペリフェラルの初期化はRAMモニタに頼っているなど、ELKS単体で動作するものではありません。今回は8018xのパッチ版からV53のソースコードを分離しELKS単体で動作するようにします。
 

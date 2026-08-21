@@ -1,11 +1,16 @@
-+++
-date = '2026-03-09T08:35:19+09:00'
-title = 'V53 VMEシステムで遊ぶ #16 ELKSでRAMDISKを使う'
-slug = 'v53-vme-system-16-elks-3'
-tags = ["V53", "DVE-V53", "VME", "ELKS"]
-categories = ["Retro Computing"]
-image = 'elks-config-ramdisk-support.jpg'
-+++
+---
+date: '2026-03-09T08:35:19+09:00'
+title: 'V53 VMEシステムで遊ぶ #16 ELKSでRAMDISKを使う'
+slug: 'v53-vme-system-16-elks-3'
+tags:
+  - 'V53'
+  - 'DVE-V53'
+  - 'VME'
+  - 'ELKS'
+categories:
+  - 'Retro Computing'
+image: 'elks-config-ramdisk-support.jpg'
+---
 
 [前回](/2026/03/v53-vme-system-15-elks-2.html)は、8086系の組み込み向けLinuxである[ELKS](https://github.com/ghaerr/elks)をV53版ELKSとしてELKS単体で動作するようにしました。今回はELKSに組み込まれているRAMDISKを使って書き込み可能なファイルシステムを構築します。
 

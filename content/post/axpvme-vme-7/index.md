@@ -1,11 +1,18 @@
-+++
-date = '2026-07-04T07:51:39+09:00'
-title = 'DEC AXPvme230で遊ぶ #7 NetBSD/alphaを起動する'
-slug = 'axpvme-vme-7'
-tags = ["DEC", "AXPvme", "VME", "DECAlpha", "AlphaAXP", "NetBSD"]
-categories = ["Retro Computing"]
-image = 'axpvme-netbsd-workbench-photo.jpg'
-+++
+---
+date: '2026-07-04T07:51:39+09:00'
+title: 'DEC AXPvme230で遊ぶ #7 NetBSD/alphaを起動する'
+slug: 'axpvme-vme-7'
+tags:
+  - 'DEC'
+  - 'AXPvme'
+  - 'VME'
+  - 'DECAlpha'
+  - 'AlphaAXP'
+  - 'NetBSD'
+categories:
+  - 'Retro Computing'
+image: 'axpvme-netbsd-workbench-photo.jpg'
+---
 
 [前回](/2026/06/axpvme-vme-6.html)はネットワークブートの環境構築を行いましたが、カーネルが[AXPvme](/2026/06/axpvme-vme-1.html)をサポートしておらずポーティングが必要なことがわかりました。  
 [NetBSD/alpha](https://wiki.netbsd.org/ports/alpha/)では多数のalpha搭載機種がサポートされていますので、これらのコードやAXPvme Technical Descriptonなどの公式ドキュメントを参考に生成AIに手伝ってもらってNetBSD/alphaが動くようにします。

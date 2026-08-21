@@ -1,11 +1,15 @@
-+++
-date = '2026-02-01T08:41:48+09:00'
-title = 'V53 VMEシステムで遊ぶ #10 割り込みを攻略する'
-slug = 'v53-vme-system-10'
-tags = ["V53", "DVE-V53", "VME"]
-categories = ["Retro Computing"]
-image = 'v53-vme-system-10-pic-icu-fix.png'
-+++
+---
+date: '2026-02-01T08:41:48+09:00'
+title: 'V53 VMEシステムで遊ぶ #10 割り込みを攻略する'
+slug: 'v53-vme-system-10'
+tags:
+  - 'V53'
+  - 'DVE-V53'
+  - 'VME'
+categories:
+  - 'Retro Computing'
+image: 'v53-vme-system-10-pic-icu-fix.png'
+---
 
 [前回](/2026/01/v53-vme-system-9.html)はタイマー割り込みでTickカウンタを実装しました。今回はまだ用途が良く分かっていないV53の割り込みコントローラ(ICU)の仕様を調査します。
 

@@ -1,11 +1,17 @@
-+++
-date = '2026-06-11T09:59:54+09:00'
-title = 'DEC AXPvme230で遊ぶ #1 AXPvme230ボードの入手'
-slug = 'axpvme-vme-1'
-tags = ["DEC", "AXPvme", "VME", "DECAlpha", "AlphaAXP"]
-categories = ["Retro Computing"]
-image = 'axpvme230-board.jpg'
-+++
+---
+date: '2026-06-11T09:59:54+09:00'
+title: 'DEC AXPvme230で遊ぶ #1 AXPvme230ボードの入手'
+slug: 'axpvme-vme-1'
+tags:
+  - 'DEC'
+  - 'AXPvme'
+  - 'VME'
+  - 'DECAlpha'
+  - 'AlphaAXP'
+categories:
+  - 'Retro Computing'
+image: 'axpvme230-board.jpg'
+---
 
 ## AXPvmeボードの出会い
 

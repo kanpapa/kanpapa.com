@@ -1,11 +1,15 @@
-+++
-date = '2026-01-31T18:22:29+09:00'
-title = 'V53 VMEシステムで遊ぶ #9 割り込みで時を刻む'
-slug = 'v53-vme-system-9'
-tags = ["V53", "DVE-V53", "VME"]
-categories = ["Retro Computing"]
-image = 'v53-vme-system-9-int-jumper.jpg'
-+++
+---
+date: '2026-01-31T18:22:29+09:00'
+title: 'V53 VMEシステムで遊ぶ #9 割り込みで時を刻む'
+slug: 'v53-vme-system-9'
+tags:
+  - 'V53'
+  - 'DVE-V53'
+  - 'VME'
+categories:
+  - 'Retro Computing'
+image: 'v53-vme-system-9-int-jumper.jpg'
+---
 
 [前回](/2026/01/v53-vme-system-8.html)はABORTスイッチを押すと発生するNMIでプログラムを中断し、デバック情報が表示されるようにしました。今回はuPD71059(PIC)の割り込みコントローラの仕様を調査します。
 

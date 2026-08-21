@@ -1,11 +1,16 @@
-+++
-date = '2026-02-14T09:32:54+09:00'
-title = 'V53 VMEシステムで遊ぶ #13 NASCOM BASICを動かす'
-slug = 'v53-vme-system-13'
-tags = ["V53", "DVE-V53", "VME", "BASIC"]
-categories = ["Retro Computing"]
-image = 'v53-vme-asciiart-local-ram.png'
-+++
+---
+date: '2026-02-14T09:32:54+09:00'
+title: 'V53 VMEシステムで遊ぶ #13 NASCOM BASICを動かす'
+slug: 'v53-vme-system-13'
+tags:
+  - 'V53'
+  - 'DVE-V53'
+  - 'VME'
+  - 'BASIC'
+categories:
+  - 'Retro Computing'
+image: 'v53-vme-asciiart-local-ram.png'
+---
 
 [前回](/2026/02/v53-vme-system-12.html)は、VMEバスのRAMボードの解析を行いました。このVMEシステムで使える広大なメモリ空間でアプリケーションを動かしていきます。今回はNASCOM BASICを動かしてみました。
 

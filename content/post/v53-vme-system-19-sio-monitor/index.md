@@ -1,11 +1,16 @@
-+++
-date = '2026-04-14T15:31:33+09:00'
-title = 'V53 VMEシステムで遊ぶ #19 SIOボード用モニタの実装'
-slug = 'v53-vme-system-19-sio-monitor'
-tags = ["V53", "DVE-V53", "VME", "uPD72001"]
-categories = ["Retro Computing"]
-image = 'v53-vme-system-mount-sio-board-1.webp'
-+++
+---
+date: '2026-04-14T15:31:33+09:00'
+title: 'V53 VMEシステムで遊ぶ #19 SIOボード用モニタの実装'
+slug: 'v53-vme-system-19-sio-monitor'
+tags:
+  - 'V53'
+  - 'DVE-V53'
+  - 'VME'
+  - 'uPD72001'
+categories:
+  - 'Retro Computing'
+image: 'v53-vme-system-mount-sio-board-1.webp'
+---
 
 [前回](/2026/04/v53-vme-system-18-sio-1.html)は、V53搭載のSIOボードでシリアル入出力ができることを確認しました。今回はSIOボードにモニタを実装して、SIOボードをV53のワンボードコンピュータとして使用できるようにします。
 

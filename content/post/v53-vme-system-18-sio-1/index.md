@@ -1,11 +1,16 @@
-+++
-date = '2026-04-12T12:40:07+09:00'
-title = 'V53 VMEシステムで遊ぶ #18 SIOボードの解析'
-slug = 'v53-vme-system-18-sio-1'
-tags = ["V53", "DVE-V53", "VME", "uPD72001"]
-categories = ["Retro Computing"]
-image = 'v53-vme-sio-board-1.webp'
-+++
+---
+date: '2026-04-12T12:40:07+09:00'
+title: 'V53 VMEシステムで遊ぶ #18 SIOボードの解析'
+slug: 'v53-vme-system-18-sio-1'
+tags:
+  - 'V53'
+  - 'DVE-V53'
+  - 'VME'
+  - 'uPD72001'
+categories:
+  - 'Retro Computing'
+image: 'v53-vme-sio-board-1.webp'
+---
 
 [前回](/2026/03/v53-vme-system-17-elks-network.html)は、V53 CPUボードに[ELKS](https://github.com/ghaerr/elks)を載せてSLIPでネットワークに接続しました。これでV53 VMEシステムが本格的に稼働しました。
 次はV53 VMEシステムに搭載されているSIOボードについて調査を進めていきます。

@@ -1,11 +1,17 @@
-+++
-date = '2026-06-22T07:38:49+09:00'
-title = 'DEC AXPvme230で遊ぶ #5 Breakout moduleエラーを攻略する'
-slug = 'axpvme-vme-5'
-tags = ["DEC", "AXPvme", "VME", "DECAlpha", "AlphaAXP"]
-categories = ["Retro Computing"]
-image = 'axpvme230-front-panel-led-m.jpg'
-+++
+---
+date: '2026-06-22T07:38:49+09:00'
+title: 'DEC AXPvme230で遊ぶ #5 Breakout moduleエラーを攻略する'
+slug: 'axpvme-vme-5'
+tags:
+  - 'DEC'
+  - 'AXPvme'
+  - 'VME'
+  - 'DECAlpha'
+  - 'AlphaAXP'
+categories:
+  - 'Retro Computing'
+image: 'axpvme230-front-panel-led-m.jpg'
+---
 
 [前回](/2026/06/axpvme-vme-4.html)はコンソールを接続して１つの問題を除きPOSTが正常に行われていることを確認しました。問題となっている`Breakout module test`エラーの解決に向けて、ブレークアウト基板の見直しを行います。
 

@@ -1,11 +1,18 @@
-+++
-date = '2026-06-27T14:32:55+09:00'
-title = 'DEC AXPvme230で遊ぶ #6 NetBSDをネットワークブートする'
-slug = 'axpvme-vme-6'
-tags = ["DEC", "AXPvme", "VME", "DECAlpha", "AlphaAXP", "NetBSD"]
-categories = ["Retro Computing"]
-image = 'network-mau.jpg'
-+++
+---
+date: '2026-06-27T14:32:55+09:00'
+title: 'DEC AXPvme230で遊ぶ #6 NetBSDをネットワークブートする'
+slug: 'axpvme-vme-6'
+tags:
+  - 'DEC'
+  - 'AXPvme'
+  - 'VME'
+  - 'DECAlpha'
+  - 'AlphaAXP'
+  - 'NetBSD'
+categories:
+  - 'Retro Computing'
+image: 'network-mau.jpg'
+---
 
 [前回](/2026/06/axpvme-vme-5.html)でBreakout moduleのエラーも無くなり足回りが安定になりました。今回はネットワークを接続し、いよいよOSのネットワークブートを試してみます。
 

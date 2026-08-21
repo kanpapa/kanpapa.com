@@ -1,11 +1,15 @@
-+++
-date = '2026-01-12T08:26:41+09:00'
-title = 'V53 VMEシステムで遊ぶ #3 Hello world'
-slug = 'v53-vme-system-3'
-tags = ["V53", "DVE-V53", "VME"]
-categories = ["Retro Computing"]
-image = 'v53-vme-system-3-rom-probe.jpg'
-+++
+---
+date: '2026-01-12T08:26:41+09:00'
+title: 'V53 VMEシステムで遊ぶ #3 Hello world'
+slug: 'v53-vme-system-3'
+tags:
+  - 'V53'
+  - 'DVE-V53'
+  - 'VME'
+categories:
+  - 'Retro Computing'
+image: 'v53-vme-system-3-rom-probe.jpg'
+---
 
 [前回](/2026/01/v53-vme-system-2.html)はVMEラックから取り外したV53 CPUボードの構成からある程度の機能を推測しましたが、今回は実際にCPUボードを動かしてみます。V53には内蔵ペリフェラルでシリアル入出力機能をもっているので、Hello worldとしてシリアル出力に挑戦します。
 

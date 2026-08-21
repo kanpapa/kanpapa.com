@@ -1,11 +1,18 @@
-+++
-date = '2026-07-31T09:11:53+09:00'
-title = 'DEC AXPvme230で遊ぶ #12 VMEラックを整備する'
-slug = 'axpvme-vme-12'
-tags = ["DEC", "AXPvme", "VME", "DECalpha", "AlphaAXP", "NetBSD"]
-categories = ["Retro Computing"]
-image = 'axpvme230-vme-rack.jpg'
-+++
+---
+date: '2026-07-31T09:11:53+09:00'
+title: 'DEC AXPvme230で遊ぶ #12 VMEラックを整備する'
+slug: 'axpvme-vme-12'
+tags:
+  - 'DEC'
+  - 'AXPvme'
+  - 'VME'
+  - 'DECalpha'
+  - 'AlphaAXP'
+  - 'NetBSD'
+categories:
+  - 'Retro Computing'
+image: 'axpvme230-vme-rack.jpg'
+---
 
 [前回](/2026/07/axpvme-vme-11.html)は[DEC AXPvme230](/2026/06/axpvme-vme-1.html)のPCI LANカードにネットワークを接続して100Mbpsに高速化しました。今回はVMEラックを含む動作環境の整備を行います。
 

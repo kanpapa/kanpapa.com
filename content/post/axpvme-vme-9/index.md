@@ -1,11 +1,18 @@
-+++
-date = '2026-07-12T08:39:15+09:00'
-title = 'DEC AXPvme230で遊ぶ #9 Dual Slot Breakoutボードの設計'
-slug = 'axpvme-vme-9'
-tags = ["DEC", "AXPvme", "VME", "DECalpha", "AlphaAXP", "NetBSD"]
-categories = ["Retro Computing"]
-image = 'axpvme-vme-rack-backplane-back.jpg'
-+++
+---
+date: '2026-07-12T08:39:15+09:00'
+title: 'DEC AXPvme230で遊ぶ #9 Dual Slot Breakoutボードの設計'
+slug: 'axpvme-vme-9'
+tags:
+  - 'DEC'
+  - 'AXPvme'
+  - 'VME'
+  - 'DECalpha'
+  - 'AlphaAXP'
+  - 'NetBSD'
+categories:
+  - 'Retro Computing'
+image: 'axpvme-vme-rack-backplane-back.jpg'
+---
 
 [前回](/2026/07/axpvme-vme-8.html)は[DEC AXPvme230](/2026/06/axpvme-vme-1.html)で動くようになった[NetBSD/alpha](https://wiki.netbsd.org/ports/alpha/)からインターネットに接続して、NetBSDのFTPサーバーやパッケージのインストールを試しました。  
 まだまだ試したいこともあるのですが、現在のワークベンチ環境はボードを机の上に平置きにして扇風機でエアフローを当てて何とか動かしている状態です。  

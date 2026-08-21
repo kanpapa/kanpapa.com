@@ -1,11 +1,18 @@
-+++
-date = '2026-07-21T13:41:49+09:00'
-title = 'DEC AXPvme230で遊ぶ #10 VMEラックに実装する'
-slug = 'axpvme-vme-10'
-tags = ["DEC", "AXPvme", "VME", "DECalpha", "AlphaAXP", "NetBSD"]
-categories = ["Retro Computing"]
-image = 'axpvme230-vme-rack-led-g.jpg'
-+++
+---
+date: '2026-07-21T13:41:49+09:00'
+title: 'DEC AXPvme230で遊ぶ #10 VMEラックに実装する'
+slug: 'axpvme-vme-10'
+tags:
+  - 'DEC'
+  - 'AXPvme'
+  - 'VME'
+  - 'DECalpha'
+  - 'AlphaAXP'
+  - 'NetBSD'
+categories:
+  - 'Retro Computing'
+image: 'axpvme230-vme-rack-led-g.jpg'
+---
 
 [前回](/2026/07/axpvme-vme-9.html)は[DEC AXPvme230](/2026/06/axpvme-vme-1.html)をVMEラックに実装するために必要なDual Slot Breakout基板の設計と発注まで行いました。今回はDual Slot Breakout基板を製作して、AXPvme230をVMEラックに搭載して動かしてみます。
 

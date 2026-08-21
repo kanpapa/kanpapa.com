@@ -1,11 +1,15 @@
-+++
-date = '2026-01-29T08:27:00+09:00'
-title = 'V53 VMEシステムで遊ぶ #7 Lチカを試す'
-slug = 'v53-vme-system-7'
-tags = ["V53", "DVE-V53", "VME"]
-categories = ["Retro Computing"]
-image = 'v53-vme-system-7-led-blink.jpg'
-+++
+---
+date: '2026-01-29T08:27:00+09:00'
+title: 'V53 VMEシステムで遊ぶ #7 Lチカを試す'
+slug: 'v53-vme-system-7'
+tags:
+  - 'V53'
+  - 'DVE-V53'
+  - 'VME'
+categories:
+  - 'Retro Computing'
+image: 'v53-vme-system-7-led-blink.jpg'
+---
 
 [前回](/2026/01/v53-vme-system-6.html)はCPUボードに実装されているuPD71051(USART)の動作確認を行いました。モニタコンソール以外にもシリアル出力ができるようになったので解析が捗りそうです。今回はuPD71055(PPI)の動作確認を行います。
 

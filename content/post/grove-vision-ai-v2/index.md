@@ -1,11 +1,18 @@
-+++
-date = '2026-08-09T08:11:53+09:00'
-title = 'Grove Vision AI V2でSenseCraft AIを試す'
-slug = 'grove-vision-ai-v2'
-tags = ["ESP32","Xiao","grove","電子工作","IoT","SenseCraftAI"]
-categories = ["Electronics"]
-image = 'grove-vision-ai-v2.jpg'
-+++
+---
+date: '2026-08-09T08:11:53+09:00'
+title: 'Grove Vision AI V2でSenseCraft AIを試す'
+slug: 'grove-vision-ai-v2'
+tags:
+  - 'ESP32'
+  - 'Xiao'
+  - 'grove'
+  - '電子工作'
+  - 'IoT'
+  - 'SenseCraftAI'
+categories:
+  - 'Electronics'
+image: 'grove-vision-ai-v2.jpg'
+---
 
 [電子工作初心者勉強会でESP32S3 SenseとSenseCraft AIを試してみました](/2026/08/otafab-esp32-arduino-sensecraft-ai-1.html)が、他にもエッジデバイスとして[Grove Vision AI V2](https://wiki.seeedstudio.com/ja/grove_vision_ai_v2/)というものがあることを知りました。こちらはNPUを搭載していて高速化が期待できそうなので、こちらも試してみることにしました。
 

@@ -1,11 +1,16 @@
-+++
-date = '2026-02-24T14:42:58+09:00'
-title = 'V53 VMEシステムで遊ぶ #14 ELKSを動かす'
-slug = 'v53-vme-system-14-elks-1'
-tags = ["V53", "DVE-V53", "VME", "ELKS"]
-categories = ["Retro Computing"]
-image = 'v53-vme-elks-login1.png'
-+++
+---
+date: '2026-02-24T14:42:58+09:00'
+title: 'V53 VMEシステムで遊ぶ #14 ELKSを動かす'
+slug: 'v53-vme-system-14-elks-1'
+tags:
+  - 'V53'
+  - 'DVE-V53'
+  - 'VME'
+  - 'ELKS'
+categories:
+  - 'Retro Computing'
+image: 'v53-vme-elks-login1.png'
+---
 
 [前回](/2026/02/v53-vme-system-13.html)は、NASCOM BASICをV53 VMEボードで動かしてベンチマークテストを行いました。今回は8086系の組み込み向けLinuxである[ELKS](https://github.com/ghaerr/elks)をV53 VMEシステムで動かしてみます。
 

@@ -1,11 +1,17 @@
-+++
-date = '2026-06-19T07:57:04+09:00'
-title = 'DEC AXPvme230で遊ぶ #3 AXPvme230の起動確認'
-slug = 'axpvme-vme-3'
-tags = ["DEC", "AXPvme", "VME", "DECAlpha", "AlphaAXP"]
-categories = ["Retro Computing"]
-image = 'axpvme230-front-panel-led-0.jpg'
-+++
+---
+date: '2026-06-19T07:57:04+09:00'
+title: 'DEC AXPvme230で遊ぶ #3 AXPvme230の起動確認'
+slug: 'axpvme-vme-3'
+tags:
+  - 'DEC'
+  - 'AXPvme'
+  - 'VME'
+  - 'DECAlpha'
+  - 'AlphaAXP'
+categories:
+  - 'Retro Computing'
+image: 'axpvme230-front-panel-led-0.jpg'
+---
 
 [前回](/2026/06/axpvme-vme-2.html)はAXPvme230ボードのブレークアウト基板を設計し発注まで行いました。今回はその基板を使用してAXPvme230の実機に電源を投入して正常に起動できるかの確認を行います。
 

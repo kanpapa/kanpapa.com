@@ -1,11 +1,18 @@
-+++
-date = '2026-07-26T11:49:39+09:00'
-title = 'DEC AXPvme230で遊ぶ #11 PCI LANカードで100Mbpsにする'
-slug = 'axpvme-vme-11'
-tags = ["DEC", "AXPvme", "VME", "DECalpha", "AlphaAXP", "NetBSD"]
-categories = ["Retro Computing"]
-image = 'axpvme-pci-lan-100m.jpg'
-+++
+---
+date: '2026-07-26T11:49:39+09:00'
+title: 'DEC AXPvme230で遊ぶ #11 PCI LANカードで100Mbpsにする'
+slug: 'axpvme-vme-11'
+tags:
+  - 'DEC'
+  - 'AXPvme'
+  - 'VME'
+  - 'DECalpha'
+  - 'AlphaAXP'
+  - 'NetBSD'
+categories:
+  - 'Retro Computing'
+image: 'axpvme-pci-lan-100m.jpg'
+---
 
 [前回](/2026/07/axpvme-vme-10.html)は[DEC AXPvme230](/2026/06/axpvme-vme-1.html)をVMEラックに搭載して動作確認を行いました。次のステップとして現在利用できていないPCI LANカードにネットワークを接続して100Mbpsに高速化します。
 

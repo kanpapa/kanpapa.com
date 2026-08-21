@@ -1,11 +1,18 @@
-+++
-date = '2026-02-13T09:24:51+09:00'
-title = '未サポートのESP32C6をArduino Cloudで使ってみた'
-slug = 'otafab-esp32-arduino-cloud-esp32c6'
-tags = ["Arduino","ESP32","Otafab","Xiao","電子工作","IoT"]
-categories = ["Electronics"]
-image = 'esp32-c6-bme280-board.jpg'
-+++
+---
+date: '2026-02-13T09:24:51+09:00'
+title: '未サポートのESP32C6をArduino Cloudで使ってみた'
+slug: 'otafab-esp32-arduino-cloud-esp32c6'
+tags:
+  - 'Arduino'
+  - 'ESP32'
+  - 'Otafab'
+  - 'Xiao'
+  - '電子工作'
+  - 'IoT'
+categories:
+  - 'Electronics'
+image: 'esp32-c6-bme280-board.jpg'
+---
 
 [おおたfab](https://ot-fb.com/event)さんでは電子工作初心者勉強会を定期的に開催しています。
 

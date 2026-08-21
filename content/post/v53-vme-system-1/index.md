@@ -1,11 +1,15 @@
-+++
-date = '2026-01-05T10:22:32+09:00'
-slug = 'v53-vme-system-1'
-title = 'V53 VMEシステムで遊ぶ #1 VMEラックの入手'
-tags = ["V53", "DVE-V53", "VME"]
-categories = ["Retro Computing"]
-image = 'v53-vme-system-1.jpg'
-+++
+---
+date: '2026-01-05T10:22:32+09:00'
+slug: 'v53-vme-system-1'
+title: 'V53 VMEシステムで遊ぶ #1 VMEラックの入手'
+tags:
+  - 'V53'
+  - 'DVE-V53'
+  - 'VME'
+categories:
+  - 'Retro Computing'
+image: 'v53-vme-system-1.jpg'
+---
 
 ## 探し続けたVMEラック
 

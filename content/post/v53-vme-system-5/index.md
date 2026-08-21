@@ -1,11 +1,15 @@
-+++
-date = '2026-01-18T08:08:43+09:00'
-title = 'V53 VMEシステムで遊ぶ #5 モニタの強化'
-slug = 'v53-vme-system-5'
-tags = ["V53", "DVE-V53", "VME"]
-categories = ["Retro Computing"]
-image = 'v53-vme-system-5-peripheral.jpg'
-+++
+---
+date: '2026-01-18T08:08:43+09:00'
+title: 'V53 VMEシステムで遊ぶ #5 モニタの強化'
+slug: 'v53-vme-system-5'
+tags:
+  - 'V53'
+  - 'DVE-V53'
+  - 'VME'
+categories:
+  - 'Retro Computing'
+image: 'v53-vme-system-5-peripheral.jpg'
+---
 
 [前回](/2026/01/v53-vme-system-4.html)はCPUボードのオンボードRAMを使えるようにしました。今回はROMに実装した簡易モニタにより、I/O空間の探索やメモリの書き換え機能など解析に便利な機能を追加したモニタをメモリにロードして使えるようにします。
 

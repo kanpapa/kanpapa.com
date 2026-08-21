@@ -1,11 +1,13 @@
-+++
-date = '2026-03-30T08:44:47+09:00'
-title = '300円の手のひら静脈認証デバイスを試してみました'
-categories = ["Electronics"]
-slug = '300yen-palmsecure-sl'
-tags = ["PalmSecure"]
-image = 'palmsecure-sl.jpg'
-+++
+---
+date: '2026-03-30T08:44:47+09:00'
+title: '300円の手のひら静脈認証デバイスを試してみました'
+categories:
+  - 'Electronics'
+slug: '300yen-palmsecure-sl'
+tags:
+  - 'PalmSecure'
+image: 'palmsecure-sl.jpg'
+---
 
 > **【注意】** 本記事の内容はあくまでも実験です。Windowsの環境が壊れる可能性もありますので、自己責任で使用してください。販売店およびメーカーには決して問い合わせをしないでください。
 

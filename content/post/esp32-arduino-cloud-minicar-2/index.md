@@ -1,11 +1,18 @@
-+++
-date = '2026-05-10T17:08:40+09:00'
-title = 'ESP32ミニカーをArduino Cloudで動かす #2（おおたfab 電子工作初心者勉強会 第44回）'
-slug = 'otafab-esp32-arduino-cloud-minicar-2'
-tags = ["Arduino","ESP32","Otafab","Xiao","電子工作","IoT"]
-categories = ["Electronics"]
-image = 'esp32-arduino-cloud-minicar-2.jpg'
-+++
+---
+date: '2026-05-10T17:08:40+09:00'
+title: 'ESP32ミニカーをArduino Cloudで動かす #2（おおたfab 電子工作初心者勉強会 第44回）'
+slug: 'otafab-esp32-arduino-cloud-minicar-2'
+tags:
+  - 'Arduino'
+  - 'ESP32'
+  - 'Otafab'
+  - 'Xiao'
+  - '電子工作'
+  - 'IoT'
+categories:
+  - 'Electronics'
+image: 'esp32-arduino-cloud-minicar-2.jpg'
+---
 
 [おおたfab](https://ot-fb.com/event)さんでは電子工作初心者勉強会を定期的に開催しています。
 

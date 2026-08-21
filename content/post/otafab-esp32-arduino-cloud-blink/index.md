@@ -1,11 +1,18 @@
-+++
-date = '2026-02-11T08:17:33+09:00'
-title = 'ESP32でArduino Cloudを使ってみた（おおたfab 電子工作初心者勉強会）'
-slug = 'otafab-esp32-arduino-cloud-blink'
-tags = ["Arduino","ESP32","Otafab","Xiao","電子工作","IoT"]
-categories = ["Electronics"]
-image = 'esp32c3-bme280-led.jpg'
-+++
+---
+date: '2026-02-11T08:17:33+09:00'
+title: 'ESP32でArduino Cloudを使ってみた（おおたfab 電子工作初心者勉強会）'
+slug: 'otafab-esp32-arduino-cloud-blink'
+tags:
+  - 'Arduino'
+  - 'ESP32'
+  - 'Otafab'
+  - 'Xiao'
+  - '電子工作'
+  - 'IoT'
+categories:
+  - 'Electronics'
+image: 'esp32c3-bme280-led.jpg'
+---
 
 [おおたfab](https://ot-fb.com/event)さんでは電子工作初心者勉強会を定期的に開催しています。
 

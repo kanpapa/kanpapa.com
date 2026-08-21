@@ -1,11 +1,19 @@
-+++
-date = '2026-08-07T11:25:00+09:00'
-title = 'ESP32S3 SenseでSenseCraft AIを試す #1（おおたfab 電子工作初心者勉強会 第46回）'
-slug = 'otafab-esp32-arduino-sensecraft-ai-1'
-tags = ["Arduino","ESP32","Otafab","Xiao","電子工作","IoT","SenseCraftAI"]
-categories = ["Electronics"]
-image = 'esp32s3-sense.jpg'
-+++
+---
+date: '2026-08-07T11:25:00+09:00'
+title: 'ESP32S3 SenseでSenseCraft AIを試す #1（おおたfab 電子工作初心者勉強会 第46回）'
+slug: 'otafab-esp32-arduino-sensecraft-ai-1'
+tags:
+  - 'Arduino'
+  - 'ESP32'
+  - 'Otafab'
+  - 'Xiao'
+  - '電子工作'
+  - 'IoT'
+  - 'SenseCraftAI'
+categories:
+  - 'Electronics'
+image: 'esp32s3-sense.jpg'
+---
 
 [おおたfab](https://ot-fb.com/event)さんでは電子工作初心者勉強会を定期的に開催しています。  
 [前回](/2026/05/otafab-esp32-arduino-cloud-minicar-2.html)は[Arduino Cloud](https://cloud.arduino.cc/)のダッシュボードからミニカーのマイコン(XIAO ESP32C3)を制御できることを確認し、そのマイコンをミニカーに載せて実際に走らすことができました。

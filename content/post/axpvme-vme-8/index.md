@@ -1,11 +1,18 @@
-+++
-date = '2026-07-07T19:49:04+09:00'
-title = 'DEC AXPvme230で遊ぶ #8 インターネットに接続する'
-slug = 'axpvme-vme-8'
-tags = ["DEC", "AXPvme", "VME", "DECalpha", "AlphaAXP", "NetBSD"]
-categories = ["Retro Computing"]
-image = 'asciiart-basic.png'
-+++
+---
+date: '2026-07-07T19:49:04+09:00'
+title: 'DEC AXPvme230で遊ぶ #8 インターネットに接続する'
+slug: 'axpvme-vme-8'
+tags:
+  - 'DEC'
+  - 'AXPvme'
+  - 'VME'
+  - 'DECalpha'
+  - 'AlphaAXP'
+  - 'NetBSD'
+categories:
+  - 'Retro Computing'
+image: 'asciiart-basic.png'
+---
 
 [前回](/2026/07/axpvme-vme-7.html)はClaude Codeに手伝ってもらって[AXPvme230](/2026/06/axpvme-vme-1.html)に[NetBSD/alpha](https://wiki.netbsd.org/ports/alpha/)をポーティングすることができました。スタンドアロン環境では問題なく動作しているようです。  
 今回は実験ネットワークからインターネットに接続して、NetBSD/alphaのパッケージをインストールしてアプリケーションを動かしてみます。

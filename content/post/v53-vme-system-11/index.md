@@ -1,11 +1,15 @@
-+++
-date = '2026-02-03T08:09:49+09:00'
-title = 'V53 VMEシステムで遊ぶ #11 VMEシステムを起動する'
-slug = 'v53-vme-system-11'
-tags = ["V53", "DVE-V53", "VME"]
-categories = ["Retro Computing"]
-image = 'v53-vme-system-11-eyecatch.jpg'
-+++
+---
+date: '2026-02-03T08:09:49+09:00'
+title: 'V53 VMEシステムで遊ぶ #11 VMEシステムを起動する'
+slug: 'v53-vme-system-11'
+tags:
+  - 'V53'
+  - 'DVE-V53'
+  - 'VME'
+categories:
+  - 'Retro Computing'
+image: 'v53-vme-system-11-eyecatch.jpg'
+---
 
 [前回](/2026/02/v53-vme-system-10.html)までの調査でV53 CPUボードをある程度制御下に置くことができましたので、今回はCPUボードをVMEラックに戻してVMEシステムとしての仕様を調査していきます。
 

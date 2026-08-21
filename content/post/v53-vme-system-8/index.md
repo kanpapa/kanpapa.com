@@ -1,11 +1,15 @@
-+++
-date = '2026-01-29T12:40:27+09:00'
-title = 'V53 VMEシステムで遊ぶ #8 NMIでレジスタを表示する'
-slug = 'v53-vme-system-8'
-tags = ["V53", "DVE-V53", "VME"]
-categories = ["Retro Computing"]
-image = 'v53-vme-system-8-abort-switch.jpg'
-+++
+---
+date: '2026-01-29T12:40:27+09:00'
+title: 'V53 VMEシステムで遊ぶ #8 NMIでレジスタを表示する'
+slug: 'v53-vme-system-8'
+tags:
+  - 'V53'
+  - 'DVE-V53'
+  - 'VME'
+categories:
+  - 'Retro Computing'
+image: 'v53-vme-system-8-abort-switch.jpg'
+---
 
 [前回](/2026/01/v53-vme-system-7.html)はCPUボードに実装されているuPD71055(PPI)でLチカを行いました。次のPIC（割り込みコントローラ）の動作確認の前に、割り込みの一つであるNMIを調査します。NMIはNon-maskable interruptでマスクできない割り込みです。CPUボードにはABORTスイッチがあり、多分NMIに接続されていると思われます。
 

@@ -1,11 +1,17 @@
-+++
-date = '2026-06-12T10:12:56+09:00'
-title = 'DEC AXPvme230で遊ぶ #2 Breakoutボードの設計'
-slug = 'axpvme-vme-2'
-tags = ["DEC", "AXPvme", "VME", "DECAlpha", "AlphaAXP"]
-categories = ["Retro Computing"]
-image = 'axpvme230_p2_breakout_board_3d.jpg'
-+++
+---
+date: '2026-06-12T10:12:56+09:00'
+title: 'DEC AXPvme230で遊ぶ #2 Breakoutボードの設計'
+slug: 'axpvme-vme-2'
+tags:
+  - 'DEC'
+  - 'AXPvme'
+  - 'VME'
+  - 'DECAlpha'
+  - 'AlphaAXP'
+categories:
+  - 'Retro Computing'
+image: 'axpvme230_p2_breakout_board_3d.jpg'
+---
 
 [前回](/2026/06/axpvme-vme-1.html)はAXPvme230ボードの実機を入手して外観からボードの仕様を確認しました。レガシーなVMEボードですので実際に動作させるためにはいくつかの課題が見つかりましたが、１つずつ問題をつぶしていくことにします。
 

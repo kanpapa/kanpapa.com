@@ -1,11 +1,15 @@
-+++
-date = '2026-01-06T13:04:00+09:00'
-slug = 'v53-vme-system-2'
-title = 'V53 VMEシステムで遊ぶ #2 CPUボードの概要'
-tags = ["V53", "DVE-V53", "VME"]
-categories = ["Retro Computing"]
-image = 'v53-vme-system-2-cpu-board1.jpg'
-+++
+---
+date: '2026-01-06T13:04:00+09:00'
+slug: 'v53-vme-system-2'
+title: 'V53 VMEシステムで遊ぶ #2 CPUボードの概要'
+tags:
+  - 'V53'
+  - 'DVE-V53'
+  - 'VME'
+categories:
+  - 'Retro Computing'
+image: 'v53-vme-system-2-cpu-board1.jpg'
+---
 
 実はVMEラックを触るのは今回が初めてです。取り扱い方法を間違えて壊さないようにじっくり確認しながら作業を進めます。  
 

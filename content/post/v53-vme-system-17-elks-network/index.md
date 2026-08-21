@@ -1,11 +1,16 @@
-+++
-date = '2026-03-12T11:35:37+09:00'
-title = 'V53 VMEシステムで遊ぶ #17 ELKSでIPネットワークに接続する'
-slug = 'v53-vme-system-17-elks-network'
-tags = ["V53", "DVE-V53", "VME", "ELKS"]
-categories = ["Retro Computing"]
-image = 'v53-vme-elks-network.jpg'
-+++
+---
+date: '2026-03-12T11:35:37+09:00'
+title: 'V53 VMEシステムで遊ぶ #17 ELKSでIPネットワークに接続する'
+slug: 'v53-vme-system-17-elks-network'
+tags:
+  - 'V53'
+  - 'DVE-V53'
+  - 'VME'
+  - 'ELKS'
+categories:
+  - 'Retro Computing'
+image: 'v53-vme-elks-network.jpg'
+---
 
 [前回](/2026/03/v53-vme-system-16-elks-3.html)は、8086系の組み込み向けLinuxである[ELKS](https://github.com/ghaerr/elks)をV53 VMEシステムで動かしてRAMDISKを使えるようにしました。
 今回はV53 VMEシステムに搭載されているUSARTのシリアルドライバを作成してIPネットワークに接続してみます。

@@ -1,11 +1,15 @@
-+++
-date = '2026-01-23T08:18:55+09:00'
-title = 'V53 VMEシステムで遊ぶ #6 USARTを攻略する'
-slug = 'v53-vme-system-6'
-tags = ["V53", "DVE-V53", "VME"]
-categories = ["Retro Computing"]
-image = 'v53-vme-system-6-w2-1.jpg'
-+++
+---
+date: '2026-01-23T08:18:55+09:00'
+title: 'V53 VMEシステムで遊ぶ #6 USARTを攻略する'
+slug: 'v53-vme-system-6'
+tags:
+  - 'V53'
+  - 'DVE-V53'
+  - 'VME'
+categories:
+  - 'Retro Computing'
+image: 'v53-vme-system-6-w2-1.jpg'
+---
 
 [前回](/2026/01/v53-vme-system-5.html)はRAM上で動作するモニタにI/O関連のコマンドを追加して、外部ペリフェラルの調査ができるようにしました。今回はI/Oコマンドの結果からペリフェラルにアクセスしてみます。
 
