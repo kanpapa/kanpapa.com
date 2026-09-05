@@ -30,7 +30,7 @@ Hugoのコマンドを使用して、記事の雛形（Markdownファイル）�
 ```bash
 # 書式: hugo new content post/[ディレクトリ名]/index.md
 # 例:
-hugo new content post/my-new-article/index.md
+hugo new content post/2026/08/my-new-article/index.md
 ```
 
 Note: ディレクトリ名はそのままURLの一部（スラッグ）になります。日本語のディレクトリ名は避け、英数字（ハイフン区切り）を設定します。
@@ -39,15 +39,21 @@ Note: ディレクトリ名はそのままURLの一部（スラッグ）にな�
 生成された .md ファイルをテキストエディタ（VS Codeなど）で開きます。 ファイルの先頭には Front Matter（設定領域）がテンプレートarchetypes/post.mdで設定されているので、適切な内容に編集し、その下に本文をMarkdownで記述します。
 
 ```Markdown
-+++
-date = '2025-12-29T11:28:12+09:00'
-title = '投稿テスト7'
-slug = 'test7'
-image = 'test7.jpg'
-categories = ["electronics", "retrocomputing"]
-tags = ["arduino", "esp32"]
-draft = true
-+++
+---
+date: '2026-08-09T08:11:53+09:00'
+title: 'Grove Vision AI V2でSenseCraft AIを試す'
+slug: 'grove-vision-ai-v2'
+tags:
+  - 'ESP32'
+  - 'Xiao'
+  - 'grove'
+  - '電子工作'
+  - 'IoT'
+  - 'SenseCraftAI'
+categories:
+  - 'Electronics'
+image: 'grove-vision-ai-v2.jpg'
+---
 
 （ここから本文をMarkdownで記述）
 
