@@ -42,6 +42,7 @@ Note: ディレクトリ名はそのままURLの一部（スラッグ）にな�
 ---
 date: '2026-08-09T08:11:53+09:00'
 title: 'Grove Vision AI V2でSenseCraft AIを試す'
+draft: true
 slug: 'grove-vision-ai-v2'
 tags:
   - 'ESP32'
