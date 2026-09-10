@@ -36,7 +36,7 @@ Arduino Cloudのクラウド変数を使って、ダッシュボードにミニ�
 
 [これまでの勉強会](https://kanpapa.com/2025/12/otafab-esp32-minicar7.html)で作成したスケッチを使用します。ただしこのスケッチはXIAO ESP32C6用なのでGPIO番号を修正する必要があります。
 
-* [esp32_mouse2_move_to_4_direction_and_rolate_8.ino](https://github.com/kanpapa/esp32-minicar/blob/main/Arduino/esp32_mouse2_move_to_4_direction_and_rolate_8/esp32_mouse2_move_to_4_direction_and_rolate_8.ino)
+* [esp32_mouse2_move_to_4_direction_and_rolate_8.ino](https://github.com/kanpapa/esp32-robotcar/blob/main/Arduino/esp32_mouse2_move_to_4_direction_and_rolate_8/esp32_mouse2_move_to_4_direction_and_rolate_8.ino)
 
 ## ミニカーの回路図
 

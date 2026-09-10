@@ -20,11 +20,11 @@ image: otafab-esp32-minicar7.jpg
 
 ## Geminiはソースコードをどこまで理解できるのか
 
-今回はGeminiの助けを借りてプログラミングします。まずは[これまでArduino IDEで作成したスケッチ](https://github.com/kanpapa/esp32-minicar/blob/main/Arduino/esp32_mouse2_move_to_4_direction_and_rolate_0/esp32_mouse2_move_to_4_direction_and_rolate_0.ino)を読み込ませて、仕様書をまとめてもらうことでどこまで理解しているのかを試してみます。プロンプトは極力シンプルなものにしました。
+今回はGeminiの助けを借りてプログラミングします。まずは[これまでArduino IDEで作成したスケッチ](https://github.com/kanpapa/esp32-robotcar/blob/main/Arduino/esp32_mouse2_move_to_4_direction_and_rolate_0/esp32_mouse2_move_to_4_direction_and_rolate_0.ino)を読み込ませて、仕様書をまとめてもらうことでどこまで理解しているのかを試してみます。プロンプトは極力シンプルなものにしました。
 
 「このプログラムの仕様書を作成してください。」
 
-表示された結果は素晴らしいものでソースコードのコメントも使って分析しているようです。一部を以下に示します。全文は[GitHub](https://github.com/kanpapa/esp32-minicar/blob/main/Arduino/esp32_mouse2_move_to_4_direction_and_rolate_0/README.md)に登録しました。
+表示された結果は素晴らしいものでソースコードのコメントも使って分析しているようです。一部を以下に示します。全文は[GitHub](https://github.com/kanpapa/esp32-robotcar/blob/main/Arduino/esp32_mouse2_move_to_4_direction_and_rolate_0/README.md)に登録しました。
 
 > **XIAO ESP32C6 Micro-Mouse Robot Control**
 >
@@ -56,13 +56,13 @@ image: otafab-esp32-minicar7.jpg
 
 「ロボットがどの動きを行っているのかOLEDに英語で表示するようにプログラムを修正してください。」
 
-* [Ver.1 プロンプトと結果](https://github.com/kanpapa/esp32-minicar/tree/main/Arduino/esp32_mouse2_move_to_4_direction_and_rolate_1)
+* [Ver.1 プロンプトと結果](https://github.com/kanpapa/esp32-robotcar/tree/main/Arduino/esp32_mouse2_move_to_4_direction_and_rolate_1)
 
 若干文字が小さく動いているときに確認しにくかったので、動きの表示を大きくしてもらい視認性を高めてもらいました。
 
 「距離表示を一旦コメントにしておいて、動きの表示を最大限大きな文字で表示するようにしてください。動作時間は1000ミリ秒のところをすべて5000ミリ秒にしてください。」
 
-* [Ver.2 プロンプトと結果](https://github.com/kanpapa/esp32-minicar/tree/main/Arduino/esp32_mouse2_move_to_4_direction_and_rolate_2)
+* [Ver.2 プロンプトと結果](https://github.com/kanpapa/esp32-robotcar/tree/main/Arduino/esp32_mouse2_move_to_4_direction_and_rolate_2)
 
 いずれも指示した通りにスケッチを修正してくれました。コンパイルエラーもなく満足できるものでした。
 
@@ -72,17 +72,17 @@ image: otafab-esp32-minicar7.jpg
 
 「今の状態はいろいろな動きをするようにしていますが、これを一旦コメントアウトしておいて、右方向に90度を4回曲がるプログラムに修正してください。」
 
-* [Ver.3 プロンプトと結果](https://github.com/kanpapa/esp32-minicar/tree/main/Arduino/esp32_mouse2_move_to_4_direction_and_rolate_3)
+* [Ver.3 プロンプトと結果](https://github.com/kanpapa/esp32-robotcar/tree/main/Arduino/esp32_mouse2_move_to_4_direction_and_rolate_3)
 
 やはり一度では思ったような動きにならなかったので何回か指示して調整していきます。
 
 「回転させる時間を400ミリ秒に修正し、それぞれの回転の間に1000ミリ秒直進の動作を追加して四角形を描くように移動させてください。」
 
-* [Ver.4 プロンプトと結果](https://github.com/kanpapa/esp32-minicar/tree/main/Arduino/esp32_mouse2_move_to_4_direction_and_rolate_4)
+* [Ver.4 プロンプトと結果](https://github.com/kanpapa/esp32-robotcar/tree/main/Arduino/esp32_mouse2_move_to_4_direction_and_rolate_4)
 
 「回転の時間を600ミリ秒に修正し、直進動作を2000ミリ秒に修正してください。」
 
-* [Ver.5 プロンプトと結果](https://github.com/kanpapa/esp32-minicar/tree/main/Arduino/esp32_mouse2_move_to_4_direction_and_rolate_5)
+* [Ver.5 プロンプトと結果](https://github.com/kanpapa/esp32-robotcar/tree/main/Arduino/esp32_mouse2_move_to_4_direction_and_rolate_5)
 
 指示を行うとその動きをスケッチに反映してくれました。
 
@@ -96,17 +96,17 @@ image: otafab-esp32-minicar7.jpg
 
 「600ミリ秒で90度回転するようになりました。このロボットで迷路を脱出するアルゴリズムを実装してください。」
 
-* [Ver.6 プロンプトと結果](https://github.com/kanpapa/esp32-minicar/tree/main/Arduino/esp32_mouse2_move_to_4_direction_and_rolate_6)
+* [Ver.6 プロンプトと結果](https://github.com/kanpapa/esp32-robotcar/tree/main/Arduino/esp32_mouse2_move_to_4_direction_and_rolate_6)
 
 一回めのプログラムでは、若干想定した動きとは異なったので実際に動きを確認しながらプロンプトでスケッチを調整していきました。
 
 「距離測定後、2秒間前進してしまいます。走行中も常に距離測定を行い、常に衝突判定をしてください。」
 
-* [Ver.7 プロンプトと結果](https://github.com/kanpapa/esp32-minicar/tree/main/Arduino/esp32_mouse2_move_to_4_direction_and_rolate_7)
+* [Ver.7 プロンプトと結果](https://github.com/kanpapa/esp32-robotcar/tree/main/Arduino/esp32_mouse2_move_to_4_direction_and_rolate_7)
 
 「回転動作の際に、ほぼ180度回転して後ろに戻ってしまいます。修正してください。」
 
-* [Ver.8 プロンプトと結果](https://github.com/kanpapa/esp32-minicar/tree/main/Arduino/esp32_mouse2_move_to_4_direction_and_rolate_8)
+* [Ver.8 プロンプトと結果](https://github.com/kanpapa/esp32-robotcar/tree/main/Arduino/esp32_mouse2_move_to_4_direction_and_rolate_8)
 
 このように何度か状況を伝えてプログラムを修正していくことで目的の動作ができるようになりました。
 
@@ -122,12 +122,12 @@ image: otafab-esp32-minicar7.jpg
 
 「無事想定通りの動作になりました。本日の検討内容を要約してください。」
 
-* [開発ログ: ESP32ミニカー　迷路脱出アルゴリズムの実装](https://github.com/kanpapa/esp32-minicar/blob/main/Arduino/DEVLOG.md)
+* [開発ログ: ESP32ミニカー　迷路脱出アルゴリズムの実装](https://github.com/kanpapa/esp32-robotcar/blob/main/Arduino/DEVLOG.md)
 
 また次のステップについても提案してもらいました。
 「このロボットを使って迷路以外の面白そうな動作はできますか？」
 
-* [アイデア集: 迷路探索以外の動作パターン](https://github.com/kanpapa/esp32-minicar/blob/main/Arduino/NEXTSTEP.md)
+* [アイデア集: 迷路探索以外の動作パターン](https://github.com/kanpapa/esp32-robotcar/blob/main/Arduino/NEXTSTEP.md)
 
 
 このようにGeminiを活用することで今後の電子工作初心者勉強会も楽しいものになりそうです。
