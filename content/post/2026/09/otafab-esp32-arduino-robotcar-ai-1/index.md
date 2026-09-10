@@ -1,7 +1,6 @@
 ---
 date: '2026-09-03T12:02:24+09:00'
-draft: true
-title: 'AIでESP32ロボットカーを動かす #1（おおたfab電子工作初心者勉強会 第47回）'
+title: 'ESP32ロボットカーをAIで動かす #1（おおたfab電子工作初心者勉強会 第47回）'
 slug: 'otafab-esp32-arduino-robotcar-ai-1'
 tags:
   - 'Arduino'
@@ -13,11 +12,11 @@ tags:
   - 'SenseCraftAI'
 categories:
   - 'Electronics'
-image: 'esp32-robotcar-esp32sense-1.jpg'
+image: 'esp32-robotcar-esp32s3-sense-1.jpg'
 ---
 
 [おおたfab](https://ot-fb.com/event)さんでは電子工作初心者勉強会を定期的に開催しています。  
-[前回](/2026/08/otafab-esp32-arduino-sensecraft-ai-1.html)はSeeedStudioのXIAO ESP32S3 SenseとSenseCraft AIで物体認識ができることを確認しました。
+[前回](/2026/08/otafab-esp32-arduino-sensecraft-ai-1.html)はSeeedStudioの[XIAO ESP32S3 Sense](https://wiki.seeedstudio.com/ja/xiao_esp32s3_getting_started/)と[SenseCraft AI](https://sensecraft.seeed.cc/ai/home/)で物体認識ができることを確認しました。
 今回はこの仕組みを用いて、実際に走るロボットカーに応用してみます。
 
 ## ロボットカーの基本構成
@@ -28,23 +27,23 @@ image: 'esp32-robotcar-esp32sense-1.jpg'
 
 ESP32ロボットカーを構成している主要パーツは以下の通りです。なるべく安価で様々な実験ができるようにしています。
 
-- マイコン：XIAO ESP32C3
-- モータ：DCモータ 2個
-- モータードライバ：DRV8835
-- 超音波距離センサー：HC-SR04
-- モーター電源：単３電池 2本
-- マイコン電源：モバイルバッテリー
-- 本体シャーシ：秋月電子のキット
+- マイコン：[XIAO ESP32C3](https://akizukidenshi.com/catalog/g/g117454/)
+- モータ：DCモータ 2個（本体シャーシに搭載）
+- モータードライバ：[DRV8835](https://akizukidenshi.com/catalog/g/g109848/)
+- 超音波距離センサー：[HC-SR04 3V対応品](https://akizukidenshi.com/catalog/g/g111009/)
+- モーター電源：単3電池 2本
+- マイコン電源：USB-Cモバイルバッテリー
+- 本体シャーシ：[2WD Mini Smart Robot Mobile Platform Kit for education](https://akizukidenshi.com/catalog/g/g113651/)
 
 ### ロボットカーの回路
 
 ESP32ロボットカーの回路図を示します。シンプルな構成ですが、超音波センサー、画面表示、モーター制御といった基本機能が使用できます。
 
-![ESP32ロボットカーの回路図](esp32-robotcar-sch-rev04.png)
+![ESP32ロボットカーの回路図](esp32-robotcar-rev05-sch.png)
 
 これをブレッドボードで配線すると以下のようになります。
 
-![ESP32ロボットカーのブレッドボード配線図](esp32-robotcar-breadboard.png)
+![ESP32ロボットカーのブレッドボード配線図](esp32-robotcar-rev05-breadboard.png)
 
 ### ロボットカーの実装
 
@@ -57,7 +56,7 @@ ESP32ロボットカーの回路図を示します。シンプルな構成です
 ロボットカーのESP32C3にはArduino IDEでスケッチを書き込みます。サンプルとして超音波センサーで壁を検知すると右方向に回転してぶつからないような動きをするスケッチを作成しました。
 このスケッチはGitHubリポジトリにあります。GitHubのリンクは以下のリンクになります。
 
-- [esp32_minicar_maze_solver.ino](https://github.com/kanpapa/esp32-minicar/tree/main/Arduino/esp32_minicar_maze_solver/esp32_minicar_maze_solver.ino)
+- [esp32_robotcar_maze_solver.ino](https://github.com/kanpapa/esp32-robotcar/tree/main/Arduino/esp32_robotcar_maze_solver/esp32_robotcar_maze_solver.ino)
 
 ## AI機能の追加
 
@@ -79,17 +78,17 @@ XIAO ESP32S3 Senseは他のXIAOシリーズとピン配置が共通なため、�
 SenseCraft AIでデプロイすると認識結果はシリアル出力されるので、そのデータをロボットカーのマイコンESP32C3で解析し、それに応じてロボットを制御します。
 ESP32S3 Senseをロボットカーに追加した回路図は以下のようになります。
 
-![AIロボットカーの回路図](esp32-robotcar-esp32sense-sch-rev05.png)
+![AIロボットカーの回路図](esp32-robotcar-esp32s3-sense-rev05-sch.png)
 
 これをブレッドボードで配線すると以下のようになります。
 
-![AIロボットカーのブレッドボード配線図](esp32-robotcar-esp32sense-breadboard.png)
+![AIロボットカーのブレッドボード配線図](esp32-robotcar-esp32s3-sense-rev05-breadboard.png)
 
 ### AIロボットカーの実装
 
 パーツを実際に実装したロボットカーの写真です。
 
-![パーツを実装したロボットカー](esp32-robotcar-esp32sense-1.jpg)
+![パーツを実装したロボットカー](esp32-robotcar-esp32s3-sense-1.jpg)
 
 ### サンプルスケッチ
 
@@ -99,7 +98,7 @@ ESP32S3 Senseからシリアル接続で送られてくるデータ形式はJSON
 
 これを使用したサンプルスケッチです。ジェスチャーの認識結果からロボットカーを前進、右回転、停止を制御するものです。
 
-- [esp32_minicar_esp32s3_sense.ino](https://github.com/kanpapa/esp32-minicar/tree/main/Arduino/esp32_minicar_esp32s3_sense/esp32_minicar_esp32s3_sense.ino)
+- [esp32_robotcar_esp32s3_sense.ino](https://github.com/kanpapa/esp32-robotcar/tree/main/Arduino/esp32_robotcar_esp32s3_sense/esp32_robotcar_esp32s3_sense.ino)
 
 ## マイコン電源の見直し
 
