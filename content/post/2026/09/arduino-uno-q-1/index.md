@@ -55,7 +55,7 @@ Arduino Uno Qの標準の開発環境である[Arduino App Lab](https://docs.ard
 
 ![Inspirationsの画面](arduino-app-lab-inspirations.png)
 
-この中ですぐ試せそうなEdge AI Assistantを実行してみました。UIはブラウザになります。
+この中ですぐ試せそうなEdge AI Assistantを実行してみました。UIはブラウザになります。AIモデルはGemma 3 1BとQwen 3.5 0.8Bが選べますが、今回はQwen 3.5 0.8Bにしてみました。
 
 ![Edge AI Assistantの実行例](edge-ai-assistant.png)
 
