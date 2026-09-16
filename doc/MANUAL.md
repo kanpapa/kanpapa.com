@@ -83,39 +83,30 @@ image: 'grove-vision-ai-v2.jpg'
   * 画像サイズが小さいと拡大表示をしようとしてぼんやりした画像になることがあります。その場合は以下で画像を挿入すると改善されます。
   * Markdown記述: `{{< figure src="gazou.png" width="467px" height="285px" caption="説明">}}`
 
-### 3.1 Webpの適用
-画像ファイルはWebp形式にするとサイズが小さくなりSEOにも反映されるようです。
-以下のようにしてwebpに変換します。
+### 3.1 画像のリサイズとメタデータの削除
 
 #### 変換ツールの導入
 
 ```
-sudo apt-get install webp
+sudo apt update
+sudo apt install imagemagick
 ```
 
-#### 変換方法
+#### 一括変換方法
 
-横800pxにリサイズし、メタデータを削除(デフォルトは none)する場合
+横800pxにリサイズし、メタデータを削除する場合。ファイルは上書きされます。
 
 ```
-cwebp -resize 800 0 -metadata none input.jpg -o output.webp
+mogrify -strip -resize 800x *.jpg
 ```
 
-#### 一括変換の例
+#### 別ディレクトリに出力する場合（元画像を残す）
 
-* findコマンド
+上書きを防ぎたい場合は、あらかじめ出力先フォルダを作って -path オプションを指定します。
 
-    ```
-    find . -name "*.jpg" -print -exec cwebp \{\} -resize 800 0 -metadata none -o \{\}.webp \;
-    ```
-
-* bash
-
-    ```bash
-    for f in *.jpg; do
-      cwebp -resize 800 0 -metadata none "$f" -o "${f%.*}.webp"
-    done
-    ```
+```
+mogrify -path resized_images -strip -resize 800x *.jpg
+```
 
 ## 4. YouTube動画の埋め込み
 Hugo標準のショートコードを使用することで、簡単にYouTube動画を埋め込むことができます。
