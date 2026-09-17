@@ -6,8 +6,8 @@ categories:
   - "Retro Computing"
 tags:
   - "Pic32mx"
-  - "Tk 80"
-  - "Zk 80 Mini"
+  - "TK-80"
+  - "Zk80Mini"
   - "書き初め"
 image: "images/newyear2017_zk80_picture.jpg"
 ---

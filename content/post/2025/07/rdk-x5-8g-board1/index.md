@@ -5,7 +5,7 @@ slug: rdk-x5-8g-board1
 categories:
   - "Robot"
 tags:
-  - "Ai"
+  - "AI"
   - "D Robotics"
   - "RDK"
   - "RDK X5"

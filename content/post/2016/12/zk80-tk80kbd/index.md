@@ -6,7 +6,7 @@ categories:
   - "Retro Computing"
 tags:
   - "Pic32mx"
-  - "Tk80"
+  - "TK-80"
   - "Zk80Mini"
 image: "images/zk80_tk80kbd_4.jpg"
 ---

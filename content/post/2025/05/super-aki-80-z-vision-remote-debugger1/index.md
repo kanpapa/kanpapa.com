@@ -5,7 +5,7 @@ slug: super-aki-80-z-vision-remote-debugger1
 categories:
   - "Retro Computing"
 tags:
-  - "Aki 80"
+  - "AKI-80"
   - "Z Vision"
   - "Z80"
 image: images/aki80-testing1.jpg

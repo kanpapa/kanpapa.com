@@ -6,7 +6,7 @@ categories:
   - "Electronics"
   - "Retro Computing"
 tags:
-  - "Aki 80"
+  - "AKI-80"
   - "Pico2"
   - "Raspberry Pi Pico2"
   - "Z80"
