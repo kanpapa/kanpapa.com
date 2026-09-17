@@ -5,7 +5,7 @@ slug: "orange-os-startup"
 categories:
   - "Electronics"
 tags:
-  - "Basic"
+  - "BASIC"
   - "ESP32"
 image: "images/orange-os-wifi.jpg"
 ---

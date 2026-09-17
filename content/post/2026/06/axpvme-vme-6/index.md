@@ -6,7 +6,7 @@ tags:
   - 'DEC'
   - 'AXPvme'
   - 'VME'
-  - 'DECAlpha'
+  - 'DECalpha'
   - 'AlphaAXP'
   - 'NetBSD'
 categories:
