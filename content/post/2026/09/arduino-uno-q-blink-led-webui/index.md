@@ -1,5 +1,5 @@
 ---
-title: "Arduino App LabでLチカの状態をブラウザにリアルタイム表示する"
+title: "Arduino Uno QでLチカの状態をブラウザにリアルタイム表示する"
 date: 2026-09-13T18:29:09+09:00
 slug: 'arduino-uno-q-blink-led-webui'
 tags:
@@ -16,28 +16,28 @@ image: 'arduino-uno-q-blink.jpg'
 
 ## はじめに
 
-せっかくArduino Uno Qを購入したのですから、Arduino App Labを使って、SoCとMCUを連携させた使い方を試してみます。  
-今回とりあげるサンプルプログラムは、Arduino App Labに用意されている「Blink LED from Python」です。
+せっかく[Arduino Uno Q](https://docs.arduino.cc/hardware/uno-q/)を購入したのですから、[Arduino App Lab](https://docs.arduino.cc/software/app-lab/)を使って、Arduino Uno Qのデュアルコア・プロセッサを連携した使い方を試してみます。  
+今回とりあげるサンプルプログラムは、Arduino App LabのInspirationsに用意されている「Blink LED from Python」です。
 
 ![Blink LED from Python](blink-led-from-python.png)
 
 このサンプルを選んだ理由は大きく2つあります。
 
 - Arduino Uno QのSoC（Linux/Python側）とMCU（スケッチ側）が、Bridgeを介してどのように連携しているのかを確認したかった
-- Brickの使い方を体験するために、このシンプルなBlinkに、WebUI - HTMLを追加してみたかった
+- Brickの使い方を体験するために、シンプルなプログラムにBrickを追加してみたかった
 
 Arduino App LabやBricksの詳細な説明はここでは割愛しますが、簡単に言うと「Arduinoのスケッチ（MCU側）とPython（SoC側）を組み合わせてアプリを作れる開発環境」で、Bricksはその中でよく使う機能（Web UI表示、AI推論など）をパーツ化したものです。
 
 ## Blink LED from Pythonを動かす
 
-「Blink LED from Python」は最小構成のサンプルです。構成は次の2ファイルだけです。Brickは使用していません。
+「Blink LED from Python」は最小構成のサンプルでファイルは2つだけです。Brickは使用していません。
 
 ```
 sketch/sketch.ino
 python/main.py
 ```
 
-App Labでこのサンプルをそのまま実行すると、1秒間隔でArduino Uno QのLED 3が点滅するものです。
+App Labでこのサンプルをそのまま実行すると、1秒間隔でArduino Uno QのRGB LED 3が赤く点滅します。
 
 まずはこれを動かして、期待通りLEDが点滅することを確認しました。
 
@@ -88,7 +88,7 @@ App.run(user_loop=loop)
 ```
 タイミング制御（1秒ごとのトグル）はPython側が持っていて、`Bridge.call()`でMCU側の`set_led_state`関数を呼び出しています。
 
-「SoC側がロジックを持ち、MCU側は末端のI/Oだけを担当する」という役割分担がはっきり見える良い教材です。
+「SoC側がロジックを持ち、MCU側は末端のI/Oだけを担当する」という役割分担がはっきり見える良いサンプルです。
 
 ## LEDの状態表示を追加してみる
 
@@ -171,11 +171,11 @@ function onUIConnected() {
 }
 ```
 
-あわせて、ポート7000でHTTPサーバーとSocket.IOのWebSocketサーバーが自動的に立ち上がり、以下のURLでアクセスできるようになります。
+これでポート7000でHTTPサーバーとSocket.IOのWebSocketサーバーが自動的に立ち上がり、次のURLでアクセスできるようになります。
 
 `http://<Uno_QのIPアドレス>:7000`
 
-今回は雛形のファイルを以下のように修正しました。
+今回は雛形のファイルを次のように修正しました。
 
 `index.html`（雛形の修正後）
 
@@ -278,7 +278,7 @@ data.state ? "ON" : "OFF"
 
 ## 修正と検証
 
-イベント名を統一し、状態は真偽値（`True`/`False`）でやり取りするように修正しました。
+イベント名を一致させて、状態は真偽値（`True`/`False`）でやり取りするように修正しました。
 
 ### `main.py`（修正後）
 
@@ -342,4 +342,6 @@ function onUIConnected() {
 - WebUI Brickを追加することで、Socket.IOサーバーの構築やHTTP配信といった面倒な部分を意識せずに、最小限のコーディングでブラウザへのリアルタイム表示が実現できました。
 - 一方で、Python側とJS側は別々の言語・別々のファイルなので、**イベント名やデータ型を一致させる必要がある**という注意点もわかりました。
 
-次は、ブラウザ側からLEDを操作する双方向のやり取り（`expose_api`や`on_message`でのボタン制御）を試してみたいと思います。
+今回はPython側からWebUIへLEDの状態をPushして表示しましたが、WebUI側のボタン操作イベントをPython/MCU側で受け取る双方向通信を行えば、ブラウザからLEDをON/OFFするスイッチも簡単に作れそうです。
+
+実際にArduino App LabのInspirationsには似たようなサンプルも掲載されています。Inspirationsにある様々なサンプルを組み合わせることでArduino Uno Qの無限の可能性を開くことができるでしょう。
