@@ -16,7 +16,7 @@ image: 'arduino-uno-q-blink.jpg'
 
 ## はじめに
 
-せっかく[Arduino Uno Q](https://docs.arduino.cc/hardware/uno-q/)を購入したのですから、[Arduino App Lab](https://docs.arduino.cc/software/app-lab/)を使って、Arduino Uno Qのデュアルコア・プロセッサを連携した使い方を試してみます。  
+せっかく[Arduino Uno Qを購入](/2026/09/arduino-uno-q-1.html)したのですから、[Arduino App Lab](https://docs.arduino.cc/software/app-lab/)を使って、Arduino Uno Qのデュアルコア・プロセッサを連携した使い方を試してみます。  
 今回とりあげるサンプルプログラムは、Arduino App LabのInspirationsに用意されている「Blink LED from Python」です。
 
 ![Blink LED from Python](blink-led-from-python.png)
