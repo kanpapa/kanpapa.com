@@ -7,7 +7,7 @@ categories:
 tags:
   - "8080"
   - "Sbc8080"
-image: "images/sbc8080_complete-scaled-1.jpg"
+image: "images/sbc8080_complete.jpg"
 ---
 
 [電脳伝説さんのサイトで公開](https://vintagechips.wordpress.com/2018/06/24/sbc8080-cpu%E3%83%AB%E3%83%BC%E3%82%BA%E3%82%AD%E3%83%83%E3%83%88/ "電脳伝説")されているSBC8080という8080CPUを使ったマイコンボードのパーツがようやく揃ったので組み立ててみました。なお、このサイトで技術資料とデータパックが公開されていますので、専用基板が無くても組み立てることができます。でも、専用基板を使うのがおすすめです。（カッコいいし）
