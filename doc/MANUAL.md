@@ -94,10 +94,10 @@ sudo apt install imagemagick
 
 #### 一括変換方法
 
-横800pxにリサイズし、メタデータを削除する場合。ファイルは上書きされます。
+横800pxにリサイズする場合。ファイルは上書きされます。
 
 ```
-mogrify -strip -resize 800x *.jpg
+mogrify -resize 800x *.jpg
 ```
 
 #### 別ディレクトリに出力する場合（元画像を残す）
