@@ -6,8 +6,8 @@ categories:
   - "Retro Computing"
 tags:
   - "Pic32mx"
-  - "Tk 80"
-  - "Zk 80 Mini"
+  - "Tk80"
+  - "Zk80Mini"
 image: "images/zk80_tk80kbd_4.jpg"
 ---
 
@@ -22,15 +22,15 @@ https://www.rad51.net/blog/mycom/index.php?itemid=883
 
 まずは、ZK-80 miniをブレッドボードで組み立てました。配線は多いように見えますが大したことはありません。
 
-![zk80_tk80kbd_1.jpg](images/zk80_tk80kbd_1.jpg)
+![ブレッドボードで組み立てたZK-80 mini](images/zk80_tk80kbd_1.jpg)
 
 つぎに、TK-80の回路図で確認しながら、TK-80のキーボードをZK-80 miniに接続しました。
 
-![zk80_tk80kbd_2.jpg](images/zk80_tk80kbd_2.jpg)
+![TK-80のキーボードをZK-80 miniに接続](images/zk80_tk80kbd_2.jpg)
 
 動作テストをしてみたところ、RUNキーが動かないのでマイクロスコープで目視したらキーボード基板のパターンが切れていたのでリード線で補修し、正常な動作になりました。
 
-![zk80_tk80kbd_3.jpg](images/zk80_tk80kbd_3.jpg)
+![基板のパターン切れをリード線で補修](images/zk80_tk80kbd_3.jpg)
 
 動作している画像をYouTubeにアップしておきました。
 
@@ -42,7 +42,7 @@ https://www.rad51.net/blog/mycom/index.php?itemid=883
 
 最終的な実装はこのようになりました。
 
-![zk80_tk80kbd_4.jpg](images/zk80_tk80kbd_4.jpg)
+![ZK-80 mini（TK-80キーボード版）](images/zk80_tk80kbd_4.jpg)
 
 ただ、使っていると7セグメントLEDがやや暗く、周囲が明るいところでは手で光を遮らないと文字が読み取れません。
 
@@ -52,15 +52,15 @@ https://www.rad51.net/blog/mycom/index.php?itemid=883
 
 まずは、アクリル板のブラウンスモーク。くっきりしますね。
 
-![zk80_tk80kbd_5.jpg](images/zk80_tk80kbd_5.jpg)
+![アクリル板のブラウンスモークでの見え方](images/zk80_tk80kbd_5.jpg)
 
 アクリル板のブルースモーク。こちらも同様見やすくなります。
 
-![zk80_tk80kbd_6.jpg](images/zk80_tk80kbd_6.jpg)
+![アクリル板のブルースモークでの見え方](images/zk80_tk80kbd_6.jpg)
 
 塩ビ板(0.4mm厚)の透明スモーク。これもアクリル板と遜色ありません。
 
-![zk80_tk80kbd_7.jpg](images/zk80_tk80kbd_7.jpg)
+![塩ビ板(0.4mm厚)の透明スモークでの見え方](images/zk80_tk80kbd_7.jpg)
 
 このように7セグメントLEDにスモーク板の効果は絶大です。  
 今回のおすすめは塩ビ板の透明スモーク。加工がしやすく見やすさもアクリル板とあまり変わりません。厚さも0.4mmと薄いので、7セグメントのLEDのサイズにハサミで加工して完成です。
@@ -69,7 +69,7 @@ https://www.rad51.net/blog/mycom/index.php?itemid=883
 
 これで蛍光灯直下でも見やすくなりました。
 
-![zk80_tk80kbd_8.jpg](images/zk80_tk80kbd_8.jpg)
+![コンパクトなTK-80が完成](images/zk80_tk80kbd_8.jpg)
 
 ZK-80 miniのPICに書き込むファームウェアのソースコードは公開されているので、ソースを改造して、LOAD/SAVE機能を実装したり、音が鳴るようにしたりとか、拡張してみようと思います。
 
