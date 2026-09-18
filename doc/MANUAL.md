@@ -92,12 +92,12 @@ sudo apt update
 sudo apt install imagemagick
 ```
 
-#### 一括変換方法
+#### サイズ一括変換方法
 
-横800pxにリサイズする場合。ファイルは上書きされます。
+横800pxにリサイズする場合。ファイルは上書きし、メタデータも削除する。
 
 ```
-mogrify -resize 800x *.jpg
+mogrify -resize 800x -strip　*.jpg
 ```
 
 #### 別ディレクトリに出力する場合（元画像を残す）
@@ -105,8 +105,39 @@ mogrify -resize 800x *.jpg
 上書きを防ぎたい場合は、あらかじめ出力先フォルダを作って -path オプションを指定します。
 
 ```
-mogrify -path resized_images -strip -resize 800x *.jpg
+mogrify -path output -resize 800x -strip *.jpg
 ```
+#### PNGからJPEGに変換し800pxにリサイズしメタデータも削除
+
+```
+mogrify -path output -format jpg -background white -flatten -resize 800x -strip *.png
+```
+
+#### メタデータの操作
+
+GPS情報のみ一括削除（バックアップ作成なし）
+
+```
+exiftool -gps:all= -overwrite_original *.jpg
+```
+
+#### GUIツール
+
+Converseenは画像のバッチ変換ツールです。リサイズと100以上のフォーマットに対応しています。
+
+インストール 
+
+```
+sudo apt install converseen
+```
+
+使い方
+
+1. 画像をドラッグ＆ドロップで追加。
+1. 左側パネルの Dimensions で幅・高さを指定。
+1. Image settings 内の「Remove all metadata」（すべてのメタデータを削除）にチェック。
+1. ツールバーの Convert を押して一括実行。
+
 
 ## 4. YouTube動画の埋め込み
 Hugo標準のショートコードを使用することで、簡単にYouTube動画を埋め込むことができます。
