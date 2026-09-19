@@ -1,7 +1,6 @@
 ---
 title: 'Arduino UNO Qでモーションセンサーを使ってみた'
 date: 2026-09-19T09:43:15+09:00
-draft: true
 slug: 'arduino-uno-q-mpu6050-webui'
 tags: [Arduino, UnoQ, MPU6050, AppLab, WebUI, IMU]
 categories: [Electronics]
