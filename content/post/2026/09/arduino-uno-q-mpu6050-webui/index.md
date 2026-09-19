@@ -105,6 +105,8 @@ WebUI-HTML Brickを使用し、Socket.IO経由で10Hz程度に間引いてブラ
 
 Three.jsなどのリッチな外部ライブラリは使わず、CSSの `perspective` と `rotateX/Y/Z` だけで「板が傾く」簡易3D表示を実装してみました。
 
+CSS部分は以下のようになります。
+
 ```css
 .scene3d {
   perspective: 700px;
@@ -113,7 +115,11 @@ Three.jsなどのリッチな外部ライブラリは使わず、CSSの `perspec
   transform-style: preserve-3d;
   transition: transform 0.08s linear;
 }
+```
 
+JS部分は以下のようになります。
+
+```javascript
 board.style.transform =
   `rotateZ(${d.roll}deg) rotateX(${-d.pitch}deg) rotateY(${d.yaw}deg)`;
 ```
