@@ -86,13 +86,16 @@ MCU側で相補フィルタ処理を施した姿勢角などの計算結果を�
 | メソッド名 | 説明　| 引数 | 配信周期 |
 |---|---|---|---|
 | `imu_data` | 算出済みの姿勢角と温度をまとめて通知  | `roll, pitch, yaw, temp` (float×4) | 20Hz (50ms間隔) |
+| `imu_status` | センサー状態の通知 | `ok, err_code, err_msg` (bool, int, str) |センサー状態に変化があったときのみ |
 
 
 ```python
 # Python側の受信ハンドラ例
 Bridge.provide("imu_data", on_imu_data)
-
 def on_imu_data(roll: float, pitch: float, yaw: float, temp: float):
+
+Bridge.provide("imu_status", on_imu_status)
+def on_imu_status(ok: bool, err_code: int, err_msg: str):
 ```
 
 **Python → MCU（call）**
@@ -103,13 +106,16 @@ Python側からMCUの処理をオンデマンドで実行するAPIです。App L
 |---|---|---|---|
 | `imu_calibrate` | 静止状態でのバイアス測定・補正を実行 | samples: int (サンプリング数) | バイアス値 `{"bias_gx": -2.78, ...}` |
 | `imu_reset_yaw` | ドリフトしたYaw角を 0 にリセット | dummy: int (0) | 実行結果 `{"ok":true}` |
-| `imu_read_raw` | センサー値（加速度・角速度）を即時取得 |dummy: int (0) | 測定値　`{"ax": ..., "gx": ...}` |
+| `imu_read_raw` | センサー値（加速度・角速度）を即時取得 | dummy: int (0) | 測定値　`{"ax": ..., "gx": ...}` |
+| `imu_get_status` | 現在のセンサー状態の取得 | dummy: int (0) | 現在のセンサー状態　`{"ok":true, "err_code":0, "err_msg":"...."}` |
 
 ```python
 # Python側の同期呼び出し例
 res = json.loads(Bridge.call("imu_calibrate", 500, timeout=10)) # 500サンプルでキャリブレーション
 
 Bridge.call("imu_reset_yaw", 0, timeout=5)  # 引数不要な処理もダミーの0を渡して呼ぶ
+
+
 ```
 
 ## WebUI表示とCSS 3Dによる姿勢の可視化
@@ -190,10 +196,12 @@ MPU6050モジュールを手で傾けると、WebUI画面内の板が連動し�
 
 ## まとめ
 
-- MPU6050（GY-521）自体のI2C制御や相補フィルタ計算は定番の手法で問題なく動作し、Arduino IDEでおなじみのライブラリもスケッチで利用できました。
-- 今回最大のハードルは、UNO QのI2Cピン配置が従来のArduinoシールド配置（A4/A5）とは異なっていたことでした。
-- Bridge経由でPython側にデバッグ情報を中継し、WebUIに表示することで、デバッグをスムーズに行うことができました。
-- Bridge APIを定義する際は、メソッド名と型をあらかじめ仕様書として固めておくことで手戻りを防げます。
-- CSSの3Dトランスフォームで、センサデータの表示を立体的に表現できました。
+今回のプロジェクトにおいてClaudeにかなりの部分、特にWebUIでの3D表示部分を手伝っていただきました。
 
-今回のスケッチおよびPythonスクリプト一式は、[GitHubリポジトリ](https://github.com/kanpapa/mpu6050-monitor) に公開しています。
+これまでのArduino IDEと同様にMCU側については、おなじみのArduinoライブラリがそのまま利用できることがわかりましたが、過去の経験からI2CピンをA4/A5と思い込んでいた点は失敗でした。やはりUno Qは新しいボードなのでピンアウトはじっくり確認すべきでした。
+
+今回の実験で、Bridge経由でのMCU側のスケッチとLinux側のPythonスクリプトの連携方法を確認して理解することができました。これで様々なデータをリアルタイムで２つのCPU間で連携することができます。
+
+次のステップとしては[Uno Media Carrier](https://ssci.to/11135)というボードをUno Qに接続して、カメラやマイクといったものを追加して、AI機能を試してみたいと思います。
+
+今回のスケッチおよびPythonスクリプト一式は、[GitHubリポジトリ](https://github.com/kanpapa/mpu6050-monitor) に公開しましたので参考にしてください。
