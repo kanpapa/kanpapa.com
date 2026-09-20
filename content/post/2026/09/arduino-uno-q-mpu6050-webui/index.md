@@ -9,8 +9,8 @@ image: 'arduino-uno-q-mpu6050.jpg'
 
 ## はじめに
 
-前回、[Arduino App LabのBrick](/2026/09/arduino-uno-q-blink-led-webui.html)を使ってLEDの点灯状態をブラウザにリアルタイム表示する実験を行いました。  
-今回は手持ちの6軸慣性センサー **MPU6050（GY-521モジュール）** をUNO Qに接続し、姿勢角をWebUI上にリアルタイム表示することに挑戦してみます。
+前回はArduino App LabのBrickを使って[LEDの点灯状態をブラウザにリアルタイム表示する実験](/2026/09/arduino-uno-q-blink-led-webui.html)を行いました。  
+今回は手持ちの6軸慣性センサー **MPU6050（GY-521モジュール）** をUNO QにI2Cで接続し、慣性センサーの状態をブラウザにリアルタイム表示してみます。
 
 ![今回接続するMPU6050(GY-521モジュール)](mpu6050-gy-521-module.jpg)
 
@@ -29,8 +29,8 @@ GY-521モジュール（MPU6050搭載）をUNO Qに接続します。
 |---|---|---|
 | VCC | 3V3 | UNO QのGPIOは5Vトレラントではないため3.3Vを供給 |
 | GND | GND | |
-| SDA | A4 (SDA) | ※実はD20が正解（詳細は後述） |
-| SCL | A5 (SCL) | ※実はD21が正解（詳細は後述） |
+| SDA | SDA（D20）| ※従来のArduino UnoでのA4ではなく、D20に接続（詳細は後述） |
+| SCL | SCL（D21）| ※従来のArduino UnoでのA5ではなく、D21に接続（詳細は後述） |
 | AD0 | GND または未接続 | 未接続でも内部プルダウンによりI2Cアドレスは `0x68` |
 
 MPU6050の設定パラメータは、DLPF 44Hz、±250dps、±2g といった標準的な値にしています。加速度センサから算出した絶対角と、ジャイロセンサの積分値を相補フィルタ（α=0.98）でブレンドして roll / pitch を求めました。なお、yawに関しては地磁気センサがないためジャイロ積分のみ（ドリフトを含む相対値）としています。
@@ -81,58 +81,118 @@ MCUとPython（Linux）間の通信は、メソッド名やデータ型を厳密
 
 **MCU → Python（push）**
 
-| メソッド名 | 引数 | 説明 |
-|---|---|---|
-| `imu_data` | roll, pitch, yaw, temp (float×4) | 20Hz周期で姿勢角と温度をpush |
+MCU側で相補フィルタ処理を施した姿勢角などの計算結果を、Linux（Python）側へ定期配信（ストリーミング）するAPIです。MCUからの片方向通知のため、4つの値をダイレクトに引数として渡しています。
+
+| メソッド名 | 説明　| 引数 | 配信周期 |
+|---|---|---|---|
+| `imu_data` | 算出済みの姿勢角と温度をまとめて通知  | `roll, pitch, yaw, temp` (float×4) | 20Hz (50ms間隔) |
+
+
+```python
+# Python側の受信ハンドラ例
+Bridge.provide("imu_data", on_imu_data)
+
+def on_imu_data(roll: float, pitch: float, yaw: float, temp: float):
+```
 
 **Python → MCU（call）**
 
-| メソッド名 | 引数 | 戻り値 |
-|---|---|---|
-| `imu_calibrate` | samples: int | JSON文字列でバイアス値を返却 |
-| `imu_reset_yaw` | dummy: int | JSON文字列 `{"ok":true}` |
-| `imu_read_raw` | dummy: int | JSON文字列で生値を返却 |
+Python側からMCUの処理をオンデマンドで実行するAPIです。App LabのBridge内部で使われている msgpack-RPC の仕様上、「戻り値として単一の値しか返せない」 ため、複数の戻り値はすべてJSON文字列にエンコードして返却しています。また、引数を取らない処理でもRPC仕様に合わせてダミー引数（dummy: int）を渡すようにしています。
 
-戻り値をJSON文字列にまとめているのは、App LabのBridge内部で使われているmsgpack-RPCの仕様上、戻り値として単一の値しか返せない制約があるためです。
+| メソッド名 | 説明 |  引数 | 戻り値（JSON文字列） |
+|---|---|---|---|
+| `imu_calibrate` | 静止状態でのバイアス測定・補正を実行 | samples: int (サンプリング数) | バイアス値 `{"bias_gx": -2.78, ...}` |
+| `imu_reset_yaw` | ドリフトしたYaw角を 0 にリセット | dummy: int (0) | 実行結果 `{"ok":true}` |
+| `imu_read_raw` | センサー値（加速度・角速度）を即時取得 |dummy: int (0) | 測定値　`{"ax": ..., "gx": ...}` |
 
-## WebUI表示
+```python
+# Python側の同期呼び出し例
+res = json.loads(Bridge.call("imu_calibrate", 500, timeout=10)) # 500サンプルでキャリブレーション
 
-WebUI-HTML Brickを使用し、Socket.IO経由で10Hz程度に間引いてブラウザへbroadcast配信しました。画面上にroll/pitch/yawの数値をバー表示するだけでなく、渡すデータがすべて明確な数値型や真偽値になるよう徹底しています（前回のBlink実験で「文字列と真偽値の型不一致」にハマった反省を活かしました）。
+Bridge.call("imu_reset_yaw", 0, timeout=5)  # 引数不要な処理もダミーの0を渡して呼ぶ
+```
+
+## WebUI表示とCSS 3Dによる姿勢の可視化
+
+WebUI-HTML Brickを使用し、Python側からSocket.IO経由で送られてくる姿勢データをブラウザ上でリアルタイム表示します。
+
+今回はThree.jsなどの重い3Dライブラリは使わず、CSSの3Dトランスフォーム（perspective と rotateX/Y/Z） だけで、センサーの動きと画面内の板が滑らかに連動する軽量な3Dビューアを構築しました。
+
+### HTML / CSSの構造
+親要素に perspective（視点・奥行き感）を指定し、子要素に preserve-3d を指定することで、ブラウザ空間に擬似的な3Dプレーンを作成します。
+
+HTML
+```html
+<!-- 3D表示エリアのHTML -->
+<div class="scene3d">
+  <div id="board" class="board3d">
+    <span>UNO Q</span>
+  </div>
+</div>
+```
+
+CSS
+```css
+/* 3D空間の定義 */
+.scene3d {
+  height: 220px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  perspective: 700px;  /* 奥行き感を指定 */
+}
+
+/* 傾ける板のスタイル */
+.board3d {
+  position: relative;
+  width: 160px;
+  height: 90px;
+  transform-style: preserve-3d;
+  transition: transform 0.08s linear; /* imu_updateの間隔(約100ms)に合わせて滑らかに */
+  transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg);
+}
+```
+### JavaScript（Socket.IO受信と姿勢反映）
+
+Python側から10Hz周期でbroadcast配信される imu_update イベントを受信し、バー表示の数値更新と同時に、CSSの transform プロパティを直接書き換えて板を回転させます。
+
+```javaScript
+const socket = io();
+const board = document.getElementById('board');
+
+socket.on('imu_update', (data) => {
+  // 1. 数値・バー表示の更新
+  document.getElementById('val-roll').textContent = data.roll.toFixed(1);
+  document.getElementById('val-pitch').textContent = data.pitch.toFixed(1);
+  document.getElementById('val-yaw').textContent = data.yaw.toFixed(1);
+
+  // 2. CSS 3Dトランスフォームの適用
+  // ※回転軸とモジュールの向きを合わせるため、pitchは正負を反転させています
+  board.style.transform = 
+    `rotateZ(${data.roll}deg) rotateX(${-data.pitch}deg) rotateY(${data.yaw}deg)`;
+});
+```
+
+### 実装のポイント
+
+- 回転軸の整合（座標合わせ）：画面上の板の見え方と実際のセンサーモジュールの傾きを一致させるため、ピッチ角にマイナス符号（-data.pitch）を当てています。
+- transition によるスムージング：Socket.IOの配信周期（約10Hz）に合わせて transition: transform 0.08s linear; を効かせることで、カクつきのない滑らかな追従アニメーションを実現しました。
+- 徹底した型の管理：前回のLチカ実験で遭遇した「文字列と真偽値の型不一致」の教訓を踏まえ、受信する角度データはすべて数値型（Number）として厳密に扱い、画面表示時のみ .toFixed(1) でフォーマットしています。
+
+## 完成したWebUI
+
+MPU6050モジュールを手で傾けると、WebUI画面内の板が連動してリアルタイムに同じ方向へ傾いてくれます。CSSの3Dトランスフォームだけでここまで手軽に視覚化できるのは、嬉しい発見でした。
 
 ![完成したWebUI](arduino-uno-q-mpu6050-imu-monitor.png)
 
-## CSSだけで3D表示
-
-Three.jsなどのリッチな外部ライブラリは使わず、CSSの `perspective` と `rotateX/Y/Z` だけで「板が傾く」簡易3D表示を実装してみました。
-
-CSS部分は以下のようになります。
-
-```css
-.scene3d {
-  perspective: 700px;
-}
-.board3d {
-  transform-style: preserve-3d;
-  transition: transform 0.08s linear;
-}
-```
-
-JS部分は以下のようになります。
-
-```javascript
-board.style.transform =
-  `rotateZ(${d.roll}deg) rotateX(${-d.pitch}deg) rotateY(${d.yaw}deg)`;
-```
-
-これだけのコードですが、MPU6050モジュールを手で傾けると、WebUI画面内の板が連動してリアルタイムに同じ方向へ傾いてくれます。CSSの3Dトランスフォームだけでここまで手軽に視覚化できるのは、嬉しい発見でした。
-
 {{< youtube _hpNdtfZpAQ >}}
+
 
 ## まとめ
 
 - MPU6050（GY-521）自体のI2C制御や相補フィルタ計算は定番の手法で問題なく動作し、Arduino IDEでおなじみのライブラリもスケッチで利用できました。
 - 今回最大のハードルは、UNO QのI2Cピン配置が従来のArduinoシールド配置（A4/A5）とは異なっていたことでした。
-- Bridge経由でPython側にデバック情報を中継し、WebUIに表示することで、デバッグをスムーズに行うことができました。
+- Bridge経由でPython側にデバッグ情報を中継し、WebUIに表示することで、デバッグをスムーズに行うことができました。
 - Bridge APIを定義する際は、メソッド名と型をあらかじめ仕様書として固めておくことで手戻りを防げます。
 - CSSの3Dトランスフォームで、センサデータの表示を立体的に表現できました。
 
