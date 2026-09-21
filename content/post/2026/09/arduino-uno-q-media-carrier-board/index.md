@@ -127,12 +127,12 @@ OSのビルド番号を確認したところ、Latestのバージョンに書き
 **Detect Objects on Cameraでの各カメラの動作確認結果**
 
 | カメラ | センサ | レーン | 動作確認結果 |
-| --- | --- |--- | --- |
-| Camera Module v2 | IMX219 / 8MP | CSI-2 2-lane | 〇 |
+| :---: | :---: | :---: | :---: |
+| Camera Module V2 | IMX219 / 8MP | CSI-2 2-lane | 〇 |
 | Arducam B0390 | IMX219 / 8MP | CSI-2 2-lane | 〇 |
-| Camera Module v1 | OV5647 / 5MP | CSI-2 2-lane | × |
+| Camera Module V1 | OV5647 / 5MP | CSI-2 2-lane | × |
 
-やはりCamera Module v1では動作しませんでした。手持ちのカメラでは4レーンに対応したものは無いため、Camera Module v3等での動作確認はできていません。
+IMX219を使用したCamera Module V2とArducam B0390では問題なく動作しましたが、少し旧型のCamera Module v1では動作しませんでした。手持ちのカメラでは4レーンに対応したものは無いため、Camera Module v3等での動作確認はできていません。
 
 ## まとめ
 
