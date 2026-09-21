@@ -81,7 +81,7 @@ Latestバージョンに書き換えるために指示通りにアップデー�
 
 ![ジャンパーを取り付けてFlashアップデート中](arduino-uno-q-flash-update.jpg)
 
-Arduino QのLEDマトリクスにはUSBのようなマークが表示され、書き込みモードになってはいるようです。しかし、`Waiting for the board...`のまま画面上は何も変化が無く先に進んでいないように見えます。しかし、正常に書き込み中の可能性もあるので、しばらくこのまま見守ります。
+Arduino Uno QのLEDマトリクスにはUSBのようなマークが表示され、書き込みモードになってはいるようです。しかし、`Waiting for the board...`のまま画面上は何も変化が無く先に進んでいないように見えます。しかし、正常に書き込み中の可能性もあるので、しばらくこのまま見守ります。
 
 これまでの作業はUbuntu版のArduino App Labで行っていますが、Windows版で行うべきだったかと不安になってきました。
 
@@ -122,6 +122,17 @@ OSのビルド番号を確認したところ、Latestのバージョンに書き
 ![物体認識の結果](video-generic-object-detection.jpg)
 
 結構素早く認識ができているように思われます。
+最終的な動作確認結果は以下のようになります。
+
+**Detect Objects on Cameraでの各カメラの動作確認結果**
+
+| カメラ | センサ | レーン | 動作確認結果 |
+| --- | --- |--- | --- |
+| Camera Module v2 | IMX219 / 8MP | CSI-2 2-lane | 〇 |
+| Arducam B0390 | IMX219 / 8MP | CSI-2 2-lane | 〇 |
+| Camera Module v1 | OV5647 / 5MP | CSI-2 2-lane | × |
+
+やはりCamera Module v1では動作しませんでした。手持ちのカメラでは4レーンに対応したものは無いため、Camera Module v3等での動作確認はできていません。
 
 ## まとめ
 
