@@ -7,7 +7,8 @@ categories: [Electronics]
 image: 'uno-q-robot-car-rev01.jpg'
 ---
 
-前回はArduino Uno Qにメディアキャリアボードを取り付けて、接続したMIPIカメラでの物体認識を行いました。これまでArduino Uno Qで試してきたものを統合してAIロボットカーを製作してみます。
+前回は[Arduino Uno Qにメディアキャリアボードを取り付けて、接続したMIPIカメラでの物体認識](/2026/09/arduino-uno-q-media-carrier-board.html)
+を行いました。これまでArduino Uno Qで試してきたものを統合してAIロボットカーを製作してみます。
 これまでの振り返りです。
 - [Arduino Uno Qを触ってみました](/2026/09/arduino-uno-q-1.html)
 - [Arduino Uno QでLチカの状態をブラウザにリアルタイム表示する](/2026/09/arduino-uno-q-blink-led-webui.html)
@@ -26,7 +27,7 @@ AIロボットカーの要件は以下の通りです。
 
 ## 開発方針
 
-ベースとなるプロジェクトはメディアキャリアボードの時に動かしてみたDetect Objects on Cameraが良さそうです。このプロジェクトはカメラ画像からの物体認識とWebUIによるモニタリングや制御ができます。このプロジェクトはLinux側(Python)だけで動作しており、MCU側は使用していないためスケッチはありません。このため次のように進めてみます。
+ベースとなるプロジェクトはメディアキャリアボードの時に動かしてみた[Detect Objects on Camera](https://github.com/arduino/app-bricks-examples/tree/main/inspirational/common/video-generic-object-detection)が良さそうです。このプロジェクトはカメラ画像からの物体認識とWebUIによるモニタリングや制御ができます。このプロジェクトはLinux側(Python)だけで動作しており、MCU側は使用していないためスケッチはありません。このため次のように進めてみます。
 1. ベースとなるDetect Objects on Cameraを動かす。
 1. MCU側のスケッチを作成し、モータードライバを制御できるようにする。
 1. Brigde機能で、Linux側のPythonスクリプトからMCU側のスケッチに物体認識結果を送信する
@@ -63,7 +64,7 @@ Arduino App Labで以下のsketch.inoを作成しました。
  *   Uno Q Robot Car -- MCUスケッチ
  */
 
-// DRV8833 ピン設定
+// DRV8835 ピン設定
 const int MOTOR_L_IN1 = 3;  // D3 (PWM)
 const int MOTOR_L_IN2 = 9;  // D9 (PWM)
 const int MOTOR_R_IN1 = 10; // D10 (PWM)
@@ -206,7 +207,12 @@ def watchdog_loop():
 
 ## まとめ
 
-今回は非常にシンプルな機能に限定していますが、WebUIにリアルタイムで表示されているように物体の種類や、位置といった情報もPython側では取得できています。これをうまくMCU側に連携すればある程度高度な動きができるはずです。
+今回は非常にシンプルな機能に限定していますが、WebUIにリアルタイムで表示されているような物体の種類や、位置といった情報もPython側では取得できています。次回はこれらをMCU側に連携して少し高度な動きを試してみます。
+
 Bridgeで複数の情報を引き渡すにはJSON文字列にして送信すればよいことはこれまでの実験からもわかっているので、難しくはなさそうです。あとはアイデア次第です。
 
-本プロジェクトのソースコードは[GitHub](https://github.com/kanpapa/uno-q-robotcar/)に置きました。
+Arduino App Labを使うとLinux側とMCU側の連携も容易で再利用可能なパーツであるBrickも揃っています。インスピレーションにある豊富な事例を参考にして独自のものも作成しやすいはずです。
+
+また、Arduino Uno Qは小型で機器に組み込みやすく、ヒートシンクも今のところは不要そうですし、消費電流もそんなに大きくないため、電源周りも楽だと思います。ひとつ残念な点はメディアキャリアボードにネジ穴が無いことです。そのため今回のロボットカーではネジでの固定ができていません。キャリアボードの下にコネクタだけのボードを接続してネジ止めができるようにすると良いかもしれません。
+
+なお、本プロジェクトのソースコードは[GitHub](https://github.com/kanpapa/uno-q-robotcar/)に置いてありますので参考にしてください。
