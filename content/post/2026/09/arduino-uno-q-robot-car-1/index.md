@@ -30,7 +30,7 @@ AIロボットカーの要件は以下の通りです。
 ベースとなるプロジェクトはメディアキャリアボードの時に動かしてみた[Detect Objects on Camera](https://github.com/arduino/app-bricks-examples/tree/main/inspirational/common/video-generic-object-detection)が良さそうです。このプロジェクトはカメラ画像からの物体認識とWebUIによるモニタリングや制御ができます。このプロジェクトはLinux側(Python)だけで動作しており、MCU側は使用していないためスケッチはありません。このため次のように進めてみます。
 1. ベースとなるDetect Objects on Cameraを動かす。
 1. MCU側のスケッチを作成し、モータードライバを制御できるようにする。
-1. Brigde機能で、Linux側のPythonスクリプトからMCU側のスケッチに物体認識結果を送信する
+1. Bridge機能で、Linux側のPythonスクリプトからMCU側のスケッチに物体認識結果を送信する
 1. MCU側のスケッチで物体認識結果に合わせてモーターを制御する。
 
 PythonからMCU側への通信はこれまで試してきた内容から、Bridgeを使えば良いはずです。要件も前進と停止だけですので、MCUに渡す情報は0か1かの世界です。
