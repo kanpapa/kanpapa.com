@@ -38,7 +38,7 @@ eBayでオーダーしたあと、さほど時間はかからずにDCJ11 CPUが�
 
 ![](images/pdp-11-dcj11-cpu-1-2.jpg)
 
-このCPUは内部にODTというメモリを読み書きしたり、プログラムを実行させたりすることができるツールがあるそうです。以前取り組んだ[MC68EZ328 CPU](https://kanpapa.com/tag/mc68ez328)でも同様な機能があり、やはり実際に動かしてみたいところです。
+このCPUは内部にODTというメモリを読み書きしたり、プログラムを実行させたりすることができるツールがあるそうです。以前取り組んだ[MC68EZ328 CPU](/tags/mc68ez328.html)でも同様な機能があり、やはり実際に動かしてみたいところです。
 
 ## TangNanoDCJ11MEMの公開
 
@@ -86,4 +86,4 @@ DCJ11 CPUとTangNano 20Kの実装前の基板です。
 
 ![](images/pdp-11-dcj11-cpu-1-9.jpg)
 
-ハードウェアはこれで完成ですが、開発環境の整備とTangNano20Kへの書き込みなどを行っていきます。（[bare metal編に続く](https://kanpapa.com/2024/07/tangnanodcj11mem-pdp-11-cpu-2-bare-metal.html)）
+ハードウェアはこれで完成ですが、開発環境の整備とTangNano20Kへの書き込みなどを行っていきます。（[bare metal編に続く](/2024/07/tangnanodcj11mem-pdp-11-cpu-2-bare-metal.html)）

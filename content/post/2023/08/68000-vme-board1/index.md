@@ -42,10 +42,10 @@ image: images/DVME_CPU2_board1.jpg
 
 このスペックで心当たりがあるのは以前オークションで入手したMIC68KというSBCです。
 
-- [MIC68Kワンボードコンピュータで遊んでみた（１）調査編](https://kanpapa.com/2017/10/mic68k-Investigation.html "MIC68Kワンボードコンピュータで遊んでみた（１）調査編")
-- [MIC68Kワンボードコンピュータで遊んでみた（２）解析編](https://kanpapa.com/2017/10/mic68k-schematic.html "MIC68Kワンボードコンピュータで遊んでみた（２）解析編")
-- [MIC68Kワンボードコンピュータで遊んでみた（３）Hello World編](https://kanpapa.com/2017/10/mic68k-helloworld.html "MIC68Kワンボードコンピュータで遊んでみた（３）Hello World編")
-- [MIC68Kワンボードコンピュータで遊んでみた（４）モニタ実装編](https://kanpapa.com/2017/10/mic68k-monitor.html "MIC68Kワンボードコンピュータで遊んでみた（４）モニタ実装編")
+- [MIC68Kワンボードコンピュータで遊んでみた（１）調査編](/2017/10/mic68k-investigation.html)
+- [MIC68Kワンボードコンピュータで遊んでみた（２）解析編](/2017/10/mic68k-schematic.html)
+- [MIC68Kワンボードコンピュータで遊んでみた（３）Hello World編](/2017/10/mic68k-helloworld.html)
+- [MIC68Kワンボードコンピュータで遊んでみた（４）モニタ実装編](/2017/10/mic68k-monitor.html)
 
 ほぼ似たような構成ですので、このときのノウハウが使えそうです。
 
@@ -59,4 +59,4 @@ image: images/DVME_CPU2_board1.jpg
 
 電源はVMEバスから供給されますので、まずはこのコネクタを手配することにします。合わせて、VMEバスについて解説している記事を探してみたいと思います。
 
-次回、[VMEバス基板設計編](https://kanpapa.com/2023/08/68000-vme-board2.html "68000 VMEボードで遊んでみました（２）VMEバス基板設計編")に続きます。
+次回、[VMEバス基板設計編](/2023/08/68000-vme-board2.html)に続きます。
