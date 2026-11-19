@@ -31,6 +31,10 @@ jobs:
         with:
           hugo-version: 'latest'
           extended: true # SASS/SCSSを使う場合は必要
+      
+      # 2.1. Dart Sassのセットアップ
+      - name: Install Dart Sass
+        run: sudo snap install dart-sass
 
       # 3. ビルド実行
       - name: Build Site
